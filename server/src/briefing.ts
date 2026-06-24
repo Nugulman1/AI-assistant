@@ -8,6 +8,7 @@ import { collectAll } from './sources/index.js';
 import { dedupAndMerge } from './pipeline/dedup.js';
 import { normalizeTopicality } from './pipeline/normalize.js';
 import { rank, type Rankable } from './pipeline/rank.js';
+import { computeGenreWeights } from './pipeline/interest.js';
 import { classifyGenres } from './ai/genre.js';
 import { summarizeMustRead, summarizeMore } from './ai/summarize.js';
 
@@ -80,7 +81,9 @@ export async function generateBriefing(): Promise<GenerateResult> {
     genre: genres.get(i) ?? '기타',
     publishedAt: p.publishedAt ?? null,
   }));
-  const ranked = rank(rankable, cfg.more_count);
+  // 행동 신호 → 장르 취향 가중치. 콜드스타트(신호 0)면 alpha=0 으로 기존 화제도 정렬과 동일.
+  const { weights, totalSignal } = computeGenreWeights(db);
+  const ranked = rank(rankable, cfg.more_count, { genreWeights: weights, totalSignal });
   const shown = [...ranked.mustRead, ...ranked.more];
   console.log(
     `[briefing] 랭킹 — 필독 ${ranked.mustRead.length} / 더보기 ${ranked.more.length}`,
@@ -196,11 +199,16 @@ export function getBriefingView(briefingId?: number) {
   const mustIds: number[] = JSON.parse(briefing.must_read_json);
   const moreIds: number[] = JSON.parse(briefing.more_json);
   const getItem = db.prepare(
-    `SELECT items.*, sources.name AS source_name
-       FROM items LEFT JOIN sources ON sources.id = items.source_id
+    `SELECT items.*, sources.name AS source_name, feedback.kind AS feedback_kind
+       FROM items
+       LEFT JOIN sources ON sources.id = items.source_id
+       LEFT JOIN feedback ON feedback.item_id = items.id
       WHERE items.id = ?`,
   );
-  type LoadedItem = ItemRow & { source_name: string | null };
+  type LoadedItem = ItemRow & {
+    source_name: string | null;
+    feedback_kind: 'like' | 'dislike' | null;
+  };
   const load = (id: number) => getItem.get(id) as LoadedItem | undefined;
 
   const mustRead = mustIds
@@ -224,6 +232,7 @@ export function getBriefingView(briefingId?: number) {
         source: it.source_name,
         score: it.score,
         comments: it.comments,
+        feedback: it.feedback_kind,
         headline,
         body,
       };
@@ -240,6 +249,7 @@ export function getBriefingView(briefingId?: number) {
       source: it.source_name,
       score: it.score,
       comments: it.comments,
+      feedback: it.feedback_kind,
       line: it.summary ?? it.title,
     }));
 

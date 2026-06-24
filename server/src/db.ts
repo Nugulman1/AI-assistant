@@ -86,6 +86,18 @@ CREATE TABLE IF NOT EXISTS interests (
   genre   TEXT PRIMARY KEY,
   weight  REAL NOT NULL DEFAULT 0
 );
+
+-- 좋아요/관심없음 주신호. 아이템당 1행(토글·갱신은 UPSERT/DELETE). reason 은 v1 저장만(학습 미사용).
+CREATE TABLE IF NOT EXISTS feedback (
+  id         INTEGER PRIMARY KEY AUTOINCREMENT,
+  item_id    INTEGER NOT NULL REFERENCES items(id),
+  genre      TEXT,                                       -- 기록 시점 item.genre 스냅샷
+  kind       TEXT NOT NULL CHECK (kind IN ('like','dislike')),
+  reason     TEXT,                                       -- nullable raw text
+  created_at INTEGER NOT NULL
+);
+CREATE UNIQUE INDEX IF NOT EXISTS idx_feedback_item_unique ON feedback(item_id);
+CREATE INDEX IF NOT EXISTS idx_feedback_genre ON feedback(genre);
 `;
 
 /** v1 기본 소스 — BUILD.md 게이트의 기본값. PWA 설정에서 수정 가능. */
@@ -173,6 +185,15 @@ export interface ItemRow {
   summary: string | null;
   summary_type: string | null;
   briefing_id: number | null;
+}
+
+export interface FeedbackRow {
+  id: number;
+  item_id: number;
+  genre: string | null;
+  kind: 'like' | 'dislike';
+  reason: string | null;
+  created_at: number;
 }
 
 export const getConfig = (): ConfigRow =>

@@ -204,3 +204,52 @@ label {
 .bar.corpus {
   background: #39415c;
 }
+
+/* 좋아요/관심없음 피드백 */
+.fb-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+.more-wrap {
+  border-bottom: 1px solid var(--border);
+}
+.more-wrap .more-item {
+  border-bottom: none;
+}
+.more-wrap .fb-actions {
+  margin: 0 0 10px;
+}
+.fb-btn {
+  background: var(--card2);
+  border: 1px solid var(--border);
+  color: var(--muted);
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 13px;
+  cursor: pointer;
+  width: auto;
+}
+.fb-actions.sm .fb-btn {
+  padding: 4px 9px;
+  font-size: 13px;
+}
+.fb-btn:hover {
+  color: var(--text);
+}
+.fb-btn.active {
+  border-color: var(--accent);
+  color: var(--text);
+  background: rgba(99, 102, 241, 0.16);
+}
+.fb-btn.dislike.active {
+  border-color: #f87171;
+  background: rgba(248, 113, 113, 0.14);
+}
+.fb-btn.ghost {
+  border-style: dashed;
+}
+.fb-reason {
+  margin-top: 8px;
+  font-size: 14px;
+}

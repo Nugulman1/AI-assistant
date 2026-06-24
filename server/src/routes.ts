@@ -68,6 +68,38 @@ export function buildApp() {
     return c.json({ ok: true });
   });
 
+  // 좋아요/관심없음 기록 (주신호). 같은 버튼 재클릭(이유 없이)=토글 오프, 그 외=UPSERT.
+  api.post('/feedback', async (c) => {
+    const { itemId, kind, reason } = await c.req.json<{
+      itemId?: number;
+      kind?: 'like' | 'dislike';
+      reason?: string;
+    }>();
+    if (!itemId || (kind !== 'like' && kind !== 'dislike'))
+      return c.json({ error: 'itemId/kind 필요' }, 400);
+    const db = getDb();
+    const item = db.prepare('SELECT genre FROM items WHERE id = ?').get(itemId) as
+      | { genre: string | null }
+      | undefined;
+    if (!item) return c.json({ error: '아이템 없음' }, 404);
+
+    const cur = db.prepare('SELECT kind FROM feedback WHERE item_id = ?').get(itemId) as
+      | { kind: 'like' | 'dislike' }
+      | undefined;
+    // 같은 버튼을 이유 없이 다시 누르면 취소(토글 오프)
+    if (cur?.kind === kind && (reason == null || reason === '')) {
+      db.prepare('DELETE FROM feedback WHERE item_id = ?').run(itemId);
+      return c.json({ ok: true, state: null });
+    }
+    db.prepare(
+      `INSERT INTO feedback (item_id, genre, kind, reason, created_at)
+       VALUES (?, ?, ?, ?, ?)
+       ON CONFLICT(item_id) DO UPDATE SET
+         kind = excluded.kind, reason = excluded.reason, created_at = excluded.created_at`,
+    ).run(itemId, item.genre, kind, reason ?? null, Date.now());
+    return c.json({ ok: true, state: kind });
+  });
+
   // 대시보드: 장르별 클릭 vs 코퍼스 분포
   api.get('/dashboard', (c) => {
     const db = getDb();

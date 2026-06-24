@@ -24,6 +24,8 @@ export const api = {
   briefingById: (id) => req(`/api/briefing/${id}`),
   briefings: () => req('/api/briefings'),
   read: (itemId) => req('/api/read', { method: 'POST', body: JSON.stringify({ itemId }) }),
+  feedback: (itemId, kind, reason) =>
+    req('/api/feedback', { method: 'POST', body: JSON.stringify({ itemId, kind, reason }) }),
   dashboard: () => req('/api/dashboard'),
   getConfig: () => req('/api/config'),
   setConfig: (cfg) => req('/api/config', { method: 'PUT', body: JSON.stringify(cfg) }),
