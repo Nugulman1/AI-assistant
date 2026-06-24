@@ -1,7 +1,9 @@
 import { get } from 'svelte/store';
 import { token } from './store.js';
 
-const BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8787';
+// 배포(합친 서비스): VITE_API_BASE='' 로 빌드 → same-origin 상대경로(/api/...).
+// dev: 미설정 → localhost:8787. '' 가 falsy로 떨어지지 않게 ?? (nullish) 사용.
+const BASE = import.meta.env.VITE_API_BASE ?? 'http://localhost:8787';
 
 async function req(path, opts = {}) {
   const t = get(token);

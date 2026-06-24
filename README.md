@@ -126,9 +126,9 @@ arXiv cs.AI, arXiv cs.SE. 설정 화면에서 추가/삭제/켜고끄기 가능.
 
 ---
 
-## 배포 (별도 — 나중에)
-Fly.io 상시 백엔드 + SQLite 볼륨 + secrets 등록, HTTPS 도메인, 실기기 푸시 권한.
-(로컬 구동분과 분리된 후속 단계.)
+## 배포 (코드 준비됨 — 실행은 나중)
+Railway 단일 서비스: server가 web 정적 빌드(`web/build`)까지 서빙해 same-origin.
+영속 볼륨(`DB_PATH`)에 SQLite, 환경변수 등록, HTTPS 자동. web 빌드 시 `VITE_API_BASE=''`로 상대경로.
 
 ## 다음 (데이터 쌓인 뒤)
 좋아요/관심없음 → 장르 취향 가중치 → 랭킹 합성은 **v1에서 구현**. 남은 것:

@@ -1,5 +1,8 @@
 import { Hono } from 'hono';
 import { cors } from 'hono/cors';
+import { serveStatic } from '@hono/node-server/serve-static';
+import { existsSync } from 'node:fs';
+import path from 'node:path';
 import { getDb, type ItemRow } from './db.js';
 import { env } from './env.js';
 import { login, requireAuth } from './auth.js';
@@ -196,6 +199,17 @@ export function buildApp() {
   });
 
   app.route('/api', api);
+
+  // ── web 정적 서빙 (합친 서비스) ──
+  // serveStatic은 절대경로 미지원·CWD 기준 상대경로만 받으므로 cwd 기준으로 변환.
+  // web/build 가 있을 때만(=빌드된 배포 환경) 등록 — dev에선 vite가 web을 따로 서빙.
+  if (existsSync(env.webDist)) {
+    const rel = path.relative(process.cwd(), env.webDist) || '.';
+    app.use('/*', serveStatic({ root: rel }));
+    // SPA fallback: API 외 라우트(새로고침 등)는 index.html 로
+    app.get('*', serveStatic({ path: path.join(rel, 'index.html') }));
+  }
+
   return app;
 }
 

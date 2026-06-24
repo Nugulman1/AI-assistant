@@ -12,6 +12,8 @@ export const env = {
   dbPath: process.env.DB_PATH
     ? path.resolve(process.env.DB_PATH)
     : path.join(repoRoot, 'data/briefing.sqlite'),
+  // web 정적 빌드 산출물(합친 서비스에서 server가 서빙). 소스 위치 기준 절대경로 — CWD 무관.
+  webDist: path.join(repoRoot, 'web/build'),
   webOrigin: process.env.WEB_ORIGIN ?? 'http://localhost:5173',
   tz: process.env.TZ ?? 'Asia/Seoul',
 
