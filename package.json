@@ -1,0 +1,22 @@
+{
+  "name": "dev-news-briefing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "개발자 뉴스/최신정보를 관심사+화제도로 골라 매일 새벽에 보내주는 브리핑 수집기 (v1)",
+  "workspaces": [
+    "server",
+    "web"
+  ],
+  "scripts": {
+    "dev": "concurrently -n server,web -c blue,green \"npm:dev:server\" \"npm:dev:web\"",
+    "dev:server": "npm -w server run dev",
+    "dev:web": "npm -w web run dev",
+    "build": "npm -w web run build",
+    "start": "npm -w server run start",
+    "vapid": "npm -w server run vapid",
+    "run:once": "npm -w server run run:once"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.0"
+  }
+}
