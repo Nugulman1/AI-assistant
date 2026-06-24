@@ -57,7 +57,6 @@ export async function classifyGenres(
       model: MODEL_GENRE,
       max_tokens: 4096,
       system: SYSTEM,
-      // @ts-expect-error output_config 는 최신 API 파라미터 (런타임 tsx 는 타입체크 안 함)
       output_config: { format: { type: 'json_schema', schema: SCHEMA } },
       messages: [
         {

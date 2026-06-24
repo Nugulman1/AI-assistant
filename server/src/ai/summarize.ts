@@ -81,7 +81,6 @@ export async function summarizeMustRead(
       system:
         '개발자에게 보내는 한국어 뉴스 브리핑 편집자다. 각 기사에 자연스러운 한국어 헤드라인 한 줄과, ' +
         '왜 주목할 만한지 2~3문장 문단 요약을 쓴다. 과장·낚시 금지, 사실 위주. 제목만 보고 모르면 일반적 맥락으로.',
-      // @ts-expect-error output_config 최신 파라미터
       output_config: { format: { type: 'json_schema', schema: MUST_SCHEMA } },
       messages: [
         { role: 'user', content: `다음 기사들을 요약하라.\n\n${buildList(items)}` },
@@ -117,7 +116,6 @@ export async function summarizeMore(items: SummarizeInput[]): Promise<MoreLine[]
       max_tokens: 2048,
       system:
         '개발자 한국어 뉴스 브리핑 편집자다. 각 기사를 한 줄(40자 내외)로 압축한다. 사실 위주, 군더더기 없이.',
-      // @ts-expect-error output_config 최신 파라미터
       output_config: { format: { type: 'json_schema', schema: MORE_SCHEMA } },
       messages: [
         { role: 'user', content: `다음 기사들을 각각 한 줄로.\n\n${buildList(items)}` },
