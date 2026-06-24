@@ -73,7 +73,10 @@
   {#each briefing.mustRead as item}
     <div class="card" on:click={() => open(item)} role="link" tabindex="0"
       on:keydown={(e) => e.key === 'Enter' && open(item)} style="cursor:pointer">
-      {#if item.genre}<span class="genre">{item.genre}</span>{/if}
+      <div class="tags">
+        {#if item.source}<span class="src-tag">{item.source}</span>{/if}
+        {#if item.genre}<span class="genre">{item.genre}</span>{/if}
+      </div>
       <div class="headline">{item.headline}</div>
       {#if item.body}<div class="body">{item.body}</div>{/if}
       <div class="meta">
@@ -86,6 +89,7 @@
   {#each briefing.more as item}
     <div class="more-item" on:click={() => open(item)} role="link" tabindex="0"
       on:keydown={(e) => e.key === 'Enter' && open(item)} style="cursor:pointer">
+      {#if item.source}<span class="src-tag">{item.source}</span>{/if}
       {#if item.genre}<span class="tag">{item.genre}</span>{/if}
       <span class="line">{item.line}</span>
       <span class="src">▲{item.score}</span>

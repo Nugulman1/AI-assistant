@@ -195,12 +195,17 @@ export function getBriefingView(briefingId?: number) {
 
   const mustIds: number[] = JSON.parse(briefing.must_read_json);
   const moreIds: number[] = JSON.parse(briefing.more_json);
-  const getItem = db.prepare('SELECT * FROM items WHERE id = ?');
-  const load = (id: number) => getItem.get(id) as ItemRow | undefined;
+  const getItem = db.prepare(
+    `SELECT items.*, sources.name AS source_name
+       FROM items LEFT JOIN sources ON sources.id = items.source_id
+      WHERE items.id = ?`,
+  );
+  type LoadedItem = ItemRow & { source_name: string | null };
+  const load = (id: number) => getItem.get(id) as LoadedItem | undefined;
 
   const mustRead = mustIds
     .map(load)
-    .filter((x): x is ItemRow => !!x)
+    .filter((x): x is LoadedItem => !!x)
     .map((it) => {
       let headline = it.title;
       let body = '';
@@ -216,6 +221,7 @@ export function getBriefingView(briefingId?: number) {
         title: it.title,
         url: it.url,
         genre: it.genre,
+        source: it.source_name,
         score: it.score,
         comments: it.comments,
         headline,
@@ -225,12 +231,13 @@ export function getBriefingView(briefingId?: number) {
 
   const more = moreIds
     .map(load)
-    .filter((x): x is ItemRow => !!x)
+    .filter((x): x is LoadedItem => !!x)
     .map((it) => ({
       id: it.id,
       title: it.title,
       url: it.url,
       genre: it.genre,
+      source: it.source_name,
       score: it.score,
       comments: it.comments,
       line: it.summary ?? it.title,
