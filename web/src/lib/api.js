@@ -31,7 +31,6 @@ export const api = {
   addSource: (s) => req('/api/sources', { method: 'POST', body: JSON.stringify(s) }),
   updateSource: (id, s) => req(`/api/sources/${id}`, { method: 'PUT', body: JSON.stringify(s) }),
   deleteSource: (id) => req(`/api/sources/${id}`, { method: 'DELETE' }),
-  run: () => req('/api/run', { method: 'POST' }),
   pushKey: () => req('/api/push/key'),
   subscribe: (sub) => req('/api/push/subscribe', { method: 'POST', body: JSON.stringify(sub) }),
 };

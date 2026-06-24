@@ -3,7 +3,7 @@ import { cors } from 'hono/cors';
 import { getDb, type ItemRow } from './db.js';
 import { env } from './env.js';
 import { login, requireAuth } from './auth.js';
-import { getBriefingView, generateBriefing } from './briefing.js';
+import { getBriefingView } from './briefing.js';
 import { saveSubscription, type PushSub } from './push.js';
 import { scheduleJobs } from './scheduler.js';
 
@@ -161,12 +161,6 @@ export function buildApp() {
     if (!sub?.endpoint) return c.json({ error: '구독 정보 무효' }, 400);
     saveSubscription(sub);
     return c.json({ ok: true });
-  });
-
-  // 수동 실행 (지금 브리핑 생성) — 검증·즉시 확인용
-  api.post('/run', async (c) => {
-    const result = await generateBriefing();
-    return c.json(result);
   });
 
   app.route('/api', api);

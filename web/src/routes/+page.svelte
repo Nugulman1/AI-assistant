@@ -5,8 +5,6 @@
   let briefing = null;
   let loading = true;
   let error = '';
-  let running = false;
-  let notice = '';
 
   async function load() {
     loading = true;
@@ -31,24 +29,6 @@
     window.open(item.url, '_blank', 'noopener');
   }
 
-  async function runNow() {
-    running = true;
-    error = '';
-    notice = '';
-    try {
-      const res = await api.run();
-      if (res && res.created === false) {
-        notice = '새로 추가할 글이 없어 기존 브리핑을 유지합니다.';
-      } else {
-        await load();
-      }
-    } catch (e) {
-      error = e.message;
-    } finally {
-      running = false;
-    }
-  }
-
   onMount(load);
 </script>
 
@@ -58,10 +38,7 @@
   <p style="color:#f87171;margin-top:32px">{error}</p>
 {:else if !briefing}
   <h1>아직 브리핑이 없습니다</h1>
-  <p class="muted">지금 한 건 생성해볼 수 있습니다. (소스 수집 → AI 분류·요약, 수십 초)</p>
-  <button class="primary" on:click={runNow} disabled={running} style="margin-top:16px">
-    {running ? '생성 중…' : '지금 브리핑 생성'}
-  </button>
+  <p class="muted">브리핑은 매일 설정한 도착 시각(기본 새벽 5시)에 자동으로 도착합니다.</p>
 {:else}
   <h1>오늘의 개발 브리핑</h1>
   <p class="muted">{briefing.arrivalDate}</p>
@@ -95,11 +72,4 @@
       <span class="src">▲{item.score}</span>
     </div>
   {/each}
-
-  <p style="margin-top:24px">
-    <button class="primary" on:click={runNow} disabled={running}>
-      {running ? '생성 중…' : '새로 생성'}
-    </button>
-    {#if notice}<span class="muted" style="margin-left:12px">{notice}</span>{/if}
-  </p>
 {/if}
