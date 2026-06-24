@@ -61,8 +61,9 @@ export function buildApp() {
       | { genre: string | null }
       | undefined;
     if (!item) return c.json({ error: '아이템 없음' }, 404);
+    // 아이템당 1건만 — 같은 글 재클릭은 무시(대시보드 신호 부풀림 방지)
     db.prepare(
-      'INSERT INTO read_events (item_id, genre, clicked_at) VALUES (?, ?, ?)',
+      'INSERT OR IGNORE INTO read_events (item_id, genre, clicked_at) VALUES (?, ?, ?)',
     ).run(itemId, item.genre, Date.now());
     return c.json({ ok: true });
   });

@@ -108,6 +108,14 @@ export function getDb(): Database.Database {
   db.pragma('journal_mode = WAL');
   db.exec(SCHEMA);
 
+  // 마이그레이션: read_events 를 아이템당 1건으로. 같은 글을 다시 클릭해도
+  // 대시보드 장르 신호가 부풀지 않게(=진짜 관심사 왜곡 방지). 기존 중복은 첫 클릭만 남기고 정리.
+  db.exec(`
+    DELETE FROM read_events
+     WHERE id NOT IN (SELECT MIN(id) FROM read_events GROUP BY item_id);
+    CREATE UNIQUE INDEX IF NOT EXISTS idx_read_item_unique ON read_events(item_id);
+  `);
+
   // 기본 config 시드 (1행)
   const cfgCount = db.prepare('SELECT COUNT(*) AS n FROM config').get() as { n: number };
   if (cfgCount.n === 0) {
