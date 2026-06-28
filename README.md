@@ -11,15 +11,16 @@
 ## 구조 한눈에
 
 ```
-수집(RSS·HN·Reddit) → [코드] 중복병합·오래된것 컷 → 화제도 z-정규화
+수집(RSS·HN·Reddit) → [코드] 중복병합·48h 컷 → 화제도 z-정규화
    → Haiku 8장르 분류 → 랭킹(필독3 다양성가드 / 더보기 전장르+탐색주입)
-   → Sonnet 요약 → SQLite 저장 → PWA 표시 + 도착시각 푸시
+   → 첫 묶음만 요약(본문 있으면 Haiku·없으면 Sonnet) → SQLite 저장 + 나머지 후보 풀 보관
+   → PWA 표시 + 도착시각 푸시 / '갱신'=풀의 다음 N건 그때 요약해 추가(lazy)
 ```
 
 - **server/** — Hono REST API + SQLite + 수집·파이프라인·AI·스케줄러·web-push
 - **web/** — SvelteKit PWA (로그인 → 브리핑 → 대시보드 → 설정, 설치형, 푸시)
 
-도착 시각(기본 05:00) 기준으로 **그 N분 전(기본 15분)에 수집·AI를 끝내고, 정각에 푸시** →
+도착 시각(기본 05:00) 기준으로 **그 N분 전(기본 30분 → 04:30)에 수집·AI를 끝내고, 정각에 푸시** →
 5시에 *완성된 보고서가 도착*(수집 시점이 아님).
 
 ---
@@ -79,8 +80,10 @@ npm run run:once       # 수집→AI→저장 후 결과 JSON 출력
 ## 주요 동작
 
 - **선별 파이프라인(콜드스타트):** 이미 본 글(`seen`) 제외, 교차소스 중복 병합(중복=화제도 강신호),
-  오래된 글 컷, 소스별 z-점수로 화제도 정규화.
-- **AI 계층:** Haiku 4.5로 전 기사를 8장르 분류, Sonnet 4.6으로 상위 ~10건 요약
+  **48h 단일 수집창**(평가 지연 흡수 — 갓 올라온 글도 다음 창에서 구제), 소스별 z-점수로 화제도 정규화.
+- **갱신(더보기 풀):** 수집 때 첫 묶음(필독3+더보기7) 외 나머지 후보를 `candidate_pool`에 보관하고,
+  '갱신' 버튼으로 다음 N건을 **그때 요약(lazy)**해 한줄로 추가. 다음 수집이 풀을 통째 교체.
+- **AI 계층:** Haiku 4.5로 전 기사를 8장르 분류, 상위 ~10건 요약(본문 있으면 Haiku 4.5·없으면 Sonnet 4.6)
   (필독 3 = 문단, 더보기 N = 한줄).
 - **랭킹:** 필독 3 = 화제도 + 다양성 가드(같은 장르 페널티). 더보기 = 전 장르 고루 샘플 +
   저화제 논문·블로그 **탐색 주입**(학습용).
@@ -113,6 +116,7 @@ arXiv cs.AI, arXiv cs.SE. 설정 화면에서 추가/삭제/켜고끄기 가능.
 |---|---|---|
 | POST | `/api/login` | 패스코드 → JWT |
 | GET | `/api/briefing` | 최신 브리핑 |
+| POST | `/api/briefing/:id/more` | 갱신 — 풀의 다음 N건 lazy 요약·추가 |
 | GET | `/api/briefings` | 브리핑 목록 |
 | POST | `/api/read` | 원문열기 기록(보조신호) |
 | POST | `/api/feedback` | 좋아요/관심없음(+이유) 기록·토글(주신호) |
@@ -126,9 +130,14 @@ arXiv cs.AI, arXiv cs.SE. 설정 화면에서 추가/삭제/켜고끄기 가능.
 
 ---
 
-## 배포 (코드 준비됨 — 실행은 나중)
-Railway 단일 서비스: server가 web 정적 빌드(`web/build`)까지 서빙해 same-origin.
-영속 볼륨(`DB_PATH`)에 SQLite, 환경변수 등록, HTTPS 자동. web 빌드 시 `VITE_API_BASE=''`로 상대경로.
+## 배포 (Railway 단일 서비스)
+server가 web 정적 빌드(`web/build`)까지 서빙해 same-origin. 설정 파일은 레포에 포함:
+- `railway.toml` — `buildCommand="VITE_API_BASE= npm run build"`, `startCommand="npm run start"`.
+- `.nvmrc`(22) — `better-sqlite3` prebuild 호환 위해 node 고정.
+
+대시보드 설정: 영속 볼륨 마운트 `/data` + `DB_PATH=/data/briefing.sqlite`(재배포에도 DB 유지),
+환경변수(`ANTHROPIC_API_KEY`·`APP_PASSCODE`·`JWT_SECRET`·`VAPID_*`·`TZ=Asia/Seoul`) 등록.
+devDeps 가지치기 방지로 `NPM_CONFIG_PRODUCTION=false`. 배포 직후 데이터는 shell `npm run run:once` 1회.
 
 ## 다음 (데이터 쌓인 뒤)
 좋아요/관심없음 → 장르 취향 가중치 → 랭킹 합성은 **v1에서 구현**. 남은 것:

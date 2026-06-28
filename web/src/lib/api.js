@@ -24,6 +24,7 @@ export const api = {
   login: (passcode) => req('/api/login', { method: 'POST', body: JSON.stringify({ passcode }) }),
   briefing: () => req('/api/briefing'),
   briefingById: (id) => req(`/api/briefing/${id}`),
+  moreNext: (id, n) => req(`/api/briefing/${id}/more`, { method: 'POST', body: JSON.stringify({ n }) }),
   briefings: () => req('/api/briefings'),
   read: (itemId) => req('/api/read', { method: 'POST', body: JSON.stringify({ itemId }) }),
   feedback: (itemId, kind, reason) =>

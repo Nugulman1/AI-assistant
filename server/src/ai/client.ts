@@ -2,7 +2,8 @@ import Anthropic from '@anthropic-ai/sdk';
 import { env, hasAI } from '../env.js';
 
 export const MODEL_GENRE = 'claude-haiku-4-5'; // 장르 분류 (싸고 빠름)
-export const MODEL_SUMMARY = 'claude-sonnet-4-6'; // 요약 (품질)
+export const MODEL_SUMMARY = 'claude-sonnet-4-6'; // 제목 기반 요약 (품질)
+export const MODEL_SUMMARY_LIGHT = 'claude-haiku-4-5'; // 본문 있는 글 요약 (싸고 빠름)
 
 let _client: Anthropic | null = null;
 

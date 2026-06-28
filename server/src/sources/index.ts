@@ -14,6 +14,8 @@ export interface Candidate {
   score: number; // HN/Reddit 점수, RSS 는 0
   comments: number;
   publishedAt?: number; // epoch ms
+  body?: string; // 본문/초록 발췌 (있으면 요약을 제목 아닌 본문 기반으로)
+  externalUrl?: string; // 표시 url 과 별개인 원문 주소(HN 토론링크의 외부 원문 등). 본문 크롤링용.
 }
 
 /** 소스 한 개에서 후보들을 수집. 실패해도 빈 배열로 격리(한 소스 죽어도 전체 안 죽게). */

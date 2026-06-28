@@ -20,7 +20,7 @@ const SCHEMA = `
 CREATE TABLE IF NOT EXISTS config (
   id          INTEGER PRIMARY KEY CHECK (id = 1),
   arrival_time TEXT NOT NULL DEFAULT '05:00',   -- 완성품 도착 시각 HH:MM
-  lead_minutes INTEGER NOT NULL DEFAULT 15,     -- 도착 N분 전에 수집·AI 시작
+  lead_minutes INTEGER NOT NULL DEFAULT 30,     -- 도착 N분 전에 수집·AI 시작 (05:00 도착 → 04:30 수집)
   more_count   INTEGER NOT NULL DEFAULT 7,      -- '더보기' 한줄 개수
   timezone     TEXT NOT NULL DEFAULT 'Asia/Seoul'
 );
@@ -98,13 +98,37 @@ CREATE TABLE IF NOT EXISTS feedback (
 );
 CREATE UNIQUE INDEX IF NOT EXISTS idx_feedback_item_unique ON feedback(item_id);
 CREATE INDEX IF NOT EXISTS idx_feedback_genre ON feedback(genre);
+
+-- 더보기 후보 대기열(휘발성 풀): 수집 시 첫 묶음(필독3+더보기7) 외 나머지 후보 전체를 보관.
+-- '갱신'(loadMore) 때만 다음 N건을 그때 요약해 items 로 승격(shown=1). 다음 수집이 통째 교체.
+-- items/feedback/대시보드 통계가 '안 본 후보'로 오염되지 않게 별 테이블로 격리.
+CREATE TABLE IF NOT EXISTS candidate_pool (
+  id           INTEGER PRIMARY KEY AUTOINCREMENT,
+  collected_at INTEGER NOT NULL,
+  rank         INTEGER NOT NULL,              -- 더보기 순위(작을수록 먼저)
+  source_id    INTEGER NOT NULL,
+  external_id  TEXT,
+  title        TEXT NOT NULL,
+  url          TEXT NOT NULL,
+  author       TEXT,
+  score        INTEGER,
+  comments     INTEGER,
+  published_at INTEGER,
+  topicality   REAL,
+  genre        TEXT,
+  body         TEXT,
+  external_url TEXT,
+  url_hash     TEXT NOT NULL,
+  shown        INTEGER NOT NULL DEFAULT 0,
+  item_id      INTEGER
+);
+CREATE INDEX IF NOT EXISTS idx_pool_rank ON candidate_pool(shown, rank);
 `;
 
 /** v1 기본 소스 — BUILD.md 게이트의 기본값. PWA 설정에서 수정 가능. */
 const DEFAULT_SOURCES: { type: string; name: string; url: string }[] = [
   { type: 'hackernews', name: 'Hacker News', url: 'top' },
-  { type: 'reddit', name: 'r/programming', url: 'programming' },
-  { type: 'reddit', name: 'r/MachineLearning', url: 'MachineLearning' },
+  // Reddit 은 무인증 .json/HTML 접근을 엣지에서 403 차단(2023 API 정책) — 비활성. OAuth API 전환 전까지 제외.
   { type: 'rss', name: 'Rust 블로그', url: 'https://blog.rust-lang.org/feed.xml' },
   { type: 'rss', name: 'Go 블로그', url: 'https://go.dev/blog/feed.atom' },
   { type: 'rss', name: 'arXiv cs.AI', url: 'https://rss.arxiv.org/rss/cs.AI' },
@@ -133,8 +157,12 @@ export function getDb(): Database.Database {
   if (cfgCount.n === 0) {
     db.prepare(
       `INSERT INTO config (id, arrival_time, lead_minutes, more_count, timezone)
-       VALUES (1, '05:00', 15, 7, ?)`,
+       VALUES (1, '05:00', 30, 7, ?)`,
     ).run(env.tz);
+  } else {
+    // 마이그레이션: 옛 기본값(lead 15분)인 기존 행을 4:30 수집(lead 30)으로 1회 갱신.
+    // 이미 30이거나 사용자가 따로 바꾼 값(≠15)은 건드리지 않는다.
+    db.prepare('UPDATE config SET lead_minutes = 30 WHERE id = 1 AND lead_minutes = 15').run();
   }
 
   // 기본 소스 시드 (비어 있을 때만)

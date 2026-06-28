@@ -6,7 +6,7 @@ import path from 'node:path';
 import { getDb, type ItemRow } from './db.js';
 import { env } from './env.js';
 import { login, requireAuth } from './auth.js';
-import { getBriefingView } from './briefing.js';
+import { getBriefingView, loadMore } from './briefing.js';
 import { saveSubscription, type PushSub } from './push.js';
 import { scheduleJobs } from './scheduler.js';
 
@@ -45,6 +45,18 @@ export function buildApp() {
     const view = getBriefingView(Number(c.req.param('id')));
     if (!view) return c.json({ error: '없음' }, 404);
     return c.json({ briefing: view });
+  });
+
+  // 갱신: 풀에서 다음 n건을 lazy 요약해 더보기에 추가
+  api.post('/briefing/:id/more', async (c) => {
+    const id = Number(c.req.param('id'));
+    const body = await c.req.json<{ n?: number }>().catch(() => ({}) as { n?: number });
+    const cfg = getDb().prepare('SELECT more_count FROM config WHERE id = 1').get() as {
+      more_count: number;
+    };
+    const n = body.n && body.n > 0 ? body.n : cfg.more_count;
+    const result = await loadMore(id, n);
+    return c.json(result);
   });
 
   // 브리핑 목록

@@ -42,7 +42,7 @@ const DAY = 24 * 60 * 60 * 1000;
 export function dedupAndMerge(
   cands: Candidate[],
   db: Database.Database,
-  maxAgeDays = 3,
+  maxAgeDays = 2, // 48h 단일 수집창 (평가 지연 흡수). 24h 명시 컷은 두지 않음 — 신선도=랭킹이 보장.
 ): WorkItem[] {
   const seenStmt = db.prepare('SELECT 1 FROM seen WHERE url_hash = ?');
   const now = Date.now();
@@ -51,7 +51,9 @@ export function dedupAndMerge(
   const byKey = new Map<string, WorkItem>();
   for (const c of cands) {
     if (!c.url) continue;
-    if (c.publishedAt && c.publishedAt < cutoff) continue;
+    // 발행시각 없거나(undefined) NaN 이면 제외 — '어제 하루치' 개념에 맞춰 시각 불명 글은 컷.
+    const ts = c.publishedAt;
+    if (ts == null || Number.isNaN(ts) || ts < cutoff) continue;
 
     const urlNorm = normalizeUrl(c.url);
     const urlHash = hash(urlNorm);
@@ -64,6 +66,8 @@ export function dedupAndMerge(
 
     if (existing) {
       existing.dupCount += 1;
+      // 본문은 점수와 무관하게 있는 쪽을 보존(대표가 본문 없는 후보여도 요약이 본문 기반을 타게).
+      if (!existing.body && c.body) existing.body = c.body;
       // 더 화제된 쪽(점수+댓글)을 대표로 승격
       if (c.score + c.comments > existing.score + existing.comments) {
         existing.title = c.title;

@@ -5,10 +5,13 @@
   let briefing = null;
   let loading = true;
   let error = '';
+  let moreLoading = false;
+  let exhausted = false;
 
   async function load() {
     loading = true;
     error = '';
+    exhausted = false;
     try {
       const { briefing: b } = await api.briefing();
       briefing = b;
@@ -16,6 +19,22 @@
       error = e.message;
     } finally {
       loading = false;
+    }
+  }
+
+  // 갱신 — 풀의 다음 글들을 그때 요약해 더보기 아래에 한줄로 추가. 소진 시 비활성.
+  async function loadMore() {
+    if (!briefing || moreLoading || exhausted) return;
+    moreLoading = true;
+    try {
+      const { items, exhausted: done } = await api.moreNext(briefing.id);
+      briefing.more = [...briefing.more, ...items];
+      briefing = briefing; // 반응성 트리거
+      if (done) exhausted = true;
+    } catch (e) {
+      error = e.message;
+    } finally {
+      moreLoading = false;
     }
   }
 
@@ -136,4 +155,11 @@
       {/if}
     </div>
   {/each}
+
+  <div style="margin:20px 0 8px;text-align:center">
+    <button class="fb-btn ghost" on:click={loadMore} disabled={moreLoading || exhausted}
+      style="padding:10px 20px">
+      {exhausted ? '더 없음' : moreLoading ? '불러오는 중…' : '↻ 갱신 — 다음 글 더 보기'}
+    </button>
+  </div>
 {/if}

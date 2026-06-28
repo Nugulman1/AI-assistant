@@ -1,0 +1,10 @@
+# Railway 단일 서비스 배포 (web 정적빌드 + server가 함께 서빙).
+# 빌드: web을 same-origin 상대경로(VITE_API_BASE=)로 빌드 → web/build/.
+# 실행: server(tsx)가 8787(Railway 주입 PORT) 에서 API + web/build 정적 서빙 + cron.
+[build]
+builder = "nixpacks"
+buildCommand = "VITE_API_BASE= npm run build"
+
+[deploy]
+startCommand = "npm run start"
+restartPolicyType = "on_failure"

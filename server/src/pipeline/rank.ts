@@ -33,7 +33,7 @@ const N_HALF = 10;
  * N=0 → alpha=0 → effective = topicality (콜드스타트는 기존 동작과 완전 동일).
  * weight∈[-1,1], alpha≤1.5 → 가중항∈[-1.5,1.5]: topicality(σ≈1)와 비등하게 경쟁(덮지 않음).
  */
-function makeEffective(opts: RankOptions): (r: Rankable) => number {
+export function makeEffective(opts: RankOptions): (r: Rankable) => number {
   const weights = opts.genreWeights;
   const n = opts.totalSignal ?? 0;
   const alpha = weights && n > 0 ? (ALPHA_MAX * n) / (n + N_HALF) : 0;

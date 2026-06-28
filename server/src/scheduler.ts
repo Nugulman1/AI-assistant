@@ -50,6 +50,16 @@ export function scheduleJobs(): void {
     async () => {
       const view = getBriefingView();
       if (!view) return;
+      // 이번 수집 사이클에 막 만든 브리핑일 때만 푸시(벽시계 날짜 대신 생성시각으로).
+      // 수집은 푸시보다 lead_minutes 전에 도니, 그 직전 생성분이 신선한 것.
+      // 날짜 비교는 자정을 가로지르는 도착시간에서 오발동하므로 쓰지 않는다.
+      const freshMs = (cfg.lead_minutes + 60) * 60_000; // lead + 60분 여유
+      if (Date.now() - view.createdAt > freshMs) {
+        console.log(
+          `[scheduler] 신선한 브리핑 없음 — 푸시 건너뜀 (최신: ${view.arrivalDate})`,
+        );
+        return;
+      }
       const top = view.mustRead[0];
       await sendPushToAll({
         title: `오늘의 개발 브리핑 (${view.arrivalDate})`,

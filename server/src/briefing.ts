@@ -5,9 +5,10 @@ import {
   type ItemRow,
 } from './db.js';
 import { collectAll } from './sources/index.js';
+import { fetchArticleText } from './sources/fulltext.js';
 import { dedupAndMerge } from './pipeline/dedup.js';
 import { normalizeTopicality } from './pipeline/normalize.js';
-import { rank, type Rankable } from './pipeline/rank.js';
+import { rank, makeEffective, type Rankable } from './pipeline/rank.js';
 import { computeGenreWeights } from './pipeline/interest.js';
 import { classifyGenres } from './ai/genre.js';
 import { summarizeMustRead, summarizeMore } from './ai/summarize.js';
@@ -93,6 +94,22 @@ export async function generateBriefing(): Promise<GenerateResult> {
     return empty();
   }
 
+  // 선정된 것 중 본문 없는 외부링크(주로 HN) → 원문 크롤링으로 본문 확보(Haiku 본문요약 경로).
+  let crawled = 0;
+  await Promise.all(
+    shown.map(async (i) => {
+      const p = pool[i];
+      if (!p.body && p.externalUrl) {
+        const text = await fetchArticleText(p.externalUrl);
+        if (text) {
+          p.body = text;
+          crawled++;
+        }
+      }
+    }),
+  );
+  if (crawled > 0) console.log(`[briefing] 원문 크롤링 — ${crawled}건 본문 확보`);
+
   // 요약 (선정된 것만, 인덱스 id)
   const mkInput = (i: number) => ({
     id: i,
@@ -100,6 +117,7 @@ export async function generateBriefing(): Promise<GenerateResult> {
     url: pool[i].url,
     sourceName: pool[i].sourceName,
     genre: genres.get(i) ?? '기타',
+    body: pool[i].body,
   });
   const [mustSummaries, moreLines] = await Promise.all([
     summarizeMustRead(ranked.mustRead.map(mkInput)),
@@ -171,6 +189,46 @@ export async function generateBriefing(): Promise<GenerateResult> {
     for (const id of [...mustIds, ...moreIds]) linkItem.run(briefingId, id);
   });
   linkTx();
+
+  // ── 나머지 후보를 candidate_pool 로 통째 교체 적재 (갱신=loadMore 의 대기열) ──
+  // effective(취향 합성) 내림차순. 첫 묶음과 달리 explore 주입은 안 한다(순수 랭킹순).
+  const eff = makeEffective({ genreWeights: weights, totalSignal });
+  const shownSet = new Set(shown);
+  const restIdx = pool
+    .map((_, i) => i)
+    .filter((i) => !shownSet.has(i))
+    .sort((a, b) => eff(rankable[b]) - eff(rankable[a]));
+  const insPool = db.prepare(
+    `INSERT INTO candidate_pool
+       (collected_at, rank, source_id, external_id, title, url, author,
+        score, comments, published_at, topicality, genre, body, external_url, url_hash)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+  );
+  const poolTx = db.transaction(() => {
+    db.prepare('DELETE FROM candidate_pool').run(); // 다음 수집이 풀을 통째 교체
+    restIdx.forEach((i, idx) => {
+      const p = pool[i];
+      insPool.run(
+        now,
+        idx + 1, // rank: 1부터
+        p.sourceId,
+        p.externalId ?? null,
+        p.title,
+        p.url,
+        p.author ?? null,
+        p.score,
+        p.comments,
+        p.publishedAt ?? null,
+        p.topicality,
+        genres.get(i) ?? '기타',
+        p.body ?? null,
+        p.externalUrl ?? null,
+        p.urlHash,
+      );
+    });
+  });
+  poolTx();
+  console.log(`[briefing] 갱신 풀 ${restIdx.length}건 적재 (요약은 갱신 시 lazy)`);
 
   console.log(`[briefing] 완료 — briefing #${briefingId} (${arrivalDate})`);
   return {
@@ -260,4 +318,150 @@ export function getBriefingView(briefingId?: number) {
     mustRead,
     more,
   };
+}
+
+interface PoolRow {
+  id: number;
+  source_id: number;
+  external_id: string | null;
+  title: string;
+  url: string;
+  author: string | null;
+  score: number | null;
+  comments: number | null;
+  published_at: number | null;
+  topicality: number | null;
+  genre: string | null;
+  body: string | null;
+  external_url: string | null;
+  url_hash: string;
+  source_name: string | null;
+}
+
+export interface MoreItem {
+  id: number;
+  title: string;
+  url: string;
+  genre: string | null;
+  source: string | null;
+  score: number;
+  comments: number;
+  feedback: 'like' | 'dislike' | null;
+  line: string;
+}
+
+/**
+ * 갱신: candidate_pool 에서 다음 count 건을 **그때** 요약(lazy)해 items 로 승격하고 화면용으로 반환.
+ * - 본문 없는 외부링크는 원문 크롤링(선정 경로와 동일).
+ * - 승격분은 seen 기록 + pool.shown=1 + 해당 브리핑 more_json 끝에 append(새로고침해도 유지).
+ * 풀 소진 시 빈 배열 + exhausted=true.
+ */
+export async function loadMore(
+  briefingId: number,
+  count: number,
+): Promise<{ items: MoreItem[]; exhausted: boolean }> {
+  const db = getDb();
+  const rows = db
+    .prepare(
+      `SELECT cp.*, sources.name AS source_name
+         FROM candidate_pool cp
+         LEFT JOIN sources ON sources.id = cp.source_id
+        WHERE cp.shown = 0
+        ORDER BY cp.rank
+        LIMIT ?`,
+    )
+    .all(count) as PoolRow[];
+  if (rows.length === 0) return { items: [], exhausted: true };
+
+  // 본문 없는 외부링크(주로 HN) → 원문 크롤링으로 본문 확보(Haiku 본문요약 경로).
+  await Promise.all(
+    rows.map(async (r) => {
+      if (!r.body && r.external_url) {
+        const text = await fetchArticleText(r.external_url);
+        if (text) r.body = text;
+      }
+    }),
+  );
+
+  // 한줄 요약 (id = pool row id)
+  const lines = await summarizeMore(
+    rows.map((r) => ({
+      id: r.id,
+      title: r.title,
+      url: r.url,
+      sourceName: r.source_name ?? '',
+      genre: r.genre,
+      body: r.body ?? undefined,
+    })),
+  );
+  const lineById = new Map(lines.map((l) => [l.id, l.line]));
+
+  const now = Date.now();
+  const insItem = db.prepare(
+    `INSERT INTO items
+       (source_id, external_id, title, url, author, score, comments,
+        published_at, fetched_at, topicality, genre, summary, summary_type, briefing_id)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, 'more', ?)`,
+  );
+  const insSeen = db.prepare(
+    'INSERT OR IGNORE INTO seen (url_hash, first_seen_at) VALUES (?, ?)',
+  );
+  const markShown = db.prepare(
+    'UPDATE candidate_pool SET shown = 1, item_id = ? WHERE id = ?',
+  );
+
+  const out: MoreItem[] = [];
+  const newIds: number[] = [];
+  const promote = db.transaction(() => {
+    for (const r of rows) {
+      const line = lineById.get(r.id) ?? r.title;
+      const info = insItem.run(
+        r.source_id,
+        r.external_id,
+        r.title,
+        r.url,
+        r.author,
+        r.score ?? 0,
+        r.comments ?? 0,
+        r.published_at,
+        now,
+        r.topicality ?? 0,
+        r.genre,
+        line,
+        briefingId,
+      );
+      const itemId = Number(info.lastInsertRowid);
+      insSeen.run(r.url_hash, now);
+      markShown.run(itemId, r.id);
+      newIds.push(itemId);
+      out.push({
+        id: itemId,
+        title: r.title,
+        url: r.url,
+        genre: r.genre,
+        source: r.source_name,
+        score: r.score ?? 0,
+        comments: r.comments ?? 0,
+        feedback: null,
+        line,
+      });
+    }
+    // 승격분을 브리핑 more_json 끝에 append → 새로고침해도 이미 본 갱신분 유지.
+    const b = db.prepare('SELECT more_json FROM briefings WHERE id = ?').get(briefingId) as
+      | { more_json: string }
+      | undefined;
+    if (b) {
+      const moreIds: number[] = JSON.parse(b.more_json);
+      db.prepare('UPDATE briefings SET more_json = ? WHERE id = ?').run(
+        JSON.stringify([...moreIds, ...newIds]),
+        briefingId,
+      );
+    }
+  });
+  promote();
+
+  const remaining = db
+    .prepare('SELECT COUNT(*) AS n FROM candidate_pool WHERE shown = 0')
+    .get() as { n: number };
+  return { items: out, exhausted: remaining.n === 0 };
 }
