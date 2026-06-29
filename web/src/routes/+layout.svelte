@@ -28,6 +28,7 @@
   $: path = $page.url.pathname;
   const links = [
     { href: '/', label: '브리핑' },
+    { href: '/best', label: '베스트' },
     { href: '/dashboard', label: '대시보드' },
     { href: '/settings', label: '설정' },
   ];

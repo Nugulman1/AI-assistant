@@ -7,6 +7,8 @@ import { getDb, type ItemRow } from './db.js';
 import { env } from './env.js';
 import { login, requireAuth } from './auth.js';
 import { getBriefingView, loadMore } from './briefing.js';
+import { getBestStored } from './best.js';
+import type { BestPeriod } from './sources/hn-best.js';
 import { saveSubscription, type PushSub } from './push.js';
 import { scheduleJobs } from './scheduler.js';
 
@@ -65,6 +67,16 @@ export function buildApp() {
       .prepare('SELECT id, arrival_date, created_at FROM briefings ORDER BY id DESC LIMIT 30')
       .all();
     return c.json({ briefings: rows });
+  });
+
+  // HN 기간별 베스트 — period=week|month|year (기본 week). 48h 브리핑과 별도 탭.
+  api.get('/best', (c) => {
+    const raw = c.req.query('period') ?? 'week';
+    const valid: BestPeriod[] = ['week', 'month', 'year'];
+    const period = (valid as string[]).includes(raw) ? (raw as BestPeriod) : 'week';
+    const items = getBestStored(period);
+    const collectedAt = items[0]?.collected_at ?? null;
+    return c.json({ period, collectedAt, items });
   });
 
   // 읽기 이벤트 기록 (대시보드 학습 원천)

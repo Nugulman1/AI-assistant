@@ -1,6 +1,7 @@
 import cron from 'node-cron';
 import { getConfig } from './db.js';
 import { generateBriefing, getBriefingView } from './briefing.js';
+import { collectAndStoreBest } from './best.js';
 import { sendPushToAll } from './push.js';
 
 let collectTask: cron.ScheduledTask | null = null;
@@ -40,6 +41,12 @@ export function scheduleJobs(): void {
         await generateBriefing();
       } catch (err) {
         console.error('[scheduler] 브리핑 생성 실패:', err);
+      }
+      // 기간별 베스트는 브리핑과 독립 — 실패해도 메인 브리핑에 영향 없게 분리.
+      try {
+        await collectAndStoreBest();
+      } catch (err) {
+        console.error('[scheduler] 베스트 수집 실패:', err);
       }
     },
     opts,

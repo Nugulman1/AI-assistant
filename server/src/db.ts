@@ -123,6 +123,24 @@ CREATE TABLE IF NOT EXISTS candidate_pool (
   item_id      INTEGER
 );
 CREATE INDEX IF NOT EXISTS idx_pool_rank ON candidate_pool(shown, rank);
+
+-- HN 기간별 베스트(주/월/년). 48h 메인 파이프라인(items/seen/feedback/대시보드)과 격리한 별도 경로.
+-- '지금 화제'가 아니라 '기간 누적 화제' — 수집 시 period 별로 통째 교체(candidate_pool 과 같은 패턴).
+CREATE TABLE IF NOT EXISTS best_items (
+  id           INTEGER PRIMARY KEY AUTOINCREMENT,
+  period       TEXT NOT NULL,                 -- 'week' | 'month' | 'year'
+  rank         INTEGER NOT NULL,              -- points 내림차순 순위(1부터)
+  external_id  TEXT,
+  title        TEXT NOT NULL,
+  url          TEXT NOT NULL,                 -- HN 토론 링크
+  external_url TEXT,                          -- 외부 원문(있으면)
+  author       TEXT,
+  points       INTEGER NOT NULL DEFAULT 0,
+  comments     INTEGER NOT NULL DEFAULT 0,
+  created_at   INTEGER,                       -- 글 작성 epoch ms
+  collected_at INTEGER NOT NULL               -- 수집 시각 epoch ms
+);
+CREATE INDEX IF NOT EXISTS idx_best_period_rank ON best_items(period, rank);
 `;
 
 /** v1 기본 소스 — BUILD.md 게이트의 기본값. PWA 설정에서 수정 가능. */
@@ -213,6 +231,21 @@ export interface ItemRow {
   summary: string | null;
   summary_type: string | null;
   briefing_id: number | null;
+}
+
+export interface BestItemRow {
+  id: number;
+  period: 'week' | 'month' | 'year';
+  rank: number;
+  external_id: string | null;
+  title: string;
+  url: string;
+  external_url: string | null;
+  author: string | null;
+  points: number;
+  comments: number;
+  created_at: number | null;
+  collected_at: number;
 }
 
 export interface FeedbackRow {
