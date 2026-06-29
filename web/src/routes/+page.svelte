@@ -7,10 +7,12 @@
   let error = '';
   let moreLoading = false;
   let exhausted = false;
+  let moreError = '';
 
   async function load() {
     loading = true;
     error = '';
+    moreError = '';
     exhausted = false;
     try {
       const { briefing: b } = await api.briefing();
@@ -26,13 +28,14 @@
   async function loadMore() {
     if (!briefing || moreLoading || exhausted) return;
     moreLoading = true;
+    moreError = '';
     try {
       const { items, exhausted: done } = await api.moreNext(briefing.id);
       briefing.more = [...briefing.more, ...items];
       briefing = briefing; // 반응성 트리거
       if (done) exhausted = true;
     } catch (e) {
-      error = e.message;
+      moreError = e instanceof Error ? e.message : String(e);
     } finally {
       moreLoading = false;
     }
@@ -157,9 +160,16 @@
   {/each}
 
   <div style="margin:20px 0 8px;text-align:center">
-    <button class="fb-btn ghost" on:click={loadMore} disabled={moreLoading || exhausted}
-      style="padding:10px 20px">
-      {exhausted ? '더 없음' : moreLoading ? '불러오는 중…' : '↻ 갱신 — 다음 글 더 보기'}
-    </button>
+    {#if !exhausted}
+      <button class="fb-btn ghost" on:click={loadMore} disabled={moreLoading}
+        style="padding:10px 20px">
+        {moreLoading ? '불러오는 중…' : '↻ 갱신 — 다음 글 더 보기'}
+      </button>
+    {:else}
+      <p class="muted" style="margin:8px 0">오늘 글은 여기까지입니다 — 내일 새벽 브리핑에서 더 보여드립니다.</p>
+    {/if}
+    {#if moreError}
+      <p style="color:#f87171;margin:4px 0;font-size:0.85em">불러오기 실패: {moreError}</p>
+    {/if}
   </div>
 {/if}

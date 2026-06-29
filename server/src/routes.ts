@@ -53,12 +53,17 @@ export function buildApp() {
   api.post('/briefing/:id/more', async (c) => {
     const id = Number(c.req.param('id'));
     const body = await c.req.json<{ n?: number }>().catch(() => ({}) as { n?: number });
-    const cfg = getDb().prepare('SELECT more_count FROM config WHERE id = 1').get() as {
-      more_count: number;
-    };
-    const n = body.n && body.n > 0 ? body.n : cfg.more_count;
-    const result = await loadMore(id, n);
-    return c.json(result);
+    try {
+      const cfg = getDb().prepare('SELECT more_count FROM config WHERE id = 1').get() as {
+        more_count: number;
+      };
+      const n = body.n && body.n > 0 ? body.n : cfg.more_count;
+      const result = await loadMore(id, n);
+      return c.json(result);
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      return c.json({ error: msg }, 500);
+    }
   });
 
   // 브리핑 목록
