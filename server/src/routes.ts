@@ -9,6 +9,8 @@ import { login, requireAuth } from './auth.js';
 import { getBriefingView, loadMore } from './briefing.js';
 import { getBestStored } from './best.js';
 import type { BestPeriod } from './sources/hn-best.js';
+import { getTrendingStored } from './github-best.js';
+import type { TrendingPeriod } from './sources/github-trending.js';
 import { saveSubscription, type PushSub } from './push.js';
 import { scheduleJobs } from './scheduler.js';
 
@@ -80,6 +82,16 @@ export function buildApp() {
     const valid: BestPeriod[] = ['week', 'month', 'year'];
     const period = (valid as string[]).includes(raw) ? (raw as BestPeriod) : 'week';
     const items = getBestStored(period);
+    const collectedAt = items[0]?.collected_at ?? null;
+    return c.json({ period, collectedAt, items });
+  });
+
+  // GitHub 트렌딩 — period=daily|weekly|monthly (기본 daily). 48h 브리핑과 별도 탭.
+  api.get('/github-trending', (c) => {
+    const raw = c.req.query('period') ?? 'daily';
+    const valid: TrendingPeriod[] = ['daily', 'weekly', 'monthly'];
+    const period = (valid as string[]).includes(raw) ? (raw as TrendingPeriod) : 'daily';
+    const items = getTrendingStored(period);
     const collectedAt = items[0]?.collected_at ?? null;
     return c.json({ period, collectedAt, items });
   });

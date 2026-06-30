@@ -27,6 +27,7 @@ export const api = {
   moreNext: (id, n) => req(`/api/briefing/${id}/more`, { method: 'POST', body: JSON.stringify({ n }) }),
   briefings: () => req('/api/briefings'),
   best: (period) => req(`/api/best?period=${period}`),
+  githubTrending: (period) => req(`/api/github-trending?period=${period}`),
   read: (itemId) => req('/api/read', { method: 'POST', body: JSON.stringify({ itemId }) }),
   feedback: (itemId, kind, reason) =>
     req('/api/feedback', { method: 'POST', body: JSON.stringify({ itemId, kind, reason }) }),

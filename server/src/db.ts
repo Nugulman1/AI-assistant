@@ -141,6 +141,22 @@ CREATE TABLE IF NOT EXISTS best_items (
   collected_at INTEGER NOT NULL               -- 수집 시각 epoch ms
 );
 CREATE INDEX IF NOT EXISTS idx_best_period_rank ON best_items(period, rank);
+
+-- GitHub 트렌딩(일/주/월). HN 베스트(best_items)와 동형 격리 경로 — 48h 메인 파이프라인과 분리.
+-- github.com/trending 의 기간별 급상승 리포. 수집 시 period 별로 통째 교체.
+CREATE TABLE IF NOT EXISTS github_trending (
+  id           INTEGER PRIMARY KEY AUTOINCREMENT,
+  period       TEXT NOT NULL,                 -- 'daily' | 'weekly' | 'monthly'
+  rank         INTEGER NOT NULL,              -- 노출 순서(1부터)
+  name         TEXT NOT NULL,                 -- 'owner/repo'
+  url          TEXT NOT NULL,
+  description  TEXT NOT NULL DEFAULT '',
+  language     TEXT,
+  stars        INTEGER NOT NULL DEFAULT 0,
+  period_stars INTEGER NOT NULL DEFAULT 0,    -- 해당 기간 증가분("N stars today")
+  collected_at INTEGER NOT NULL               -- 수집 시각 epoch ms
+);
+CREATE INDEX IF NOT EXISTS idx_gh_trending_period_rank ON github_trending(period, rank);
 `;
 
 /** v1 기본 소스 — BUILD.md 게이트의 기본값. PWA 설정에서 수정 가능. */
