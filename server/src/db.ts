@@ -99,6 +99,17 @@ CREATE TABLE IF NOT EXISTS feedback (
 CREATE UNIQUE INDEX IF NOT EXISTS idx_feedback_item_unique ON feedback(item_id);
 CREATE INDEX IF NOT EXISTS idx_feedback_genre ON feedback(genre);
 
+-- 읽음/북마크 상태. 아이템당 1행(item_id PK). 부분 업데이트는 UPSERT(보낸 필드만 변경).
+-- 48h 창/브리핑에 묶이지 않는 영구 상태 — 북마크는 오래된 별도 브리핑 아이템도 계속 보존.
+CREATE TABLE IF NOT EXISTS item_status (
+  item_id       INTEGER PRIMARY KEY REFERENCES items(id),
+  is_read       INTEGER NOT NULL DEFAULT 0,
+  is_bookmarked INTEGER NOT NULL DEFAULT 0,
+  bookmarked_at INTEGER,                          -- 북마크를 '켠' 시각. 북마크 목록 정렬 기준(읽기/읽음토글로 안 바뀜)
+  updated_at    INTEGER NOT NULL
+);
+CREATE INDEX IF NOT EXISTS idx_item_status_bookmarked ON item_status(is_bookmarked);
+
 -- 더보기 후보 대기열(휘발성 풀): 수집 시 첫 묶음(필독3+더보기7) 외 나머지 후보 전체를 보관.
 -- '갱신'(loadMore) 때만 다음 N건을 그때 요약해 items 로 승격(shown=1). 다음 수집이 통째 교체.
 -- items/feedback/대시보드 통계가 '안 본 후보'로 오염되지 않게 별 테이블로 격리.
@@ -185,6 +196,16 @@ export function getDb(): Database.Database {
      WHERE id NOT IN (SELECT MIN(id) FROM read_events GROUP BY item_id);
     CREATE UNIQUE INDEX IF NOT EXISTS idx_read_item_unique ON read_events(item_id);
   `);
+
+  // 마이그레이션: 구버전 item_status(bookmarked_at 없음)에 컬럼 보강.
+  // SCHEMA의 CREATE TABLE IF NOT EXISTS 는 기존 테이블엔 NO-OP라 컬럼이 안 생긴다.
+  // fresh DB 는 SCHEMA가 이미 5컬럼으로 만들었으므로 컬럼 검사에서 자연히 스킵.
+  const statusCols = db
+    .prepare(`PRAGMA table_info(item_status)`)
+    .all() as { name: string }[];
+  if (statusCols.length > 0 && !statusCols.some((c) => c.name === 'bookmarked_at')) {
+    db.exec(`ALTER TABLE item_status ADD COLUMN bookmarked_at INTEGER`);
+  }
 
   // 기본 config 시드 (1행)
   const cfgCount = db.prepare('SELECT COUNT(*) AS n FROM config').get() as { n: number };

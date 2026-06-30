@@ -109,7 +109,88 @@ export function buildApp() {
     db.prepare(
       'INSERT OR IGNORE INTO read_events (item_id, genre, clicked_at) VALUES (?, ?, ?)',
     ).run(itemId, item.genre, Date.now());
+    // 원문 클릭 = 자동 읽음. is_read=1 설정(북마크 상태는 보존).
+    db.prepare(
+      `INSERT INTO item_status (item_id, is_read, is_bookmarked, updated_at)
+       VALUES (?, 1, 0, ?)
+       ON CONFLICT(item_id) DO UPDATE SET is_read = 1, updated_at = excluded.updated_at`,
+    ).run(itemId, Date.now());
     return c.json({ ok: true });
+  });
+
+  // 읽음/북마크 상태 토글 (부분 업데이트: 보낸 필드만 변경, 안 보낸 필드는 유지)
+  api.post('/status', async (c) => {
+    const { itemId, isRead, isBookmarked } = await c.req.json<{
+      itemId?: number;
+      isRead?: boolean;
+      isBookmarked?: boolean;
+    }>();
+    if (!itemId) return c.json({ error: 'itemId 필요' }, 400);
+    const db = getDb();
+    const item = db.prepare('SELECT id FROM items WHERE id = ?').get(itemId) as
+      | { id: number }
+      | undefined;
+    if (!item) return c.json({ error: '아이템 없음' }, 404);
+
+    const cur = db
+      .prepare('SELECT is_read, is_bookmarked, bookmarked_at FROM item_status WHERE item_id = ?')
+      .get(itemId) as
+      | { is_read: number; is_bookmarked: number; bookmarked_at: number | null }
+      | undefined;
+    const curRead = cur?.is_read ?? 0;
+    const curBook = cur?.is_bookmarked ?? 0;
+    const curBookAt = cur?.bookmarked_at ?? null;
+
+    // 불리언일 때만 변경, 아니면 기존값 유지. null·문자열·미전송 모두 "변경 안 함".
+    const newRead = typeof isRead === 'boolean' ? (isRead ? 1 : 0) : curRead;
+    const newBook = typeof isBookmarked === 'boolean' ? (isBookmarked ? 1 : 0) : curBook;
+
+    // 바꿀 불리언 필드가 하나도 없으면 write 없이 현재 상태 반환(잡행 0,0 생성 방지).
+    if (typeof isRead !== 'boolean' && typeof isBookmarked !== 'boolean') {
+      return c.json({ state: { isRead: !!curRead, isBookmarked: !!curBook } });
+    }
+
+    // 북마크 정렬 기준: '켤 때'만 시각 기록. 이미 1이면 유지(재북마크로 맨 위 점프 안 함).
+    // 0으로 끄면 null 로 비움. 읽기/읽음토글 경로는 이 컬럼을 건드리지 않는다.
+    let newBookAt = curBookAt;
+    if (newBook === 1 && curBook === 0) newBookAt = Date.now();
+    else if (newBook === 0) newBookAt = null;
+
+    db.prepare(
+      `INSERT INTO item_status (item_id, is_read, is_bookmarked, bookmarked_at, updated_at)
+       VALUES (?, ?, ?, ?, ?)
+       ON CONFLICT(item_id) DO UPDATE SET
+         is_read = excluded.is_read,
+         is_bookmarked = excluded.is_bookmarked,
+         bookmarked_at = excluded.bookmarked_at,
+         updated_at = excluded.updated_at`,
+    ).run(itemId, newRead, newBook, newBookAt, Date.now());
+    return c.json({ state: { isRead: !!newRead, isBookmarked: !!newBook } });
+  });
+
+  // 북마크 모음 — 48h 창/브리핑 무관, 북마크된 모든 item 영구 반환(해제분 제외).
+  api.get('/bookmarks', (c) => {
+    const rows = getDb()
+      .prepare(
+        `SELECT items.*, sources.name AS source_name
+           FROM item_status
+           JOIN items ON items.id = item_status.item_id
+           LEFT JOIN sources ON sources.id = items.source_id
+          WHERE item_status.is_bookmarked = 1
+          ORDER BY COALESCE(item_status.bookmarked_at, item_status.updated_at) DESC,
+                   items.id DESC`,
+      )
+      .all() as (ItemRow & { source_name: string | null })[];
+    const bookmarks = rows.map((it) => ({
+      id: it.id,
+      title: it.title,
+      url: it.url,
+      genre: it.genre,
+      source: it.source_name,
+      score: it.score,
+      comments: it.comments,
+    }));
+    return c.json({ bookmarks });
   });
 
   // 좋아요/관심없음 기록 (주신호). 같은 버튼 재클릭(이유 없이)=토글 오프, 그 외=UPSERT.

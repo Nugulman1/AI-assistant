@@ -8,6 +8,7 @@
   let moreLoading = false;
   let exhausted = false;
   let moreError = '';
+  let hideRead = false; // 켜면 읽은 글을 목록에서 접음
 
   async function load() {
     loading = true;
@@ -42,13 +43,37 @@
   }
 
   async function open(item) {
-    // 읽기 기록(보조 학습 신호) 후 새 탭으로
+    // 읽기 기록(보조 학습 신호) 후 새 탭으로. 백엔드가 자동 읽음 처리 → 로컬도 반영.
     try {
       await api.read(item.id);
+      item.isRead = true;
+      briefing = briefing; // 반응성 트리거
     } catch (_e) {
       /* 기록 실패해도 링크는 열어줌 */
     }
     window.open(item.url, '_blank', 'noopener');
+  }
+
+  // 읽음 수동 토글
+  async function toggleRead(item) {
+    try {
+      const { state } = await api.updateStatus(item.id, { isRead: !item.isRead });
+      item.isRead = state.isRead;
+      briefing = briefing; // 반응성 트리거
+    } catch (_e) {
+      /* 무시 */
+    }
+  }
+
+  // 북마크 토글
+  async function toggleBookmark(item) {
+    try {
+      const { state } = await api.updateStatus(item.id, { isBookmarked: !item.isBookmarked });
+      item.isBookmarked = state.isBookmarked;
+      briefing = briefing; // 반응성 트리거
+    } catch (_e) {
+      /* 무시 */
+    }
   }
 
   const trimmed = (item) => (item._reason && item._reason.trim() ? item._reason.trim() : undefined);
@@ -98,15 +123,23 @@
   <h1>아직 브리핑이 없습니다</h1>
   <p class="muted">브리핑은 매일 설정한 도착 시각(기본 새벽 5시)에 자동으로 도착합니다.</p>
 {:else}
-  <h1>오늘의 개발 브리핑</h1>
-  <p class="muted">{briefing.arrivalDate}</p>
+  <div class="head-row">
+    <div>
+      <h1>오늘의 개발 브리핑</h1>
+      <p class="muted">{briefing.arrivalDate}</p>
+    </div>
+    <label class="hide-read">
+      <input type="checkbox" bind:checked={hideRead} /> 읽은 글 숨기기
+    </label>
+  </div>
 
   <h2>필독</h2>
   {#if briefing.mustRead.length === 0}
     <p class="muted">필독 항목이 없습니다.</p>
   {/if}
   {#each briefing.mustRead as item}
-    <div class="card" on:click={() => open(item)} role="link" tabindex="0"
+    {#if !(hideRead && item.isRead)}
+    <div class="card" class:read={item.isRead} on:click={() => open(item)} role="link" tabindex="0"
       on:keydown={(e) => e.key === 'Enter' && open(item)} style="cursor:pointer">
       <div class="tags">
         {#if item.source}<span class="src-tag">{item.source}</span>{/if}
@@ -123,6 +156,10 @@
         <button class="fb-btn dislike" class:active={item.feedback === 'dislike'}
           on:click|stopPropagation={() => vote(item, 'dislike')}>👎 관심없음</button>
         <button class="fb-btn ghost" on:click|stopPropagation={() => toggleReason(item)}>💬 이유</button>
+        <button class="fb-btn ghost" class:active={item.isBookmarked}
+          on:click|stopPropagation={() => toggleBookmark(item)}>{item.isBookmarked ? '🔖 북마크됨' : '🔖 북마크'}</button>
+        <button class="fb-btn ghost" class:active={item.isRead}
+          on:click|stopPropagation={() => toggleRead(item)}>{item.isRead ? '✓ 읽음' : '읽음 표시'}</button>
       </div>
       {#if item._reasonOpen}
         <input class="fb-reason" placeholder="왜 좋은지/관심없는지 (선택)"
@@ -131,11 +168,13 @@
           on:keydown|stopPropagation={(e) => e.key === 'Enter' && saveReason(item)} />
       {/if}
     </div>
+    {/if}
   {/each}
 
   <h2>더보기</h2>
   {#each briefing.more as item}
-    <div class="more-wrap">
+    {#if !(hideRead && item.isRead)}
+    <div class="more-wrap" class:read={item.isRead}>
       <div class="more-item" on:click={() => open(item)} role="link" tabindex="0"
         on:keydown={(e) => e.key === 'Enter' && open(item)} style="cursor:pointer">
         {#if item.source}<span class="src-tag">{item.source}</span>{/if}
@@ -149,6 +188,10 @@
         <button class="fb-btn dislike" class:active={item.feedback === 'dislike'}
           on:click|stopPropagation={() => vote(item, 'dislike')}>👎</button>
         <button class="fb-btn ghost" on:click|stopPropagation={() => toggleReason(item)}>💬</button>
+        <button class="fb-btn ghost" class:active={item.isBookmarked}
+          on:click|stopPropagation={() => toggleBookmark(item)}>{item.isBookmarked ? '🔖' : '🔖'}</button>
+        <button class="fb-btn ghost" class:active={item.isRead}
+          on:click|stopPropagation={() => toggleRead(item)}>{item.isRead ? '✓' : '읽음'}</button>
       </div>
       {#if item._reasonOpen}
         <input class="fb-reason" placeholder="왜 좋은지/관심없는지 (선택)"
@@ -157,6 +200,7 @@
           on:keydown|stopPropagation={(e) => e.key === 'Enter' && saveReason(item)} />
       {/if}
     </div>
+    {/if}
   {/each}
 
   <div style="margin:20px 0 8px;text-align:center">
@@ -173,3 +217,32 @@
     {/if}
   </div>
 {/if}
+
+<style>
+  .head-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+  }
+  .hide-read {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: #aaa;
+    white-space: nowrap;
+    cursor: pointer;
+    margin-top: 8px;
+  }
+  /* 읽은 글은 흐리게 — 호버 시 원래대로 */
+  .card.read,
+  .more-wrap.read {
+    opacity: 0.45;
+    transition: opacity 0.15s;
+  }
+  .card.read:hover,
+  .more-wrap.read:hover {
+    opacity: 1;
+  }
+</style>

@@ -29,6 +29,9 @@ export const api = {
   best: (period) => req(`/api/best?period=${period}`),
   githubTrending: (period) => req(`/api/github-trending?period=${period}`),
   read: (itemId) => req('/api/read', { method: 'POST', body: JSON.stringify({ itemId }) }),
+  updateStatus: (itemId, status) =>
+    req('/api/status', { method: 'POST', body: JSON.stringify({ itemId, ...status }) }),
+  bookmarks: () => req('/api/bookmarks'),
   feedback: (itemId, kind, reason) =>
     req('/api/feedback', { method: 'POST', body: JSON.stringify({ itemId, kind, reason }) }),
   dashboard: () => req('/api/dashboard'),

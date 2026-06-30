@@ -249,7 +249,7 @@ export function getBriefingView(briefingId?: number) {
     ? (db.prepare('SELECT * FROM briefings WHERE id = ?').get(briefingId) as
         | { id: number; created_at: number; arrival_date: string; must_read_json: string; more_json: string }
         | undefined)
-    : (db.prepare('SELECT * FROM briefings ORDER BY id DESC LIMIT 1').get() as
+    : (db.prepare('SELECT * FROM briefings ORDER BY created_at DESC, id DESC LIMIT 1').get() as
         | { id: number; created_at: number; arrival_date: string; must_read_json: string; more_json: string }
         | undefined);
   if (!briefing) return null;
@@ -257,15 +257,19 @@ export function getBriefingView(briefingId?: number) {
   const mustIds: number[] = JSON.parse(briefing.must_read_json);
   const moreIds: number[] = JSON.parse(briefing.more_json);
   const getItem = db.prepare(
-    `SELECT items.*, sources.name AS source_name, feedback.kind AS feedback_kind
+    `SELECT items.*, sources.name AS source_name, feedback.kind AS feedback_kind,
+            item_status.is_read AS is_read, item_status.is_bookmarked AS is_bookmarked
        FROM items
        LEFT JOIN sources ON sources.id = items.source_id
        LEFT JOIN feedback ON feedback.item_id = items.id
+       LEFT JOIN item_status ON item_status.item_id = items.id
       WHERE items.id = ?`,
   );
   type LoadedItem = ItemRow & {
     source_name: string | null;
     feedback_kind: 'like' | 'dislike' | null;
+    is_read: number | null;
+    is_bookmarked: number | null;
   };
   const load = (id: number) => getItem.get(id) as LoadedItem | undefined;
 
@@ -291,6 +295,8 @@ export function getBriefingView(briefingId?: number) {
         score: it.score,
         comments: it.comments,
         feedback: it.feedback_kind,
+        isRead: !!it.is_read,
+        isBookmarked: !!it.is_bookmarked,
         headline,
         body,
       };
@@ -308,6 +314,8 @@ export function getBriefingView(briefingId?: number) {
       score: it.score,
       comments: it.comments,
       feedback: it.feedback_kind,
+      isRead: !!it.is_read,
+      isBookmarked: !!it.is_bookmarked,
       line: it.summary ?? it.title,
     }));
 
@@ -347,6 +355,8 @@ export interface MoreItem {
   score: number;
   comments: number;
   feedback: 'like' | 'dislike' | null;
+  isRead: boolean;
+  isBookmarked: boolean;
   line: string;
 }
 
@@ -443,6 +453,8 @@ export async function loadMore(
         score: r.score ?? 0,
         comments: r.comments ?? 0,
         feedback: null,
+        isRead: false,
+        isBookmarked: false,
         line,
       });
     }
