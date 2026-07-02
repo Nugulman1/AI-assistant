@@ -24,6 +24,7 @@ export const api = {
   login: (passcode) => req('/api/login', { method: 'POST', body: JSON.stringify({ passcode }) }),
   briefing: () => req('/api/briefing'),
   briefingById: (id) => req(`/api/briefing/${id}`),
+  briefingByDate: (date) => req(`/api/briefing/by-date/${date}`),
   moreNext: (id, n) => req(`/api/briefing/${id}/more`, { method: 'POST', body: JSON.stringify({ n }) }),
   briefings: () => req('/api/briefings'),
   best: (period) => req(`/api/best?period=${period}`),

@@ -44,6 +44,20 @@ export function buildApp() {
     return c.json({ briefing: view });
   });
 
+  // 특정 날짜 브리핑 (과거 조회). 같은 날짜 복수면 최신(id 큰 쪽). :id 라우트보다 먼저 등록해
+  // '/briefing/by-date/2026-07-01' 이 ':id' 파라미터로 가로채이지 않게 함.
+  api.get('/briefing/by-date/:date', (c) => {
+    const date = c.req.param('date');
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(date)) return c.json({ error: '날짜 형식 오류 (YYYY-MM-DD)' }, 400);
+    const row = getDb()
+      .prepare('SELECT id FROM briefings WHERE arrival_date = ? ORDER BY id DESC LIMIT 1')
+      .get(date) as { id: number } | undefined;
+    if (!row) return c.json({ error: '없음' }, 404);
+    const view = getBriefingView(row.id);
+    if (!view) return c.json({ error: '없음' }, 404);
+    return c.json({ briefing: view });
+  });
+
   // 특정 브리핑
   api.get('/briefing/:id', (c) => {
     const view = getBriefingView(Number(c.req.param('id')));
@@ -51,9 +65,17 @@ export function buildApp() {
     return c.json({ briefing: view });
   });
 
-  // 갱신: 풀에서 다음 n건을 lazy 요약해 더보기에 추가
+  // 갱신: 풀에서 다음 n건을 lazy 요약해 더보기에 추가.
+  // 최신 브리핑 전용 — candidate_pool 은 최신 수집 run 소유의 전역 대기열이라,
+  // 과거 브리핑 id 로 승격하면 오늘 후보가 과거 more_json 에 영구 부착되고 오늘 몫이 소진된다.
   api.post('/briefing/:id/more', async (c) => {
     const id = Number(c.req.param('id'));
+    const latest = getDb()
+      .prepare('SELECT id FROM briefings ORDER BY created_at DESC, id DESC LIMIT 1')
+      .get() as { id: number } | undefined;
+    if (!latest || id !== latest.id) {
+      return c.json({ error: '지난 브리핑에서는 갱신할 수 없습니다' }, 409);
+    }
     const body = await c.req.json<{ n?: number }>().catch(() => ({}) as { n?: number });
     try {
       const cfg = getDb().prepare('SELECT more_count FROM config WHERE id = 1').get() as {
@@ -68,10 +90,13 @@ export function buildApp() {
     }
   });
 
-  // 브리핑 목록
+  // 브리핑 목록. 정렬키를 getBriefingView의 최신 선택(created_at DESC, id DESC)과 통일 —
+  // 시계역행으로 created_at·id가 역전돼도 목록 첫 항목 = /api/briefing의 최신이 보장됨.
   api.get('/briefings', (c) => {
     const rows = getDb()
-      .prepare('SELECT id, arrival_date, created_at FROM briefings ORDER BY id DESC LIMIT 30')
+      .prepare(
+        'SELECT id, arrival_date, created_at FROM briefings ORDER BY created_at DESC, id DESC LIMIT 30',
+      )
       .all();
     return c.json({ briefings: rows });
   });
