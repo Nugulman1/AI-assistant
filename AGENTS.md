@@ -32,6 +32,7 @@ npm -w server test   # 서버 단위테스트
 - **seen 기록 = 실제 보여준 것만** — `generateBriefing`에서 선정된 item만 `seen` 등록. 미선정 후보는 다음 사이클에 재후보가 됨.
 - **candidate_pool 격리** — `items`/`feedback`/대시보드를 '안 본 후보'로 오염하지 않기 위해 별 테이블 유지. `loadMore`만 pool → items 승격.
 - **best_items 격리** — HN 기간별 베스트(week/month/year)는 48h 메인 파이프라인과 완전 분리. 수집 시 period별 통째 교체.
+- **트렌딩 요약 캐시 분리** — `github_trending`은 수집마다 통째 교체되므로 AI 요약은 이름(owner/repo) 키 `github_repo_summaries`에 캐시(1리포 1요약). 요약 실패는 목록 표시에 영향 없어야 함.
 
 ## 어디를 봐야 하나
 | 작업 | 파일 |

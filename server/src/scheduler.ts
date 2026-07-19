@@ -2,7 +2,7 @@ import cron from 'node-cron';
 import { getConfig } from './db.js';
 import { generateBriefing, getBriefingView } from './briefing.js';
 import { collectAndStoreBest } from './best.js';
-import { collectAndStoreTrending } from './github-best.js';
+import { collectAndStoreTrending, summarizeTrendingRepos } from './github-best.js';
 import { sendPushToAll } from './push.js';
 
 let collectTask: cron.ScheduledTask | null = null;
@@ -54,6 +54,12 @@ export function scheduleJobs(): void {
         await collectAndStoreTrending();
       } catch (err) {
         console.error('[scheduler] GitHub 트렌딩 수집 실패:', err);
+      }
+      // 트렌딩 AI 요약 — 수집과도 분리(요약 실패해도 목록은 그대로 뜬다).
+      try {
+        await summarizeTrendingRepos();
+      } catch (err) {
+        console.error('[scheduler] GitHub 트렌딩 요약 실패:', err);
       }
     },
     opts,

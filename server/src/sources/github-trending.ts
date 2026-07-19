@@ -73,6 +73,31 @@ export function parseGithubTrending(html: string): TrendingRepo[] {
  * 한 기간의 트렌딩을 실제로 수집(네트워크). 실패(타임아웃·비200·파싱불가)는 빈 배열로 격리 —
  * 호출부(collectAndStoreTrending)와 메인 브리핑에 영향 주지 않게(hn-best 의 fetch 격리와 동형).
  */
+/** README 를 요약 입력으로 쓸 때의 상한 — 이 지점에서 단일 절단(extractText 상한 단일화와 동형). */
+export const README_MAX_CHARS = 4000;
+
+/**
+ * 리포 README 원문(마크다운)을 raw.githubusercontent.com 에서 가져온다(HEAD = 기본 브랜치).
+ * 실패(404·타임아웃·비200)는 null 로 격리 — 요약은 description 만으로도 진행 가능해야 한다.
+ * 성공 시 README_MAX_CHARS 로 자른다.
+ */
+export async function fetchReadme(name: string): Promise<string | null> {
+  try {
+    const res = await fetch(
+      `https://raw.githubusercontent.com/${name}/HEAD/README.md`,
+      {
+        signal: AbortSignal.timeout(10000),
+        headers: { 'user-agent': 'Mozilla/5.0 (compatible; briefing-bot)' },
+      },
+    );
+    if (!res.ok) return null;
+    const text = await res.text();
+    return text.slice(0, README_MAX_CHARS);
+  } catch {
+    return null;
+  }
+}
+
 export async function fetchTrending(period: TrendingPeriod): Promise<TrendingRepo[]> {
   try {
     const res = await fetch(`https://github.com/trending?since=${period}`, {

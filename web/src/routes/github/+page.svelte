@@ -69,7 +69,11 @@
       <span class="best-rank">{i + 1}</span>
       <span class="best-main">
         <span class="best-title">{item.name}</span>
-        {#if item.description}<span class="best-desc">{item.description}</span>{/if}
+        {#if item.ai_summary}
+          <span class="best-summary">{item.ai_summary}</span>
+        {:else if item.description}
+          <span class="best-desc">{item.description}</span>
+        {/if}
         <span class="best-meta">
           ★ {fmtNum(item.stars)}{#if item.language} · {item.language}{/if} · +{fmtNum(item.period_stars)} stars {unit}
         </span>
@@ -128,6 +132,11 @@
     font-size: 14px;
     color: #bbb;
     line-height: 1.4;
+  }
+  .best-summary {
+    font-size: 14px;
+    color: #ddd;
+    line-height: 1.5;
   }
   .best-meta {
     font-size: 13px;

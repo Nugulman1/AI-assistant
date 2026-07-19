@@ -168,6 +168,14 @@ CREATE TABLE IF NOT EXISTS github_trending (
   collected_at INTEGER NOT NULL               -- 수집 시각 epoch ms
 );
 CREATE INDEX IF NOT EXISTS idx_gh_trending_period_rank ON github_trending(period, rank);
+
+-- 트렌딩 리포 AI 한국어 요약 캐시. github_trending 은 수집마다 통째 교체되므로
+-- 이름(owner/repo) 키 별도 테이블로 유지 — 같은 리포가 일/주/월·날짜 간 반복 등장해도 1회만 요약.
+CREATE TABLE IF NOT EXISTS github_repo_summaries (
+  name          TEXT PRIMARY KEY,            -- 'owner/repo'
+  summary       TEXT NOT NULL,               -- 한국어 1~2문장 (뭐 하는 프로젝트 + 왜 주목)
+  summarized_at INTEGER NOT NULL             -- 요약 생성 시각 epoch ms
+);
 `;
 
 /** v1 기본 소스 — BUILD.md 게이트의 기본값. PWA 설정에서 수정 가능. */
