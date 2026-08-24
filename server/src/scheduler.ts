@@ -4,6 +4,7 @@ import { generateBriefing, getBriefingView } from './briefing.js';
 import { collectAndStoreBest } from './best.js';
 import { collectAndStoreTrending, summarizeTrendingRepos } from './github-best.js';
 import { sendPushToAll } from './push.js';
+import { runExclusive } from './collect.js';
 
 let collectTask: cron.ScheduledTask | null = null;
 let pushTask: cron.ScheduledTask | null = null;
@@ -26,6 +27,13 @@ export function scheduleJobs(): void {
   const cfg = getConfig();
   collectTask?.stop();
   pushTask?.stop();
+  collectTask = null;
+  pushTask = null;
+
+  if (!cfg.auto_collect) {
+    console.log('[scheduler] 자동 수집 꺼짐 — cron 미설치 (각 페이지의 수집 버튼 사용)');
+    return;
+  }
 
   const collect = minusMinutes(cfg.arrival_time, cfg.lead_minutes);
   const [ah, am] = cfg.arrival_time.split(':').map(Number);
@@ -38,28 +46,31 @@ export function scheduleJobs(): void {
     collectExpr,
     async () => {
       console.log('[scheduler] 수집·AI 시작');
+      // runExclusive: 수집 버튼과 동시 실행 방지 — 이미 돌고 있으면 조용히 스킵.
       try {
-        await generateBriefing();
+        await runExclusive('briefing', () => generateBriefing());
       } catch (err) {
         console.error('[scheduler] 브리핑 생성 실패:', err);
       }
       // 기간별 베스트는 브리핑과 독립 — 실패해도 메인 브리핑에 영향 없게 분리.
       try {
-        await collectAndStoreBest();
+        await runExclusive('best', () => collectAndStoreBest());
       } catch (err) {
         console.error('[scheduler] 베스트 수집 실패:', err);
       }
-      // GitHub 트렌딩도 브리핑·HN베스트와 독립 — 실패 격리.
+      // GitHub 트렌딩(+요약)도 브리핑·HN베스트와 독립 — 실패 격리.
+      // 요약 실패해도 목록은 그대로 뜨게 수집·요약을 안쪽에서 다시 분리.
       try {
-        await collectAndStoreTrending();
+        await runExclusive('github', async () => {
+          await collectAndStoreTrending();
+          try {
+            await summarizeTrendingRepos();
+          } catch (err) {
+            console.error('[scheduler] GitHub 트렌딩 요약 실패:', err);
+          }
+        });
       } catch (err) {
         console.error('[scheduler] GitHub 트렌딩 수집 실패:', err);
-      }
-      // 트렌딩 AI 요약 — 수집과도 분리(요약 실패해도 목록은 그대로 뜬다).
-      try {
-        await summarizeTrendingRepos();
-      } catch (err) {
-        console.error('[scheduler] GitHub 트렌딩 요약 실패:', err);
       }
     },
     opts,

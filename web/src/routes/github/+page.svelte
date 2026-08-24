@@ -44,6 +44,22 @@
     return (n ?? 0).toLocaleString('en-US');
   }
 
+  let collecting = false;
+
+  async function collect() {
+    if (collecting) return;
+    collecting = true;
+    error = '';
+    try {
+      await api.collectGithub();
+      await load(period);
+    } catch (e) {
+      error = e.message;
+    } finally {
+      collecting = false;
+    }
+  }
+
   onMount(() => load('daily'));
 </script>
 
@@ -54,6 +70,9 @@
   {#each periods as p}
     <button class="tab" class:active={period === p.key} on:click={() => load(p.key)}>{p.label}</button>
   {/each}
+  <button class="tab collect" on:click={collect} disabled={collecting}>
+    {collecting ? '수집·요약 중…' : '⟳ 지금 수집'}
+  </button>
 </div>
 
 {#if loading}
@@ -61,7 +80,7 @@
 {:else if error}
   <p style="color:#f87171;margin-top:24px">{error}</p>
 {:else if items.length === 0}
-  <p class="muted" style="margin-top:24px">아직 수집된 트렌딩이 없습니다. 다음 수집 사이클 후 채워집니다.</p>
+  <p class="muted" style="margin-top:24px">아직 수집된 트렌딩이 없습니다. 위의 수집 버튼을 눌러 채우세요.</p>
 {:else}
   {#if collectedAt}<p class="muted" style="font-size:13px">갱신: {fmtDate(collectedAt)}</p>{/if}
   {#each items as item, i}
@@ -100,6 +119,13 @@
     background: #2563eb;
     border-color: #2563eb;
     color: #fff;
+  }
+  .tab.collect {
+    margin-left: auto;
+  }
+  .tab.collect:disabled {
+    opacity: 0.6;
+    cursor: default;
   }
   .best-row {
     display: flex;

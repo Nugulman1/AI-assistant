@@ -32,6 +32,7 @@
         lead_minutes: Number(config.lead_minutes),
         more_count: Number(config.more_count),
         timezone: config.timezone,
+        auto_collect: !!config.auto_collect,
       });
       msg = '저장됨';
       setTimeout(() => (msg = ''), 2000);
@@ -79,8 +80,15 @@
 {#if error}<p style="color:#f87171">{error}</p>{/if}
 
 {#if config}
+  <h2>자동 수집</h2>
+  <p class="muted">끄면(기본) 각 페이지의 수집 버튼으로만 수집합니다. 켜면 매일 도착 시각에 자동 수집·푸시가 돕니다.</p>
+  <label class="auto-collect">
+    <input type="checkbox" bind:checked={config.auto_collect} />
+    매일 자동 수집 켜기
+  </label>
+
   <h2>도착 시각</h2>
-  <p class="muted">이 시각에 완성된 브리핑이 도착합니다. 수집·AI 는 N분 전에 시작합니다.</p>
+  <p class="muted">자동 수집이 켜져 있을 때, 이 시각에 완성된 브리핑이 도착합니다. 수집·AI 는 N분 전에 시작합니다.</p>
   <div class="row" style="margin-top:12px">
     <div style="flex:1">
       <label>도착 시각</label>
@@ -150,5 +158,12 @@
     background: var(--accent2);
     border: none;
     color: #fff;
+  }
+  .auto-collect {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 8px;
+    cursor: pointer;
   }
 </style>

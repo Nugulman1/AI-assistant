@@ -1,7 +1,8 @@
 # 개발 뉴스 브리핑 수집기 (v1)
 
-개발자 뉴스/최신정보를 **화제도 + 취향(좋아요·관심없음 학습)**으로 골라 매일 새벽 정해진 시각에
-완성된 브리핑으로 보내주는 PWA. 풀스택 TypeScript · Hono · SQLite · SvelteKit(PWA).
+개발자 뉴스/최신정보를 **화제도 + 취향(좋아요·관심없음 학습)**으로 골라, **수집 버튼을 누르면
+그때 수집·정리해** 브리핑으로 보여주는 로컬 PWA. 풀스택 TypeScript · Hono · SQLite · SvelteKit(PWA).
+(매일 새벽 자동 수집도 설정에서 켤 수 있다 — 기본은 꺼짐.)
 
 > **콜드스타트 → 점진 학습** — 신호가 0일 땐 화제도 100%로 시작하고, 좋아요·관심없음이
 > 쌓이면 장르 취향 가중치가 인기와 비등하게 경쟁한다(탐색 노출은 항상 유지).
@@ -20,8 +21,9 @@
 - **server/** — Hono REST API + SQLite + 수집·파이프라인·AI·스케줄러·web-push
 - **web/** — SvelteKit PWA (로그인 → 브리핑 → 대시보드 → 설정, 설치형, 푸시)
 
-도착 시각(기본 05:00) 기준으로 **그 N분 전(기본 30분 → 04:30)에 수집·AI를 끝내고, 정각에 푸시** →
-5시에 *완성된 보고서가 도착*(수집 시점이 아님).
+수집은 **온디맨드가 기본**: 브리핑·HN 베스트·GitHub 트렌딩 각 페이지의 "⟳ 지금 수집" 버튼을
+누르면 그때 수집·AI·정리가 돈다. 설정에서 **자동 수집**을 켜면 도착 시각(기본 05:00) 기준
+N분 전(기본 30분 → 04:30)에 수집·AI를 끝내고 정각에 푸시하는 예전 방식도 쓸 수 있다.
 
 ---
 
@@ -91,7 +93,9 @@ npm run run:once       # 수집→AI→저장 후 결과 JSON 출력
   늘수록 가중치 비중↑(0이면 화제도 100%). **탐색 주입엔 미적용** — 관심없음 장르도 노출을
   보존해 신호를 계속 받게 한다. 원문열기는 약한 보조신호, 이유 텍스트는 저장만(추후 활용).
 - **대시보드:** 어떤 장르를 실제로 여는지(클릭) vs 수집 분포. 클릭이 진짜 관심사를 드러낸다.
-- **스케줄러:** node-cron, 도착시각/리드분은 설정에서 변경 가능(변경 시 cron 자동 재설치).
+- **수집 트리거:** 기본은 각 페이지의 수집 버튼(온디맨드, 동시 실행은 서버가 409로 차단).
+  설정의 **자동 수집**을 켜면 node-cron 이 매일 도착시각 기준으로 돈다(기본 꺼짐,
+  도착시각/리드분·토글 변경 시 cron 자동 재설치).
 
 ### 8장르
 AI/LLM·에이전트 / 시스템·인프라·저수준 / 보안 / 논문·연구 / 언어·런타임·도구 / 웹·프론트 /
@@ -117,11 +121,14 @@ arXiv cs.AI, arXiv cs.SE. 설정 화면에서 추가/삭제/켜고끄기 가능.
 | POST | `/api/login` | 패스코드 → JWT |
 | GET | `/api/briefing` | 최신 브리핑 |
 | POST | `/api/briefing/:id/more` | 갱신 — 풀의 다음 N건 lazy 요약·추가 |
+| POST | `/api/collect/briefing` | 지금 수집 — 새 브리핑 생성(실행 중이면 409) |
+| POST | `/api/collect/best` | HN 기간별 베스트 수집 |
+| POST | `/api/collect/github` | GitHub 트렌딩 수집 + 한글 요약 |
 | GET | `/api/briefings` | 브리핑 목록 |
 | POST | `/api/read` | 원문열기 기록(보조신호) |
 | POST | `/api/feedback` | 좋아요/관심없음(+이유) 기록·토글(주신호) |
 | GET | `/api/dashboard` | 장르별 클릭/수집 집계 |
-| GET·PUT | `/api/config` | 도착시각·리드·더보기수·타임존 |
+| GET·PUT | `/api/config` | 도착시각·리드·더보기수·타임존·자동수집 토글 |
 | GET·POST·PUT·DELETE | `/api/sources` | 소스 CRUD |
 | GET | `/api/push/key` | VAPID 공개키 |
 | POST | `/api/push/subscribe` | 푸시 구독 등록 |
@@ -130,14 +137,14 @@ arXiv cs.AI, arXiv cs.SE. 설정 화면에서 추가/삭제/켜고끄기 가능.
 
 ---
 
-## 배포 (Railway 단일 서비스)
-server가 web 정적 빌드(`web/build`)까지 서빙해 same-origin. 설정 파일은 레포에 포함:
-- `railway.toml` — `buildCommand="VITE_API_BASE= npm run build"`, `startCommand="npm run start"`.
-- `.nvmrc`(22) — `better-sqlite3` prebuild 호환 위해 node 고정.
-
-대시보드 설정: 영속 볼륨 마운트 `/data` + `DB_PATH=/data/briefing.sqlite`(재배포에도 DB 유지),
-환경변수(`ANTHROPIC_API_KEY`·`APP_PASSCODE`·`JWT_SECRET`·`VAPID_*`·`TZ=Asia/Seoul`) 등록.
-devDeps 가지치기 방지로 `NPM_CONFIG_PRODUCTION=false`. 배포 직후 데이터는 shell `npm run run:once` 1회.
+## 로컬 프로덕션 모드 (단일 포트)
+dev 서버 두 개 대신 하나로 쓰고 싶으면, server가 web 정적 빌드(`web/build`)까지 서빙하는
+same-origin 모드를 쓴다:
+```bash
+VITE_API_BASE= npm run build   # web 정적 빌드 (same-origin 상대경로)
+npm run start                  # http://localhost:8787 하나로 전부
+```
+`.nvmrc`(22)는 `better-sqlite3` prebuild 호환용. DB는 `data/briefing.sqlite`(`DB_PATH`로 변경 가능).
 
 ## 다음 (데이터 쌓인 뒤)
 좋아요/관심없음 → 장르 취향 가중치 → 랭킹 합성은 **v1에서 구현**. 남은 것:
