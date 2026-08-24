@@ -5,11 +5,12 @@ import { existsSync } from 'node:fs';
 import path from 'node:path';
 import { getDb, type ItemRow } from './db.js';
 import { env } from './env.js';
-import { login, requireAuth } from './auth.js';
-import { getBriefingView, loadMore } from './briefing.js';
-import { getBestStored } from './best.js';
+import { generateBriefing, getBriefingView, loadMore, recommendBriefing } from './briefing.js';
+import { getItemDetail, generateDeep, askItem } from './item-detail.js';
+import { collectAndStoreBest, getBestStored } from './best.js';
 import type { BestPeriod } from './sources/hn-best.js';
-import { getTrendingView } from './github-best.js';
+import { collectAndStoreTrending, getTrendingView, summarizeTrendingRepos } from './github-best.js';
+import { runExclusive } from './collect.js';
 import type { TrendingPeriod } from './sources/github-trending.js';
 import { saveSubscription, type PushSub } from './push.js';
 import { scheduleJobs } from './scheduler.js';
@@ -21,21 +22,13 @@ export function buildApp() {
 
   // ── 공개 ──
   app.get('/api/health', (c) =>
-    c.json({ ok: true, ai: env.anthropicApiKey ? 'on' : 'off' }),
+    c.json({ ok: true, ai: env.ollamaModel || env.anthropicApiKey ? 'on' : 'off' }),
   );
 
   app.get('/api/push/key', (c) => c.json({ publicKey: env.vapidPublicKey }));
 
-  app.post('/api/login', async (c) => {
-    const { passcode } = await c.req.json<{ passcode?: string }>();
-    const token = await login(passcode ?? '');
-    if (!token) return c.json({ error: '패스코드가 틀렸습니다' }, 401);
-    return c.json({ token });
-  });
-
-  // ── 인증 필요 ──
+  // 로컬 전용 앱 — 인증 계층 제거(외부 노출 시 재도입 필요).
   const api = new Hono();
-  api.use('*', requireAuth);
 
   // 최신 브리핑
   api.get('/briefing', (c) => {
@@ -84,6 +77,98 @@ export function buildApp() {
       const n = body.n && body.n > 0 ? body.n : cfg.more_count;
       const result = await loadMore(id, n);
       return c.json(result);
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      return c.json({ error: msg }, 500);
+    }
+  });
+
+  // 코더 추천 (재)생성 — 추천 없이 만들어진 브리핑(구버전·AI 실패)의 소급 채움용.
+  // 아이템을 새로 만들지 않고 저장된 요약만 읽으므로 과거 브리핑도 허용(더보기 갱신과 다름).
+  api.post('/briefing/:id/recommend', async (c) => {
+    try {
+      const picks = await recommendBriefing(Number(c.req.param('id')));
+      if (picks.length === 0) return c.json({ error: '추천 생성 실패(AI 백엔드 확인)' }, 500);
+      const view = getBriefingView(Number(c.req.param('id')));
+      return c.json({ coderPicks: view?.coderPicks ?? [] });
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      return c.json({ error: msg }, 500);
+    }
+  });
+
+  // ── 글 상세 — 심층 요약·기사 기반 질문 ──
+  api.get('/item/:id', (c) => {
+    const view = getItemDetail(Number(c.req.param('id')));
+    if (!view) return c.json({ error: '없음' }, 404);
+    return c.json({ item: view });
+  });
+
+  // 심층 요약 생성(+캐시). 로컬 LLM이라 수십 초 걸릴 수 있음 — 동기 대기 응답.
+  api.post('/item/:id/deep', async (c) => {
+    try {
+      const deep = await generateDeep(Number(c.req.param('id')));
+      return c.json({ deep });
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      return c.json({ error: msg }, 500);
+    }
+  });
+
+  // 기사 기반 질문. history 는 클라이언트 보관(서버 무저장) — [{role,content}] 최근 10턴만 수용.
+  api.post('/item/:id/ask', async (c) => {
+    type AskBody = { question?: string; history?: { role: string; content: string }[] };
+    const body = await c.req.json<AskBody>().catch(() => ({}) as AskBody);
+    const question = (body.question ?? '').trim();
+    if (!question) return c.json({ error: '질문이 비어 있습니다' }, 400);
+    const history = (body.history ?? [])
+      .filter(
+        (m): m is { role: 'user' | 'assistant'; content: string } =>
+          (m.role === 'user' || m.role === 'assistant') && typeof m.content === 'string',
+      )
+      .slice(-10);
+    try {
+      const answer = await askItem(Number(c.req.param('id')), question, history);
+      return c.json({ answer });
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      return c.json({ error: msg }, 500);
+    }
+  });
+
+  // ── 온디맨드 수집 (버튼 트리거) ──
+  // 동기 대기 응답(/briefing/:id/more 와 동형). runExclusive 가 null 이면 이미 실행 중 → 409.
+  api.post('/collect/briefing', async (c) => {
+    try {
+      const result = await runExclusive('briefing', () => generateBriefing());
+      if (result === null) return c.json({ error: '이미 수집 중입니다' }, 409);
+      return c.json({ result });
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      return c.json({ error: msg }, 500);
+    }
+  });
+
+  api.post('/collect/best', async (c) => {
+    try {
+      const results = await runExclusive('best', () => collectAndStoreBest());
+      if (results === null) return c.json({ error: '이미 수집 중입니다' }, 409);
+      return c.json({ results });
+    } catch (e) {
+      const msg = e instanceof Error ? e.message : String(e);
+      return c.json({ error: msg }, 500);
+    }
+  });
+
+  api.post('/collect/github', async (c) => {
+    try {
+      const out = await runExclusive('github', async () => {
+        const results = await collectAndStoreTrending();
+        const summarized = await summarizeTrendingRepos();
+        return { results, summarized };
+      });
+      if (out === null) return c.json({ error: '이미 수집 중입니다' }, 409);
+      return c.json(out);
     } catch (e) {
       const msg = e instanceof Error ? e.message : String(e);
       return c.json({ error: msg }, 500);
@@ -281,6 +366,7 @@ export function buildApp() {
       lead_minutes?: number;
       more_count?: number;
       timezone?: string;
+      auto_collect?: boolean;
     }>();
     const db = getDb();
     const cur = db.prepare('SELECT * FROM config WHERE id = 1').get() as Record<
@@ -288,13 +374,15 @@ export function buildApp() {
       unknown
     >;
     db.prepare(
-      `UPDATE config SET arrival_time = ?, lead_minutes = ?, more_count = ?, timezone = ?
+      `UPDATE config SET arrival_time = ?, lead_minutes = ?, more_count = ?, timezone = ?,
+        auto_collect = ?
        WHERE id = 1`,
     ).run(
       body.arrival_time ?? cur.arrival_time,
       body.lead_minutes ?? cur.lead_minutes,
       body.more_count ?? cur.more_count,
       body.timezone ?? cur.timezone,
+      body.auto_collect === undefined ? cur.auto_collect : body.auto_collect ? 1 : 0,
     );
     scheduleJobs(); // 시간 바뀌면 cron 재설치
     return c.json(db.prepare('SELECT * FROM config WHERE id = 1').get());

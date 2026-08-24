@@ -22,7 +22,8 @@ CREATE TABLE IF NOT EXISTS config (
   arrival_time TEXT NOT NULL DEFAULT '05:00',   -- 완성품 도착 시각 HH:MM
   lead_minutes INTEGER NOT NULL DEFAULT 30,     -- 도착 N분 전에 수집·AI 시작 (05:00 도착 → 04:30 수집)
   more_count   INTEGER NOT NULL DEFAULT 7,      -- '더보기' 한줄 개수
-  timezone     TEXT NOT NULL DEFAULT 'Asia/Seoul'
+  timezone     TEXT NOT NULL DEFAULT 'Asia/Seoul',
+  auto_collect INTEGER NOT NULL DEFAULT 0       -- 1이면 매일 cron 자동 수집 (기본: 버튼 수집만)
 );
 
 CREATE TABLE IF NOT EXISTS sources (
@@ -62,7 +63,8 @@ CREATE TABLE IF NOT EXISTS briefings (
   created_at   INTEGER NOT NULL,
   arrival_date TEXT NOT NULL,        -- YYYY-MM-DD
   must_read_json TEXT NOT NULL,      -- item id 배열
-  more_json      TEXT NOT NULL       -- item id 배열
+  more_json      TEXT NOT NULL,      -- item id 배열
+  recommended_json TEXT              -- 코더 추천 [{id, reason}] 배열 (nullable — 구브리핑/실패 시 없음)
 );
 
 CREATE TABLE IF NOT EXISTS push_subs (
@@ -169,6 +171,15 @@ CREATE TABLE IF NOT EXISTS github_trending (
 );
 CREATE INDEX IF NOT EXISTS idx_gh_trending_period_rank ON github_trending(period, rank);
 
+-- 글 상세(심층 요약·질문) 캐시. body=크롤링 원문(질문 컨텍스트로 재사용),
+-- deep_json={overview, points[], takeaway}. 아이템당 1행, 재생성은 UPSERT.
+CREATE TABLE IF NOT EXISTS item_deep (
+  item_id    INTEGER PRIMARY KEY REFERENCES items(id),
+  body       TEXT,
+  deep_json  TEXT,
+  created_at INTEGER NOT NULL
+);
+
 -- 트렌딩 리포 AI 한국어 요약 캐시. github_trending 은 수집마다 통째 교체되므로
 -- 이름(owner/repo) 키 별도 테이블로 유지 — 같은 리포가 일/주/월·날짜 간 반복 등장해도 1회만 요약.
 CREATE TABLE IF NOT EXISTS github_repo_summaries (
@@ -215,6 +226,18 @@ export function getDb(): Database.Database {
     db.exec(`ALTER TABLE item_status ADD COLUMN bookmarked_at INTEGER`);
   }
 
+  // 마이그레이션: 구버전 briefings(recommended_json 없음)에 컬럼 보강. null = 추천 없음.
+  const brCols = db.prepare(`PRAGMA table_info(briefings)`).all() as { name: string }[];
+  if (brCols.length > 0 && !brCols.some((c) => c.name === 'recommended_json')) {
+    db.exec(`ALTER TABLE briefings ADD COLUMN recommended_json TEXT`);
+  }
+
+  // 마이그레이션: 구버전 config(auto_collect 없음)에 컬럼 보강. 기본 0 = 자동 수집 꺼짐.
+  const cfgCols = db.prepare(`PRAGMA table_info(config)`).all() as { name: string }[];
+  if (cfgCols.length > 0 && !cfgCols.some((c) => c.name === 'auto_collect')) {
+    db.exec(`ALTER TABLE config ADD COLUMN auto_collect INTEGER NOT NULL DEFAULT 0`);
+  }
+
   // 기본 config 시드 (1행)
   const cfgCount = db.prepare('SELECT COUNT(*) AS n FROM config').get() as { n: number };
   if (cfgCount.n === 0) {
@@ -258,6 +281,7 @@ export interface ConfigRow {
   lead_minutes: number;
   more_count: number;
   timezone: string;
+  auto_collect: number;
 }
 
 export interface ItemRow {

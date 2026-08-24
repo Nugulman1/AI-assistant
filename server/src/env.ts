@@ -18,8 +18,10 @@ export const env = {
   tz: process.env.TZ ?? 'Asia/Seoul',
 
   anthropicApiKey: process.env.ANTHROPIC_API_KEY ?? '',
-  passcode: process.env.APP_PASSCODE ?? '',
-  jwtSecret: process.env.JWT_SECRET ?? 'dev-insecure-secret',
+  // 로컬 LLM(Ollama). OLLAMA_MODEL 이 설정되면 모든 AI 호출이 로컬 우선,
+  // 실패 시 Anthropic → 제목 폴백 순으로 내려간다(3단 체인).
+  ollamaUrl: process.env.OLLAMA_URL ?? 'http://localhost:11434',
+  ollamaModel: process.env.OLLAMA_MODEL ?? '',
 
   vapidPublicKey: process.env.VAPID_PUBLIC_KEY ?? '',
   vapidPrivateKey: process.env.VAPID_PRIVATE_KEY ?? '',
@@ -27,5 +29,8 @@ export const env = {
 };
 
 export const hasAI = () => env.anthropicApiKey.length > 0;
+export const hasOllama = () => env.ollamaModel.length > 0;
+/** AI 백엔드가 하나라도 있는가 — 없으면 전 AI 경로가 제목/기타 폴백. */
+export const hasAnyAI = () => hasAI() || hasOllama();
 export const hasPush = () =>
   env.vapidPublicKey.length > 0 && env.vapidPrivateKey.length > 0;

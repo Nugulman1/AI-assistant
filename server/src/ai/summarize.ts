@@ -1,9 +1,5 @@
-import {
-  getClient,
-  MODEL_SUMMARY,
-  MODEL_SUMMARY_LIGHT,
-  parseJsonResponse,
-} from './client.js';
+import { hasAnyAI } from '../env.js';
+import { aiJson, MODEL_SUMMARY, MODEL_SUMMARY_LIGHT } from './client.js';
 
 export interface SummarizeInput {
   id: number;
@@ -108,21 +104,16 @@ async function runMust(
   system: string,
 ): Promise<MustReadSummary[]> {
   if (items.length === 0) return [];
-  const client = getClient();
-  if (!client) return mustFallback(items);
+  if (!hasAnyAI()) return mustFallback(items);
   try {
-    const res = await client.messages.create({
-      model,
-      max_tokens: 2048,
-      system,
-      output_config: { format: { type: 'json_schema', schema: MUST_SCHEMA } },
-      messages: [
-        { role: 'user', content: `다음 기사들을 요약하라.\n\n${buildList(items)}` },
-      ],
-    });
-    const parsed = parseJsonResponse<{
+    const parsed = await aiJson<{
       summaries: { index: number; headline: string; body: string }[];
-    }>(res.content);
+    }>({
+      model,
+      system,
+      schema: MUST_SCHEMA,
+      user: `다음 기사들을 요약하라.\n\n${buildList(items)}`,
+    });
     const out: MustReadSummary[] = [];
     for (const s of parsed.summaries) {
       const it = items[s.index];
@@ -148,21 +139,14 @@ async function runMore(
   system: string,
 ): Promise<MoreLine[]> {
   if (items.length === 0) return [];
-  const client = getClient();
-  if (!client) return moreFallback(items);
+  if (!hasAnyAI()) return moreFallback(items);
   try {
-    const res = await client.messages.create({
+    const parsed = await aiJson<{ lines: { index: number; line: string }[] }>({
       model,
-      max_tokens: 2048,
       system,
-      output_config: { format: { type: 'json_schema', schema: MORE_SCHEMA } },
-      messages: [
-        { role: 'user', content: `다음 기사들을 각각 한 줄로.\n\n${buildList(items)}` },
-      ],
+      schema: MORE_SCHEMA,
+      user: `다음 기사들을 각각 한 줄로.\n\n${buildList(items)}`,
     });
-    const parsed = parseJsonResponse<{ lines: { index: number; line: string }[] }>(
-      res.content,
-    );
     const out: MoreLine[] = [];
     for (const l of parsed.lines) {
       const it = items[l.index];

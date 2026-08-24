@@ -12,6 +12,7 @@ import { rank, makeEffective, type Rankable } from './pipeline/rank.js';
 import { computeGenreWeights } from './pipeline/interest.js';
 import { classifyGenres } from './ai/genre.js';
 import { summarizeMustRead, summarizeMore } from './ai/summarize.js';
+import { recommendForCoders, type CoderPick } from './ai/recommend.js';
 
 function localDate(tz: string): string {
   return new Intl.DateTimeFormat('en-CA', {
@@ -190,6 +191,24 @@ export async function generateBriefing(): Promise<GenerateResult> {
   });
   linkTx();
 
+  // 코더 추천 3선 — 노출된 전체(필독+더보기)에서 이미 만든 요약을 근거로 선정.
+  // 실패는 빈 배열 → 컬럼 null 유지(화면 섹션 숨김). 브리핑 생성 자체는 막지 않는다.
+  const recInputs = shown
+    .filter((i) => idMap.has(i))
+    .map((i) => {
+      const must = mustById.get(i);
+      const summary = must ? `${must.headline} — ${must.body}` : moreById.get(i)?.line ?? pool[i].title;
+      return { id: idMap.get(i)!, title: pool[i].title, genre: genres.get(i) ?? '기타', summary };
+    });
+  const picks = await recommendForCoders(recInputs);
+  if (picks.length > 0) {
+    db.prepare('UPDATE briefings SET recommended_json = ? WHERE id = ?').run(
+      JSON.stringify(picks),
+      briefingId,
+    );
+    console.log(`[briefing] 코더 추천 ${picks.length}건 선정`);
+  }
+
   // ── 나머지 후보를 candidate_pool 로 통째 교체 적재 (갱신=loadMore 의 대기열) ──
   // effective(취향 합성) 내림차순. 첫 묶음과 달리 explore 주입은 안 한다(순수 랭킹순).
   const eff = makeEffective({ genreWeights: weights, totalSignal });
@@ -242,15 +261,61 @@ export async function generateBriefing(): Promise<GenerateResult> {
   };
 }
 
+/**
+ * 기존 브리핑의 코더 추천을 (재)생성 — 소급 채움용.
+ * 해당 브리핑에 노출된 아이템들의 저장된 요약을 근거로 선정해 recommended_json 갱신.
+ */
+export async function recommendBriefing(briefingId: number): Promise<CoderPick[]> {
+  const db = getDb();
+  const b = db
+    .prepare('SELECT must_read_json, more_json FROM briefings WHERE id = ?')
+    .get(briefingId) as { must_read_json: string; more_json: string } | undefined;
+  if (!b) return [];
+
+  const ids: number[] = [...JSON.parse(b.must_read_json), ...JSON.parse(b.more_json)];
+  const getItem = db.prepare('SELECT * FROM items WHERE id = ?');
+  const inputs = ids
+    .map((id) => getItem.get(id) as ItemRow | undefined)
+    .filter((x): x is ItemRow => !!x)
+    .map((it) => {
+      let summary = it.summary ?? it.title;
+      if (it.summary_type === 'must_read') {
+        try {
+          const p = JSON.parse(it.summary ?? '{}');
+          summary = p.headline ? `${p.headline} — ${p.body ?? ''}` : it.title;
+        } catch {
+          summary = it.title;
+        }
+      }
+      return { id: it.id, title: it.title, genre: it.genre, summary };
+    });
+
+  const picks = await recommendForCoders(inputs);
+  if (picks.length > 0)
+    db.prepare('UPDATE briefings SET recommended_json = ? WHERE id = ?').run(
+      JSON.stringify(picks),
+      briefingId,
+    );
+  return picks;
+}
+
 /** 브리핑 1건을 화면용 형태(필독/더보기 아이템 포함)로 조립. */
 export function getBriefingView(briefingId?: number) {
   const db = getDb();
+  type BriefingRow = {
+    id: number;
+    created_at: number;
+    arrival_date: string;
+    must_read_json: string;
+    more_json: string;
+    recommended_json: string | null;
+  };
   const briefing = briefingId
     ? (db.prepare('SELECT * FROM briefings WHERE id = ?').get(briefingId) as
-        | { id: number; created_at: number; arrival_date: string; must_read_json: string; more_json: string }
+        | BriefingRow
         | undefined)
     : (db.prepare('SELECT * FROM briefings ORDER BY created_at DESC, id DESC LIMIT 1').get() as
-        | { id: number; created_at: number; arrival_date: string; must_read_json: string; more_json: string }
+        | BriefingRow
         | undefined);
   if (!briefing) return null;
 
@@ -319,12 +384,50 @@ export function getBriefingView(briefingId?: number) {
       line: it.summary ?? it.title,
     }));
 
+  // 코더 추천 — [{id, reason}] 를 아이템 정보와 합쳐 화면용으로. 구브리핑(null)은 빈 배열.
+  let picks: CoderPick[] = [];
+  try {
+    picks = JSON.parse(briefing.recommended_json ?? '[]');
+  } catch {
+    picks = [];
+  }
+  const coderPicks = picks
+    .map((p) => {
+      const it = load(p.id);
+      if (!it) return null;
+      // 필독 아이템이면 summary 가 JSON({headline, body}) — 한 줄 표기는 headline 사용.
+      let line = it.summary ?? it.title;
+      if (it.summary_type === 'must_read') {
+        try {
+          line = JSON.parse(it.summary ?? '{}').headline ?? it.title;
+        } catch {
+          line = it.title;
+        }
+      }
+      return {
+        id: it.id,
+        title: it.title,
+        url: it.url,
+        genre: it.genre,
+        source: it.source_name,
+        score: it.score,
+        comments: it.comments,
+        feedback: it.feedback_kind,
+        isRead: !!it.is_read,
+        isBookmarked: !!it.is_bookmarked,
+        line,
+        reason: p.reason,
+      };
+    })
+    .filter((x): x is NonNullable<typeof x> => !!x);
+
   return {
     id: briefing.id,
     arrivalDate: briefing.arrival_date,
     createdAt: briefing.created_at,
     mustRead,
     more,
+    coderPicks,
   };
 }
 

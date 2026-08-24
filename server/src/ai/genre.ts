@@ -1,5 +1,6 @@
 import { GENRES } from '../db.js';
-import { getClient, MODEL_GENRE, parseJsonResponse } from './client.js';
+import { hasAnyAI } from '../env.js';
+import { aiJson, MODEL_GENRE } from './client.js';
 
 export interface ClassifyInput {
   id: number;
@@ -33,7 +34,7 @@ const SCHEMA = {
 } as const;
 
 /**
- * Haiku 4.5 로 각 기사를 8장르 분류. AI 키 없으면 전부 '기타'.
+ * 각 기사를 8장르 분류(로컬 Ollama 우선, 폴백 Haiku). AI 백엔드 없으면 전부 '기타'.
  * 반환: id → genre 맵.
  */
 export async function classifyGenres(
@@ -42,8 +43,7 @@ export async function classifyGenres(
   const result = new Map<number, string>();
   if (items.length === 0) return result;
 
-  const client = getClient();
-  if (!client) {
+  if (!hasAnyAI()) {
     for (const it of items) result.set(it.id, '기타');
     return result;
   }
@@ -53,21 +53,15 @@ export async function classifyGenres(
     .join('\n');
 
   try {
-    const res = await client.messages.create({
-      model: MODEL_GENRE,
-      max_tokens: 4096,
-      system: SYSTEM,
-      output_config: { format: { type: 'json_schema', schema: SCHEMA } },
-      messages: [
-        {
-          role: 'user',
-          content: `다음 기사들을 장르 분류하라. index 는 아래 번호 그대로.\n\n${list}`,
-        },
-      ],
-    });
-    const parsed = parseJsonResponse<{
+    const parsed = await aiJson<{
       classifications: { index: number; genre: string }[];
-    }>(res.content);
+    }>({
+      model: MODEL_GENRE,
+      maxTokens: 4096,
+      system: SYSTEM,
+      schema: SCHEMA,
+      user: `다음 기사들을 장르 분류하라. index 는 아래 번호 그대로.\n\n${list}`,
+    });
     for (const c of parsed.classifications) {
       const it = items[c.index];
       if (it) result.set(it.id, c.genre);

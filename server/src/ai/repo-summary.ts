@@ -3,7 +3,8 @@
  * README(본문)가 있으니 기존 컨벤션대로 Haiku(MODEL_SUMMARY_LIGHT) 사용.
  * 실패는 빈 배열로 격리 — 요약 없는 리포는 다음 수집 사이클에 자연 재시도된다(캐시 미적재).
  */
-import { getClient, MODEL_SUMMARY_LIGHT, parseJsonResponse } from './client.js';
+import { hasAnyAI } from '../env.js';
+import { aiJson, MODEL_SUMMARY_LIGHT } from './client.js';
 
 export interface RepoSummaryInput {
   name: string; // 'owner/repo'
@@ -60,24 +61,16 @@ function buildList(items: RepoSummaryInput[]): string {
 
 /** 한 배치 요약. 실패·클라이언트 없음 → []. */
 async function runBatch(items: RepoSummaryInput[]): Promise<RepoSummary[]> {
-  const client = getClient();
-  if (!client || items.length === 0) return [];
+  if (!hasAnyAI() || items.length === 0) return [];
   try {
-    const res = await client.messages.create({
-      model: MODEL_SUMMARY_LIGHT,
-      max_tokens: 2048,
-      system: SYSTEM,
-      output_config: { format: { type: 'json_schema', schema: SCHEMA } },
-      messages: [
-        {
-          role: 'user',
-          content: `다음 리포지토리들을 각각 요약하라.\n\n${buildList(items)}`,
-        },
-      ],
-    });
-    const parsed = parseJsonResponse<{
+    const parsed = await aiJson<{
       summaries: { index: number; summary: string }[];
-    }>(res.content);
+    }>({
+      model: MODEL_SUMMARY_LIGHT,
+      system: SYSTEM,
+      schema: SCHEMA,
+      user: `다음 리포지토리들을 각각 요약하라.\n\n${buildList(items)}`,
+    });
     const out: RepoSummary[] = [];
     for (const s of parsed.summaries) {
       const it = items[s.index];

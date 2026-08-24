@@ -9,6 +9,11 @@
   let exhausted = false;
   let moreError = '';
   let hideRead = false; // 켜면 읽은 글을 목록에서 접음
+  let collecting = false;
+  let collectMsg = ''; // 수집 결과 안내 ('새 글이 없습니다' 등)
+  let collectError = '';
+  let recommendLoading = false; // 코더 추천 소급 생성(추천 없는 브리핑 전용 버튼)
+  let recommendError = '';
 
   // 과거 브리핑 이동용 — 목록은 id DESC(최신이 index 0)로 온다(server: /api/briefings).
   let briefingList = [];
@@ -67,6 +72,26 @@
   const goPrev = () => goToBriefing(navIndex + 1); // 목록은 최신이 먼저이므로 +1 = 더 과거
   const goNext = () => goToBriefing(navIndex - 1); // -1 = 더 최신
 
+  // 지금 수집 — 서버에서 수집·요약까지 끝내고 새 브리핑을 만든다(1~2분).
+  async function collect() {
+    if (collecting) return;
+    collecting = true;
+    collectMsg = '';
+    collectError = '';
+    try {
+      const { result } = await api.collectBriefing();
+      if (result.created) {
+        await load(); // 새 브리핑이 최신이 됐으니 전체 리로드(날짜 목록 포함)
+      } else {
+        collectMsg = '새 글이 없습니다 — 이미 본 글을 빼면 담을 게 없었어요.';
+      }
+    } catch (e) {
+      collectError = e instanceof Error ? e.message : String(e);
+    } finally {
+      collecting = false;
+    }
+  }
+
   // 갱신 — 풀의 다음 글들을 그때 요약해 더보기 아래에 한줄로 추가. 소진 시 비활성.
   async function loadMore() {
     if (!briefing || moreLoading || exhausted) return;
@@ -87,6 +112,26 @@
       }
     } finally {
       moreLoading = false;
+    }
+  }
+
+  // 코더 추천 소급 생성 — 추천 없는 브리핑(구버전·AI 실패)에서만 노출되는 버튼.
+  async function makeRecommend() {
+    if (!briefing || recommendLoading) return;
+    const target = briefing;
+    recommendLoading = true;
+    recommendError = '';
+    try {
+      const { coderPicks } = await api.recommend(target.id);
+      if (briefing !== target) return; // await 중 브리핑 이동 시 폐기(loadMore와 동형)
+      briefing.coderPicks = coderPicks;
+      briefing = briefing; // 반응성 트리거
+    } catch (e) {
+      if (briefing === target) {
+        recommendError = e instanceof Error ? e.message : String(e);
+      }
+    } finally {
+      recommendLoading = false;
     }
   }
 
@@ -169,7 +214,12 @@
   <p style="color:#f87171;margin-top:32px">{error}</p>
 {:else if !briefing}
   <h1>아직 브리핑이 없습니다</h1>
-  <p class="muted">브리핑은 매일 설정한 도착 시각(기본 새벽 5시)에 자동으로 도착합니다.</p>
+  <p class="muted">아래 수집 버튼을 눌러 첫 브리핑을 만들어 보세요.</p>
+  <button class="fb-btn ghost" on:click={collect} disabled={collecting} style="padding:10px 20px">
+    {collecting ? '수집 중… (1~2분)' : '⟳ 지금 수집'}
+  </button>
+  {#if collectMsg}<p class="muted" style="margin-top:8px">{collectMsg}</p>{/if}
+  {#if collectError}<p style="color:#f87171;margin-top:8px;font-size:0.85em">수집 실패: {collectError}</p>{/if}
 {:else}
   <div class="head-row">
     <div>
@@ -181,10 +231,17 @@
         <button class="fb-btn ghost" on:click={goNext} disabled={isLatest || navLoading}>다음 →</button>
       </div>
     </div>
-    <label class="hide-read">
-      <input type="checkbox" bind:checked={hideRead} /> 읽은 글 숨기기
-    </label>
+    <div class="head-actions">
+      <button class="fb-btn ghost collect-btn" on:click={collect} disabled={collecting}>
+        {collecting ? '수집 중… (1~2분)' : '⟳ 지금 수집'}
+      </button>
+      <label class="hide-read">
+        <input type="checkbox" bind:checked={hideRead} /> 읽은 글 숨기기
+      </label>
+    </div>
   </div>
+  {#if collectMsg}<p class="muted" style="margin:4px 0">{collectMsg}</p>{/if}
+  {#if collectError}<p style="color:#f87171;margin:4px 0;font-size:0.85em">수집 실패: {collectError}</p>{/if}
 
   <h2>필독</h2>
   {#if briefing.mustRead.length === 0}
@@ -213,6 +270,7 @@
           on:click|stopPropagation={() => toggleBookmark(item)}>{item.isBookmarked ? '🔖 북마크됨' : '🔖 북마크'}</button>
         <button class="fb-btn ghost" class:active={item.isRead}
           on:click|stopPropagation={() => toggleRead(item)}>{item.isRead ? '✓ 읽음' : '읽음 표시'}</button>
+        <a class="fb-btn ghost" href={`/item/${item.id}`} on:click|stopPropagation>🤖 AI 요약·질문</a>
       </div>
       {#if item._reasonOpen}
         <input class="fb-reason" placeholder="왜 좋은지/관심없는지 (선택)"
@@ -223,6 +281,32 @@
     </div>
     {/if}
   {/each}
+
+  <h2>💡 코더 추천</h2>
+  {#if briefing.coderPicks && briefing.coderPicks.length > 0}
+    {#each briefing.coderPicks as item}
+      <div class="card pick" class:read={item.isRead} on:click={() => open(item)} role="link" tabindex="0"
+        on:keydown={(e) => e.key === 'Enter' && open(item)} style="cursor:pointer">
+        <div class="tags">
+          {#if item.source}<span class="src-tag">{item.source}</span>{/if}
+          {#if item.genre}<span class="genre">{item.genre}</span>{/if}
+        </div>
+        <div class="headline">{item.line}</div>
+        <div class="pick-reason">→ {item.reason}</div>
+        <div class="fb-actions">
+          <a class="fb-btn ghost" href={`/item/${item.id}`} on:click|stopPropagation>🤖 AI 요약·질문</a>
+        </div>
+      </div>
+    {/each}
+  {:else}
+    <div class="pick-empty">
+      <span class="muted">이 브리핑엔 아직 코더 추천이 없습니다.</span>
+      <button class="fb-btn ghost" on:click={makeRecommend} disabled={recommendLoading}>
+        {recommendLoading ? '선정 중…' : '지금 생성'}
+      </button>
+      {#if recommendError}<p style="color:#f87171;margin:4px 0;font-size:0.85em">{recommendError}</p>{/if}
+    </div>
+  {/if}
 
   <h2>더보기</h2>
   {#each briefing.more as item}
@@ -245,6 +329,7 @@
           on:click|stopPropagation={() => toggleBookmark(item)}>{item.isBookmarked ? '🔖' : '🔖'}</button>
         <button class="fb-btn ghost" class:active={item.isRead}
           on:click|stopPropagation={() => toggleRead(item)}>{item.isRead ? '✓' : '읽음'}</button>
+        <a class="fb-btn ghost" href={`/item/${item.id}`} on:click|stopPropagation>🤖</a>
       </div>
       {#if item._reasonOpen}
         <input class="fb-reason" placeholder="왜 좋은지/관심없는지 (선택)"
@@ -266,7 +351,7 @@
         {moreLoading ? '불러오는 중…' : '↻ 갱신 — 다음 글 더 보기'}
       </button>
     {:else}
-      <p class="muted" style="margin:8px 0">오늘 글은 여기까지입니다 — 내일 새벽 브리핑에서 더 보여드립니다.</p>
+      <p class="muted" style="margin:8px 0">오늘 글은 여기까지입니다 — 위의 수집 버튼으로 새 브리핑을 만들 수 있습니다.</p>
     {/if}
     {#if moreError}
       <p style="color:#f87171;margin:4px 0;font-size:0.85em">불러오기 실패: {moreError}</p>
@@ -281,6 +366,20 @@
     align-items: flex-start;
     gap: 12px;
   }
+  .head-actions {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 8px;
+    margin-top: 8px;
+  }
+  .collect-btn {
+    white-space: nowrap;
+  }
+  .collect-btn:disabled {
+    opacity: 0.6;
+    cursor: default;
+  }
   .hide-read {
     display: flex;
     align-items: center;
@@ -289,7 +388,6 @@
     color: #aaa;
     white-space: nowrap;
     cursor: pointer;
-    margin-top: 8px;
   }
   .date-nav {
     display: flex;
@@ -316,6 +414,25 @@
     padding: 2px 8px;
     border-radius: 6px;
     white-space: nowrap;
+  }
+  /* 코더 추천 — 필독 카드와 동형이되 왼쪽 포인트 라인으로 구분 */
+  .card.pick {
+    border-left: 3px solid var(--accent);
+  }
+  .pick-reason {
+    margin-top: 6px;
+    font-size: 13px;
+    color: var(--accent);
+  }
+  .pick-empty {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 4px 0 12px;
+  }
+  a.fb-btn {
+    text-decoration: none;
+    display: inline-block;
   }
   /* 읽은 글은 흐리게 — 호버 시 원래대로 */
   .card.read,
