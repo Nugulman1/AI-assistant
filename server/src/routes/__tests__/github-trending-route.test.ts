@@ -14,29 +14,17 @@ import fs from 'node:fs';
  *  구현 전에도 통과해 RED 신호가 안 되기 때문.)
  */
 let app: { request: (p: string, init?: RequestInit) => Promise<Response> };
-let token: string;
 
 beforeAll(async () => {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'gh-trending-route-'));
   process.env.DB_PATH = path.join(dir, 'test.sqlite');
-  process.env.JWT_SECRET = 'test-secret';
 
   const { buildApp } = await import('../../routes.js');
-  const { env } = await import('../../env.js');
-  const { sign } = await import('hono/jwt');
 
   app = buildApp() as unknown as typeof app;
-  token = await sign(
-    { sub: 'owner', exp: Math.floor(Date.now() / 1000) + 3600 },
-    env.jwtSecret,
-    'HS256',
-  );
 });
 
-const authedGet = (qs: string) =>
-  app.request(`/api/github-trending${qs}`, {
-    headers: { Authorization: `Bearer ${token}` },
-  });
+const authedGet = (qs: string) => app.request(`/api/github-trending${qs}`);
 
 describe('GET /api/github-trending — 기간별 조회 라우트', () => {
   it('period=daily → 200 + { period:"daily", items:[] } (데이터 없으면 빈 배열)', async () => {

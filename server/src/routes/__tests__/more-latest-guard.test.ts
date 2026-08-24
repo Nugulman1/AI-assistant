@@ -27,6 +27,7 @@ beforeAll(async () => {
   process.env.DB_PATH = path.join(dir, 'test.sqlite');
   process.env.JWT_SECRET = 'test-secret';
   process.env.ANTHROPIC_API_KEY = ''; // AI 오프 → summarizeMore 제목 폴백 경로
+  process.env.OLLAMA_MODEL = ''; // 로컬 LLM도 오프 — 테스트가 실 백엔드를 호출하지 않게
 
   const { getDb } = await import('../../db.js');
   const { buildApp } = await import('../../routes.js');
@@ -37,7 +38,7 @@ beforeAll(async () => {
   app = buildApp() as unknown as typeof app;
   token = await sign(
     { sub: 'owner', exp: Math.floor(Date.now() / 1000) + 3600 },
-    env.jwtSecret,
+    'test-secret',
     'HS256',
   );
 

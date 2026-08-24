@@ -75,7 +75,7 @@ beforeAll(async () => {
   app = buildApp() as unknown as typeof app;
   token = await sign(
     { sub: 'owner', exp: Math.floor(Date.now() / 1000) + 3600 },
-    env.jwtSecret,
+    'test-secret',
     'HS256',
   );
 

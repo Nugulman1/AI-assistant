@@ -18,7 +18,7 @@ beforeAll(async () => {
   const { env } = await import('../../env.js');
   db = getDb();
   app = buildApp();
-  token = await sign({ sub: 'owner', exp: Math.floor(Date.now() / 1000) + 3600 }, env.jwtSecret, 'HS256');
+  token = await sign({ sub: 'owner', exp: Math.floor(Date.now() / 1000) + 3600 }, 'test-secret', 'HS256');
 
   // 시계역행 시나리오: X(id 작음, created_at 큼=진짜 최신) → 역행 후 Y(id 큼, created_at 작음)
   db.prepare(

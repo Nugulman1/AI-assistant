@@ -1,9 +1,7 @@
 <script>
   import '../app.css';
   import { onMount } from 'svelte';
-  import { token } from '$lib/store.js';
   import { page } from '$app/stores';
-  import { goto } from '$app/navigation';
 
   // PWA 서비스워커 등록 (dev/prod 경로를 플러그인이 알아서 처리)
   onMount(async () => {
@@ -14,16 +12,6 @@
       /* SW 미지원 환경은 무시 */
     }
   });
-
-  // 토큰 없으면 로그인으로 (로그인 페이지 제외)
-  $: if ($token === null && $page.url.pathname !== '/login') {
-    goto('/login');
-  }
-
-  function logout() {
-    token.set(null);
-    goto('/login');
-  }
 
   $: path = $page.url.pathname;
   const links = [
@@ -36,15 +24,11 @@
   ];
 </script>
 
-{#if $token}
-  <nav class="nav">
-    {#each links as l}
-      <a href={l.href} class:active={path === l.href}>{l.label}</a>
-    {/each}
-    <span class="spacer"></span>
-    <button on:click={logout}>로그아웃</button>
-  </nav>
-{/if}
+<nav class="nav">
+  {#each links as l}
+    <a href={l.href} class:active={path === l.href}>{l.label}</a>
+  {/each}
+</nav>
 
 <main class="container">
   <slot />

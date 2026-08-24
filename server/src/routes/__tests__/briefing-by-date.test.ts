@@ -19,7 +19,6 @@ import type Database from 'better-sqlite3';
 // 예상 라우트: GET /api/briefing/by-date/:date (아직 미존재 → RED).
 let app: { request: (p: string, init?: RequestInit) => Promise<Response> };
 let db: Database.Database;
-let token: string;
 
 // 같은 날짜(2026-07-01)에 브리핑 2건 — 최신(id 큰 쪽) 반환 검증용
 let idBriefingOld: number;
@@ -54,9 +53,7 @@ function insertBriefing(
 }
 
 async function getByDate(date: string): Promise<Response> {
-  return app.request(`/api/briefing/by-date/${date}`, {
-    headers: { Authorization: `Bearer ${token}` },
-  });
+  return app.request(`/api/briefing/by-date/${date}`);
 }
 
 // 매칭되는 라우트가 없으면 Hono 기본 404 는 텍스트 본문("404 Not Found") → JSON 파싱 실패.
@@ -73,20 +70,12 @@ async function readJson(res: Response): Promise<unknown> {
 beforeAll(async () => {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'briefing-by-date-'));
   process.env.DB_PATH = path.join(dir, 'test.sqlite');
-  process.env.JWT_SECRET = 'test-secret';
 
   const { getDb } = await import('../../db.js');
   const { buildApp } = await import('../../routes.js');
-  const { env } = await import('../../env.js');
-  const { sign } = await import('hono/jwt');
 
   db = getDb(); // 스키마 생성 + config/sources 시드 (source id=1 존재)
   app = buildApp() as unknown as typeof app;
-  token = await sign(
-    { sub: 'owner', exp: Math.floor(Date.now() / 1000) + 3600 },
-    env.jwtSecret,
-    'HS256',
-  );
 
   // 아이템 시드
   const mustOld = insertItem('must-old');
@@ -146,9 +135,5 @@ describe('GET /api/briefing/by-date/:date (RED 박제)', () => {
     expect(typeof body!.error).not.toBe('undefined');
   });
 
-  // 기준 5: 인증 필수 → 401 (주의: 라우트가 없어도 requireAuth('*')가 먼저 401 → 이미 GREEN 가능)
-  it('기준5: Authorization 헤더 없이 → 401', async () => {
-    const res = await app.request('/api/briefing/by-date/2026-07-01');
-    expect(res.status).toBe(401);
-  });
+  // (구)기준 5: 인증 필수 401 — 인증 계층 제거로 폐기(로컬 전용 앱).
 });
