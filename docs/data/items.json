@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T11:59:27.948Z",
+ "generatedAt": "2026-09-09T23:03:26.977Z",
  "items": [
   {
    "id": "4ea44598f405",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-09-08T21:22:11.000Z",
    "hn": {
     "id": "49617255",
-    "points": 365,
-    "comments": 81
+    "points": 430,
+    "comments": 100
    },
-   "score": 61,
+   "score": 96,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -29,8 +29,8 @@
    "publishedAt": "2026-09-08T11:30:00.000Z",
    "hn": {
     "id": "49614720",
-    "points": 353,
-    "comments": 423
+    "points": 372,
+    "comments": 440
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -45,8 +45,8 @@
    "publishedAt": "2026-09-08T10:00:00.000Z",
    "hn": {
     "id": "49613262",
-    "points": 1279,
-    "comments": 1029
+    "points": 1324,
+    "comments": 1105
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -61,8 +61,8 @@
    "publishedAt": "2026-09-08T01:56:35.000Z",
    "hn": {
     "id": "49604861",
-    "points": 599,
-    "comments": 343
+    "points": 611,
+    "comments": 346
    },
    "score": 78,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
@@ -80,6 +80,322 @@
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
+   "id": "dcac57244c19",
+   "title": "iPhone Duo",
+   "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T18:15:43.000Z",
+   "hn": {
+    "id": "49630931",
+    "points": 755,
+    "comments": 1489
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "adf1e0a04e76",
+   "title": "AirPods 5",
+   "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T17:39:24.000Z",
+   "hn": {
+    "id": "49630253",
+    "points": 336,
+    "comments": 268
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "44084287147f",
+   "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+   "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T14:37:47.000Z",
+   "hn": {
+    "id": "49627370",
+    "points": 314,
+    "comments": 115
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "8ef59f4ca466",
+   "title": "Shopify acquires Tailwind",
+   "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T13:27:11.000Z",
+   "hn": {
+    "id": "49626190",
+    "points": 827,
+    "comments": 332
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "2368646fcf5a",
+   "title": "How I advertise malicious software on Google Ads",
+   "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T11:43:21.000Z",
+   "hn": {
+    "id": "49624856",
+    "points": 337,
+    "comments": 201
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "ae8f5d19ba3d",
+   "title": "Desert Ant Labs: local, fast models that run on device",
+   "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T11:39:46.000Z",
+   "hn": {
+    "id": "49624823",
+    "points": 369,
+    "comments": 88
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "ba08af0c3b2d",
+   "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
+   "url": "https://news.ycombinator.com/item?id=49624603",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T11:19:26.000Z",
+   "hn": {
+    "id": "49624603",
+    "points": 391,
+    "comments": 202
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "1e6a4408d9dc",
+   "title": "Flock Wants a Closely Surveilled World with No Exit",
+   "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T10:54:18.000Z",
+   "hn": {
+    "id": "49624394",
+    "points": 546,
+    "comments": 520
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "e44f26fcf847",
+   "title": "Claude, change the “Add to Cart” button to blue",
+   "url": "https://opusfived.dev/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T09:39:46.000Z",
+   "hn": {
+    "id": "49623754",
+    "points": 943,
+    "comments": 381
+   },
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "3fe48cf9aa19",
+   "title": "Apple Event for September 9th, 2026",
+   "url": "https://www.apple.com/apple-events/event-stream/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T16:54:31.267Z",
+   "score": 40,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "69504c919183",
+   "title": "I Don’t Want to Interact With Stochastic Parrots",
+   "url": "https://ploum.net/2026-09-09-ai_policy.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T17:18:32.413Z",
+   "score": 56,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "ebad43658b9a",
+   "title": "A decade of rustls",
+   "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T11:13:13.488Z",
+   "score": 49,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "7020eb18545f",
+   "title": "The purpose of DNS is to spread scams",
+   "url": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T13:32:22.032Z",
+   "score": 19,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "f898a6fd98c4",
+   "title": "A Design Space Exploration of Async/Await",
+   "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T15:22:32.302Z",
+   "score": 19,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "ff9d2e28a3a5",
+   "title": "Solaris Turnstiles",
+   "url": "https://rdmsr.github.io/writing/turnstiles/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T08:14:25.329Z",
+   "score": 33,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "89bbdfee8976",
+   "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T13:21:19.648Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "dbbafd120430",
+   "title": "Why Emacs Consult async searches feel slow and how to speed them up",
+   "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T13:09:45.692Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "cfd18d79c4b8",
+   "title": "The State of Allocators in 2026 - 6 Months Later",
+   "url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T06:43:42.537Z",
+   "score": 24,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "25f2cee3aaea",
+   "title": "Why Function Arguments Are Not Function Colors",
+   "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T04:13:05.979Z",
+   "score": 17,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "1789e7ae208f",
+   "title": "Analysing 2048 on a 3×3 board",
+   "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T13:24:26.568Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "534907e0d31e",
+   "title": "Paul Christiano joins OpenAI Foundation Board",
+   "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-09T17:00:00.000Z",
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "587a70348a73",
+   "title": "GPT-6 Astra: The next generation in intelligence for work",
+   "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-09T11:00:00.000Z",
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "4515f59f0bdc",
+   "title": "[$] Typst makes big strides",
+   "url": "https://lwn.net/Articles/1092993/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-09T15:37:55.000Z",
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "ce419bf53cc7",
+   "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
+   "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-09T13:00:00.000Z",
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "42b432deee76",
+   "title": "Social Media Engagement: summer 2026",
+   "url": "https://martinfowler.com/articles/2026-social-traffic.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-09-09T16:21:00.000Z",
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
+   "id": "bd9f5944e445",
+   "title": "Building Codex with Tibo Sottiaux",
+   "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-09-09T15:57:24.000Z",
+   "firstSeenAt": "2026-09-09T23:03:26.977Z"
+  },
+  {
    "id": "99dd5e3bdc5c",
    "title": "I resigned from Anthropic today",
    "url": "https://twitter.com/hilbertspaess/status/2097476196791709843#m",
@@ -89,8 +405,8 @@
    "publishedAt": "2026-09-09T00:40:40.000Z",
    "hn": {
     "id": "49619227",
-    "points": 589,
-    "comments": 793
+    "points": 673,
+    "comments": 951
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -104,8 +420,8 @@
    "publishedAt": "2026-09-08T21:00:52.000Z",
    "hn": {
     "id": "49616968",
-    "points": 387,
-    "comments": 340
+    "points": 466,
+    "comments": 398
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -119,8 +435,8 @@
    "publishedAt": "2026-09-08T19:25:00.000Z",
    "hn": {
     "id": "49615537",
-    "points": 537,
-    "comments": 590
+    "points": 634,
+    "comments": 691
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -134,8 +450,8 @@
    "publishedAt": "2026-09-08T16:07:08.000Z",
    "hn": {
     "id": "49612329",
-    "points": 542,
-    "comments": 334
+    "points": 566,
+    "comments": 347
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -149,8 +465,8 @@
    "publishedAt": "2026-09-08T14:55:45.000Z",
    "hn": {
     "id": "49611251",
-    "points": 569,
-    "comments": 123
+    "points": 590,
+    "comments": 129
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -164,8 +480,8 @@
    "publishedAt": "2026-09-08T14:40:30.000Z",
    "hn": {
     "id": "49610988",
-    "points": 343,
-    "comments": 267
+    "points": 356,
+    "comments": 310
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -179,8 +495,8 @@
    "publishedAt": "2026-09-08T14:33:52.000Z",
    "hn": {
     "id": "49610900",
-    "points": 371,
-    "comments": 120
+    "points": 381,
+    "comments": 123
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -194,8 +510,8 @@
    "publishedAt": "2026-09-08T14:13:26.000Z",
    "hn": {
     "id": "49610631",
-    "points": 471,
-    "comments": 322
+    "points": 525,
+    "comments": 360
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -209,8 +525,8 @@
    "publishedAt": "2026-09-08T14:05:57.000Z",
    "hn": {
     "id": "49610538",
-    "points": 685,
-    "comments": 233
+    "points": 702,
+    "comments": 234
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -224,8 +540,8 @@
    "publishedAt": "2026-09-08T13:41:25.000Z",
    "hn": {
     "id": "49610229",
-    "points": 380,
-    "comments": 65
+    "points": 390,
+    "comments": 68
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -239,8 +555,8 @@
    "publishedAt": "2026-09-08T13:36:53.000Z",
    "hn": {
     "id": "49610181",
-    "points": 411,
-    "comments": 187
+    "points": 434,
+    "comments": 199
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -254,8 +570,8 @@
    "publishedAt": "2026-09-08T08:42:56.000Z",
    "hn": {
     "id": "49607443",
-    "points": 380,
-    "comments": 371
+    "points": 385,
+    "comments": 372
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -269,8 +585,8 @@
    "publishedAt": "2026-09-08T05:42:28.000Z",
    "hn": {
     "id": "49605915",
-    "points": 1762,
-    "comments": 735
+    "points": 1984,
+    "comments": 806
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -284,8 +600,8 @@
    "publishedAt": "2026-09-08T05:06:23.000Z",
    "hn": {
     "id": "49605767",
-    "points": 826,
-    "comments": 585
+    "points": 840,
+    "comments": 592
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -299,8 +615,8 @@
    "publishedAt": "2026-09-08T04:48:10.000Z",
    "hn": {
     "id": "49605691",
-    "points": 301,
-    "comments": 348
+    "points": 305,
+    "comments": 356
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -314,8 +630,8 @@
    "publishedAt": "2026-09-08T01:57:23.000Z",
    "hn": {
     "id": "49604870",
-    "points": 551,
-    "comments": 227
+    "points": 564,
+    "comments": 234
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -329,8 +645,8 @@
    "publishedAt": "2026-09-08T01:16:59.000Z",
    "hn": {
     "id": "49604637",
-    "points": 498,
-    "comments": 126
+    "points": 508,
+    "comments": 130
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -344,7 +660,7 @@
    "publishedAt": "2026-09-07T23:37:42.000Z",
    "hn": {
     "id": "49604150",
-    "points": 310,
+    "points": 315,
     "comments": 23
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
@@ -428,7 +744,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T13:55:09.220Z",
-   "score": 75,
+   "score": 97,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -439,7 +755,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T04:17:11.406Z",
-   "score": 133,
+   "score": 137,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -450,7 +766,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T21:03:22.480Z",
-   "score": 27,
+   "score": 58,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -461,7 +777,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T07:20:16.336Z",
-   "score": 81,
+   "score": 92,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -472,7 +788,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T21:23:18.378Z",
-   "score": 13,
+   "score": 30,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -483,7 +799,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T10:54:57.814Z",
-   "score": 52,
+   "score": 59,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -516,7 +832,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T01:56:40.443Z",
-   "score": 18,
+   "score": 37,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
