@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T11:57:53.336Z",
+ "generatedAt": "2026-09-09T11:59:27.948Z",
  "items": [
   {
    "id": "4ea44598f405",
@@ -12,7 +12,7 @@
    "publishedAt": "2026-09-08T21:22:11.000Z",
    "hn": {
     "id": "49617255",
-    "points": 363,
+    "points": 365,
     "comments": 81
    },
    "score": 61,
@@ -45,8 +45,8 @@
    "publishedAt": "2026-09-08T10:00:00.000Z",
    "hn": {
     "id": "49613262",
-    "points": 1278,
-    "comments": 1028
+    "points": 1279,
+    "comments": 1029
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -269,7 +269,7 @@
    "publishedAt": "2026-09-08T05:42:28.000Z",
    "hn": {
     "id": "49605915",
-    "points": 1759,
+    "points": 1762,
     "comments": 735
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
@@ -417,7 +417,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T21:05:31.949Z",
-   "score": 27,
+   "score": 28,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -483,7 +483,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T10:54:57.814Z",
-   "score": 51,
+   "score": 52,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -516,7 +516,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T01:56:40.443Z",
-   "score": 17,
+   "score": 18,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -560,7 +560,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T03:27:24.244Z",
-   "score": 47,
+   "score": 48,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -604,7 +604,7 @@
     "HF Papers"
    ],
    "publishedAt": "2026-09-07T20:00:00.000Z",
-   "score": 79,
+   "score": 80,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
