@@ -1,0 +1,20 @@
+[
+  { "type": "hn",        "name": "Hacker News",     "minPoints": 300 },
+  { "type": "lobsters",  "name": "Lobsters",        "minScore": 10 },
+  { "type": "hf-papers", "name": "HF Papers",       "top": 5 },
+
+  { "type": "rss", "name": "Anthropic",          "url": "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml" },
+  { "type": "rss", "name": "OpenAI",             "url": "https://openai.com/news/rss.xml" },
+  { "type": "rss", "name": "DeepMind",           "url": "https://deepmind.google/blog/rss.xml" },
+  { "type": "rss", "name": "Simon Willison",     "url": "https://simonwillison.net/atom/entries/" },
+  { "type": "rss", "name": "Interconnects",      "url": "https://www.interconnects.ai/feed" },
+
+  { "type": "rss", "name": "LWN",                "url": "https://lwn.net/headlines/Features" },
+  { "type": "rss", "name": "Cloudflare",         "url": "https://blog.cloudflare.com/rss/" },
+  { "type": "rss", "name": "Phil Eaton",         "url": "https://notes.eatonphil.com/rss.xml" },
+  { "type": "rss", "name": "Marc Brooker",       "url": "https://brooker.co.za/blog/rss.xml" },
+  { "type": "rss", "name": "matklad",            "url": "https://matklad.github.io/feed.xml" },
+
+  { "type": "rss", "name": "Martin Fowler",      "url": "https://martinfowler.com/feed.atom" },
+  { "type": "rss", "name": "Pragmatic Engineer", "url": "https://newsletter.pragmaticengineer.com/feed" }
+]

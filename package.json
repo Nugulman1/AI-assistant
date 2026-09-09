@@ -1,25 +1,26 @@
 {
-  "name": "dev-news-briefing",
-  "version": "1.0.0",
+  "name": "dev-news",
+  "version": "2.0.0",
   "private": true,
-  "description": "개발자 뉴스/최신정보를 관심사+화제도로 골라 매일 새벽에 보내주는 브리핑 수집기 (v1)",
-  "workspaces": [
-    "server",
-    "web"
-  ],
+  "type": "module",
+  "description": "권위 있는 개발 소스 15곳에서 수집해 정적 페이지로 보여주는 뉴스 훑기 (서버 없음)",
   "scripts": {
-    "dev": "concurrently -n server,web -c blue,green \"npm:dev:server\" \"npm:dev:web\"",
-    "dev:server": "npm -w server run dev",
-    "dev:web": "npm -w web run dev",
-    "build": "npm -w web run build",
-    "start": "npm -w server run start",
-    "vapid": "npm -w server run vapid",
-    "run:once": "npm -w server run run:once"
+    "collect": "tsx src/collect.ts",
+    "news": "tsx src/cli/news.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@mozilla/readability": "^0.6.0",
+    "jsdom": "^29.1.1",
+    "rss-parser": "^3.13.0",
+    "tsx": "^4.19.2"
   },
   "devDependencies": {
-    "concurrently": "^9.1.0"
+    "@types/jsdom": "^28.0.3",
+    "@types/node": "^22.10.5",
+    "typescript": "^5.7.3",
+    "vitest": "^2.1.8"
   },
-  "engines": {
-    "node": ">=20 <23"
-  }
+  "engines": { "node": ">=22" }
 }

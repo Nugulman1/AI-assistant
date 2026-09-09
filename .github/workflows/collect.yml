@@ -1,0 +1,44 @@
+name: collect
+
+on:
+  schedule:
+    # UTC 21:00 / 09:00 = KST 06:00 / 18:00
+    - cron: '0 21 * * *'
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# 수집이 겹치면 같은 파일에 커밋이 충돌하므로 한 번에 하나만. 진행 중인 건 취소하지 않는다.
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      # 실패하면 스텝이 실패하고 잡도 실패한다 (continue-on-error 없음).
+      - run: npm run collect
+
+      - name: commit items.json
+        run: |
+          git add docs/data/items.json
+          if git diff --cached --quiet; then
+            echo "items.json 변경 없음 — 커밋 생략"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m "collect: $(date -u '+%Y-%m-%d %H:%M') UTC"
+          git push
