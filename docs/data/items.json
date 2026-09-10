@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-09T23:03:26.977Z",
+ "generatedAt": "2026-09-10T13:29:57.232Z",
  "items": [
   {
    "id": "4ea44598f405",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-09-08T21:22:11.000Z",
    "hn": {
     "id": "49617255",
-    "points": 430,
-    "comments": 100
+    "points": 437,
+    "comments": 105
    },
-   "score": 96,
+   "score": 105,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -29,8 +29,8 @@
    "publishedAt": "2026-09-08T11:30:00.000Z",
    "hn": {
     "id": "49614720",
-    "points": 372,
-    "comments": 440
+    "points": 379,
+    "comments": 443
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -45,8 +45,8 @@
    "publishedAt": "2026-09-08T10:00:00.000Z",
    "hn": {
     "id": "49613262",
-    "points": 1324,
-    "comments": 1105
+    "points": 1332,
+    "comments": 1120
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -80,6 +80,255 @@
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
+   "id": "c599ab837d38",
+   "title": "DeepSeek v4.1 Flash",
+   "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T06:11:05.000Z",
+   "hn": {
+    "id": "49639090",
+    "points": 591,
+    "comments": 319
+   },
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "e4164c681db4",
+   "title": "Show HN: What if the speed of light was 5 km/h?",
+   "url": "https://rivendell.dmitrybrant.com/relativity/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T01:58:00.000Z",
+   "hn": {
+    "id": "49637385",
+    "points": 449,
+    "comments": 184
+   },
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "ea16adfbbd02",
+   "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
+   "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T23:49:29.000Z",
+   "hn": {
+    "id": "49636283",
+    "points": 365,
+    "comments": 239
+   },
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "4f734c7fb6ae",
+   "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+   "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T17:33:20.000Z",
+   "hn": {
+    "id": "49630151",
+    "points": 387,
+    "comments": 433
+   },
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "0b06c749b548",
+   "title": "Growing proof that autonomous cars save lives",
+   "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T17:14:59.000Z",
+   "hn": {
+    "id": "49629886",
+    "points": 386,
+    "comments": 673
+   },
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "bf1a7d31e50b",
+   "title": "No Man's Sky Cosmos",
+   "url": "https://www.nomanssky.com/cosmos-update/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T15:47:42.000Z",
+   "hn": {
+    "id": "49628493",
+    "points": 417,
+    "comments": 421
+   },
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "4eba73cda405",
+   "title": "Copyright does more harm than good and should be abolished",
+   "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T06:31:28.000Z",
+   "hn": {
+    "id": "49622042",
+    "points": 304,
+    "comments": 314
+   },
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "df30ec5afdd0",
+   "title": "What do Visa and Mastercard do? An intro to card networks",
+   "url": "https://tautology.town/2026/06/01/card-networks.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-08T18:11:05.000Z",
+   "hn": {
+    "id": "49614280",
+    "points": 586,
+    "comments": 356
+   },
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "cfff4994bc5a",
+   "title": "Review a pull request by booting it",
+   "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T00:32:35.866Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "2f30f65a5849",
+   "title": "It Breaks a Village: Bevy's 6th Birthday",
+   "url": "https://blog.fallible.net/it-breaks-a-village/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T10:38:37.630Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "47faa9b5ac00",
+   "title": "ID design and primary keys",
+   "url": "https://anchorsandlinks.com/posts/primary-keys/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-09T18:31:44.973Z",
+   "score": 17,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "ac5b64e601c2",
+   "title": "SystemIO conflicts are not firmware bugs",
+   "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T00:48:47.581Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "818667f5d0ca",
+   "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+   "url": "https://huggingface.co/papers/2609.10522",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-08T20:00:00.000Z",
+   "score": 56,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "b091d7a65693",
+   "title": "Programmable World Model",
+   "url": "https://huggingface.co/papers/2609.10540",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-08T20:00:00.000Z",
+   "score": 41,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "87c04f2203de",
+   "title": "Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?",
+   "url": "https://huggingface.co/papers/2609.10226",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-08T20:00:00.000Z",
+   "score": 6,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "aa541c0258ed",
+   "title": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
+   "url": "https://huggingface.co/papers/2609.10355",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-08T20:00:00.000Z",
+   "score": 3,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "f7e8d078d8fe",
+   "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
+   "url": "https://huggingface.co/papers/2609.09657",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-08T20:00:00.000Z",
+   "score": 2,
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "9786c92a289d",
+   "title": "The AI policy window is open. We need to act.",
+   "url": "https://openai.com/index/ai-policy-window",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-09T13:00:00.000Z",
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "0349f08ed584",
+   "title": "[$] LWN.net Weekly Edition for September 10, 2026",
+   "url": "https://lwn.net/Articles/1092273/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-10T01:43:03.000Z",
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
+   "id": "0a5779282d85",
+   "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
+   "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-10T13:00:00.000Z",
+   "firstSeenAt": "2026-09-10T13:29:57.232Z"
+  },
+  {
    "id": "dcac57244c19",
    "title": "iPhone Duo",
    "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
@@ -89,8 +338,8 @@
    "publishedAt": "2026-09-09T18:15:43.000Z",
    "hn": {
     "id": "49630931",
-    "points": 755,
-    "comments": 1489
+    "points": 1274,
+    "comments": 2224
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -104,8 +353,8 @@
    "publishedAt": "2026-09-09T17:39:24.000Z",
    "hn": {
     "id": "49630253",
-    "points": 336,
-    "comments": 268
+    "points": 481,
+    "comments": 411
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -119,8 +368,8 @@
    "publishedAt": "2026-09-09T14:37:47.000Z",
    "hn": {
     "id": "49627370",
-    "points": 314,
-    "comments": 115
+    "points": 469,
+    "comments": 151
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -134,8 +383,8 @@
    "publishedAt": "2026-09-09T13:27:11.000Z",
    "hn": {
     "id": "49626190",
-    "points": 827,
-    "comments": 332
+    "points": 1078,
+    "comments": 417
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -149,8 +398,8 @@
    "publishedAt": "2026-09-09T11:43:21.000Z",
    "hn": {
     "id": "49624856",
-    "points": 337,
-    "comments": 201
+    "points": 419,
+    "comments": 256
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -164,8 +413,8 @@
    "publishedAt": "2026-09-09T11:39:46.000Z",
    "hn": {
     "id": "49624823",
-    "points": 369,
-    "comments": 88
+    "points": 467,
+    "comments": 97
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -179,8 +428,8 @@
    "publishedAt": "2026-09-09T11:19:26.000Z",
    "hn": {
     "id": "49624603",
-    "points": 391,
-    "comments": 202
+    "points": 412,
+    "comments": 215
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -194,8 +443,8 @@
    "publishedAt": "2026-09-09T10:54:18.000Z",
    "hn": {
     "id": "49624394",
-    "points": 546,
-    "comments": 520
+    "points": 563,
+    "comments": 538
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -209,8 +458,8 @@
    "publishedAt": "2026-09-09T09:39:46.000Z",
    "hn": {
     "id": "49623754",
-    "points": 943,
-    "comments": 381
+    "points": 1135,
+    "comments": 440
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -222,7 +471,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T16:54:31.267Z",
-   "score": 40,
+   "score": 66,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -233,7 +482,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T17:18:32.413Z",
-   "score": 56,
+   "score": 95,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -244,7 +493,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T11:13:13.488Z",
-   "score": 49,
+   "score": 66,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -255,7 +504,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T13:32:22.032Z",
-   "score": 19,
+   "score": 28,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -266,7 +515,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T15:22:32.302Z",
-   "score": 19,
+   "score": 37,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -277,7 +526,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T08:14:25.329Z",
-   "score": 33,
+   "score": 40,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -288,7 +537,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T13:21:19.648Z",
-   "score": 15,
+   "score": 23,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -299,7 +548,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T13:09:45.692Z",
-   "score": 14,
+   "score": 19,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -321,7 +570,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T04:13:05.979Z",
-   "score": 17,
+   "score": 21,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -332,7 +581,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T13:24:26.568Z",
-   "score": 11,
+   "score": 21,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -405,8 +654,8 @@
    "publishedAt": "2026-09-09T00:40:40.000Z",
    "hn": {
     "id": "49619227",
-    "points": 673,
-    "comments": 951
+    "points": 709,
+    "comments": 990
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -420,8 +669,8 @@
    "publishedAt": "2026-09-08T21:00:52.000Z",
    "hn": {
     "id": "49616968",
-    "points": 466,
-    "comments": 398
+    "points": 476,
+    "comments": 411
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -435,8 +684,8 @@
    "publishedAt": "2026-09-08T19:25:00.000Z",
    "hn": {
     "id": "49615537",
-    "points": 634,
-    "comments": 691
+    "points": 646,
+    "comments": 724
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -450,8 +699,8 @@
    "publishedAt": "2026-09-08T16:07:08.000Z",
    "hn": {
     "id": "49612329",
-    "points": 566,
-    "comments": 347
+    "points": 573,
+    "comments": 353
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -465,8 +714,8 @@
    "publishedAt": "2026-09-08T14:55:45.000Z",
    "hn": {
     "id": "49611251",
-    "points": 590,
-    "comments": 129
+    "points": 596,
+    "comments": 132
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -480,8 +729,8 @@
    "publishedAt": "2026-09-08T14:40:30.000Z",
    "hn": {
     "id": "49610988",
-    "points": 356,
-    "comments": 310
+    "points": 362,
+    "comments": 324
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -495,8 +744,8 @@
    "publishedAt": "2026-09-08T14:33:52.000Z",
    "hn": {
     "id": "49610900",
-    "points": 381,
-    "comments": 123
+    "points": 385,
+    "comments": 125
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -510,8 +759,8 @@
    "publishedAt": "2026-09-08T14:13:26.000Z",
    "hn": {
     "id": "49610631",
-    "points": 525,
-    "comments": 360
+    "points": 534,
+    "comments": 367
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -525,8 +774,8 @@
    "publishedAt": "2026-09-08T14:05:57.000Z",
    "hn": {
     "id": "49610538",
-    "points": 702,
-    "comments": 234
+    "points": 710,
+    "comments": 236
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -540,7 +789,7 @@
    "publishedAt": "2026-09-08T13:41:25.000Z",
    "hn": {
     "id": "49610229",
-    "points": 390,
+    "points": 393,
     "comments": 68
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
@@ -555,8 +804,8 @@
    "publishedAt": "2026-09-08T13:36:53.000Z",
    "hn": {
     "id": "49610181",
-    "points": 434,
-    "comments": 199
+    "points": 436,
+    "comments": 204
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
@@ -744,7 +993,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T13:55:09.220Z",
-   "score": 97,
+   "score": 102,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
@@ -766,7 +1015,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-08T21:03:22.480Z",
-   "score": 58,
+   "score": 69,
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
