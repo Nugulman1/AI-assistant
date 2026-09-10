@@ -1,6 +1,57 @@
 {
- "generatedAt": "2026-09-10T13:29:57.232Z",
+ "generatedAt": "2026-09-10T23:00:00.624Z",
  "items": [
+  {
+   "id": "e0bea100c91b",
+   "title": "Shopify moves back to Native from React Native",
+   "url": "https://shopify.engineering/back-to-native",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T14:09:31.000Z",
+   "hn": {
+    "id": "49643982",
+    "points": 640,
+    "comments": 433
+   },
+   "score": 10,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "ad1c7d356fc8",
+   "title": "Rust is tier-1 language at Microsoft",
+   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T13:39:16.000Z",
+   "hn": {
+    "id": "49643546",
+    "points": 570,
+    "comments": 312
+   },
+   "score": 57,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "d6d4b766c185",
+   "title": "What algorithm did Windows XP use to choose your initial user picture?",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T09:04:14.000Z",
+   "hn": {
+    "id": "49640646",
+    "points": 333,
+    "comments": 162
+   },
+   "score": 20,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
   {
    "id": "4ea44598f405",
    "title": "How to build a printer",
@@ -80,6 +131,333 @@
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
+   "id": "1eebc1e0802b",
+   "title": "I have a theory that software drives people insane",
+   "url": "https://graybeard.ing/software-drives-people-insane/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T16:13:42.000Z",
+   "hn": {
+    "id": "49646181",
+    "points": 400,
+    "comments": 162
+   },
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "69669daef825",
+   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+   "url": "https://cognition.com/blog/swe-2",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T15:29:47.000Z",
+   "hn": {
+    "id": "49645443",
+    "points": 332,
+    "comments": 136
+   },
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "56ccc6af62e9",
+   "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
+   "url": "https://news.ycombinator.com/item?id=49643556",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T13:39:53.000Z",
+   "hn": {
+    "id": "49643556",
+    "points": 418,
+    "comments": 172
+   },
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "a9ed4dbc8429",
+   "title": "List of references on Sony websites to players \"owning\" their digital games",
+   "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T12:18:06.000Z",
+   "hn": {
+    "id": "49642531",
+    "points": 340,
+    "comments": 112
+   },
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "b3f72c9686c5",
+   "title": "The same nine streaming subscriptions cost $702/year more than in 2021",
+   "url": "https://honestlyranked.com/guides/streaming-price-increases/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T10:13:59.000Z",
+   "hn": {
+    "id": "49641215",
+    "points": 364,
+    "comments": 367
+   },
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "782d6bbf2b52",
+   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T06:49:43.000Z",
+   "hn": {
+    "id": "49639408",
+    "points": 558,
+    "comments": 560
+   },
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "1c67cba858c5",
+   "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
+   "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T16:01:41.000Z",
+   "hn": {
+    "id": "49628704",
+    "points": 307,
+    "comments": 174
+   },
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "2780b38e41ce",
+   "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
+   "url": "https://maurycyz.com/misc/domains/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T15:14:48.267Z",
+   "score": 48,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "7e78d193a935",
+   "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
+   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T17:40:19.396Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "adf26072b0f8",
+   "title": "Xteink X4 Pro review",
+   "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T15:05:43.061Z",
+   "score": 27,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "71203c9f2faf",
+   "title": "It's not the YAML spec's fault, but",
+   "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T17:04:10.359Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "cedf8792bb84",
+   "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
+   "url": "https://queue.acm.org/doi/10.1145/3831361",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T14:59:03.130Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "b6b1083f1935",
+   "title": "What comes after git",
+   "url": "https://ersc.io/blog/what-comes-after-git",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T17:44:27.435Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "f3f8ba3720b5",
+   "title": "My HTML Boilerplate",
+   "url": "https://vale.rocks/posts/html-boilerplate",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T16:13:28.216Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "69b2564bdd1a",
+   "title": "Announcing the first Guix-Science release",
+   "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T11:45:49.883Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "5293fb21d8a7",
+   "title": "The terrible menu bar in the Windows 11 Notepad",
+   "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T15:46:32.061Z",
+   "score": 25,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "f869a8f42a20",
+   "title": "Making Social Media Social",
+   "url": "https://tante.cc/2026/09/10/making-social-media-social/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T16:30:14.952Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "d09cd4123536",
+   "title": "Bad Vibes Coding",
+   "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T15:04:46.879Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "64d66bdde550",
+   "title": "Decoding the NEC V20 Microcode",
+   "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T10:44:09.242Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "014159943e4d",
+   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-10T16:00:00.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "4d4e7920d8a7",
+   "title": "Now everyone can put data to work",
+   "url": "https://openai.com/index/put-data-to-work",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-10T15:00:00.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "016c3ec9b775",
+   "title": "Introducing ChatGPT for Financial Services",
+   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-10T07:00:00.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "1ef5285e671d",
+   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+   "url": "https://openai.com/index/expanding-ai-access-us-government",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-10T07:00:00.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "2b26a8066576",
+   "title": "Introducing the Agents API",
+   "url": "https://openai.com/index/introducing-the-agents-api",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-10T00:00:00.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "4e410dad70fb",
+   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-10T00:00:00.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "e723d856f72c",
+   "title": "One resignation turned the embers of AI fear into a wildfire",
+   "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-09-10T15:28:52.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "7caf17636d42",
+   "title": "[$] PostgreSQL 19's \"scary patch contest\"",
+   "url": "https://lwn.net/Articles/1092003/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-10T17:29:06.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
+   "id": "4a4ff0ec56e9",
+   "title": "The Pulse #191: a new trend of CPU shortages",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-09-10T17:13:44.000Z",
+   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+  },
+  {
    "id": "c599ab837d38",
    "title": "DeepSeek v4.1 Flash",
    "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
@@ -89,8 +467,8 @@
    "publishedAt": "2026-09-10T06:11:05.000Z",
    "hn": {
     "id": "49639090",
-    "points": 591,
-    "comments": 319
+    "points": 932,
+    "comments": 514
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -104,8 +482,8 @@
    "publishedAt": "2026-09-10T01:58:00.000Z",
    "hn": {
     "id": "49637385",
-    "points": 449,
-    "comments": 184
+    "points": 562,
+    "comments": 252
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -119,8 +497,8 @@
    "publishedAt": "2026-09-09T23:49:29.000Z",
    "hn": {
     "id": "49636283",
-    "points": 365,
-    "comments": 239
+    "points": 429,
+    "comments": 317
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -134,8 +512,8 @@
    "publishedAt": "2026-09-09T17:33:20.000Z",
    "hn": {
     "id": "49630151",
-    "points": 387,
-    "comments": 433
+    "points": 400,
+    "comments": 475
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -149,8 +527,8 @@
    "publishedAt": "2026-09-09T17:14:59.000Z",
    "hn": {
     "id": "49629886",
-    "points": 386,
-    "comments": 673
+    "points": 433,
+    "comments": 817
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -164,8 +542,8 @@
    "publishedAt": "2026-09-09T15:47:42.000Z",
    "hn": {
     "id": "49628493",
-    "points": 417,
-    "comments": 421
+    "points": 436,
+    "comments": 455
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -179,8 +557,8 @@
    "publishedAt": "2026-09-09T06:31:28.000Z",
    "hn": {
     "id": "49622042",
-    "points": 304,
-    "comments": 314
+    "points": 307,
+    "comments": 315
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -207,7 +585,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T00:32:35.866Z",
-   "score": 20,
+   "score": 35,
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
   {
@@ -218,7 +596,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T10:38:37.630Z",
-   "score": 22,
+   "score": 86,
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
   {
@@ -229,7 +607,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T18:31:44.973Z",
-   "score": 17,
+   "score": 21,
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
   {
@@ -338,8 +716,8 @@
    "publishedAt": "2026-09-09T18:15:43.000Z",
    "hn": {
     "id": "49630931",
-    "points": 1274,
-    "comments": 2224
+    "points": 1402,
+    "comments": 2420
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -353,8 +731,8 @@
    "publishedAt": "2026-09-09T17:39:24.000Z",
    "hn": {
     "id": "49630253",
-    "points": 481,
-    "comments": 411
+    "points": 501,
+    "comments": 444
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -368,8 +746,8 @@
    "publishedAt": "2026-09-09T14:37:47.000Z",
    "hn": {
     "id": "49627370",
-    "points": 469,
-    "comments": 151
+    "points": 502,
+    "comments": 160
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -383,8 +761,8 @@
    "publishedAt": "2026-09-09T13:27:11.000Z",
    "hn": {
     "id": "49626190",
-    "points": 1078,
-    "comments": 417
+    "points": 1122,
+    "comments": 438
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -398,8 +776,8 @@
    "publishedAt": "2026-09-09T11:43:21.000Z",
    "hn": {
     "id": "49624856",
-    "points": 419,
-    "comments": 256
+    "points": 425,
+    "comments": 258
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -413,8 +791,8 @@
    "publishedAt": "2026-09-09T11:39:46.000Z",
    "hn": {
     "id": "49624823",
-    "points": 467,
-    "comments": 97
+    "points": 481,
+    "comments": 102
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -428,8 +806,8 @@
    "publishedAt": "2026-09-09T11:19:26.000Z",
    "hn": {
     "id": "49624603",
-    "points": 412,
-    "comments": 215
+    "points": 415,
+    "comments": 217
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -443,8 +821,8 @@
    "publishedAt": "2026-09-09T10:54:18.000Z",
    "hn": {
     "id": "49624394",
-    "points": 563,
-    "comments": 538
+    "points": 567,
+    "comments": 544
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -458,8 +836,8 @@
    "publishedAt": "2026-09-09T09:39:46.000Z",
    "hn": {
     "id": "49623754",
-    "points": 1135,
-    "comments": 440
+    "points": 1160,
+    "comments": 445
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -471,7 +849,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T16:54:31.267Z",
-   "score": 66,
+   "score": 70,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -515,7 +893,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-09T15:22:32.302Z",
-   "score": 37,
+   "score": 47,
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
   {
@@ -654,8 +1032,8 @@
    "publishedAt": "2026-09-09T00:40:40.000Z",
    "hn": {
     "id": "49619227",
-    "points": 709,
-    "comments": 990
+    "points": 719,
+    "comments": 1000
    },
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
