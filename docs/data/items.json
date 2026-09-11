@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-10T23:00:00.624Z",
+ "generatedAt": "2026-09-11T13:28:21.327Z",
  "items": [
   {
    "id": "e0bea100c91b",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-09-10T14:09:31.000Z",
    "hn": {
     "id": "49643982",
-    "points": 640,
-    "comments": 433
+    "points": 1140,
+    "comments": 833
    },
-   "score": 10,
+   "score": 19,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -29,10 +29,10 @@
    "publishedAt": "2026-09-10T13:39:16.000Z",
    "hn": {
     "id": "49643546",
-    "points": 570,
-    "comments": 312
+    "points": 701,
+    "comments": 459
    },
-   "score": 57,
+   "score": 76,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -46,10 +46,10 @@
    "publishedAt": "2026-09-10T09:04:14.000Z",
    "hn": {
     "id": "49640646",
-    "points": 333,
-    "comments": 162
+    "points": 353,
+    "comments": 176
    },
-   "score": 20,
+   "score": 40,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -131,6 +131,229 @@
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
+   "id": "369127da9acb",
+   "title": "Astra for Coding: Why Are We Doing This Again?",
+   "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-11T06:23:06.000Z",
+   "hn": {
+    "id": "49654229",
+    "points": 388,
+    "comments": 277
+   },
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "8eca1292c273",
+   "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+   "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T15:29:30.000Z",
+   "hn": {
+    "id": "49645437",
+    "points": 353,
+    "comments": 57
+   },
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "09c7ffe7ea5e",
+   "title": "Don't let anyone take away your big box of cables",
+   "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T15:27:22.000Z",
+   "hn": {
+    "id": "49645393",
+    "points": 624,
+    "comments": 386
+   },
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "69718dd5604a",
+   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
+   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-09T14:54:12.000Z",
+   "hn": {
+    "id": "49627634",
+    "points": 311,
+    "comments": 271
+   },
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "327e043799d5",
+   "title": "Fastly Speedtest Test",
+   "url": "https://speed.edgecompute.app/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T21:58:12.553Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "2954e55231a6",
+   "title": "Models Don't Go Rogue",
+   "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T03:37:10.275Z",
+   "score": 21,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "aa31a3d96c45",
+   "title": "Soft-deprecating re.match()",
+   "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T21:59:16.157Z",
+   "score": 41,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "571677ca71e3",
+   "title": "Gleam Gathering 2027",
+   "url": "https://gleamgathering.com/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T19:40:27.051Z",
+   "score": 21,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "d4f60ef83cf8",
+   "title": "An untrusted site can freeze a Mac using WebGPU",
+   "url": "https://auberon.xyz/blog/posts/deathray/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T00:04:53.963Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "feac4539f2fc",
+   "title": "Optimizing a Spin-Lock",
+   "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T20:34:57.807Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "59989ed04bbe",
+   "title": "Conversations with JJ",
+   "url": "https://laurmaedje.github.io/posts/jj/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T16:48:33.377Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "8252c00474ea",
+   "title": "JEP 544: Ahead-of-Time Code Compilation",
+   "url": "https://openjdk.org/jeps/544",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-10T17:31:26.646Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "488db19c955d",
+   "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+   "url": "https://huggingface.co/papers/2609.11929",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-09T20:00:00.000Z",
+   "score": 93,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "a5f8c3f96e59",
+   "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
+   "url": "https://huggingface.co/papers/2609.11042",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-09T20:00:00.000Z",
+   "score": 42,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "1a7922f76a89",
+   "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
+   "url": "https://huggingface.co/papers/2609.11317",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-09T20:00:00.000Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "1f1a32eceddb",
+   "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
+   "url": "https://huggingface.co/papers/2609.11412",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-09T20:00:00.000Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "9771708ac7ba",
+   "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
+   "url": "https://huggingface.co/papers/2609.11561",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-09T20:00:00.000Z",
+   "score": 7,
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "3149e64f7f8b",
+   "title": "Open-Source AI & Open Models Reading List",
+   "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-09-11T12:36:25.000Z",
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
+   "id": "c2396277023d",
+   "title": "Introducing automatic remediation policies with Cloudflare CASB",
+   "url": "https://blog.cloudflare.com/casb-policies/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-11T13:00:00.000Z",
+   "firstSeenAt": "2026-09-11T13:28:21.327Z"
+  },
+  {
    "id": "1eebc1e0802b",
    "title": "I have a theory that software drives people insane",
    "url": "https://graybeard.ing/software-drives-people-insane/",
@@ -140,8 +363,8 @@
    "publishedAt": "2026-09-10T16:13:42.000Z",
    "hn": {
     "id": "49646181",
-    "points": 400,
-    "comments": 162
+    "points": 448,
+    "comments": 183
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -155,8 +378,8 @@
    "publishedAt": "2026-09-10T15:29:47.000Z",
    "hn": {
     "id": "49645443",
-    "points": 332,
-    "comments": 136
+    "points": 427,
+    "comments": 177
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -170,8 +393,8 @@
    "publishedAt": "2026-09-10T13:39:53.000Z",
    "hn": {
     "id": "49643556",
-    "points": 418,
-    "comments": 172
+    "points": 461,
+    "comments": 182
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -185,8 +408,8 @@
    "publishedAt": "2026-09-10T12:18:06.000Z",
    "hn": {
     "id": "49642531",
-    "points": 340,
-    "comments": 112
+    "points": 405,
+    "comments": 142
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -200,8 +423,8 @@
    "publishedAt": "2026-09-10T10:13:59.000Z",
    "hn": {
     "id": "49641215",
-    "points": 364,
-    "comments": 367
+    "points": 377,
+    "comments": 376
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -215,8 +438,8 @@
    "publishedAt": "2026-09-10T06:49:43.000Z",
    "hn": {
     "id": "49639408",
-    "points": 558,
-    "comments": 560
+    "points": 832,
+    "comments": 771
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -230,8 +453,8 @@
    "publishedAt": "2026-09-09T16:01:41.000Z",
    "hn": {
     "id": "49628704",
-    "points": 307,
-    "comments": 174
+    "points": 312,
+    "comments": 175
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -243,7 +466,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T15:14:48.267Z",
-   "score": 48,
+   "score": 77,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -254,7 +477,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T17:40:19.396Z",
-   "score": 18,
+   "score": 38,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -265,7 +488,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T15:05:43.061Z",
-   "score": 27,
+   "score": 42,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -276,7 +499,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T17:04:10.359Z",
-   "score": 15,
+   "score": 39,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -287,7 +510,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T14:59:03.130Z",
-   "score": 18,
+   "score": 27,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -298,7 +521,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T17:44:27.435Z",
-   "score": 13,
+   "score": 19,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -309,7 +532,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T16:13:28.216Z",
-   "score": 11,
+   "score": 29,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -331,7 +554,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T15:46:32.061Z",
-   "score": 25,
+   "score": 41,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -342,7 +565,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T16:30:14.952Z",
-   "score": 12,
+   "score": 16,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -467,8 +690,8 @@
    "publishedAt": "2026-09-10T06:11:05.000Z",
    "hn": {
     "id": "49639090",
-    "points": 932,
-    "comments": 514
+    "points": 975,
+    "comments": 555
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -482,8 +705,8 @@
    "publishedAt": "2026-09-10T01:58:00.000Z",
    "hn": {
     "id": "49637385",
-    "points": 562,
-    "comments": 252
+    "points": 590,
+    "comments": 268
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -497,8 +720,8 @@
    "publishedAt": "2026-09-09T23:49:29.000Z",
    "hn": {
     "id": "49636283",
-    "points": 429,
-    "comments": 317
+    "points": 445,
+    "comments": 336
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -512,8 +735,8 @@
    "publishedAt": "2026-09-09T17:33:20.000Z",
    "hn": {
     "id": "49630151",
-    "points": 400,
-    "comments": 475
+    "points": 403,
+    "comments": 484
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -527,8 +750,8 @@
    "publishedAt": "2026-09-09T17:14:59.000Z",
    "hn": {
     "id": "49629886",
-    "points": 433,
-    "comments": 817
+    "points": 437,
+    "comments": 836
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -542,8 +765,8 @@
    "publishedAt": "2026-09-09T15:47:42.000Z",
    "hn": {
     "id": "49628493",
-    "points": 436,
-    "comments": 455
+    "points": 448,
+    "comments": 463
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -585,7 +808,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T00:32:35.866Z",
-   "score": 35,
+   "score": 43,
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
   {
@@ -596,7 +819,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T10:38:37.630Z",
-   "score": 86,
+   "score": 100,
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
   {
@@ -716,8 +939,8 @@
    "publishedAt": "2026-09-09T18:15:43.000Z",
    "hn": {
     "id": "49630931",
-    "points": 1402,
-    "comments": 2420
+    "points": 1455,
+    "comments": 2498
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -731,8 +954,8 @@
    "publishedAt": "2026-09-09T17:39:24.000Z",
    "hn": {
     "id": "49630253",
-    "points": 501,
-    "comments": 444
+    "points": 507,
+    "comments": 449
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
@@ -746,8 +969,8 @@
    "publishedAt": "2026-09-09T14:37:47.000Z",
    "hn": {
     "id": "49627370",
-    "points": 502,
-    "comments": 160
+    "points": 512,
+    "comments": 161
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z"
   },
