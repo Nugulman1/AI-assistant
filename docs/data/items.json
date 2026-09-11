@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-09-11T13:28:21.327Z",
+ "generatedAt": "2026-09-11T23:04:48.152Z",
  "items": [
+  {
+   "id": "da05411f0a2d",
+   "title": "A misalignment of AI in mathematics",
+   "url": "https://mathandai.org/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T17:45:12.000Z",
+   "hn": {
+    "id": "49662371",
+    "points": 502,
+    "comments": 574
+   },
+   "score": 13,
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
   {
    "id": "e0bea100c91b",
    "title": "Shopify moves back to Native from React Native",
@@ -12,8 +29,8 @@
    "publishedAt": "2026-09-10T14:09:31.000Z",
    "hn": {
     "id": "49643982",
-    "points": 1140,
-    "comments": 833
+    "points": 1222,
+    "comments": 910
    },
    "score": 19,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
@@ -29,10 +46,10 @@
    "publishedAt": "2026-09-10T13:39:16.000Z",
    "hn": {
     "id": "49643546",
-    "points": 701,
-    "comments": 459
+    "points": 716,
+    "comments": 502
    },
-   "score": 76,
+   "score": 84,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -46,10 +63,10 @@
    "publishedAt": "2026-09-10T09:04:14.000Z",
    "hn": {
     "id": "49640646",
-    "points": 353,
-    "comments": 176
+    "points": 358,
+    "comments": 177
    },
-   "score": 40,
+   "score": 45,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -131,6 +148,208 @@
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
+   "id": "1f7a9c71e8cb",
+   "title": "Houthis 'take control' of key island in global shipping route",
+   "url": "https://www.bbc.com/news/live/cmd683p01eljt",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-11T13:41:38.000Z",
+   "hn": {
+    "id": "49658299",
+    "points": 353,
+    "comments": 616
+   },
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "9af4424a05ab",
+   "title": "Ask HN: Can we please limit the AI news flood?",
+   "url": "https://news.ycombinator.com/item?id=49657850",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-11T13:11:04.000Z",
+   "hn": {
+    "id": "49657850",
+    "points": 736,
+    "comments": 353
+   },
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "3b9f4e29d785",
+   "title": "The Waymo effect: how AI is quietly making research less collaborative",
+   "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-11T11:17:50.000Z",
+   "hn": {
+    "id": "49656496",
+    "points": 318,
+    "comments": 292
+   },
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "8e10c98735ba",
+   "title": "Claude is only available to people over 18 years",
+   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-11T10:48:00.000Z",
+   "hn": {
+    "id": "49656225",
+    "points": 541,
+    "comments": 579
+   },
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "2f251264adc5",
+   "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
+   "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-11T01:00:56.000Z",
+   "hn": {
+    "id": "49652237",
+    "points": 378,
+    "comments": 125
+   },
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "6bbeb126525f",
+   "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
+   "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-11T00:42:41.000Z",
+   "hn": {
+    "id": "49652105",
+    "points": 300,
+    "comments": 285
+   },
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "cf1d2b81fef8",
+   "title": "OpenAI Agents API",
+   "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-10T19:43:22.000Z",
+   "hn": {
+    "id": "49649213",
+    "points": 337,
+    "comments": 178
+   },
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "2d9c7158e6f8",
+   "title": "Feeling sad about AI",
+   "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T12:33:20.763Z",
+   "score": 116,
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "3d2594e3baed",
+   "title": "Power grab",
+   "url": "https://tante.cc/2026/09/11/power-grab/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T14:23:46.956Z",
+   "score": 132,
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "b52898a627b9",
+   "title": "A Severe Misalignment of AI in Mathematics",
+   "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T19:03:30.462Z",
+   "score": 28,
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "cc7ff029fc7f",
+   "title": "evergarden",
+   "url": "https://evergarden.moe/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T12:59:46.317Z",
+   "score": 29,
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "162ac0c95abe",
+   "title": "What are you doing this weekend?",
+   "url": "https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T16:40:41.980Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "37095db6fcd0",
+   "title": "ChiPass Release 2026.09.0",
+   "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T16:35:40.299Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "5ce9d17fee27",
+   "title": "Bastion of the Turbofish",
+   "url": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-11T13:50:19.190Z",
+   "score": 26,
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "c7d3c8aeae42",
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-11T10:00:00.000Z",
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
+   "id": "2fd0114f55be",
+   "title": "[$] Accelerating the kernel's build process",
+   "url": "https://lwn.net/Articles/1093398/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-11T14:15:32.000Z",
+   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+  },
+  {
    "id": "369127da9acb",
    "title": "Astra for Coding: Why Are We Doing This Again?",
    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
@@ -140,8 +359,8 @@
    "publishedAt": "2026-09-11T06:23:06.000Z",
    "hn": {
     "id": "49654229",
-    "points": 388,
-    "comments": 277
+    "points": 422,
+    "comments": 312
    },
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
@@ -155,8 +374,8 @@
    "publishedAt": "2026-09-10T15:29:30.000Z",
    "hn": {
     "id": "49645437",
-    "points": 353,
-    "comments": 57
+    "points": 369,
+    "comments": 68
    },
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
@@ -170,8 +389,8 @@
    "publishedAt": "2026-09-10T15:27:22.000Z",
    "hn": {
     "id": "49645393",
-    "points": 624,
-    "comments": 386
+    "points": 745,
+    "comments": 451
    },
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
@@ -198,7 +417,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T21:58:12.553Z",
-   "score": 22,
+   "score": 26,
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
   {
@@ -209,7 +428,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-11T03:37:10.275Z",
-   "score": 21,
+   "score": 46,
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
   {
@@ -220,7 +439,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T21:59:16.157Z",
-   "score": 41,
+   "score": 58,
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
   {
@@ -231,7 +450,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T19:40:27.051Z",
-   "score": 21,
+   "score": 28,
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
   {
@@ -242,7 +461,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-11T00:04:53.963Z",
-   "score": 15,
+   "score": 32,
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
   {
@@ -253,7 +472,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T20:34:57.807Z",
-   "score": 10,
+   "score": 18,
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
   {
@@ -363,8 +582,8 @@
    "publishedAt": "2026-09-10T16:13:42.000Z",
    "hn": {
     "id": "49646181",
-    "points": 448,
-    "comments": 183
+    "points": 456,
+    "comments": 193
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -378,8 +597,8 @@
    "publishedAt": "2026-09-10T15:29:47.000Z",
    "hn": {
     "id": "49645443",
-    "points": 427,
-    "comments": 177
+    "points": 440,
+    "comments": 188
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -393,8 +612,8 @@
    "publishedAt": "2026-09-10T13:39:53.000Z",
    "hn": {
     "id": "49643556",
-    "points": 461,
-    "comments": 182
+    "points": 470,
+    "comments": 184
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -408,8 +627,8 @@
    "publishedAt": "2026-09-10T12:18:06.000Z",
    "hn": {
     "id": "49642531",
-    "points": 405,
-    "comments": 142
+    "points": 425,
+    "comments": 151
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -423,8 +642,8 @@
    "publishedAt": "2026-09-10T10:13:59.000Z",
    "hn": {
     "id": "49641215",
-    "points": 377,
-    "comments": 376
+    "points": 383,
+    "comments": 378
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -438,8 +657,8 @@
    "publishedAt": "2026-09-10T06:49:43.000Z",
    "hn": {
     "id": "49639408",
-    "points": 832,
-    "comments": 771
+    "points": 855,
+    "comments": 804
    },
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
@@ -466,7 +685,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T15:14:48.267Z",
-   "score": 77,
+   "score": 87,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -477,7 +696,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T17:40:19.396Z",
-   "score": 38,
+   "score": 43,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -488,7 +707,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T15:05:43.061Z",
-   "score": 42,
+   "score": 47,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -499,7 +718,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T17:04:10.359Z",
-   "score": 39,
+   "score": 42,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -510,7 +729,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T14:59:03.130Z",
-   "score": 27,
+   "score": 35,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -532,7 +751,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-10T16:13:28.216Z",
-   "score": 29,
+   "score": 36,
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
@@ -690,8 +909,8 @@
    "publishedAt": "2026-09-10T06:11:05.000Z",
    "hn": {
     "id": "49639090",
-    "points": 975,
-    "comments": 555
+    "points": 991,
+    "comments": 564
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -705,8 +924,8 @@
    "publishedAt": "2026-09-10T01:58:00.000Z",
    "hn": {
     "id": "49637385",
-    "points": 590,
-    "comments": 268
+    "points": 600,
+    "comments": 274
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
@@ -720,8 +939,8 @@
    "publishedAt": "2026-09-09T23:49:29.000Z",
    "hn": {
     "id": "49636283",
-    "points": 445,
-    "comments": 336
+    "points": 452,
+    "comments": 360
    },
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
   },
