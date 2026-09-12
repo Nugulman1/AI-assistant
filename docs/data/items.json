@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-09-12T12:47:49.032Z",
+ "generatedAt": "2026-09-12T22:54:05.627Z",
  "items": [
+  {
+   "id": "ed2eac0b8674",
+   "title": "Fuck it, make it anyway",
+   "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-12T11:42:32.000Z",
+   "hn": {
+    "id": "49671329",
+    "points": 531,
+    "comments": 530
+   },
+   "score": 11,
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
   {
    "id": "59326c036955",
    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
@@ -12,10 +29,10 @@
    "publishedAt": "2026-09-11T23:17:42.000Z",
    "hn": {
     "id": "49666735",
-    "points": 778,
-    "comments": 432
+    "points": 917,
+    "comments": 570
    },
-   "score": 80,
+   "score": 103,
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
   },
   {
@@ -29,8 +46,8 @@
    "publishedAt": "2026-09-11T17:45:12.000Z",
    "hn": {
     "id": "49662371",
-    "points": 1016,
-    "comments": 975
+    "points": 1173,
+    "comments": 1132
    },
    "score": 33,
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
@@ -165,6 +182,143 @@
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
+   "id": "c63b548b0537",
+   "title": "Nvidia is the central bank of AI",
+   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-12T15:08:27.000Z",
+   "hn": {
+    "id": "49673098",
+    "points": 332,
+    "comments": 233
+   },
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "98264c64ca81",
+   "title": "We must pace the frontier",
+   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-12T14:10:49.000Z",
+   "hn": {
+    "id": "49672510",
+    "points": 469,
+    "comments": 647
+   },
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "fd2d42c80a83",
+   "title": "Navier-Stokes Announcement",
+   "url": "https://www.claymath.org/news/navier-stokes-announcement/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-12T04:09:43.000Z",
+   "hn": {
+    "id": "49668706",
+    "points": 302,
+    "comments": 241
+   },
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "28a9cb3e9c5b",
+   "title": "GrapheneOS' rewritten Messages app is released",
+   "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-11T18:50:36.000Z",
+   "hn": {
+    "id": "49663373",
+    "points": 305,
+    "comments": 228
+   },
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "b068269f0548",
+   "title": "I made a build visualizer to understand Bun’s compile times",
+   "url": "https://lalitm.com/post/buildprof/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-12T14:48:24.716Z",
+   "score": 37,
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "84a732ab6cd0",
+   "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
+   "url": "https://hachyderm.io/@simontatham/117201594980991062",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-12T12:38:53.353Z",
+   "score": 39,
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "4bc45eab1a2a",
+   "title": "Useful Things Agents Can Do That Are Not Writing Code",
+   "url": "https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-12T15:56:54.844Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "14a53e732c48",
+   "title": "Base84 deserves a place in file names",
+   "url": "https://00f.net/2026/09/09/base84/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-12T14:38:51.736Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "19634b73ecac",
+   "title": "xkcd-font: The xkcd font",
+   "url": "https://github.com/ipython/xkcd-font",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-12T15:39:00.523Z",
+   "score": 23,
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "394ab6379039",
+   "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
+   "url": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-12T17:24:59.836Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
+   "id": "d4a6d4fc3b3e",
+   "title": "How Trail of Bits helps verify the integrity of your Signal chats",
+   "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-12T11:28:29.367Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-12T22:54:05.627Z"
+  },
+  {
    "id": "ebc58e96076d",
    "title": "google.com/goto: Google's anti-scraping update",
    "url": "https://www.autom.dev/blog/google-search-goto-links",
@@ -174,8 +328,8 @@
    "publishedAt": "2026-09-12T03:14:20.000Z",
    "hn": {
     "id": "49668386",
-    "points": 481,
-    "comments": 378
+    "points": 621,
+    "comments": 481
    },
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
   },
@@ -189,8 +343,8 @@
    "publishedAt": "2026-09-11T18:24:55.000Z",
    "hn": {
     "id": "49662990",
-    "points": 592,
-    "comments": 325
+    "points": 726,
+    "comments": 402
    },
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
   },
@@ -204,8 +358,8 @@
    "publishedAt": "2026-09-11T18:05:21.000Z",
    "hn": {
     "id": "49662672",
-    "points": 472,
-    "comments": 343
+    "points": 493,
+    "comments": 377
    },
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
   },
@@ -217,7 +371,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-12T04:23:08.739Z",
-   "score": 21,
+   "score": 36,
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
   },
   {
@@ -228,7 +382,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-11T22:55:34.740Z",
-   "score": 16,
+   "score": 23,
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
   },
   {
@@ -293,8 +447,8 @@
    "publishedAt": "2026-09-11T13:41:38.000Z",
    "hn": {
     "id": "49658299",
-    "points": 380,
-    "comments": 668
+    "points": 386,
+    "comments": 688
    },
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
@@ -308,8 +462,8 @@
    "publishedAt": "2026-09-11T13:11:04.000Z",
    "hn": {
     "id": "49657850",
-    "points": 798,
-    "comments": 373
+    "points": 815,
+    "comments": 381
    },
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
@@ -323,7 +477,7 @@
    "publishedAt": "2026-09-11T11:17:50.000Z",
    "hn": {
     "id": "49656496",
-    "points": 326,
+    "points": 329,
     "comments": 299
    },
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
@@ -338,8 +492,8 @@
    "publishedAt": "2026-09-11T10:48:00.000Z",
    "hn": {
     "id": "49656225",
-    "points": 654,
-    "comments": 629
+    "points": 665,
+    "comments": 644
    },
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
@@ -353,8 +507,8 @@
    "publishedAt": "2026-09-11T01:00:56.000Z",
    "hn": {
     "id": "49652237",
-    "points": 380,
-    "comments": 131
+    "points": 384,
+    "comments": 133
    },
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
@@ -368,8 +522,8 @@
    "publishedAt": "2026-09-11T00:42:41.000Z",
    "hn": {
     "id": "49652105",
-    "points": 368,
-    "comments": 331
+    "points": 373,
+    "comments": 337
    },
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
@@ -396,7 +550,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-11T12:33:20.763Z",
-   "score": 171,
+   "score": 212,
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
   {
@@ -407,7 +561,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-11T14:23:46.956Z",
-   "score": 189,
+   "score": 222,
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
   {
@@ -418,7 +572,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-11T19:03:30.462Z",
-   "score": 65,
+   "score": 83,
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
   {
@@ -429,7 +583,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-11T12:59:46.317Z",
-   "score": 45,
+   "score": 54,
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
   {
@@ -451,7 +605,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-11T16:35:40.299Z",
-   "score": 44,
+   "score": 51,
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
   {
@@ -495,8 +649,8 @@
    "publishedAt": "2026-09-11T06:23:06.000Z",
    "hn": {
     "id": "49654229",
-    "points": 434,
-    "comments": 327
+    "points": 440,
+    "comments": 333
    },
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
   },
