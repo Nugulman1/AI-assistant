@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-09-13T13:45:33.564Z",
+ "generatedAt": "2026-09-13T23:00:13.490Z",
  "items": [
+  {
+   "id": "f3600c5021fe",
+   "title": "Homebrew 7.0.0",
+   "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T08:41:17.000Z",
+   "hn": {
+    "id": "49681545",
+    "points": 536,
+    "comments": 211
+   },
+   "score": 31,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
   {
    "id": "ed2eac0b8674",
    "title": "Fuck it, make it anyway",
@@ -12,8 +29,8 @@
    "publishedAt": "2026-09-12T11:42:32.000Z",
    "hn": {
     "id": "49671329",
-    "points": 579,
-    "comments": 586
+    "points": 590,
+    "comments": 602
    },
    "score": 27,
    "firstSeenAt": "2026-09-12T22:54:05.627Z"
@@ -27,12 +44,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-09-12T12:38:53.353Z",
-   "score": 56,
+   "score": 67,
    "firstSeenAt": "2026-09-12T22:54:05.627Z",
    "hn": {
     "id": "49675902",
-    "points": 358,
-    "comments": 128
+    "points": 399,
+    "comments": 146
    }
   },
   {
@@ -46,8 +63,8 @@
    "publishedAt": "2026-09-11T23:17:42.000Z",
    "hn": {
     "id": "49666735",
-    "points": 940,
-    "comments": 584
+    "points": 952,
+    "comments": 592
    },
    "score": 116,
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
@@ -135,7 +152,7 @@
     "comments": 445
    },
    "firstSeenAt": "2026-09-09T23:03:26.977Z",
-   "score": 26
+   "score": 51
   },
   {
    "id": "4ea44598f405",
@@ -216,6 +233,222 @@
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
+   "id": "c7c5eb704777",
+   "title": "[$] Stabilizing Rust's never type",
+   "url": "https://lwn.net/Articles/1091015/",
+   "sources": [
+    "LWN",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-08T13:34:38.000Z",
+   "firstSeenAt": "2026-09-09T11:57:53.336Z",
+   "score": 19
+  },
+  {
+   "id": "003ff6da8e6d",
+   "title": "I'm being cyberattacked by Tesla, Inc",
+   "url": "https://dreamstation.systems/personal/tesla.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T18:03:09.000Z",
+   "hn": {
+    "id": "49686766",
+    "points": 374,
+    "comments": 102
+   },
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "ef9f4296e998",
+   "title": "Why is Google still serving dodgy ads?",
+   "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T17:37:44.000Z",
+   "hn": {
+    "id": "49686445",
+    "points": 460,
+    "comments": 215
+   },
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "543492d80546",
+   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
+   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T15:44:38.000Z",
+   "hn": {
+    "id": "49685253",
+    "points": 304,
+    "comments": 159
+   },
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "ed4dc19a3249",
+   "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+   "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T14:28:36.000Z",
+   "hn": {
+    "id": "49684393",
+    "points": 346,
+    "comments": 164
+   },
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "12a30bf0f85c",
+   "title": "Flock worker calls police on reporter filming public camera installation",
+   "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T13:35:31.000Z",
+   "hn": {
+    "id": "49683853",
+    "points": 331,
+    "comments": 235
+   },
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "d5dcbba8e029",
+   "title": "JetKVM Mini",
+   "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T07:49:46.000Z",
+   "hn": {
+    "id": "49681152",
+    "points": 505,
+    "comments": 200
+   },
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "cec523332601",
+   "title": "LG Says We're Fake News [video]",
+   "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-12T19:35:36.000Z",
+   "hn": {
+    "id": "49676324",
+    "points": 312,
+    "comments": 158
+   },
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "96cefa2b4516",
+   "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
+   "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T12:10:30.087Z",
+   "score": 58,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "5c766af03230",
+   "title": "what if my git host were a static site generator?",
+   "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T16:10:06.327Z",
+   "score": 32,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "dfc33ee5fb44",
+   "title": "Golang developers should try Odin",
+   "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T15:23:41.394Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "e2c4c2466992",
+   "title": "Switching to GNU Guix: A Beginner's Perspective",
+   "url": "https://whhone.com/posts/switching-to-gnu-guix/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T16:19:47.288Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "633cb42ecb14",
+   "title": "Don't call yourself an artisanal programmer",
+   "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T11:39:43.658Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "adcfbec24502",
+   "title": "Can a regex match valid card numbers?",
+   "url": "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T13:39:15.845Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "d3415ce181b8",
+   "title": "After Math",
+   "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T12:59:09.092Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "562b1be36a47",
+   "title": "A Dick Smith VZ200 without the Dick Smith",
+   "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T02:31:35.781Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
+   "id": "5bc42122c6b1",
+   "title": "Nobody pays for open source. We can force them to",
+   "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T14:34:32.534Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+  },
+  {
    "id": "ae1c0b143270",
    "title": "Why are AI agents lying, cheating and coordinating?",
    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
@@ -225,8 +458,8 @@
    "publishedAt": "2026-09-13T01:22:31.000Z",
    "hn": {
     "id": "49678969",
-    "points": 362,
-    "comments": 430
+    "points": 570,
+    "comments": 641
    },
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
@@ -240,8 +473,8 @@
    "publishedAt": "2026-09-13T00:30:44.000Z",
    "hn": {
     "id": "49678683",
-    "points": 604,
-    "comments": 362
+    "points": 736,
+    "comments": 433
    },
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
@@ -255,8 +488,8 @@
    "publishedAt": "2026-09-12T16:25:08.000Z",
    "hn": {
     "id": "49674050",
-    "points": 514,
-    "comments": 131
+    "points": 590,
+    "comments": 138
    },
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
@@ -268,7 +501,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T07:51:19.345Z",
-   "score": 14,
+   "score": 27,
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
   {
@@ -279,7 +512,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T05:59:41.454Z",
-   "score": 21,
+   "score": 52,
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
   {
@@ -290,7 +523,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T01:12:07.992Z",
-   "score": 10,
+   "score": 13,
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
   {
@@ -301,7 +534,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-12T18:19:16.652Z",
-   "score": 28,
+   "score": 37,
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
   {
@@ -335,8 +568,8 @@
    "publishedAt": "2026-09-12T15:08:27.000Z",
    "hn": {
     "id": "49673098",
-    "points": 517,
-    "comments": 365
+    "points": 558,
+    "comments": 388
    },
    "firstSeenAt": "2026-09-12T22:54:05.627Z"
   },
@@ -350,8 +583,8 @@
    "publishedAt": "2026-09-12T14:10:49.000Z",
    "hn": {
     "id": "49672510",
-    "points": 692,
-    "comments": 952
+    "points": 731,
+    "comments": 1007
    },
    "firstSeenAt": "2026-09-12T22:54:05.627Z"
   },
@@ -365,8 +598,8 @@
    "publishedAt": "2026-09-12T04:09:43.000Z",
    "hn": {
     "id": "49668706",
-    "points": 327,
-    "comments": 274
+    "points": 333,
+    "comments": 286
    },
    "firstSeenAt": "2026-09-12T22:54:05.627Z"
   },
@@ -393,7 +626,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-12T14:48:24.716Z",
-   "score": 79,
+   "score": 101,
    "firstSeenAt": "2026-09-12T22:54:05.627Z"
   },
   {
@@ -426,7 +659,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-12T15:39:00.523Z",
-   "score": 33,
+   "score": 46,
    "firstSeenAt": "2026-09-12T22:54:05.627Z"
   },
   {
@@ -461,8 +694,8 @@
    "publishedAt": "2026-09-12T03:14:20.000Z",
    "hn": {
     "id": "49668386",
-    "points": 652,
-    "comments": 513
+    "points": 667,
+    "comments": 533
    },
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
   },
@@ -2500,16 +2733,6 @@
     "Interconnects"
    ],
    "publishedAt": "2026-09-08T14:15:25.000Z",
-   "firstSeenAt": "2026-09-09T11:57:53.336Z"
-  },
-  {
-   "id": "c7c5eb704777",
-   "title": "[$] Stabilizing Rust's never type",
-   "url": "https://lwn.net/Articles/1091015/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-08T13:34:38.000Z",
    "firstSeenAt": "2026-09-09T11:57:53.336Z"
   },
   {
