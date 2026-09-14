@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-13T23:00:13.490Z",
+ "generatedAt": "2026-09-14T15:51:11.161Z",
  "items": [
   {
    "id": "f3600c5021fe",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-09-13T08:41:17.000Z",
    "hn": {
     "id": "49681545",
-    "points": 536,
-    "comments": 211
+    "points": 617,
+    "comments": 247
    },
-   "score": 31,
+   "score": 55,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -48,8 +48,8 @@
    "firstSeenAt": "2026-09-12T22:54:05.627Z",
    "hn": {
     "id": "49675902",
-    "points": 399,
-    "comments": 146
+    "points": 419,
+    "comments": 162
    }
   },
   {
@@ -245,6 +245,208 @@
    "score": 19
   },
   {
+   "id": "9cc347bcfd80",
+   "title": "Apple's Dimensional Drawings",
+   "url": "https://developer.apple.com/accessories/dimensional-drawings/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T00:11:21.000Z",
+   "hn": {
+    "id": "49690174",
+    "points": 328,
+    "comments": 109
+   },
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "4827a6903f84",
+   "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+   "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T21:47:04.000Z",
+   "hn": {
+    "id": "49689048",
+    "points": 350,
+    "comments": 178
+   },
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "0fa77dcd1de2",
+   "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+   "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T21:06:13.000Z",
+   "hn": {
+    "id": "49688695",
+    "points": 1137,
+    "comments": 525
+   },
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "351b0e630c64",
+   "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+   "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T20:08:45.000Z",
+   "hn": {
+    "id": "49688157",
+    "points": 305,
+    "comments": 137
+   },
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "4e3f293e3094",
+   "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
+   "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T16:52:33.000Z",
+   "hn": {
+    "id": "49685991",
+    "points": 315,
+    "comments": 239
+   },
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "ed60bc70cf72",
+   "title": "Data collected by cars and sold to third parties",
+   "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T13:45:08.000Z",
+   "hn": {
+    "id": "49683953",
+    "points": 449,
+    "comments": 232
+   },
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "1da5354014d8",
+   "title": "An open letter to Dario: if you mean it, open the weights",
+   "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-12T19:15:32.000Z",
+   "hn": {
+    "id": "49676085",
+    "points": 302,
+    "comments": 98
+   },
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "2f61b197bc53",
+   "title": "The case against JPEG XL",
+   "url": "https://giannirosato.com/blog/post/case-against-jxl",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T01:18:11.130Z",
+   "score": 36,
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "797de290dec6",
+   "title": "Anecdotally, programmers dislike \"reduce\"",
+   "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T23:59:05.562Z",
+   "score": 71,
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "6a7a5694b523",
+   "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
+   "url": "https://codeberg.org/mergiraf/mergiraf",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T11:16:14.338Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "d92d5e5b1725",
+   "title": "Writing a Guix service from scratch, as a beginner",
+   "url": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T23:24:10.765Z",
+   "score": 29,
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "0985bd40d7f5",
+   "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T03:34:33.147Z",
+   "score": 38,
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "e58d93dd5c72",
+   "title": "Purely Functional Operating Systems",
+   "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T00:03:38.791Z",
+   "score": 29,
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "846b8f1cb486",
+   "title": "This PCB is brought to you by Fable 5",
+   "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-13T18:00:25.852Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "d6dce00fbe66",
+   "title": "[$] Lessons learned as the Debian Project Leader",
+   "url": "https://lwn.net/Articles/1093381/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-14T15:34:44.000Z",
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
+   "id": "c99eb2137d4b",
+   "title": "Query plan rewriting in PostgreSQL",
+   "url": "http://notes.eatonphil.com/2026-09-13-query-plan-rewriting-in-postgresql.html",
+   "sources": [
+    "Phil Eaton"
+   ],
+   "publishedAt": "2026-09-13T00:00:00.000Z",
+   "firstSeenAt": "2026-09-14T15:51:11.161Z"
+  },
+  {
    "id": "003ff6da8e6d",
    "title": "I'm being cyberattacked by Tesla, Inc",
    "url": "https://dreamstation.systems/personal/tesla.html",
@@ -254,8 +456,8 @@
    "publishedAt": "2026-09-13T18:03:09.000Z",
    "hn": {
     "id": "49686766",
-    "points": 374,
-    "comments": 102
+    "points": 444,
+    "comments": 118
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -269,8 +471,8 @@
    "publishedAt": "2026-09-13T17:37:44.000Z",
    "hn": {
     "id": "49686445",
-    "points": 460,
-    "comments": 215
+    "points": 907,
+    "comments": 391
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -284,8 +486,8 @@
    "publishedAt": "2026-09-13T15:44:38.000Z",
    "hn": {
     "id": "49685253",
-    "points": 304,
-    "comments": 159
+    "points": 399,
+    "comments": 219
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -299,8 +501,8 @@
    "publishedAt": "2026-09-13T14:28:36.000Z",
    "hn": {
     "id": "49684393",
-    "points": 346,
-    "comments": 164
+    "points": 456,
+    "comments": 215
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -314,8 +516,8 @@
    "publishedAt": "2026-09-13T13:35:31.000Z",
    "hn": {
     "id": "49683853",
-    "points": 331,
-    "comments": 235
+    "points": 350,
+    "comments": 259
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -329,8 +531,8 @@
    "publishedAt": "2026-09-13T07:49:46.000Z",
    "hn": {
     "id": "49681152",
-    "points": 505,
-    "comments": 200
+    "points": 558,
+    "comments": 224
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -344,8 +546,8 @@
    "publishedAt": "2026-09-12T19:35:36.000Z",
    "hn": {
     "id": "49676324",
-    "points": 312,
-    "comments": 158
+    "points": 377,
+    "comments": 195
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -357,7 +559,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T12:10:30.087Z",
-   "score": 58,
+   "score": 100,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -368,7 +570,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T16:10:06.327Z",
-   "score": 32,
+   "score": 60,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -379,7 +581,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T15:23:41.394Z",
-   "score": 16,
+   "score": 23,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -390,7 +592,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T16:19:47.288Z",
-   "score": 18,
+   "score": 43,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -412,7 +614,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T13:39:15.845Z",
-   "score": 15,
+   "score": 21,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -423,7 +625,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T12:59:09.092Z",
-   "score": 10,
+   "score": 19,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -458,8 +660,8 @@
    "publishedAt": "2026-09-13T01:22:31.000Z",
    "hn": {
     "id": "49678969",
-    "points": 570,
-    "comments": 641
+    "points": 635,
+    "comments": 678
    },
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
@@ -473,8 +675,8 @@
    "publishedAt": "2026-09-13T00:30:44.000Z",
    "hn": {
     "id": "49678683",
-    "points": 736,
-    "comments": 433
+    "points": 784,
+    "comments": 445
    },
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
@@ -488,8 +690,8 @@
    "publishedAt": "2026-09-12T16:25:08.000Z",
    "hn": {
     "id": "49674050",
-    "points": 590,
-    "comments": 138
+    "points": 609,
+    "comments": 147
    },
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
@@ -501,7 +703,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T07:51:19.345Z",
-   "score": 27,
+   "score": 32,
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
   {
@@ -512,7 +714,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T05:59:41.454Z",
-   "score": 52,
+   "score": 70,
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
   {
