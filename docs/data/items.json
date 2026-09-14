@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T15:51:11.161Z",
+ "generatedAt": "2026-09-14T23:44:09.646Z",
  "items": [
   {
    "id": "f3600c5021fe",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-09-13T08:41:17.000Z",
    "hn": {
     "id": "49681545",
-    "points": 617,
-    "comments": 247
+    "points": 623,
+    "comments": 251
    },
-   "score": 55,
+   "score": 63,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -245,6 +245,149 @@
    "score": 19
   },
   {
+   "id": "ea38292b932e",
+   "title": "Steam Frame starts at $1059",
+   "url": "https://store.steampowered.com/hardware/steamframe",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T17:27:55.000Z",
+   "hn": {
+    "id": "49700661",
+    "points": 449,
+    "comments": 329
+   },
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "dce815e05e9f",
+   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T12:40:57.000Z",
+   "hn": {
+    "id": "49695876",
+    "points": 342,
+    "comments": 301
+   },
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "b77021054768",
+   "title": "XCancel service is suspended until further notice",
+   "url": "https://xcancel.com/#",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T09:51:50.000Z",
+   "hn": {
+    "id": "49694296",
+    "points": 404,
+    "comments": 727
+   },
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "e73517753a64",
+   "title": "The contagion of fear",
+   "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T16:53:14.313Z",
+   "score": 83,
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "224f15fdacd1",
+   "title": "What blog posts influenced your thinking the most?",
+   "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T15:27:32.545Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "778a93785423",
+   "title": "How can you not be romantic about UNIX domain sockets?",
+   "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T16:27:12.300Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "b66fa660ea47",
+   "title": "Why Am I Still Programming",
+   "url": "https://www.youtube.com/watch?v=pOAj3mor8y8",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T13:28:42.300Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "470923ae6920",
+   "title": "We are all Product Engineers now",
+   "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T10:52:45.255Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "c9d91dd49f64",
+   "title": "I wish you the best in the Offline",
+   "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T16:39:55.673Z",
+   "score": 26,
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "b8462b297bf7",
+   "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets",
+   "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T15:00:16.981Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "8586a4842ac1",
+   "title": "What are you doing this week?",
+   "url": "https://lobste.rs/s/0inlyw/what_are_you_doing_this_week",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T07:47:47.767Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
+   "id": "296d33defd03",
+   "title": "How Fyxer built an AI executive assistant people trust",
+   "url": "https://openai.com/index/fyxer",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-14T12:00:00.000Z",
+   "firstSeenAt": "2026-09-14T23:44:09.646Z"
+  },
+  {
    "id": "9cc347bcfd80",
    "title": "Apple's Dimensional Drawings",
    "url": "https://developer.apple.com/accessories/dimensional-drawings/",
@@ -254,8 +397,8 @@
    "publishedAt": "2026-09-14T00:11:21.000Z",
    "hn": {
     "id": "49690174",
-    "points": 328,
-    "comments": 109
+    "points": 373,
+    "comments": 125
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -269,8 +412,8 @@
    "publishedAt": "2026-09-13T21:47:04.000Z",
    "hn": {
     "id": "49689048",
-    "points": 350,
-    "comments": 178
+    "points": 373,
+    "comments": 195
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -284,8 +427,8 @@
    "publishedAt": "2026-09-13T21:06:13.000Z",
    "hn": {
     "id": "49688695",
-    "points": 1137,
-    "comments": 525
+    "points": 1169,
+    "comments": 543
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -299,8 +442,8 @@
    "publishedAt": "2026-09-13T20:08:45.000Z",
    "hn": {
     "id": "49688157",
-    "points": 305,
-    "comments": 137
+    "points": 309,
+    "comments": 143
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -314,8 +457,8 @@
    "publishedAt": "2026-09-13T16:52:33.000Z",
    "hn": {
     "id": "49685991",
-    "points": 315,
-    "comments": 239
+    "points": 321,
+    "comments": 257
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -329,8 +472,8 @@
    "publishedAt": "2026-09-13T13:45:08.000Z",
    "hn": {
     "id": "49683953",
-    "points": 449,
-    "comments": 232
+    "points": 466,
+    "comments": 244
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -357,7 +500,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T01:18:11.130Z",
-   "score": 36,
+   "score": 57,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -368,7 +511,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T23:59:05.562Z",
-   "score": 71,
+   "score": 94,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -379,7 +522,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T11:16:14.338Z",
-   "score": 18,
+   "score": 40,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -390,7 +533,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T23:24:10.765Z",
-   "score": 29,
+   "score": 35,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -401,7 +544,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T03:34:33.147Z",
-   "score": 38,
+   "score": 64,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -412,7 +555,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T00:03:38.791Z",
-   "score": 29,
+   "score": 35,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -456,8 +599,8 @@
    "publishedAt": "2026-09-13T18:03:09.000Z",
    "hn": {
     "id": "49686766",
-    "points": 444,
-    "comments": 118
+    "points": 451,
+    "comments": 119
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -471,8 +614,8 @@
    "publishedAt": "2026-09-13T17:37:44.000Z",
    "hn": {
     "id": "49686445",
-    "points": 907,
-    "comments": 391
+    "points": 922,
+    "comments": 398
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -486,8 +629,8 @@
    "publishedAt": "2026-09-13T15:44:38.000Z",
    "hn": {
     "id": "49685253",
-    "points": 399,
-    "comments": 219
+    "points": 405,
+    "comments": 231
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -501,8 +644,8 @@
    "publishedAt": "2026-09-13T14:28:36.000Z",
    "hn": {
     "id": "49684393",
-    "points": 456,
-    "comments": 215
+    "points": 466,
+    "comments": 228
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -516,8 +659,8 @@
    "publishedAt": "2026-09-13T13:35:31.000Z",
    "hn": {
     "id": "49683853",
-    "points": 350,
-    "comments": 259
+    "points": 354,
+    "comments": 262
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -531,8 +674,8 @@
    "publishedAt": "2026-09-13T07:49:46.000Z",
    "hn": {
     "id": "49681152",
-    "points": 558,
-    "comments": 224
+    "points": 562,
+    "comments": 230
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -559,7 +702,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T12:10:30.087Z",
-   "score": 100,
+   "score": 105,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -570,7 +713,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T16:10:06.327Z",
-   "score": 60,
+   "score": 63,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -592,7 +735,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T16:19:47.288Z",
-   "score": 43,
+   "score": 48,
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
@@ -660,8 +803,8 @@
    "publishedAt": "2026-09-13T01:22:31.000Z",
    "hn": {
     "id": "49678969",
-    "points": 635,
-    "comments": 678
+    "points": 644,
+    "comments": 682
    },
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
@@ -675,8 +818,8 @@
    "publishedAt": "2026-09-13T00:30:44.000Z",
    "hn": {
     "id": "49678683",
-    "points": 784,
-    "comments": 445
+    "points": 797,
+    "comments": 450
    },
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
   },
