@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-15T14:17:22.258Z",
+ "generatedAt": "2026-09-15T23:27:29.595Z",
  "items": [
   {
    "id": "f3600c5021fe",
@@ -245,6 +245,225 @@
    "score": 19
   },
   {
+   "id": "642a1494ec3f",
+   "title": "Introducing System One Models and Jev",
+   "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T19:25:03.000Z",
+   "hn": {
+    "id": "49717558",
+    "points": 589,
+    "comments": 195
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "96d0250dcbd8",
+   "title": "An Update on Wayback Machine Access",
+   "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T17:52:18.000Z",
+   "hn": {
+    "id": "49716176",
+    "points": 325,
+    "comments": 174
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "2ad85f458f57",
+   "title": "Java 27",
+   "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T13:13:43.000Z",
+   "hn": {
+    "id": "49712041",
+    "points": 311,
+    "comments": 277
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "4e7ba9f5f04b",
+   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+   "url": "https://github.com/arnegiacomo/fugleramme",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T12:31:10.000Z",
+   "hn": {
+    "id": "49711544",
+    "points": 1216,
+    "comments": 168
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "d7845e38c425",
+   "title": "25 years of mass surveillance is enough",
+   "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T11:26:48.000Z",
+   "hn": {
+    "id": "49710883",
+    "points": 751,
+    "comments": 275
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "7a7e08b5d834",
+   "title": "Suspected sabotage causes major Netherlands rail disruption",
+   "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T10:22:46.000Z",
+   "hn": {
+    "id": "49710253",
+    "points": 411,
+    "comments": 380
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "4e10364b5ef8",
+   "title": "Linux from Scratch",
+   "url": "https://www.linuxfromscratch.org/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T04:15:23.000Z",
+   "hn": {
+    "id": "49707627",
+    "points": 350,
+    "comments": 109
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "3a790bf32b8f",
+   "title": "US confirms for first time it has deployed space weapons",
+   "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T03:47:56.000Z",
+   "hn": {
+    "id": "49707473",
+    "points": 418,
+    "comments": 294
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "d6bf55e0212f",
+   "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+   "url": "https://www.effort.news/irregular",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T21:15:01.000Z",
+   "hn": {
+    "id": "49704132",
+    "points": 414,
+    "comments": 140
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "3b59aae16d09",
+   "title": "GEFS on OpenBSD: A very early preview",
+   "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T17:21:47.861Z",
+   "score": 42,
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "ac082bb1f4a5",
+   "title": "Small Programming Tricks",
+   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T20:50:57.381Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "fee1ad50a626",
+   "title": "Converting a $20 4G wireless hotspot into a texting device",
+   "url": "https://bkovac.github.io/modem-thing/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T13:43:30.592Z",
+   "score": 24,
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "922d99079b19",
+   "title": "Stalling installing",
+   "url": "https://adactio.com/journal/22757",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T07:31:11.986Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "2f92a8ca47fb",
+   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-09-15T17:05:57.000Z",
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "4b2ac32b486c",
+   "title": "[$] Adding BPF to blk-iocost",
+   "url": "https://lwn.net/Articles/1093661/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-15T14:37:30.000Z",
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "8356199c8c98",
+   "title": "Nail the Narrative",
+   "url": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-09-15T15:11:00.000Z",
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
+   "id": "557dcb769a02",
+   "title": "Inside OpenAI’s agentic software factory",
+   "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-09-15T15:41:25.000Z",
+   "firstSeenAt": "2026-09-15T23:27:29.595Z"
+  },
+  {
    "id": "8410ab28b2f1",
    "title": "I can't stop thinking about Papua New Guinea",
    "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
@@ -254,8 +473,8 @@
    "publishedAt": "2026-09-15T06:16:24.000Z",
    "hn": {
     "id": "49708431",
-    "points": 547,
-    "comments": 236
+    "points": 1004,
+    "comments": 415
    },
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
@@ -269,8 +488,8 @@
    "publishedAt": "2026-09-14T17:50:29.000Z",
    "hn": {
     "id": "49701004",
-    "points": 672,
-    "comments": 774
+    "points": 699,
+    "comments": 823
    },
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
@@ -284,8 +503,8 @@
    "publishedAt": "2026-09-14T17:16:06.000Z",
    "hn": {
     "id": "49700477",
-    "points": 446,
-    "comments": 544
+    "points": 479,
+    "comments": 584
    },
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
@@ -299,8 +518,8 @@
    "publishedAt": "2026-09-14T16:02:01.000Z",
    "hn": {
     "id": "49699158",
-    "points": 330,
-    "comments": 68
+    "points": 339,
+    "comments": 73
    },
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
@@ -314,8 +533,8 @@
    "publishedAt": "2026-09-14T14:50:32.000Z",
    "hn": {
     "id": "49697893",
-    "points": 578,
-    "comments": 269
+    "points": 614,
+    "comments": 298
    },
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
@@ -329,8 +548,8 @@
    "publishedAt": "2026-09-14T13:00:46.000Z",
    "hn": {
     "id": "49696125",
-    "points": 334,
-    "comments": 138
+    "points": 342,
+    "comments": 139
    },
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
@@ -344,8 +563,8 @@
    "publishedAt": "2026-09-14T02:50:40.000Z",
    "hn": {
     "id": "49691343",
-    "points": 307,
-    "comments": 424
+    "points": 312,
+    "comments": 427
    },
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
@@ -372,7 +591,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T20:16:07.338Z",
-   "score": 59,
+   "score": 71,
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
   {
@@ -383,7 +602,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-15T09:06:36.640Z",
-   "score": 28,
+   "score": 46,
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
   {
@@ -394,7 +613,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-15T09:12:31.945Z",
-   "score": 18,
+   "score": 38,
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
   {
@@ -405,7 +624,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T22:37:17.715Z",
-   "score": 23,
+   "score": 30,
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
   {
@@ -416,7 +635,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-15T00:29:04.599Z",
-   "score": 18,
+   "score": 25,
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
   {
@@ -427,7 +646,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-15T04:07:33.586Z",
-   "score": 18,
+   "score": 23,
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
   {
@@ -438,7 +657,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T17:58:22.527Z",
-   "score": 20,
+   "score": 24,
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
   {
@@ -526,8 +745,8 @@
    "publishedAt": "2026-09-14T17:27:55.000Z",
    "hn": {
     "id": "49700661",
-    "points": 699,
-    "comments": 568
+    "points": 720,
+    "comments": 615
    },
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
@@ -541,8 +760,8 @@
    "publishedAt": "2026-09-14T12:40:57.000Z",
    "hn": {
     "id": "49695876",
-    "points": 493,
-    "comments": 396
+    "points": 504,
+    "comments": 413
    },
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
@@ -556,8 +775,8 @@
    "publishedAt": "2026-09-14T09:51:50.000Z",
    "hn": {
     "id": "49694296",
-    "points": 722,
-    "comments": 976
+    "points": 746,
+    "comments": 1009
    },
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
@@ -569,7 +788,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T16:53:14.313Z",
-   "score": 154,
+   "score": 169,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
@@ -580,7 +799,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T15:27:32.545Z",
-   "score": 80,
+   "score": 95,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
@@ -591,7 +810,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T16:27:12.300Z",
-   "score": 85,
+   "score": 94,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
@@ -669,8 +888,8 @@
    "publishedAt": "2026-09-14T00:11:21.000Z",
    "hn": {
     "id": "49690174",
-    "points": 395,
-    "comments": 129
+    "points": 405,
+    "comments": 131
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
