@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-14T23:44:09.646Z",
+ "generatedAt": "2026-09-15T14:17:22.258Z",
  "items": [
   {
    "id": "f3600c5021fe",
@@ -245,6 +245,278 @@
    "score": 19
   },
   {
+   "id": "8410ab28b2f1",
+   "title": "I can't stop thinking about Papua New Guinea",
+   "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T06:16:24.000Z",
+   "hn": {
+    "id": "49708431",
+    "points": 547,
+    "comments": 236
+   },
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "03f1b5d44960",
+   "title": "iOS 27, iPadOS 27, and macOS 27",
+   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T17:50:29.000Z",
+   "hn": {
+    "id": "49701004",
+    "points": 672,
+    "comments": 774
+   },
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "310d4fd0496b",
+   "title": "Pion, an agent designed to run any company autonomously",
+   "url": "https://andonlabs.com/blog/why-we-built-pion",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T17:16:06.000Z",
+   "hn": {
+    "id": "49700477",
+    "points": 446,
+    "comments": 544
+   },
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "31fa1fe3afe5",
+   "title": "Distributed Systems Classics (2017)",
+   "url": "https://nvartolomei.com/dist-sys-classics/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T16:02:01.000Z",
+   "hn": {
+    "id": "49699158",
+    "points": 330,
+    "comments": 68
+   },
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "e6d6db22ece5",
+   "title": "Dario, Please",
+   "url": "https://pop.rdi.sh/dario-please/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T14:50:32.000Z",
+   "hn": {
+    "id": "49697893",
+    "points": 578,
+    "comments": 269
+   },
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "97679bf9705e",
+   "title": "How to write an effective software design document",
+   "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T13:00:46.000Z",
+   "hn": {
+    "id": "49696125",
+    "points": 334,
+    "comments": 138
+   },
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "8f9b9f0bfe83",
+   "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
+   "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-14T02:50:40.000Z",
+   "hn": {
+    "id": "49691343",
+    "points": 307,
+    "comments": 424
+   },
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "97e14b967a5d",
+   "title": "Ask HN: What are you working on? (September 2026)",
+   "url": "https://news.ycombinator.com/item?id=49686380",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-13T17:31:38.000Z",
+   "hn": {
+    "id": "49686380",
+    "points": 347,
+    "comments": 1073
+   },
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "bcb00d56fde8",
+   "title": "\"Do You Still Read the Code?\"",
+   "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T20:16:07.338Z",
+   "score": 59,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "c7aeac0c4f36",
+   "title": "Coreutils - rejected feature requests",
+   "url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T09:06:36.640Z",
+   "score": 28,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "174f77d92568",
+   "title": "CSS-Tricks in Limbo",
+   "url": "https://vale.rocks/micros/20260915-0135",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T09:12:31.945Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "1fb92bf26136",
+   "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
+   "url": "https://www.benjoffe.com/map",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T22:37:17.715Z",
+   "score": 23,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "022f838bbeea",
+   "title": "GDScript: The Good, Bad, and Ugly Parts",
+   "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T00:29:04.599Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "a5a6bf8b3c5b",
+   "title": "A Nix store is three functions",
+   "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T04:07:33.586Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "f55afdd97887",
+   "title": "A Letter from a Machine Learning Engineer",
+   "url": "https://nemin.hu/llm-letter/index.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-14T17:58:22.527Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "cbe4ea34e041",
+   "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+   "url": "https://huggingface.co/papers/2609.15818",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-13T20:00:00.000Z",
+   "score": 363,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "95dd8edc5511",
+   "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+   "url": "https://huggingface.co/papers/2609.14858",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-13T20:00:00.000Z",
+   "score": 249,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "aafaf45f076d",
+   "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+   "url": "https://huggingface.co/papers/2609.14973",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-13T20:00:00.000Z",
+   "score": 168,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "7e98109ec1dd",
+   "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
+   "url": "https://huggingface.co/papers/2609.15863",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-13T20:00:00.000Z",
+   "score": 42,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "4dbfeedc8d5a",
+   "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
+   "url": "https://huggingface.co/papers/2609.15364",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-13T20:00:00.000Z",
+   "score": 21,
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "4096ef147cca",
+   "title": "Have it both ways: stay discoverable in search while disallowing AI training",
+   "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-15T13:00:00.000Z",
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
+   "id": "e5095a156146",
+   "title": "Give every teammate and agent the right level of access to your Workers",
+   "url": "https://blog.cloudflare.com/workers-granular-authorization/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-15T13:00:00.000Z",
+   "firstSeenAt": "2026-09-15T14:17:22.258Z"
+  },
+  {
    "id": "ea38292b932e",
    "title": "Steam Frame starts at $1059",
    "url": "https://store.steampowered.com/hardware/steamframe",
@@ -254,8 +526,8 @@
    "publishedAt": "2026-09-14T17:27:55.000Z",
    "hn": {
     "id": "49700661",
-    "points": 449,
-    "comments": 329
+    "points": 699,
+    "comments": 568
    },
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
@@ -269,8 +541,8 @@
    "publishedAt": "2026-09-14T12:40:57.000Z",
    "hn": {
     "id": "49695876",
-    "points": 342,
-    "comments": 301
+    "points": 493,
+    "comments": 396
    },
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
@@ -284,8 +556,8 @@
    "publishedAt": "2026-09-14T09:51:50.000Z",
    "hn": {
     "id": "49694296",
-    "points": 404,
-    "comments": 727
+    "points": 722,
+    "comments": 976
    },
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
@@ -297,7 +569,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T16:53:14.313Z",
-   "score": 83,
+   "score": 154,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
@@ -308,7 +580,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T15:27:32.545Z",
-   "score": 34,
+   "score": 80,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
@@ -319,7 +591,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T16:27:12.300Z",
-   "score": 34,
+   "score": 85,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
@@ -330,7 +602,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T13:28:42.300Z",
-   "score": 20,
+   "score": 24,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
@@ -352,7 +624,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T16:39:55.673Z",
-   "score": 26,
+   "score": 59,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
@@ -397,8 +669,8 @@
    "publishedAt": "2026-09-14T00:11:21.000Z",
    "hn": {
     "id": "49690174",
-    "points": 373,
-    "comments": 125
+    "points": 395,
+    "comments": 129
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -412,8 +684,8 @@
    "publishedAt": "2026-09-13T21:47:04.000Z",
    "hn": {
     "id": "49689048",
-    "points": 373,
-    "comments": 195
+    "points": 387,
+    "comments": 206
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -427,8 +699,8 @@
    "publishedAt": "2026-09-13T21:06:13.000Z",
    "hn": {
     "id": "49688695",
-    "points": 1169,
-    "comments": 543
+    "points": 1196,
+    "comments": 563
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -442,8 +714,8 @@
    "publishedAt": "2026-09-13T20:08:45.000Z",
    "hn": {
     "id": "49688157",
-    "points": 309,
-    "comments": 143
+    "points": 310,
+    "comments": 145
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -457,8 +729,8 @@
    "publishedAt": "2026-09-13T16:52:33.000Z",
    "hn": {
     "id": "49685991",
-    "points": 321,
-    "comments": 257
+    "points": 325,
+    "comments": 258
    },
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
@@ -500,7 +772,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T01:18:11.130Z",
-   "score": 57,
+   "score": 62,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -511,7 +783,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-13T23:59:05.562Z",
-   "score": 94,
+   "score": 98,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -522,7 +794,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T11:16:14.338Z",
-   "score": 40,
+   "score": 54,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -544,7 +816,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T03:34:33.147Z",
-   "score": 64,
+   "score": 74,
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
   },
   {
@@ -599,8 +871,8 @@
    "publishedAt": "2026-09-13T18:03:09.000Z",
    "hn": {
     "id": "49686766",
-    "points": 451,
-    "comments": 119
+    "points": 454,
+    "comments": 118
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -614,8 +886,8 @@
    "publishedAt": "2026-09-13T17:37:44.000Z",
    "hn": {
     "id": "49686445",
-    "points": 922,
-    "comments": 398
+    "points": 941,
+    "comments": 404
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -629,8 +901,8 @@
    "publishedAt": "2026-09-13T15:44:38.000Z",
    "hn": {
     "id": "49685253",
-    "points": 405,
-    "comments": 231
+    "points": 411,
+    "comments": 236
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
@@ -644,8 +916,8 @@
    "publishedAt": "2026-09-13T14:28:36.000Z",
    "hn": {
     "id": "49684393",
-    "points": 466,
-    "comments": 228
+    "points": 476,
+    "comments": 229
    },
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
