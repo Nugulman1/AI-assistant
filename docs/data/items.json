@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T14:09:30.647Z",
+ "generatedAt": "2026-09-16T23:34:48.302Z",
  "items": [
   {
    "id": "a07ed46e75cc",
@@ -12,11 +12,45 @@
    "publishedAt": "2026-09-16T02:07:31.000Z",
    "hn": {
     "id": "49721322",
-    "points": 358,
-    "comments": 239
+    "points": 494,
+    "comments": 329
    },
-   "score": 11,
+   "score": 19,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
+  },
+  {
+   "id": "b4f808eed5ad",
+   "title": "Why I'm still bearish on LLMs after Navier-Stokes",
+   "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T17:37:12.000Z",
+   "hn": {
+    "id": "49715927",
+    "points": 453,
+    "comments": 593
+   },
+   "firstSeenAt": "2026-09-16T14:09:30.647Z",
+   "score": 24
+  },
+  {
+   "id": "ac082bb1f4a5",
+   "title": "Small Programming Tricks",
+   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T20:50:57.381Z",
+   "score": 59,
+   "firstSeenAt": "2026-09-15T23:27:29.595Z",
+   "hn": {
+    "id": "49729000",
+    "points": 352,
+    "comments": 173
+   }
   },
   {
    "id": "f3600c5021fe",
@@ -155,21 +189,296 @@
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
-   "id": "e44f26fcf847",
-   "title": "Claude, change the “Add to Cart” button to blue",
-   "url": "https://opusfived.dev/",
+   "id": "2a70d59635a9",
+   "title": "Training a 4B model to produce 81% faster query plans than Postgres",
+   "url": "https://rohanbansal.com/qorl",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-16T18:50:00.000Z",
+   "hn": {
+    "id": "49731285",
+    "points": 334,
+    "comments": 64
+   },
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "e47937a64c99",
+   "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
+   "url": "https://frvr.com/blog/news/ps5-linux-lead-quits-as-open-source-projects-have-become-a-bunch-of-noobs-using-llms-that-they-dont-even-understand/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-16T14:30:36.000Z",
+   "hn": {
+    "id": "49727627",
+    "points": 300,
+    "comments": 208
+   },
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "a1a80e7505d3",
+   "title": "Hackers Got Inside a Flock Camera",
+   "url": "https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-16T13:18:47.000Z",
+   "hn": {
+    "id": "49726586",
+    "points": 437,
+    "comments": 208
+   },
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "53ec2ec5337c",
+   "title": "The Google Play app review process now regularly takes longer than a week",
+   "url": "https://gultsch.social/@daniel/117280438824908947",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-16T11:19:11.000Z",
+   "hn": {
+    "id": "49724927",
+    "points": 335,
+    "comments": 327
+   },
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "cbc158125a42",
+   "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+   "url": "https://mistral.ai/news/mistral-x-mozilla/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-16T08:08:57.000Z",
+   "hn": {
+    "id": "49723408",
+    "points": 515,
+    "comments": 182
+   },
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "37fa1a1f049f",
+   "title": "America's Driver's License Breach Is a National Security Disaster",
+   "url": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T15:58:48.000Z",
+   "hn": {
+    "id": "49714547",
+    "points": 312,
+    "comments": 199
+   },
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "025c42049936",
+   "title": "The end of verygoodsoftwarenotvirus.ru",
+   "url": "https://blog.verygoodsoftwarenotvirus.dev/posts/2026/09/12/the-end-of-verygoodsoftwarenotvirus-dot-ru/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-09T09:39:46.000Z",
-   "hn": {
-    "id": "49623754",
-    "points": 1160,
-    "comments": 445
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z",
-   "score": 51
+   "publishedAt": "2026-09-16T16:58:43.181Z",
+   "score": 41,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "ef9c3d87a65e",
+   "title": "Forgery of C2PA on a Pixel 10",
+   "url": "https://www.hackerfactor.com/blog/index.php?/archives/1102-C2PA-and-Pixel-Glitter-Milk.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T13:24:31.337Z",
+   "score": 36,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "edb2a481b0cc",
+   "title": "Introducing GNOME 51",
+   "url": "https://release.gnome.org/51/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T18:05:43.967Z",
+   "score": 23,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "8afcb171ee53",
+   "title": "How to get a DOI for your blog posts",
+   "url": "https://shkspr.mobi/blog/2026/09/how-to-get-a-doi-for-your-blog-posts/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T15:59:17.598Z",
+   "score": 26,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "8486ff7ee341",
+   "title": "Reinventing issue tracking: Local-first and Git-native",
+   "url": "https://blog.manganin.dev/blog/reinventing-issue-tracking/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T10:17:30.841Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "c728fec8f83a",
+   "title": "Unicode 18.0.0",
+   "url": "https://www.unicode.org/versions/Unicode18.0.0/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T17:38:31.926Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "c6fdd83e7eb6",
+   "title": "The smallest possible Linux distribution",
+   "url": "https://distrowatch.com/weekly.php?issue=20260914#qa",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T13:04:59.363Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "df6f770e1e2f",
+   "title": "OSRS Wiki and RuneLite are increasingly under strain from low-effort AI development",
+   "url": "https://oldschool.runescape.wiki/w/User:Cook_Me_Plox/OSRS_Wiki_and_RuneLite_are_increasingly_under_strain_from_low-effort_AI_development",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T17:18:03.472Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "f52acf98b398",
+   "title": "Original Sony PlayStation 2 security chip ‘broken wide open’ after 26 years",
+   "url": "https://www.tomshardware.com/video-games/playstation/26-year-old-sony-ps2-security-chip-broken-wide-open-after-four-years-of-effort-reverse-engineering-enthusiast-successfully-unlocks-cxp102064-mechacon-chip",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T17:22:01.110Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "b8662b9181c1",
+   "title": "Replacing Pull Requests with Delta",
+   "url": "https://zed.dev/blog/delta-public-beta",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T16:27:39.966Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "59d35f76b57a",
+   "title": "When adding a fractional part to a number fixes your shader",
+   "url": "https://crocidb.com/post/when-the-fractional-part-of-a-float-fixes-your-shader/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T10:20:07.415Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "aeec97c26301",
+   "title": "Simple and Efficient Row-Level Security",
+   "url": "https://acadia.engineering/blog/simple-and-efficient-row-level-security",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T12:54:22.253Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "bbe6c30a33c9",
+   "title": "Our framework for reporting model misalignment",
+   "url": "https://openai.com/index/model-misalignment-reporting-framework",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-16T17:00:00.000Z",
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "027811ca1632",
+   "title": "Helping older adults use AI in everyday life",
+   "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-16T16:00:00.000Z",
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "5f7e182a53f2",
+   "title": "How to connect AI usage to business value",
+   "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-16T12:00:00.000Z",
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "71646fffd914",
+   "title": "How workers are unlocking new ways of working",
+   "url": "https://openai.com/index/unlocking-new-ways-of-working",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-16T09:00:00.000Z",
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "7d94073753e9",
+   "title": "[$] Ways to encrypt data on servers",
+   "url": "https://lwn.net/Articles/1092553/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-16T14:17:55.000Z",
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "2b5c7cbde6e9",
+   "title": "When scanners miss the attack: how Cloudflare Client-Side Security protects storefronts",
+   "url": "https://blog.cloudflare.com/client-side-security-finds-4-malicious-campaigns/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-16T20:06:17.000Z",
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
+  },
+  {
+   "id": "bdbf442fb6ba",
+   "title": "Fragments: September 16",
+   "url": "https://martinfowler.com/fragments/2026-09-16.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-09-16T20:05:00.000Z",
+   "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
    "id": "4119c90b0ff2",
@@ -181,8 +490,8 @@
    "publishedAt": "2026-09-16T09:54:05.000Z",
    "hn": {
     "id": "49724141",
-    "points": 589,
-    "comments": 681
+    "points": 643,
+    "comments": 821
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -196,8 +505,8 @@
    "publishedAt": "2026-09-15T19:30:03.000Z",
    "hn": {
     "id": "49717638",
-    "points": 382,
-    "comments": 227
+    "points": 407,
+    "comments": 257
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -211,8 +520,8 @@
    "publishedAt": "2026-09-15T18:11:24.000Z",
    "hn": {
     "id": "49716476",
-    "points": 305,
-    "comments": 172
+    "points": 321,
+    "comments": 184
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -226,23 +535,8 @@
    "publishedAt": "2026-09-15T17:38:18.000Z",
    "hn": {
     "id": "49715947",
-    "points": 450,
-    "comments": 301
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "b4f808eed5ad",
-   "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-   "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T17:37:12.000Z",
-   "hn": {
-    "id": "49715927",
-    "points": 310,
-    "comments": 395
+    "points": 480,
+    "comments": 321
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -256,8 +550,8 @@
    "publishedAt": "2026-09-15T14:52:14.000Z",
    "hn": {
     "id": "49713468",
-    "points": 308,
-    "comments": 78
+    "points": 318,
+    "comments": 86
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -271,8 +565,8 @@
    "publishedAt": "2026-09-15T13:31:40.000Z",
    "hn": {
     "id": "49712278",
-    "points": 354,
-    "comments": 150
+    "points": 365,
+    "comments": 156
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -286,8 +580,8 @@
    "publishedAt": "2026-09-15T10:00:16.000Z",
    "hn": {
     "id": "49710109",
-    "points": 438,
-    "comments": 443
+    "points": 448,
+    "comments": 483
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -314,7 +608,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T06:05:38.170Z",
-   "score": 69,
+   "score": 133,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
   {
@@ -325,7 +619,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T03:39:05.470Z",
-   "score": 24,
+   "score": 45,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
   {
@@ -336,7 +630,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T03:47:55.703Z",
-   "score": 35,
+   "score": 62,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
   {
@@ -347,7 +641,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T06:31:52.450Z",
-   "score": 18,
+   "score": 28,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
   {
@@ -358,7 +652,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T03:17:56.544Z",
-   "score": 23,
+   "score": 36,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
   {
@@ -491,8 +785,8 @@
    "publishedAt": "2026-09-15T19:25:03.000Z",
    "hn": {
     "id": "49717558",
-    "points": 1585,
-    "comments": 439
+    "points": 1782,
+    "comments": 472
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -506,8 +800,8 @@
    "publishedAt": "2026-09-15T17:52:18.000Z",
    "hn": {
     "id": "49716176",
-    "points": 608,
-    "comments": 329
+    "points": 664,
+    "comments": 350
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -521,8 +815,8 @@
    "publishedAt": "2026-09-15T13:13:43.000Z",
    "hn": {
     "id": "49712041",
-    "points": 339,
-    "comments": 368
+    "points": 342,
+    "comments": 408
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -536,8 +830,8 @@
    "publishedAt": "2026-09-15T12:31:10.000Z",
    "hn": {
     "id": "49711544",
-    "points": 1780,
-    "comments": 217
+    "points": 2043,
+    "comments": 236
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -551,8 +845,8 @@
    "publishedAt": "2026-09-15T11:26:48.000Z",
    "hn": {
     "id": "49710883",
-    "points": 880,
-    "comments": 328
+    "points": 914,
+    "comments": 338
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -566,8 +860,8 @@
    "publishedAt": "2026-09-15T10:22:46.000Z",
    "hn": {
     "id": "49710253",
-    "points": 506,
-    "comments": 453
+    "points": 517,
+    "comments": 470
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -581,8 +875,8 @@
    "publishedAt": "2026-09-15T04:15:23.000Z",
    "hn": {
     "id": "49707627",
-    "points": 371,
-    "comments": 110
+    "points": 378,
+    "comments": 111
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -596,8 +890,8 @@
    "publishedAt": "2026-09-15T03:47:56.000Z",
    "hn": {
     "id": "49707473",
-    "points": 467,
-    "comments": 341
+    "points": 472,
+    "comments": 359
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -624,18 +918,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-15T17:21:47.861Z",
-   "score": 79,
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "ac082bb1f4a5",
-   "title": "Small Programming Tricks",
-   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T20:50:57.381Z",
-   "score": 48,
+   "score": 90,
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
   {
@@ -710,8 +993,8 @@
    "publishedAt": "2026-09-15T06:16:24.000Z",
    "hn": {
     "id": "49708431",
-    "points": 1086,
-    "comments": 454
+    "points": 1114,
+    "comments": 468
    },
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
   },
@@ -2876,307 +3159,6 @@
    ],
    "publishedAt": "2026-09-10T13:00:00.000Z",
    "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "dcac57244c19",
-   "title": "iPhone Duo",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T18:15:43.000Z",
-   "hn": {
-    "id": "49630931",
-    "points": 1455,
-    "comments": 2498
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "adf1e0a04e76",
-   "title": "AirPods 5",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T17:39:24.000Z",
-   "hn": {
-    "id": "49630253",
-    "points": 507,
-    "comments": 449
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "44084287147f",
-   "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-   "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T14:37:47.000Z",
-   "hn": {
-    "id": "49627370",
-    "points": 512,
-    "comments": 161
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "8ef59f4ca466",
-   "title": "Shopify acquires Tailwind",
-   "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T13:27:11.000Z",
-   "hn": {
-    "id": "49626190",
-    "points": 1122,
-    "comments": 438
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "2368646fcf5a",
-   "title": "How I advertise malicious software on Google Ads",
-   "url": "https://xlii.space/eng/malicious-software-on-google-ads/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T11:43:21.000Z",
-   "hn": {
-    "id": "49624856",
-    "points": 425,
-    "comments": 258
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "ae8f5d19ba3d",
-   "title": "Desert Ant Labs: local, fast models that run on device",
-   "url": "https://desertant.com/blog/introducing-desert-ant-labs/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T11:39:46.000Z",
-   "hn": {
-    "id": "49624823",
-    "points": 481,
-    "comments": 102
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "ba08af0c3b2d",
-   "title": "DeepSeek launching v4.1 flash cheaper and more capable than v4 pro",
-   "url": "https://news.ycombinator.com/item?id=49624603",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T11:19:26.000Z",
-   "hn": {
-    "id": "49624603",
-    "points": 415,
-    "comments": 217
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "1e6a4408d9dc",
-   "title": "Flock Wants a Closely Surveilled World with No Exit",
-   "url": "https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T10:54:18.000Z",
-   "hn": {
-    "id": "49624394",
-    "points": 567,
-    "comments": 544
-   },
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "3fe48cf9aa19",
-   "title": "Apple Event for September 9th, 2026",
-   "url": "https://www.apple.com/apple-events/event-stream/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T16:54:31.267Z",
-   "score": 70,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "69504c919183",
-   "title": "I Don’t Want to Interact With Stochastic Parrots",
-   "url": "https://ploum.net/2026-09-09-ai_policy.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T17:18:32.413Z",
-   "score": 95,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "ebad43658b9a",
-   "title": "A decade of rustls",
-   "url": "https://rustls.dev/blog/2026-09-08-a-decade-of-rustls/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T11:13:13.488Z",
-   "score": 66,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "7020eb18545f",
-   "title": "The purpose of DNS is to spread scams",
-   "url": "https://shkspr.mobi/blog/2026/09/the-purpose-of-dns-is-to-spread-scams/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T13:32:22.032Z",
-   "score": 28,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "f898a6fd98c4",
-   "title": "A Design Space Exploration of Async/Await",
-   "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T15:22:32.302Z",
-   "score": 47,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "ff9d2e28a3a5",
-   "title": "Solaris Turnstiles",
-   "url": "https://rdmsr.github.io/writing/turnstiles/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T08:14:25.329Z",
-   "score": 40,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "89bbdfee8976",
-   "title": "Introducing CUDA Rust: Two Tracks for Writing GPU Kernels",
-   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T13:21:19.648Z",
-   "score": 23,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "dbbafd120430",
-   "title": "Why Emacs Consult async searches feel slow and how to speed them up",
-   "url": "https://www.jamescherti.com/emacs-consult-speed-async-searche-grep-ripgrep-fd-find/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T13:09:45.692Z",
-   "score": 19,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "cfd18d79c4b8",
-   "title": "The State of Allocators in 2026 - 6 Months Later",
-   "url": "https://cetra3.github.io/blog/state-of-allocators-2026-part-2/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T06:43:42.537Z",
-   "score": 24,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "25f2cee3aaea",
-   "title": "Why Function Arguments Are Not Function Colors",
-   "url": "https://jerf.org/iri/post/2026/func_args_are_not_colors/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T04:13:05.979Z",
-   "score": 21,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "1789e7ae208f",
-   "title": "Analysing 2048 on a 3×3 board",
-   "url": "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/small2048/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T13:24:26.568Z",
-   "score": 21,
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "534907e0d31e",
-   "title": "Paul Christiano joins OpenAI Foundation Board",
-   "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-09T17:00:00.000Z",
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "587a70348a73",
-   "title": "GPT-6 Astra: The next generation in intelligence for work",
-   "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-09T11:00:00.000Z",
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "4515f59f0bdc",
-   "title": "[$] Typst makes big strides",
-   "url": "https://lwn.net/Articles/1092993/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-09T15:37:55.000Z",
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "ce419bf53cc7",
-   "title": "How we rebuilt Cloudflare Workers’ module registry for Node.js compatibility",
-   "url": "https://blog.cloudflare.com/workers-module-registry-nodejs/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-09T13:00:00.000Z",
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "42b432deee76",
-   "title": "Social Media Engagement: summer 2026",
-   "url": "https://martinfowler.com/articles/2026-social-traffic.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-09-09T16:21:00.000Z",
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
-  },
-  {
-   "id": "bd9f5944e445",
-   "title": "Building Codex with Tibo Sottiaux",
-   "url": "https://newsletter.pragmaticengineer.com/p/building-codex-with-tibo-sottiaux",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-09-09T15:57:24.000Z",
-   "firstSeenAt": "2026-09-09T23:03:26.977Z"
   }
  ]
 }
