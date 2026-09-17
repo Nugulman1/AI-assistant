@@ -1,6 +1,35 @@
 {
- "generatedAt": "2026-09-17T14:14:50.415Z",
+ "generatedAt": "2026-09-17T23:26:37.927Z",
  "items": [
+  {
+   "id": "a73786220c4c",
+   "title": "Your Donations at Work: One Year of Sponsored Servo Development",
+   "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T08:13:54.000Z",
+   "score": 33,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z",
+   "hn": {
+    "id": "49737849",
+    "points": 340,
+    "comments": 138
+   }
+  },
+  {
+   "id": "bd4ec752fcc1",
+   "title": "I don't like LLMs",
+   "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+   "sources": [
+    "Martin Fowler",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T13:50:00.000Z",
+   "firstSeenAt": "2026-09-17T14:14:50.415Z",
+   "score": 50
+  },
   {
    "id": "a07ed46e75cc",
    "title": "Apple Reference Image: A New Approach for Verified Photography",
@@ -12,8 +41,8 @@
    "publishedAt": "2026-09-16T02:07:31.000Z",
    "hn": {
     "id": "49721322",
-    "points": 516,
-    "comments": 344
+    "points": 524,
+    "comments": 351
    },
    "score": 19,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
@@ -33,7 +62,7 @@
     "comments": 631
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z",
-   "score": 43
+   "score": 49
   },
   {
    "id": "ac082bb1f4a5",
@@ -48,8 +77,8 @@
    "firstSeenAt": "2026-09-15T23:27:29.595Z",
    "hn": {
     "id": "49729000",
-    "points": 589,
-    "comments": 257
+    "points": 641,
+    "comments": 275
    }
   },
   {
@@ -138,55 +167,209 @@
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
   {
-   "id": "e0bea100c91b",
-   "title": "Shopify moves back to Native from React Native",
-   "url": "https://shopify.engineering/back-to-native",
+   "id": "bf5dba8048fd",
+   "title": "Hister: A private search engine for the pages you visit and the files you keep",
+   "url": "https://github.com/asciimoo/hister",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-09-10T14:09:31.000Z",
+   "publishedAt": "2026-09-17T16:25:37.000Z",
    "hn": {
-    "id": "49643982",
-    "points": 1243,
-    "comments": 929
+    "id": "49743097",
+    "points": 400,
+    "comments": 123
    },
-   "score": 19,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
-   "id": "ad1c7d356fc8",
-   "title": "Rust is tier-1 language at Microsoft",
-   "url": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
+   "id": "2f4b436a7e71",
+   "title": "Iran school bombing: grounds to believe US was behind atrocity, UN finds",
+   "url": "https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T11:00:35.000Z",
+   "hn": {
+    "id": "49739018",
+    "points": 306,
+    "comments": 263
+   },
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "96e95b323f03",
+   "title": "How GLM built its own inference infrastructure",
+   "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T08:27:09.000Z",
+   "hn": {
+    "id": "49737922",
+    "points": 355,
+    "comments": 258
+   },
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "ae85176797d2",
+   "title": "CCC invites all model citizens to 40C3",
+   "url": "https://events.ccc.de/en/2026/09/12/40c3-model-citizens/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T08:03:54.000Z",
+   "hn": {
+    "id": "49737787",
+    "points": 322,
+    "comments": 176
+   },
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "6aa76e4f0b22",
+   "title": "Backups Aren't Simple",
+   "url": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-16T20:27:16.000Z",
+   "hn": {
+    "id": "49732513",
+    "points": 343,
+    "comments": 211
+   },
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "e38ddd2d5781",
+   "title": "The Golden Spike, and Resurrecting the Vale(n) Programming Language",
+   "url": "https://verdagon.dev/blog/golden-spike-reviving-vale-valen",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-10T13:39:16.000Z",
-   "hn": {
-    "id": "49643546",
-    "points": 721,
-    "comments": 503
-   },
+   "publishedAt": "2026-09-17T15:10:44.531Z",
+   "score": 40,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "c5d5be5687ed",
+   "title": "Everybody's Lost Their Minds",
+   "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T15:06:08.154Z",
    "score": 92,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
-   "id": "d6d4b766c185",
-   "title": "What algorithm did Windows XP use to choose your initial user picture?",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+   "id": "7ae50386ad96",
+   "title": "Be alert: targeted attacks on prominent Rustaceans",
+   "url": "https://blog.rust-lang.org/2026/09/17/targeted-attacks/",
    "sources": [
-    "Hacker News",
     "Lobsters"
    ],
-   "publishedAt": "2026-09-10T09:04:14.000Z",
-   "hn": {
-    "id": "49640646",
-    "points": 358,
-    "comments": 177
-   },
-   "score": 45,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
+   "publishedAt": "2026-09-17T18:10:52.241Z",
+   "score": 31,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "81c5a88075d2",
+   "title": "Labeled matches: why is this not in every regex engine?",
+   "url": "https://iev.ee/blog/categorize-everything-all-at-once/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T16:44:39.414Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "4b2df3dc7fee",
+   "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+   "url": "https://jakeasmith.com/blog/http-build-url/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T13:42:17.057Z",
+   "score": 28,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "0a736439c416",
+   "title": "Flock cameras are riddled with security vulnerabilities and hard-coded credentials",
+   "url": "https://micahflee.com/flock-cameras-are-riddled-with-security-vulnerabilities-and-hard-coded-credentials/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T21:21:18.024Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "6c7ce51f3fad",
+   "title": "Tilia—a new formatter for Haskell",
+   "url": "https://markkarpov.com/post/announcing-tilia.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T04:17:44.396Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "59db4bf11ea9",
+   "title": "On learning programming in an age of LLMs",
+   "url": "https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T12:05:11.172Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "4b013d8bc317",
+   "title": "XApp — Apps that work everywhere",
+   "url": "https://xapp-project.org/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T06:00:53.253Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "ce45511cbae0",
+   "title": "Developing provably correct Rust code with Verus",
+   "url": "https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T08:57:43.843Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "a29db0108686",
+   "title": "Introducing the Life Sciences Verification Program",
+   "url": "https://www.anthropic.com/news/life-sciences-verification-program",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-09-17T00:00:00.000Z",
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
+  },
+  {
+   "id": "363bbead77de",
+   "title": "Introducing Astra for Law",
+   "url": "https://openai.com/index/astra-for-law",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-17T00:00:00.000Z",
+   "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
    "id": "e93d9e207a8c",
@@ -198,8 +381,8 @@
    "publishedAt": "2026-09-16T20:09:18.000Z",
    "hn": {
     "id": "49732270",
-    "points": 486,
-    "comments": 139
+    "points": 534,
+    "comments": 153
    },
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
@@ -213,8 +396,8 @@
    "publishedAt": "2026-09-16T11:15:53.000Z",
    "hn": {
     "id": "49724881",
-    "points": 809,
-    "comments": 329
+    "points": 920,
+    "comments": 379
    },
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
@@ -241,18 +424,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T10:01:13.998Z",
-   "score": 11,
-   "firstSeenAt": "2026-09-17T14:14:50.415Z"
-  },
-  {
-   "id": "a73786220c4c",
-   "title": "Your Donations at Work: One Year of Sponsored Servo Development",
-   "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-17T10:37:58.820Z",
-   "score": 10,
+   "score": 62,
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
   {
@@ -263,7 +435,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T19:33:37.164Z",
-   "score": 21,
+   "score": 26,
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
   {
@@ -274,7 +446,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T22:55:11.955Z",
-   "score": 14,
+   "score": 24,
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
   {
@@ -375,16 +547,6 @@
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
   {
-   "id": "bd4ec752fcc1",
-   "title": "I don't like LLMs",
-   "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-09-17T13:50:00.000Z",
-   "firstSeenAt": "2026-09-17T14:14:50.415Z"
-  },
-  {
    "id": "f5a472e0bb86",
    "title": "AI Skills with Matt Pocock",
    "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
@@ -404,8 +566,8 @@
    "publishedAt": "2026-09-16T18:50:00.000Z",
    "hn": {
     "id": "49731285",
-    "points": 616,
-    "comments": 125
+    "points": 664,
+    "comments": 136
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -419,8 +581,8 @@
    "publishedAt": "2026-09-16T14:30:36.000Z",
    "hn": {
     "id": "49727627",
-    "points": 320,
-    "comments": 220
+    "points": 324,
+    "comments": 222
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -434,8 +596,8 @@
    "publishedAt": "2026-09-16T13:18:47.000Z",
    "hn": {
     "id": "49726586",
-    "points": 544,
-    "comments": 248
+    "points": 562,
+    "comments": 261
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -449,8 +611,8 @@
    "publishedAt": "2026-09-16T11:19:11.000Z",
    "hn": {
     "id": "49724927",
-    "points": 359,
-    "comments": 342
+    "points": 361,
+    "comments": 347
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -464,8 +626,8 @@
    "publishedAt": "2026-09-16T08:08:57.000Z",
    "hn": {
     "id": "49723408",
-    "points": 573,
-    "comments": 197
+    "points": 580,
+    "comments": 204
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -492,7 +654,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T16:58:43.181Z",
-   "score": 71,
+   "score": 88,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -503,7 +665,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T13:24:31.337Z",
-   "score": 48,
+   "score": 52,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -514,7 +676,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T18:05:43.967Z",
-   "score": 71,
+   "score": 96,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -525,7 +687,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T15:59:17.598Z",
-   "score": 58,
+   "score": 73,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -547,7 +709,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T17:38:31.926Z",
-   "score": 29,
+   "score": 40,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -569,7 +731,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T17:18:03.472Z",
-   "score": 35,
+   "score": 39,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -696,8 +858,8 @@
    "publishedAt": "2026-09-16T09:54:05.000Z",
    "hn": {
     "id": "49724141",
-    "points": 672,
-    "comments": 864
+    "points": 681,
+    "comments": 877
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -814,7 +976,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T06:05:38.170Z",
-   "score": 153,
+   "score": 163,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
   {
@@ -2789,333 +2951,6 @@
    ],
    "publishedAt": "2026-09-11T13:00:00.000Z",
    "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "1eebc1e0802b",
-   "title": "I have a theory that software drives people insane",
-   "url": "https://graybeard.ing/software-drives-people-insane/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T16:13:42.000Z",
-   "hn": {
-    "id": "49646181",
-    "points": 460,
-    "comments": 195
-   },
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "69669daef825",
-   "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-   "url": "https://cognition.com/blog/swe-2",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T15:29:47.000Z",
-   "hn": {
-    "id": "49645443",
-    "points": 443,
-    "comments": 189
-   },
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "56ccc6af62e9",
-   "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-   "url": "https://news.ycombinator.com/item?id=49643556",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T13:39:53.000Z",
-   "hn": {
-    "id": "49643556",
-    "points": 479,
-    "comments": 184
-   },
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "a9ed4dbc8429",
-   "title": "List of references on Sony websites to players \"owning\" their digital games",
-   "url": "https://consumerrights.wiki/w/Sony_PlayStation_digital_game_ownership_lawsuit",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T12:18:06.000Z",
-   "hn": {
-    "id": "49642531",
-    "points": 425,
-    "comments": 151
-   },
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "b3f72c9686c5",
-   "title": "The same nine streaming subscriptions cost $702/year more than in 2021",
-   "url": "https://honestlyranked.com/guides/streaming-price-increases/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T10:13:59.000Z",
-   "hn": {
-    "id": "49641215",
-    "points": 383,
-    "comments": 378
-   },
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "782d6bbf2b52",
-   "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-   "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T06:49:43.000Z",
-   "hn": {
-    "id": "49639408",
-    "points": 855,
-    "comments": 804
-   },
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "1c67cba858c5",
-   "title": "Anthropic Is Building a Predictive Surveillance System to Monitor Activists",
-   "url": "https://prospect.org/2026/09/09/anthropic-artificial-intelligence-surveillance-system-monitor-activists/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T16:01:41.000Z",
-   "hn": {
-    "id": "49628704",
-    "points": 312,
-    "comments": 175
-   },
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "2780b38e41ce",
-   "title": "A rant about phishing: It's not the user's fault (and not DNS either)",
-   "url": "https://maurycyz.com/misc/domains/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T15:14:48.267Z",
-   "score": 90,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "7e78d193a935",
-   "title": "Forgejo 16.0.4 has a critical security bug fix (RCE - Remote Code Execution)",
-   "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T17:40:19.396Z",
-   "score": 43,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "adf26072b0f8",
-   "title": "Xteink X4 Pro review",
-   "url": "https://abstractnonsense.xyz/microblog/2026-09-07-xteink-x4-pro-review/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T15:05:43.061Z",
-   "score": 47,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "71203c9f2faf",
-   "title": "It's not the YAML spec's fault, but",
-   "url": "https://slugcat.systems/post/26-09-10-yaml-spec/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T17:04:10.359Z",
-   "score": 42,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "cedf8792bb84",
-   "title": "How CHERIoT Provides Strong and Usable Isolation Without an MMU",
-   "url": "https://queue.acm.org/doi/10.1145/3831361",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T14:59:03.130Z",
-   "score": 35,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "b6b1083f1935",
-   "title": "What comes after git",
-   "url": "https://ersc.io/blog/what-comes-after-git",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T17:44:27.435Z",
-   "score": 19,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "f3f8ba3720b5",
-   "title": "My HTML Boilerplate",
-   "url": "https://vale.rocks/posts/html-boilerplate",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T16:13:28.216Z",
-   "score": 36,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "69b2564bdd1a",
-   "title": "Announcing the first Guix-Science release",
-   "url": "https://hpc.guix.info/blog/2026/09/guix-science-first-release/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T11:45:49.883Z",
-   "score": 22,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "5293fb21d8a7",
-   "title": "The terrible menu bar in the Windows 11 Notepad",
-   "url": "https://blog.yuo.be/2026/09/10/the-terrible-menu-bar-in-the-windows-11-notepad/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T15:46:32.061Z",
-   "score": 41,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "f869a8f42a20",
-   "title": "Making Social Media Social",
-   "url": "https://tante.cc/2026/09/10/making-social-media-social/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T16:30:14.952Z",
-   "score": 16,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "d09cd4123536",
-   "title": "Bad Vibes Coding",
-   "url": "https://spectrecollie.com/2026/09/05/bad-vibes-coding/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T15:04:46.879Z",
-   "score": 16,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "64d66bdde550",
-   "title": "Decoding the NEC V20 Microcode",
-   "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T10:44:09.242Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "014159943e4d",
-   "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-   "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-10T16:00:00.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "4d4e7920d8a7",
-   "title": "Now everyone can put data to work",
-   "url": "https://openai.com/index/put-data-to-work",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-10T15:00:00.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "016c3ec9b775",
-   "title": "Introducing ChatGPT for Financial Services",
-   "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-10T07:00:00.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "1ef5285e671d",
-   "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-   "url": "https://openai.com/index/expanding-ai-access-us-government",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-10T07:00:00.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "2b26a8066576",
-   "title": "Introducing the Agents API",
-   "url": "https://openai.com/index/introducing-the-agents-api",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-10T00:00:00.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "4e410dad70fb",
-   "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-   "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-10T00:00:00.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "e723d856f72c",
-   "title": "One resignation turned the embers of AI fear into a wildfire",
-   "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-09-10T15:28:52.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "7caf17636d42",
-   "title": "[$] PostgreSQL 19's \"scary patch contest\"",
-   "url": "https://lwn.net/Articles/1092003/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-10T17:29:06.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "4a4ff0ec56e9",
-   "title": "The Pulse #191: a new trend of CPU shortages",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-191-a-new-trend-of-cpu",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-09-10T17:13:44.000Z",
-   "firstSeenAt": "2026-09-10T23:00:00.624Z"
   }
  ]
 }
