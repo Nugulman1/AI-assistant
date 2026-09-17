@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-16T23:34:48.302Z",
+ "generatedAt": "2026-09-17T14:14:50.415Z",
  "items": [
   {
    "id": "a07ed46e75cc",
@@ -12,8 +12,8 @@
    "publishedAt": "2026-09-16T02:07:31.000Z",
    "hn": {
     "id": "49721322",
-    "points": 494,
-    "comments": 329
+    "points": 516,
+    "comments": 344
    },
    "score": 19,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
@@ -29,11 +29,11 @@
    "publishedAt": "2026-09-15T17:37:12.000Z",
    "hn": {
     "id": "49715927",
-    "points": 453,
-    "comments": 593
+    "points": 478,
+    "comments": 631
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z",
-   "score": 24
+   "score": 43
   },
   {
    "id": "ac082bb1f4a5",
@@ -48,8 +48,8 @@
    "firstSeenAt": "2026-09-15T23:27:29.595Z",
    "hn": {
     "id": "49729000",
-    "points": 352,
-    "comments": 173
+    "points": 589,
+    "comments": 257
    }
   },
   {
@@ -189,6 +189,212 @@
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
   },
   {
+   "id": "e93d9e207a8c",
+   "title": "Xiaomi Mimo 2.6 live post-training dashboard",
+   "url": "https://mimo.xiaomi.com/rl/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-16T20:09:18.000Z",
+   "hn": {
+    "id": "49732270",
+    "points": 486,
+    "comments": 139
+   },
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "89bbdfee8976",
+   "title": "Nvidia announces native GPU programming in Rust",
+   "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-16T11:15:53.000Z",
+   "hn": {
+    "id": "49724881",
+    "points": 809,
+    "comments": 329
+   },
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "39ea509c2619",
+   "title": "AWS says it can't restore some data from mideast facilities struck by Iran",
+   "url": "https://www.wsj.com/world/middle-east/aws-says-it-cant-restore-some-data-from-mideast-facilities-struck-by-iran-ddcb7e5d",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-15T21:41:42.000Z",
+   "hn": {
+    "id": "49719249",
+    "points": 479,
+    "comments": 402
+   },
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "09e50792b59f",
+   "title": "I expected better from Google",
+   "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T10:01:13.998Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "a73786220c4c",
+   "title": "Your Donations at Work: One Year of Sponsored Servo Development",
+   "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T10:37:58.820Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "613ffefeb015",
+   "title": "C++26: Trivial infinite loops are no longer undefined behaviour",
+   "url": "https://www.sandordargo.com/blog/2026/09/16/cpp26-trivial-infinite-loops",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T19:33:37.164Z",
+   "score": 21,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "b0e1bb1084bd",
+   "title": "Why .tar.gz files can't be combined with cat",
+   "url": "https://alexwlchan.net/2026/cat-confusion/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T22:55:11.955Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "f7a8d81cf943",
+   "title": "Why building a Rust LSP is hard",
+   "url": "https://rust-glancer.github.io/blog/why-lsp-is-hard/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T16:17:16.785Z",
+   "score": 24,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "c0ed1b2301d1",
+   "title": "Reversing Factorio's RNG",
+   "url": "https://gegell.github.io/posts/factorio-rng/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-16T21:06:25.213Z",
+   "score": 24,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "b33398167c4b",
+   "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+   "url": "https://huggingface.co/papers/2609.19134",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-15T20:00:00.000Z",
+   "score": 66,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "8b2b2746f587",
+   "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+   "url": "https://huggingface.co/papers/2609.18708",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-15T20:00:00.000Z",
+   "score": 54,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "9c821332629e",
+   "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
+   "url": "https://huggingface.co/papers/2609.18805",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-15T20:00:00.000Z",
+   "score": 43,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "eacceaa7ef9a",
+   "title": "ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models",
+   "url": "https://huggingface.co/papers/2609.18487",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-15T20:00:00.000Z",
+   "score": 36,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "bbc9d6841109",
+   "title": "Agora: Git as Shared Memory for Collective AutoResearch",
+   "url": "https://huggingface.co/papers/2609.18094",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-15T20:00:00.000Z",
+   "score": 35,
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "3e20fb1e379f",
+   "title": "[$] Thread-identity switcheroo for io_uring",
+   "url": "https://lwn.net/Articles/1094303/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-17T13:49:59.000Z",
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "a6c8ee5875c3",
+   "title": "[$] LWN.net Weekly Edition for September 17, 2026",
+   "url": "https://lwn.net/Articles/1093434/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-17T01:12:53.000Z",
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "bd4ec752fcc1",
+   "title": "I don't like LLMs",
+   "url": "https://martinfowler.com/articles/2026-dont-like-llms.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-09-17T13:50:00.000Z",
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
+   "id": "f5a472e0bb86",
+   "title": "AI Skills with Matt Pocock",
+   "url": "https://newsletter.pragmaticengineer.com/p/ai-skills-with-matt-pocock",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-09-17T11:29:00.000Z",
+   "firstSeenAt": "2026-09-17T14:14:50.415Z"
+  },
+  {
    "id": "2a70d59635a9",
    "title": "Training a 4B model to produce 81% faster query plans than Postgres",
    "url": "https://rohanbansal.com/qorl",
@@ -198,8 +404,8 @@
    "publishedAt": "2026-09-16T18:50:00.000Z",
    "hn": {
     "id": "49731285",
-    "points": 334,
-    "comments": 64
+    "points": 616,
+    "comments": 125
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -213,8 +419,8 @@
    "publishedAt": "2026-09-16T14:30:36.000Z",
    "hn": {
     "id": "49727627",
-    "points": 300,
-    "comments": 208
+    "points": 320,
+    "comments": 220
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -228,8 +434,8 @@
    "publishedAt": "2026-09-16T13:18:47.000Z",
    "hn": {
     "id": "49726586",
-    "points": 437,
-    "comments": 208
+    "points": 544,
+    "comments": 248
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -243,8 +449,8 @@
    "publishedAt": "2026-09-16T11:19:11.000Z",
    "hn": {
     "id": "49724927",
-    "points": 335,
-    "comments": 327
+    "points": 359,
+    "comments": 342
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -258,8 +464,8 @@
    "publishedAt": "2026-09-16T08:08:57.000Z",
    "hn": {
     "id": "49723408",
-    "points": 515,
-    "comments": 182
+    "points": 573,
+    "comments": 197
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -273,8 +479,8 @@
    "publishedAt": "2026-09-15T15:58:48.000Z",
    "hn": {
     "id": "49714547",
-    "points": 312,
-    "comments": 199
+    "points": 318,
+    "comments": 201
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -286,7 +492,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T16:58:43.181Z",
-   "score": 41,
+   "score": 71,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -297,7 +503,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T13:24:31.337Z",
-   "score": 36,
+   "score": 48,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -308,7 +514,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T18:05:43.967Z",
-   "score": 23,
+   "score": 71,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -319,7 +525,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T15:59:17.598Z",
-   "score": 26,
+   "score": 58,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -330,7 +536,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T10:17:30.841Z",
-   "score": 22,
+   "score": 28,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -341,7 +547,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T17:38:31.926Z",
-   "score": 10,
+   "score": 29,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -352,7 +558,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T13:04:59.363Z",
-   "score": 14,
+   "score": 18,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -363,7 +569,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T17:18:03.472Z",
-   "score": 15,
+   "score": 35,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -374,7 +580,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T17:22:01.110Z",
-   "score": 14,
+   "score": 25,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -385,7 +591,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T16:27:39.966Z",
-   "score": 11,
+   "score": 18,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -490,8 +696,8 @@
    "publishedAt": "2026-09-16T09:54:05.000Z",
    "hn": {
     "id": "49724141",
-    "points": 643,
-    "comments": 821
+    "points": 672,
+    "comments": 864
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -505,8 +711,8 @@
    "publishedAt": "2026-09-15T19:30:03.000Z",
    "hn": {
     "id": "49717638",
-    "points": 407,
-    "comments": 257
+    "points": 414,
+    "comments": 276
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -520,7 +726,7 @@
    "publishedAt": "2026-09-15T18:11:24.000Z",
    "hn": {
     "id": "49716476",
-    "points": 321,
+    "points": 322,
     "comments": 184
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
@@ -535,8 +741,8 @@
    "publishedAt": "2026-09-15T17:38:18.000Z",
    "hn": {
     "id": "49715947",
-    "points": 480,
-    "comments": 321
+    "points": 485,
+    "comments": 325
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
@@ -550,7 +756,7 @@
    "publishedAt": "2026-09-15T14:52:14.000Z",
    "hn": {
     "id": "49713468",
-    "points": 318,
+    "points": 325,
     "comments": 86
    },
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
@@ -608,7 +814,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T06:05:38.170Z",
-   "score": 133,
+   "score": 153,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
   {
@@ -619,7 +825,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T03:39:05.470Z",
-   "score": 45,
+   "score": 50,
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
   },
   {
@@ -785,8 +991,8 @@
    "publishedAt": "2026-09-15T19:25:03.000Z",
    "hn": {
     "id": "49717558",
-    "points": 1782,
-    "comments": 472
+    "points": 1837,
+    "comments": 482
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -800,8 +1006,8 @@
    "publishedAt": "2026-09-15T17:52:18.000Z",
    "hn": {
     "id": "49716176",
-    "points": 664,
-    "comments": 350
+    "points": 670,
+    "comments": 354
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
@@ -2910,255 +3116,6 @@
    ],
    "publishedAt": "2026-09-10T17:13:44.000Z",
    "firstSeenAt": "2026-09-10T23:00:00.624Z"
-  },
-  {
-   "id": "c599ab837d38",
-   "title": "DeepSeek v4.1 Flash",
-   "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T06:11:05.000Z",
-   "hn": {
-    "id": "49639090",
-    "points": 991,
-    "comments": 564
-   },
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "e4164c681db4",
-   "title": "Show HN: What if the speed of light was 5 km/h?",
-   "url": "https://rivendell.dmitrybrant.com/relativity/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T01:58:00.000Z",
-   "hn": {
-    "id": "49637385",
-    "points": 600,
-    "comments": 274
-   },
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "ea16adfbbd02",
-   "title": "Automattic's board forces CEO Matt Mullenweg into leave of absence",
-   "url": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T23:49:29.000Z",
-   "hn": {
-    "id": "49636283",
-    "points": 452,
-    "comments": 360
-   },
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "4f734c7fb6ae",
-   "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-   "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T17:33:20.000Z",
-   "hn": {
-    "id": "49630151",
-    "points": 403,
-    "comments": 484
-   },
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "0b06c749b548",
-   "title": "Growing proof that autonomous cars save lives",
-   "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T17:14:59.000Z",
-   "hn": {
-    "id": "49629886",
-    "points": 437,
-    "comments": 836
-   },
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "bf1a7d31e50b",
-   "title": "No Man's Sky Cosmos",
-   "url": "https://www.nomanssky.com/cosmos-update/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T15:47:42.000Z",
-   "hn": {
-    "id": "49628493",
-    "points": 448,
-    "comments": 463
-   },
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "4eba73cda405",
-   "title": "Copyright does more harm than good and should be abolished",
-   "url": "https://grapheneos.social/@GrapheneOS/117231186011306184",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T06:31:28.000Z",
-   "hn": {
-    "id": "49622042",
-    "points": 307,
-    "comments": 315
-   },
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "df30ec5afdd0",
-   "title": "What do Visa and Mastercard do? An intro to card networks",
-   "url": "https://tautology.town/2026/06/01/card-networks.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-08T18:11:05.000Z",
-   "hn": {
-    "id": "49614280",
-    "points": 586,
-    "comments": 356
-   },
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "cfff4994bc5a",
-   "title": "Review a pull request by booting it",
-   "url": "https://fzakaria.com/2026/09/09/review-a-pull-request-by-booting-it",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T00:32:35.866Z",
-   "score": 43,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "2f30f65a5849",
-   "title": "It Breaks a Village: Bevy's 6th Birthday",
-   "url": "https://blog.fallible.net/it-breaks-a-village/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T10:38:37.630Z",
-   "score": 100,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "47faa9b5ac00",
-   "title": "ID design and primary keys",
-   "url": "https://anchorsandlinks.com/posts/primary-keys/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-09T18:31:44.973Z",
-   "score": 21,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "ac5b64e601c2",
-   "title": "SystemIO conflicts are not firmware bugs",
-   "url": "https://codon.org.uk/~mjg59/blog/p/systemio-conflicts-are-not-firmware-bugs/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T00:48:47.581Z",
-   "score": 14,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "818667f5d0ca",
-   "title": "Show-Harness: Just a VLM Agent Can Play Robots",
-   "url": "https://huggingface.co/papers/2609.10522",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-08T20:00:00.000Z",
-   "score": 56,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "b091d7a65693",
-   "title": "Programmable World Model",
-   "url": "https://huggingface.co/papers/2609.10540",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-08T20:00:00.000Z",
-   "score": 41,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "87c04f2203de",
-   "title": "Φ-Bench: Can Large Language Models Engineer the Infrastructure That Powers Them?",
-   "url": "https://huggingface.co/papers/2609.10226",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-08T20:00:00.000Z",
-   "score": 6,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "aa541c0258ed",
-   "title": "Why Is Video Still So Expensive? A Survey of Inference-Efficiency Mechanisms in Video and Audiovisual LLMs",
-   "url": "https://huggingface.co/papers/2609.10355",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-08T20:00:00.000Z",
-   "score": 3,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "f7e8d078d8fe",
-   "title": "RESCUE-BENCH: Towards Relation-Aware Multi-Party Emotional Support Conversation Systems",
-   "url": "https://huggingface.co/papers/2609.09657",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-08T20:00:00.000Z",
-   "score": 2,
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "9786c92a289d",
-   "title": "The AI policy window is open. We need to act.",
-   "url": "https://openai.com/index/ai-policy-window",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-09T13:00:00.000Z",
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "0349f08ed584",
-   "title": "[$] LWN.net Weekly Edition for September 10, 2026",
-   "url": "https://lwn.net/Articles/1092273/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-10T01:43:03.000Z",
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
-  },
-  {
-   "id": "0a5779282d85",
-   "title": "1.1.1.1 now supports post-quantum DNSSEC, all 2,420 bytes of it",
-   "url": "https://blog.cloudflare.com/post-quantum-dnssec-1111/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-10T13:00:00.000Z",
-   "firstSeenAt": "2026-09-10T13:29:57.232Z"
   }
  ]
 }
