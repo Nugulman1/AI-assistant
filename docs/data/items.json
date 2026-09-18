@@ -1,6 +1,57 @@
 {
- "generatedAt": "2026-09-18T13:32:42.294Z",
+ "generatedAt": "2026-09-18T23:07:35.851Z",
  "items": [
+  {
+   "id": "dd042bbde563",
+   "title": "I don't like passkeys",
+   "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T12:06:50.000Z",
+   "hn": {
+    "id": "49753211",
+    "points": 704,
+    "comments": 701
+   },
+   "score": 38,
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "39b208522bb5",
+   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+   "url": "https://www.hacktron.ai/blog/hacking-openai",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T02:47:24.000Z",
+   "hn": {
+    "id": "49749656",
+    "points": 463,
+    "comments": 196
+   },
+   "firstSeenAt": "2026-09-18T13:32:42.294Z",
+   "score": 12
+  },
+  {
+   "id": "705ff08b9e85",
+   "title": "jemalloc 5.4.0 release",
+   "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T18:47:39.432Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z",
+   "hn": {
+    "id": "49750152",
+    "points": 319,
+    "comments": 87
+   }
+  },
   {
    "id": "c5d5be5687ed",
    "title": "Everybody's Lost Their Minds",
@@ -10,12 +61,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-09-17T15:06:08.154Z",
-   "score": 168,
+   "score": 191,
    "firstSeenAt": "2026-09-17T23:26:37.927Z",
    "hn": {
     "id": "49745570",
-    "points": 338,
-    "comments": 291
+    "points": 355,
+    "comments": 317
    }
   },
   {
@@ -30,8 +81,8 @@
    "firstSeenAt": "2026-09-17T23:26:37.927Z",
    "hn": {
     "id": "49745940",
-    "points": 525,
-    "comments": 629
+    "points": 566,
+    "comments": 667
    }
   },
   {
@@ -129,7 +180,7 @@
     "comments": 482
    },
    "firstSeenAt": "2026-09-15T23:27:29.595Z",
-   "score": 21
+   "score": 25
   },
   {
    "id": "f3600c5021fe",
@@ -200,21 +251,235 @@
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
   },
   {
-   "id": "da05411f0a2d",
-   "title": "A misalignment of AI in mathematics",
-   "url": "https://mathandai.org/",
+   "id": "9b0bea9a8f22",
+   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+   "url": "https://code.claude.com/docs/en/changelog",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T21:00:32.000Z",
+   "hn": {
+    "id": "49760187",
+    "points": 313,
+    "comments": 131
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "1704ec300ffe",
+   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T19:03:09.000Z",
+   "hn": {
+    "id": "49758736",
+    "points": 391,
+    "comments": 183
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "176ec7b3e8f0",
+   "title": "US Military had close call after using AI for hallucinated intelligence report",
+   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T17:28:01.000Z",
+   "hn": {
+    "id": "49757520",
+    "points": 344,
+    "comments": 280
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "a835970085ad",
+   "title": "Cloudflare Quick Tunnels",
+   "url": "https://try.cloudflare.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T14:18:41.000Z",
+   "hn": {
+    "id": "49754785",
+    "points": 510,
+    "comments": 218
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "d04edd1e5e15",
+   "title": "Bend 2 and the Vibe-Coding Trap",
+   "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T12:03:55.000Z",
+   "hn": {
+    "id": "49753179",
+    "points": 308,
+    "comments": 227
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "1bc9b2646faf",
+   "title": "OpenJev",
+   "url": "https://openjev.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T09:42:22.000Z",
+   "hn": {
+    "id": "49752041",
+    "points": 523,
+    "comments": 236
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "3195ca010f5c",
+   "title": "Qwen 3.8 Omni Flash",
+   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T23:05:48.000Z",
+   "hn": {
+    "id": "49747925",
+    "points": 325,
+    "comments": 124
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "da2138201611",
+   "title": "How to Write with an LLM",
+   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T21:48:38.000Z",
+   "hn": {
+    "id": "49747070",
+    "points": 352,
+    "comments": 240
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "fe87c5b60e22",
+   "title": "AI safety is mostly a sex cult",
+   "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T08:36:37.000Z",
+   "hn": {
+    "id": "49737985",
+    "points": 311,
+    "comments": 256
+   },
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "4515f59f0bdc",
+   "title": "Typst makes big strides",
+   "url": "https://lwn.net/Articles/1092993/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-11T17:45:12.000Z",
-   "hn": {
-    "id": "49662371",
-    "points": 1200,
-    "comments": 1184
-   },
-   "score": 33,
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
+   "publishedAt": "2026-09-18T13:14:17.568Z",
+   "score": 66,
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "f9b2b6c5303f",
+   "title": "There's no point at which turning your brain off will work",
+   "url": "https://danluu.com/brain-off/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T17:15:40.357Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "3761ca238e64",
+   "title": "Benchmarking Wild vs Mold",
+   "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T15:25:08.333Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "ae723844b6a6",
+   "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
+   "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T15:30:01.511Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "1fd7a34ac54d",
+   "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
+   "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T09:21:24.744Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "707a19943c54",
+   "title": "Internet Phone Book",
+   "url": "https://internetphonebook.net/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T14:04:44.535Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "47b87cc27bae",
+   "title": "Partnering with Accenture on embedded evaluation",
+   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-09-18T00:00:00.000Z",
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "06bf1785277c",
+   "title": "[$] Looking forward to Git 2.56 — and 3.0",
+   "url": "https://lwn.net/Articles/1094575/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-18T14:14:09.000Z",
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "8b3759fdb1e4",
+   "title": "Saving another 100TB of RAM with math (and Rust)",
+   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-18T17:23:58.000Z",
+   "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
    "id": "5ff94f8b654c",
@@ -226,23 +491,8 @@
    "publishedAt": "2026-09-18T09:45:07.000Z",
    "hn": {
     "id": "49752056",
-    "points": 409,
-    "comments": 327
-   },
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "39b208522bb5",
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-   "url": "https://www.hacktron.ai/blog/hacking-openai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T02:47:24.000Z",
-   "hn": {
-    "id": "49749656",
-    "points": 383,
-    "comments": 165
+    "points": 847,
+    "comments": 752
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
@@ -256,8 +506,8 @@
    "publishedAt": "2026-09-17T21:13:31.000Z",
    "hn": {
     "id": "49746618",
-    "points": 497,
-    "comments": 155
+    "points": 560,
+    "comments": 188
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
@@ -271,8 +521,8 @@
    "publishedAt": "2026-09-17T20:36:13.000Z",
    "hn": {
     "id": "49746163",
-    "points": 521,
-    "comments": 249
+    "points": 588,
+    "comments": 302
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
@@ -286,8 +536,8 @@
    "publishedAt": "2026-09-17T10:44:49.000Z",
    "hn": {
     "id": "49738879",
-    "points": 307,
-    "comments": 257
+    "points": 309,
+    "comments": 264
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
@@ -299,7 +549,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T08:14:52.256Z",
-   "score": 47,
+   "score": 117,
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
   {
@@ -310,18 +560,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T00:00:28.770Z",
-   "score": 50,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "705ff08b9e85",
-   "title": "jemalloc 5.4.0 release",
-   "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-17T18:47:39.432Z",
-   "score": 20,
+   "score": 89,
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
   {
@@ -399,8 +638,8 @@
    "publishedAt": "2026-09-17T16:25:37.000Z",
    "hn": {
     "id": "49743097",
-    "points": 657,
-    "comments": 173
+    "points": 692,
+    "comments": 188
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -414,8 +653,8 @@
    "publishedAt": "2026-09-17T11:00:35.000Z",
    "hn": {
     "id": "49739018",
-    "points": 335,
-    "comments": 291
+    "points": 347,
+    "comments": 303
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -429,8 +668,8 @@
    "publishedAt": "2026-09-17T08:27:09.000Z",
    "hn": {
     "id": "49737922",
-    "points": 399,
-    "comments": 276
+    "points": 400,
+    "comments": 278
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -444,8 +683,8 @@
    "publishedAt": "2026-09-17T08:03:54.000Z",
    "hn": {
     "id": "49737787",
-    "points": 363,
-    "comments": 217
+    "points": 369,
+    "comments": 222
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -472,7 +711,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T15:10:44.531Z",
-   "score": 52,
+   "score": 59,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -483,7 +722,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T18:10:52.241Z",
-   "score": 71,
+   "score": 91,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -494,7 +733,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T16:44:39.414Z",
-   "score": 20,
+   "score": 27,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -516,7 +755,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T21:21:18.024Z",
-   "score": 71,
+   "score": 95,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -626,7 +865,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T10:01:13.998Z",
-   "score": 76,
+   "score": 84,
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
   {
@@ -2713,208 +2952,6 @@
    ],
    "publishedAt": "2026-09-12T00:42:25.000Z",
    "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "1f7a9c71e8cb",
-   "title": "Houthis 'take control' of key island in global shipping route",
-   "url": "https://www.bbc.com/news/live/cmd683p01eljt",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T13:41:38.000Z",
-   "hn": {
-    "id": "49658299",
-    "points": 386,
-    "comments": 688
-   },
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "9af4424a05ab",
-   "title": "Ask HN: Can we please limit the AI news flood?",
-   "url": "https://news.ycombinator.com/item?id=49657850",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T13:11:04.000Z",
-   "hn": {
-    "id": "49657850",
-    "points": 815,
-    "comments": 381
-   },
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "3b9f4e29d785",
-   "title": "The Waymo effect: how AI is quietly making research less collaborative",
-   "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T11:17:50.000Z",
-   "hn": {
-    "id": "49656496",
-    "points": 329,
-    "comments": 299
-   },
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "8e10c98735ba",
-   "title": "Claude is only available to people over 18 years",
-   "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T10:48:00.000Z",
-   "hn": {
-    "id": "49656225",
-    "points": 665,
-    "comments": 644
-   },
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "2f251264adc5",
-   "title": "Mexican student creates an acoustic fire extinguisher to put out fire in seconds",
-   "url": "https://www.upsocl.com/en/16-year-old-mexican-student-creates-an-acoustic-fire-extinguisher-that-uses-sound-waves-to-put-out-fires-in-seconds/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T01:00:56.000Z",
-   "hn": {
-    "id": "49652237",
-    "points": 384,
-    "comments": 133
-   },
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "6bbeb126525f",
-   "title": "Google will buy half the electricity from one of Finland's nuclear power plants",
-   "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T00:42:41.000Z",
-   "hn": {
-    "id": "49652105",
-    "points": 373,
-    "comments": 337
-   },
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "cf1d2b81fef8",
-   "title": "OpenAI Agents API",
-   "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T19:43:22.000Z",
-   "hn": {
-    "id": "49649213",
-    "points": 341,
-    "comments": 179
-   },
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "2d9c7158e6f8",
-   "title": "Feeling sad about AI",
-   "url": "https://artificialworlds.net/blog/2026/09/11/feeling-sad-about-ai/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T12:33:20.763Z",
-   "score": 212,
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "3d2594e3baed",
-   "title": "Power grab",
-   "url": "https://tante.cc/2026/09/11/power-grab/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T14:23:46.956Z",
-   "score": 222,
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "b52898a627b9",
-   "title": "A Severe Misalignment of AI in Mathematics",
-   "url": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T19:03:30.462Z",
-   "score": 89,
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "cc7ff029fc7f",
-   "title": "evergarden",
-   "url": "https://evergarden.moe/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T12:59:46.317Z",
-   "score": 54,
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "162ac0c95abe",
-   "title": "What are you doing this weekend?",
-   "url": "https://lobste.rs/s/vc0brm/what_are_you_doing_this_weekend",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T16:40:41.980Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "37095db6fcd0",
-   "title": "ChiPass Release 2026.09.0",
-   "url": "https://codeberg.org/ChiPass/ChiPass/releases/tag/v2026.09.0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T16:35:40.299Z",
-   "score": 51,
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "5ce9d17fee27",
-   "title": "Bastion of the Turbofish",
-   "url": "https://github.com/rust-lang/rust/blob/main/tests/ui/parser/bastion-of-the-turbofish.rs",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T13:50:19.190Z",
-   "score": 38,
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "c7d3c8aeae42",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-11T10:00:00.000Z",
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "2fd0114f55be",
-   "title": "[$] Accelerating the kernel's build process",
-   "url": "https://lwn.net/Articles/1093398/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-11T14:15:32.000Z",
-   "firstSeenAt": "2026-09-11T23:04:48.152Z"
   }
  ]
 }
