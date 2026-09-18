@@ -1,6 +1,39 @@
 {
- "generatedAt": "2026-09-17T23:26:37.927Z",
+ "generatedAt": "2026-09-18T13:32:42.294Z",
  "items": [
+  {
+   "id": "c5d5be5687ed",
+   "title": "Everybody's Lost Their Minds",
+   "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T15:06:08.154Z",
+   "score": 168,
+   "firstSeenAt": "2026-09-17T23:26:37.927Z",
+   "hn": {
+    "id": "49745570",
+    "points": 338,
+    "comments": 291
+   }
+  },
+  {
+   "id": "363bbead77de",
+   "title": "Introducing Astra for Law",
+   "url": "https://openai.com/index/astra-for-law",
+   "sources": [
+    "OpenAI",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T00:00:00.000Z",
+   "firstSeenAt": "2026-09-17T23:26:37.927Z",
+   "hn": {
+    "id": "49745940",
+    "points": 525,
+    "comments": 629
+   }
+  },
   {
    "id": "a73786220c4c",
    "title": "Your Donations at Work: One Year of Sponsored Servo Development",
@@ -10,12 +43,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-09-17T08:13:54.000Z",
-   "score": 33,
+   "score": 45,
    "firstSeenAt": "2026-09-17T14:14:50.415Z",
    "hn": {
     "id": "49737849",
-    "points": 340,
-    "comments": 138
+    "points": 353,
+    "comments": 141
    }
   },
   {
@@ -28,7 +61,7 @@
    ],
    "publishedAt": "2026-09-17T13:50:00.000Z",
    "firstSeenAt": "2026-09-17T14:14:50.415Z",
-   "score": 50
+   "score": 87
   },
   {
    "id": "a07ed46e75cc",
@@ -77,9 +110,26 @@
    "firstSeenAt": "2026-09-15T23:27:29.595Z",
    "hn": {
     "id": "49729000",
-    "points": 641,
-    "comments": 275
+    "points": 656,
+    "comments": 287
    }
+  },
+  {
+   "id": "642a1494ec3f",
+   "title": "Introducing System One Models and Jev",
+   "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-15T19:25:03.000Z",
+   "hn": {
+    "id": "49717558",
+    "points": 1837,
+    "comments": 482
+   },
+   "firstSeenAt": "2026-09-15T23:27:29.595Z",
+   "score": 21
   },
   {
    "id": "f3600c5021fe",
@@ -167,6 +217,179 @@
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
   },
   {
+   "id": "5ff94f8b654c",
+   "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+   "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T09:45:07.000Z",
+   "hn": {
+    "id": "49752056",
+    "points": 409,
+    "comments": 327
+   },
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "39b208522bb5",
+   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
+   "url": "https://www.hacktron.ai/blog/hacking-openai",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T02:47:24.000Z",
+   "hn": {
+    "id": "49749656",
+    "points": 383,
+    "comments": 165
+   },
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "4a65016fd02f",
+   "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
+   "url": "https://prismml.com/news/bonsai-2-27b",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T21:13:31.000Z",
+   "hn": {
+    "id": "49746618",
+    "points": 497,
+    "comments": 155
+   },
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "91b1986b6835",
+   "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
+   "url": "https://bend-lang.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T20:36:13.000Z",
+   "hn": {
+    "id": "49746163",
+    "points": 521,
+    "comments": 249
+   },
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "96721dd73996",
+   "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+   "url": "https://news.ycombinator.com/item?id=49738879",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-17T10:44:49.000Z",
+   "hn": {
+    "id": "49738879",
+    "points": 307,
+    "comments": 257
+   },
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "f1493b4047b7",
+   "title": "What is still exciting in tech?",
+   "url": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T08:14:52.256Z",
+   "score": 47,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "fd86329ddacc",
+   "title": "We Must Create the Shit Machine",
+   "url": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T00:00:28.770Z",
+   "score": 50,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "705ff08b9e85",
+   "title": "jemalloc 5.4.0 release",
+   "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T18:47:39.432Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "67d6a5e6442b",
+   "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+   "url": "https://huggingface.co/papers/2609.19969",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-16T20:00:00.000Z",
+   "score": 45,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "f27c681e7855",
+   "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+   "url": "https://huggingface.co/papers/2609.20519",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-16T20:00:00.000Z",
+   "score": 39,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "20f25018a108",
+   "title": "An Empirical Study of Harness Design for Coding Agents",
+   "url": "https://huggingface.co/papers/2609.20804",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-16T20:00:00.000Z",
+   "score": 33,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "7e7ad59df36b",
+   "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+   "url": "https://huggingface.co/papers/2609.20800",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-16T20:00:00.000Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "39b61133dc78",
+   "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
+   "url": "https://huggingface.co/papers/2609.20784",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-16T20:00:00.000Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
+   "id": "964ae1dd0fac",
+   "title": "How Cooley is accelerating IPO work with ChatGPT",
+   "url": "https://openai.com/index/cooley-gopublic",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-17T12:00:00.000Z",
+   "firstSeenAt": "2026-09-18T13:32:42.294Z"
+  },
+  {
    "id": "bf5dba8048fd",
    "title": "Hister: A private search engine for the pages you visit and the files you keep",
    "url": "https://github.com/asciimoo/hister",
@@ -176,8 +399,8 @@
    "publishedAt": "2026-09-17T16:25:37.000Z",
    "hn": {
     "id": "49743097",
-    "points": 400,
-    "comments": 123
+    "points": 657,
+    "comments": 173
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -191,8 +414,8 @@
    "publishedAt": "2026-09-17T11:00:35.000Z",
    "hn": {
     "id": "49739018",
-    "points": 306,
-    "comments": 263
+    "points": 335,
+    "comments": 291
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -206,8 +429,8 @@
    "publishedAt": "2026-09-17T08:27:09.000Z",
    "hn": {
     "id": "49737922",
-    "points": 355,
-    "comments": 258
+    "points": 399,
+    "comments": 276
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -221,8 +444,8 @@
    "publishedAt": "2026-09-17T08:03:54.000Z",
    "hn": {
     "id": "49737787",
-    "points": 322,
-    "comments": 176
+    "points": 363,
+    "comments": 217
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -236,8 +459,8 @@
    "publishedAt": "2026-09-16T20:27:16.000Z",
    "hn": {
     "id": "49732513",
-    "points": 343,
-    "comments": 211
+    "points": 350,
+    "comments": 220
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -249,18 +472,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T15:10:44.531Z",
-   "score": 40,
-   "firstSeenAt": "2026-09-17T23:26:37.927Z"
-  },
-  {
-   "id": "c5d5be5687ed",
-   "title": "Everybody's Lost Their Minds",
-   "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-17T15:06:08.154Z",
-   "score": 92,
+   "score": 52,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -271,7 +483,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T18:10:52.241Z",
-   "score": 31,
+   "score": 71,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -282,7 +494,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T16:44:39.414Z",
-   "score": 13,
+   "score": 20,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -293,7 +505,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T13:42:17.057Z",
-   "score": 28,
+   "score": 36,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -304,7 +516,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T21:21:18.024Z",
-   "score": 10,
+   "score": 71,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -362,16 +574,6 @@
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
-   "id": "363bbead77de",
-   "title": "Introducing Astra for Law",
-   "url": "https://openai.com/index/astra-for-law",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-17T00:00:00.000Z",
-   "firstSeenAt": "2026-09-17T23:26:37.927Z"
-  },
-  {
    "id": "e93d9e207a8c",
    "title": "Xiaomi Mimo 2.6 live post-training dashboard",
    "url": "https://mimo.xiaomi.com/rl/",
@@ -381,8 +583,8 @@
    "publishedAt": "2026-09-16T20:09:18.000Z",
    "hn": {
     "id": "49732270",
-    "points": 534,
-    "comments": 153
+    "points": 547,
+    "comments": 154
    },
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
@@ -424,7 +626,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T10:01:13.998Z",
-   "score": 62,
+   "score": 76,
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
   {
@@ -566,8 +768,8 @@
    "publishedAt": "2026-09-16T18:50:00.000Z",
    "hn": {
     "id": "49731285",
-    "points": 664,
-    "comments": 136
+    "points": 678,
+    "comments": 140
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -581,8 +783,8 @@
    "publishedAt": "2026-09-16T14:30:36.000Z",
    "hn": {
     "id": "49727627",
-    "points": 324,
-    "comments": 222
+    "points": 328,
+    "comments": 224
    },
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
@@ -654,7 +856,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T16:58:43.181Z",
-   "score": 88,
+   "score": 94,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -676,7 +878,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-16T18:05:43.967Z",
-   "score": 96,
+   "score": 104,
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
   },
   {
@@ -1142,21 +1344,6 @@
    ],
    "publishedAt": "2026-09-16T13:00:00.000Z",
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "642a1494ec3f",
-   "title": "Introducing System One Models and Jev",
-   "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T19:25:03.000Z",
-   "hn": {
-    "id": "49717558",
-    "points": 1837,
-    "comments": 482
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
   },
   {
    "id": "96d0250dcbd8",
@@ -2728,229 +2915,6 @@
    ],
    "publishedAt": "2026-09-11T14:15:32.000Z",
    "firstSeenAt": "2026-09-11T23:04:48.152Z"
-  },
-  {
-   "id": "369127da9acb",
-   "title": "Astra for Coding: Why Are We Doing This Again?",
-   "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T06:23:06.000Z",
-   "hn": {
-    "id": "49654229",
-    "points": 440,
-    "comments": 333
-   },
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "8eca1292c273",
-   "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
-   "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T15:29:30.000Z",
-   "hn": {
-    "id": "49645437",
-    "points": 373,
-    "comments": 71
-   },
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "09c7ffe7ea5e",
-   "title": "Don't let anyone take away your big box of cables",
-   "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-10T15:27:22.000Z",
-   "hn": {
-    "id": "49645393",
-    "points": 760,
-    "comments": 457
-   },
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "69718dd5604a",
-   "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-   "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-09T14:54:12.000Z",
-   "hn": {
-    "id": "49627634",
-    "points": 311,
-    "comments": 271
-   },
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "327e043799d5",
-   "title": "Fastly Speedtest Test",
-   "url": "https://speed.edgecompute.app/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T21:58:12.553Z",
-   "score": 27,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "2954e55231a6",
-   "title": "Models Don't Go Rogue",
-   "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T03:37:10.275Z",
-   "score": 54,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "aa31a3d96c45",
-   "title": "Soft-deprecating re.match()",
-   "url": "https://hugovk.dev/blog/2026/soft-deprecating-re.match/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T21:59:16.157Z",
-   "score": 65,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "571677ca71e3",
-   "title": "Gleam Gathering 2027",
-   "url": "https://gleamgathering.com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T19:40:27.051Z",
-   "score": 28,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "d4f60ef83cf8",
-   "title": "An untrusted site can freeze a Mac using WebGPU",
-   "url": "https://auberon.xyz/blog/posts/deathray/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T00:04:53.963Z",
-   "score": 39,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "feac4539f2fc",
-   "title": "Optimizing a Spin-Lock",
-   "url": "https://david.alvarezrosa.com/posts/optimizing-a-spin-lock/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T20:34:57.807Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "59989ed04bbe",
-   "title": "Conversations with JJ",
-   "url": "https://laurmaedje.github.io/posts/jj/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T16:48:33.377Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "8252c00474ea",
-   "title": "JEP 544: Ahead-of-Time Code Compilation",
-   "url": "https://openjdk.org/jeps/544",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-10T17:31:26.646Z",
-   "score": 16,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "488db19c955d",
-   "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
-   "url": "https://huggingface.co/papers/2609.11929",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-09T20:00:00.000Z",
-   "score": 93,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "a5f8c3f96e59",
-   "title": "T1: Terminal Agent Reinforcement Learning for Long-Horizon Tasks",
-   "url": "https://huggingface.co/papers/2609.11042",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-09T20:00:00.000Z",
-   "score": 42,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "1a7922f76a89",
-   "title": "Mi-Ripple: Restoring Images Degraded by Iterative AI Editing",
-   "url": "https://huggingface.co/papers/2609.11317",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-09T20:00:00.000Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "1f1a32eceddb",
-   "title": "X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation",
-   "url": "https://huggingface.co/papers/2609.11412",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-09T20:00:00.000Z",
-   "score": 12,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "9771708ac7ba",
-   "title": "Memory as Plans: World-Action Modeling with Memory-Grounded Planning",
-   "url": "https://huggingface.co/papers/2609.11561",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-09T20:00:00.000Z",
-   "score": 7,
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "3149e64f7f8b",
-   "title": "Open-Source AI & Open Models Reading List",
-   "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-09-11T12:36:25.000Z",
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
-  },
-  {
-   "id": "c2396277023d",
-   "title": "Introducing automatic remediation policies with Cloudflare CASB",
-   "url": "https://blog.cloudflare.com/casb-policies/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-11T13:00:00.000Z",
-   "firstSeenAt": "2026-09-11T13:28:21.327Z"
   }
  ]
 }
