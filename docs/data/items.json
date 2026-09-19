@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-09-18T23:07:35.851Z",
+ "generatedAt": "2026-09-19T13:02:22.909Z",
  "items": [
+  {
+   "id": "8b3759fdb1e4",
+   "title": "Saving another 100TB of RAM with math (and Rust)",
+   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+   "sources": [
+    "Cloudflare",
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T17:23:58.000Z",
+   "firstSeenAt": "2026-09-18T23:07:35.851Z",
+   "hn": {
+    "id": "49758580",
+    "points": 387,
+    "comments": 84
+   },
+   "score": 17
+  },
   {
    "id": "dd042bbde563",
    "title": "I don't like passkeys",
@@ -12,10 +30,10 @@
    "publishedAt": "2026-09-18T12:06:50.000Z",
    "hn": {
     "id": "49753211",
-    "points": 704,
-    "comments": 701
+    "points": 789,
+    "comments": 769
    },
-   "score": 38,
+   "score": 60,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -29,8 +47,8 @@
    "publishedAt": "2026-09-18T02:47:24.000Z",
    "hn": {
     "id": "49749656",
-    "points": 463,
-    "comments": 196
+    "points": 478,
+    "comments": 203
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z",
    "score": 12
@@ -48,8 +66,8 @@
    "firstSeenAt": "2026-09-18T13:32:42.294Z",
    "hn": {
     "id": "49750152",
-    "points": 319,
-    "comments": 87
+    "points": 331,
+    "comments": 94
    }
   },
   {
@@ -65,8 +83,8 @@
    "firstSeenAt": "2026-09-17T23:26:37.927Z",
    "hn": {
     "id": "49745570",
-    "points": 355,
-    "comments": 317
+    "points": 359,
+    "comments": 330
    }
   },
   {
@@ -81,8 +99,8 @@
    "firstSeenAt": "2026-09-17T23:26:37.927Z",
    "hn": {
     "id": "49745940",
-    "points": 566,
-    "comments": 667
+    "points": 571,
+    "comments": 675
    }
   },
   {
@@ -234,21 +252,122 @@
    }
   },
   {
-   "id": "59326c036955",
-   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-   "url": "https://www.rubyhack.ai/",
+   "id": "643a84217e15",
+   "title": "AI-generated posters don’t have to be horrible",
+   "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-19T09:20:58.000Z",
+   "hn": {
+    "id": "49764791",
+    "points": 367,
+    "comments": 237
+   },
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
+  },
+  {
+   "id": "239a0abdd24d",
+   "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+   "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-19T05:48:50.000Z",
+   "hn": {
+    "id": "49763697",
+    "points": 343,
+    "comments": 125
+   },
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
+  },
+  {
+   "id": "0789abb96b12",
+   "title": "Korea raises data breach fines to 10% of revenue",
+   "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T20:02:54.000Z",
+   "hn": {
+    "id": "49759466",
+    "points": 313,
+    "comments": 105
+   },
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
+  },
+  {
+   "id": "bcfece4060eb",
+   "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
+   "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T11:01:44.000Z",
+   "hn": {
+    "id": "49752614",
+    "points": 308,
+    "comments": 201
+   },
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
+  },
+  {
+   "id": "be949a9f1568",
+   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
+   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T06:11:17.000Z",
+   "hn": {
+    "id": "49750694",
+    "points": 311,
+    "comments": 105
+   },
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
+  },
+  {
+   "id": "478cfbc9bb59",
+   "title": "The scourge of x86 emulation",
+   "url": "https://fex-emu.com/Scourge-of-emulation/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-11T23:17:42.000Z",
-   "hn": {
-    "id": "49666735",
-    "points": 952,
-    "comments": 592
-   },
-   "score": 116,
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
+   "publishedAt": "2026-09-19T05:01:05.094Z",
+   "score": 26,
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
+  },
+  {
+   "id": "8456e632a4ad",
+   "title": "CSS-Tricks could be a co-op",
+   "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T22:11:51.364Z",
+   "score": 36,
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
+  },
+  {
+   "id": "8fd6f24b0f08",
+   "title": "What are you doing this weekend?",
+   "url": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T08:15:23.174Z",
+   "score": 21,
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
+  },
+  {
+   "id": "559b0cf11197",
+   "title": "Introducing the Australian Youth Safety Blueprint",
+   "url": "https://openai.com/index/australian-youth-safety-blueprint",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-18T12:00:00.000Z",
+   "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
   {
    "id": "9b0bea9a8f22",
@@ -260,8 +379,8 @@
    "publishedAt": "2026-09-18T21:00:32.000Z",
    "hn": {
     "id": "49760187",
-    "points": 313,
-    "comments": 131
+    "points": 678,
+    "comments": 248
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -275,8 +394,8 @@
    "publishedAt": "2026-09-18T19:03:09.000Z",
    "hn": {
     "id": "49758736",
-    "points": 391,
-    "comments": 183
+    "points": 890,
+    "comments": 479
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -290,8 +409,8 @@
    "publishedAt": "2026-09-18T17:28:01.000Z",
    "hn": {
     "id": "49757520",
-    "points": 344,
-    "comments": 280
+    "points": 468,
+    "comments": 350
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -305,8 +424,8 @@
    "publishedAt": "2026-09-18T14:18:41.000Z",
    "hn": {
     "id": "49754785",
-    "points": 510,
-    "comments": 218
+    "points": 741,
+    "comments": 292
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -320,8 +439,8 @@
    "publishedAt": "2026-09-18T12:03:55.000Z",
    "hn": {
     "id": "49753179",
-    "points": 308,
-    "comments": 227
+    "points": 320,
+    "comments": 231
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -335,8 +454,8 @@
    "publishedAt": "2026-09-18T09:42:22.000Z",
    "hn": {
     "id": "49752041",
-    "points": 523,
-    "comments": 236
+    "points": 643,
+    "comments": 273
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -350,8 +469,8 @@
    "publishedAt": "2026-09-17T23:05:48.000Z",
    "hn": {
     "id": "49747925",
-    "points": 325,
-    "comments": 124
+    "points": 334,
+    "comments": 135
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -365,8 +484,8 @@
    "publishedAt": "2026-09-17T21:48:38.000Z",
    "hn": {
     "id": "49747070",
-    "points": 352,
-    "comments": 240
+    "points": 520,
+    "comments": 345
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -393,7 +512,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T13:14:17.568Z",
-   "score": 66,
+   "score": 96,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -404,7 +523,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T17:15:40.357Z",
-   "score": 16,
+   "score": 32,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -415,7 +534,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T15:25:08.333Z",
-   "score": 22,
+   "score": 48,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -426,7 +545,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T15:30:01.511Z",
-   "score": 10,
+   "score": 18,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -472,16 +591,6 @@
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
-   "id": "8b3759fdb1e4",
-   "title": "Saving another 100TB of RAM with math (and Rust)",
-   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-18T17:23:58.000Z",
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
    "id": "5ff94f8b654c",
    "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
    "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
@@ -491,8 +600,8 @@
    "publishedAt": "2026-09-18T09:45:07.000Z",
    "hn": {
     "id": "49752056",
-    "points": 847,
-    "comments": 752
+    "points": 897,
+    "comments": 795
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
@@ -506,8 +615,8 @@
    "publishedAt": "2026-09-17T21:13:31.000Z",
    "hn": {
     "id": "49746618",
-    "points": 560,
-    "comments": 188
+    "points": 570,
+    "comments": 190
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
@@ -521,8 +630,8 @@
    "publishedAt": "2026-09-17T20:36:13.000Z",
    "hn": {
     "id": "49746163",
-    "points": 588,
-    "comments": 302
+    "points": 599,
+    "comments": 305
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
@@ -549,7 +658,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T08:14:52.256Z",
-   "score": 117,
+   "score": 144,
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
   {
@@ -638,8 +747,8 @@
    "publishedAt": "2026-09-17T16:25:37.000Z",
    "hn": {
     "id": "49743097",
-    "points": 692,
-    "comments": 188
+    "points": 710,
+    "comments": 193
    },
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
@@ -722,7 +831,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T18:10:52.241Z",
-   "score": 91,
+   "score": 96,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -755,7 +864,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-17T21:21:18.024Z",
-   "score": 95,
+   "score": 104,
    "firstSeenAt": "2026-09-17T23:26:37.927Z"
   },
   {
@@ -2833,125 +2942,6 @@
    "publishedAt": "2026-09-12T11:28:29.367Z",
    "score": 13,
    "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "ebc58e96076d",
-   "title": "google.com/goto: Google's anti-scraping update",
-   "url": "https://www.autom.dev/blog/google-search-goto-links",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-12T03:14:20.000Z",
-   "hn": {
-    "id": "49668386",
-    "points": 667,
-    "comments": 533
-   },
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "b037dd796998",
-   "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-   "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T18:24:55.000Z",
-   "hn": {
-    "id": "49662990",
-    "points": 744,
-    "comments": 414
-   },
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "a8ab16342f9c",
-   "title": "The EPA is planning to scrap public review rules for data center pollution",
-   "url": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T18:05:21.000Z",
-   "hn": {
-    "id": "49662672",
-    "points": 499,
-    "comments": 392
-   },
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "0b9f9f29fbc4",
-   "title": "Pandas Should Go Extinct",
-   "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T04:23:08.739Z",
-   "score": 40,
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "954dd9f95173",
-   "title": "A list of macOS defaults commands with demos",
-   "url": "https://macos-defaults.com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T22:55:34.740Z",
-   "score": 23,
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "e9fa41919606",
-   "title": "Measuring the sloppiness of code",
-   "url": "https://earendil.com/posts/measuring-code-sloppiness/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T17:08:11.044Z",
-   "score": 24,
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "298ba81daf53",
-   "title": "Tutorial for Septabee, a free DAW in the making for over 20,000 hours",
-   "url": "https://www.youtube.com/watch?v=lW8Z98pXuSE",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-11T23:06:30.015Z",
-   "score": 10,
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "12e9dd685180",
-   "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-   "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-14T00:00:00.000Z",
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "c3aa33826442",
-   "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-   "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-11T16:00:00.000Z",
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
-  },
-  {
-   "id": "6481e999f333",
-   "title": "OpenAI agents attacked RubyGems back in May",
-   "url": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-09-12T00:42:25.000Z",
-   "firstSeenAt": "2026-09-12T12:47:49.032Z"
   }
  ]
 }
