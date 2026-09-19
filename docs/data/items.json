@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T13:02:22.909Z",
+ "generatedAt": "2026-09-19T22:45:20.190Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -14,10 +14,27 @@
    "firstSeenAt": "2026-09-18T23:07:35.851Z",
    "hn": {
     "id": "49758580",
-    "points": 387,
-    "comments": 84
+    "points": 458,
+    "comments": 108
    },
-   "score": 17
+   "score": 32
+  },
+  {
+   "id": "1fc5f06ab4e0",
+   "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+   "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T06:41:44.000Z",
+   "hn": {
+    "id": "49763987",
+    "points": 347,
+    "comments": 159
+   },
+   "score": 11,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
    "id": "dd042bbde563",
@@ -30,10 +47,10 @@
    "publishedAt": "2026-09-18T12:06:50.000Z",
    "hn": {
     "id": "49753211",
-    "points": 789,
-    "comments": 769
+    "points": 818,
+    "comments": 785
    },
-   "score": 60,
+   "score": 70,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -47,8 +64,8 @@
    "publishedAt": "2026-09-18T02:47:24.000Z",
    "hn": {
     "id": "49749656",
-    "points": 478,
-    "comments": 203
+    "points": 483,
+    "comments": 205
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z",
    "score": 12
@@ -66,7 +83,7 @@
    "firstSeenAt": "2026-09-18T13:32:42.294Z",
    "hn": {
     "id": "49750152",
-    "points": 331,
+    "points": 332,
     "comments": 94
    }
   },
@@ -252,6 +269,192 @@
    }
   },
   {
+   "id": "83f196275b0d",
+   "title": "I built non-autoregressive decision models with RL a year ago",
+   "url": "https://laya.convaiinnovations.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-19T10:46:58.000Z",
+   "hn": {
+    "id": "49765348",
+    "points": 1014,
+    "comments": 233
+   },
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "518a66ddc17f",
+   "title": "San Francisco Onion Futures Company",
+   "url": "https://onionfutures.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-19T04:23:30.000Z",
+   "hn": {
+    "id": "49763296",
+    "points": 356,
+    "comments": 150
+   },
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "6f073a83eb4f",
+   "title": "Minimal Phone 2",
+   "url": "https://minimalcompany.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-18T02:00:25.000Z",
+   "hn": {
+    "id": "49749369",
+    "points": 311,
+    "comments": 247
+   },
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "ff70dfe1c386",
+   "title": "AI Is an Elite Crime Spree",
+   "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T15:44:52.572Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "a6b0bd5b12be",
+   "title": "Don’t Let Architecture Astronauts Scare You (2001)",
+   "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T12:08:52.631Z",
+   "score": 31,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "9e347c7394a5",
+   "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
+   "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T13:41:57.630Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "8a4b2ca6eb49",
+   "title": "we have a year to fix security everywhere",
+   "url": "https://jyn.dev/a-year-to-fix-security/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T19:27:46.429Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "d25e3d9749cf",
+   "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
+   "url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T12:38:11.952Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "56a6371d8099",
+   "title": "“The Secret Life of Circuits” is here",
+   "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T12:12:18.763Z",
+   "score": 23,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "811b8bca67f9",
+   "title": "What happens to TLDs when their country stops existing? (2022)",
+   "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T11:53:28.060Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "e7dde8f73bb1",
+   "title": "Write while learning",
+   "url": "https://purplesyringa.moe/blog/write-while-learning/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T06:56:24.938Z",
+   "score": 24,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "3b0afed2b661",
+   "title": "Reviving the language that brought us the Jak & Daxter Series",
+   "url": "https://opengoal.dev/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T14:28:49.182Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "b1b7d90b796f",
+   "title": "Faster JSON parsing with SVE2 on ARM processors",
+   "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T15:10:09.421Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "84c2b4d10d7d",
+   "title": "LispBM: Concurrent Lisp for Microcontrollers",
+   "url": "https://www.lispbm.com/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T11:36:56.503Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "00e72da2b937",
+   "title": "Why I still haven’t bought into true RSI",
+   "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-09-19T15:42:20.000Z",
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
+   "id": "be270d1902fb",
+   "title": "Finding Bugs",
+   "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+   "sources": [
+    "matklad"
+   ],
+   "publishedAt": "2026-09-19T00:00:00.000Z",
+   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+  },
+  {
    "id": "643a84217e15",
    "title": "AI-generated posters don’t have to be horrible",
    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
@@ -261,8 +464,8 @@
    "publishedAt": "2026-09-19T09:20:58.000Z",
    "hn": {
     "id": "49764791",
-    "points": 367,
-    "comments": 237
+    "points": 1273,
+    "comments": 705
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -276,8 +479,8 @@
    "publishedAt": "2026-09-19T05:48:50.000Z",
    "hn": {
     "id": "49763697",
-    "points": 343,
-    "comments": 125
+    "points": 596,
+    "comments": 228
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -291,8 +494,8 @@
    "publishedAt": "2026-09-18T20:02:54.000Z",
    "hn": {
     "id": "49759466",
-    "points": 313,
-    "comments": 105
+    "points": 322,
+    "comments": 108
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -306,8 +509,8 @@
    "publishedAt": "2026-09-18T11:01:44.000Z",
    "hn": {
     "id": "49752614",
-    "points": 308,
-    "comments": 201
+    "points": 311,
+    "comments": 211
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -321,8 +524,8 @@
    "publishedAt": "2026-09-18T06:11:17.000Z",
    "hn": {
     "id": "49750694",
-    "points": 311,
-    "comments": 105
+    "points": 326,
+    "comments": 108
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -334,7 +537,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T05:01:05.094Z",
-   "score": 26,
+   "score": 61,
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
   {
@@ -379,8 +582,8 @@
    "publishedAt": "2026-09-18T21:00:32.000Z",
    "hn": {
     "id": "49760187",
-    "points": 678,
-    "comments": 248
+    "points": 713,
+    "comments": 265
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -394,8 +597,8 @@
    "publishedAt": "2026-09-18T19:03:09.000Z",
    "hn": {
     "id": "49758736",
-    "points": 890,
-    "comments": 479
+    "points": 1098,
+    "comments": 639
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -409,8 +612,8 @@
    "publishedAt": "2026-09-18T17:28:01.000Z",
    "hn": {
     "id": "49757520",
-    "points": 468,
-    "comments": 350
+    "points": 495,
+    "comments": 373
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -424,8 +627,8 @@
    "publishedAt": "2026-09-18T14:18:41.000Z",
    "hn": {
     "id": "49754785",
-    "points": 741,
-    "comments": 292
+    "points": 807,
+    "comments": 306
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -439,8 +642,8 @@
    "publishedAt": "2026-09-18T12:03:55.000Z",
    "hn": {
     "id": "49753179",
-    "points": 320,
-    "comments": 231
+    "points": 321,
+    "comments": 234
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -454,8 +657,8 @@
    "publishedAt": "2026-09-18T09:42:22.000Z",
    "hn": {
     "id": "49752041",
-    "points": 643,
-    "comments": 273
+    "points": 691,
+    "comments": 284
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -469,7 +672,7 @@
    "publishedAt": "2026-09-17T23:05:48.000Z",
    "hn": {
     "id": "49747925",
-    "points": 334,
+    "points": 338,
     "comments": 135
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
@@ -512,7 +715,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T13:14:17.568Z",
-   "score": 96,
+   "score": 113,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -523,7 +726,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T17:15:40.357Z",
-   "score": 32,
+   "score": 42,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -534,7 +737,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-18T15:25:08.333Z",
-   "score": 48,
+   "score": 52,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
@@ -600,8 +803,8 @@
    "publishedAt": "2026-09-18T09:45:07.000Z",
    "hn": {
     "id": "49752056",
-    "points": 897,
-    "comments": 795
+    "points": 915,
+    "comments": 812
    },
    "firstSeenAt": "2026-09-18T13:32:42.294Z"
   },
