@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-20T13:32:53.927Z",
+ "generatedAt": "2026-09-20T23:04:30.978Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -20,6 +20,23 @@
    "score": 32
   },
   {
+   "id": "81b3da03dd64",
+   "title": "ChatGPT now knows what you do on other websites via ad collector",
+   "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T15:18:44.000Z",
+   "hn": {
+    "id": "49776729",
+    "points": 507,
+    "comments": 294
+   },
+   "score": 14,
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
    "id": "1fc5f06ab4e0",
    "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
    "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
@@ -30,8 +47,8 @@
    "publishedAt": "2026-09-19T06:41:44.000Z",
    "hn": {
     "id": "49763987",
-    "points": 383,
-    "comments": 174
+    "points": 388,
+    "comments": 177
    },
    "score": 11,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
@@ -230,21 +247,119 @@
    "score": 25
   },
   {
-   "id": "f3600c5021fe",
-   "title": "Homebrew 7.0.0",
-   "url": "https://brew.sh/2026/09/13/homebrew-7.0.0/",
+   "id": "8bfe2a2350a2",
+   "title": "Pirate Face Rescues LLM Models from Deletion",
+   "url": "https://pirateface.co/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T15:16:07.000Z",
+   "hn": {
+    "id": "49776699",
+    "points": 397,
+    "comments": 124
+   },
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
+   "id": "fc9a8f12e485",
+   "title": "Qwen Image 2.1",
+   "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T13:09:25.000Z",
+   "hn": {
+    "id": "49775499",
+    "points": 444,
+    "comments": 146
+   },
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
+   "id": "882b6977fb2c",
+   "title": "English: A vs. An",
+   "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-19T20:41:26.000Z",
+   "hn": {
+    "id": "49769944",
+    "points": 347,
+    "comments": 477
+   },
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
+   "id": "384e100188e8",
+   "title": "Brood War Bench",
+   "url": "https://bw.swerdlow.dev/report",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-19T14:44:02.000Z",
+   "hn": {
+    "id": "49766966",
+    "points": 337,
+    "comments": 150
+   },
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
+   "id": "407de968c211",
+   "title": "Software sandboxing: The basics (2025)",
+   "url": "https://blog.emilua.org/2025/01/12/software-sandboxing-basics/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-13T08:41:17.000Z",
-   "hn": {
-    "id": "49681545",
-    "points": 623,
-    "comments": 251
-   },
-   "score": 63,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
+   "publishedAt": "2026-09-20T14:13:11.598Z",
+   "score": 27,
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
+   "id": "ab465c843f54",
+   "title": "Lambda MicroEgg",
+   "url": "https://www.philipzucker.com/lambda_miller_egg/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T16:04:18.544Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
+   "id": "306442612e95",
+   "title": "An actively maintained and updated Motif fork actually exists",
+   "url": "https://www.osnews.com/story/145877/an-actively-maintained-and-updated-motif-fork-actually-exists/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T17:13:41.124Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
+   "id": "b7b43183ce02",
+   "title": "Beyond jj: config & tools ecosystem",
+   "url": "https://andre.arko.net/2026/09/16/beyond-jj-config-and-tools-ecosystem/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T10:51:04.335Z",
+   "score": 45,
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
+  },
+  {
+   "id": "2931a6bf25f6",
+   "title": "How Notion handles concurrent editing with CRDTs",
+   "url": "https://www.notion.com/blog/how-notion-handles-concurrent-editing-with-crdts",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T12:06:29.397Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
    "id": "72c1937ea472",
@@ -256,8 +371,8 @@
    "publishedAt": "2026-09-19T23:46:42.000Z",
    "hn": {
     "id": "49771110",
-    "points": 481,
-    "comments": 190
+    "points": 594,
+    "comments": 246
    },
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
@@ -271,8 +386,8 @@
    "publishedAt": "2026-09-19T16:35:24.000Z",
    "hn": {
     "id": "49767937",
-    "points": 310,
-    "comments": 152
+    "points": 339,
+    "comments": 165
    },
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
@@ -286,8 +401,8 @@
    "publishedAt": "2026-09-19T06:28:02.000Z",
    "hn": {
     "id": "49763928",
-    "points": 371,
-    "comments": 272
+    "points": 400,
+    "comments": 279
    },
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
@@ -299,7 +414,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T22:27:02.722Z",
-   "score": 34,
+   "score": 56,
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
   {
@@ -310,7 +425,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T05:46:48.216Z",
-   "score": 34,
+   "score": 87,
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
   {
@@ -321,7 +436,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T22:36:30.147Z",
-   "score": 20,
+   "score": 26,
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
   {
@@ -345,8 +460,8 @@
    "publishedAt": "2026-09-19T10:46:58.000Z",
    "hn": {
     "id": "49765348",
-    "points": 1245,
-    "comments": 295
+    "points": 1291,
+    "comments": 310
    },
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
@@ -360,8 +475,8 @@
    "publishedAt": "2026-09-19T04:23:30.000Z",
    "hn": {
     "id": "49763296",
-    "points": 385,
-    "comments": 170
+    "points": 388,
+    "comments": 173
    },
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
@@ -388,7 +503,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T15:44:52.572Z",
-   "score": 74,
+   "score": 89,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -399,7 +514,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T12:08:52.631Z",
-   "score": 40,
+   "score": 44,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -410,7 +525,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T13:41:57.630Z",
-   "score": 55,
+   "score": 58,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -421,7 +536,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T19:27:46.429Z",
-   "score": 38,
+   "score": 52,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -443,7 +558,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T12:12:18.763Z",
-   "score": 41,
+   "score": 44,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -454,7 +569,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T11:53:28.060Z",
-   "score": 29,
+   "score": 33,
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
@@ -531,8 +646,8 @@
    "publishedAt": "2026-09-19T09:20:58.000Z",
    "hn": {
     "id": "49764791",
-    "points": 1660,
-    "comments": 864
+    "points": 1767,
+    "comments": 908
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -546,8 +661,8 @@
    "publishedAt": "2026-09-19T05:48:50.000Z",
    "hn": {
     "id": "49763697",
-    "points": 632,
-    "comments": 247
+    "points": 640,
+    "comments": 255
    },
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
   },
@@ -2762,320 +2877,6 @@
    ],
    "publishedAt": "2026-09-13T00:00:00.000Z",
    "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "003ff6da8e6d",
-   "title": "I'm being cyberattacked by Tesla, Inc",
-   "url": "https://dreamstation.systems/personal/tesla.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T18:03:09.000Z",
-   "hn": {
-    "id": "49686766",
-    "points": 454,
-    "comments": 118
-   },
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "ef9f4296e998",
-   "title": "Why is Google still serving dodgy ads?",
-   "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T17:37:44.000Z",
-   "hn": {
-    "id": "49686445",
-    "points": 941,
-    "comments": 404
-   },
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "543492d80546",
-   "title": "Garry Tan wants US open-weight AI labs to 'distill' frontier models, too",
-   "url": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T15:44:38.000Z",
-   "hn": {
-    "id": "49685253",
-    "points": 411,
-    "comments": 236
-   },
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "ed4dc19a3249",
-   "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-   "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T14:28:36.000Z",
-   "hn": {
-    "id": "49684393",
-    "points": 476,
-    "comments": 229
-   },
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "12a30bf0f85c",
-   "title": "Flock worker calls police on reporter filming public camera installation",
-   "url": "https://www.investigatetv.com/2026/09/08/flock-worker-calls-police-investigatetv-reporter-filming-public-camera-installation/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T13:35:31.000Z",
-   "hn": {
-    "id": "49683853",
-    "points": 354,
-    "comments": 262
-   },
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "d5dcbba8e029",
-   "title": "JetKVM Mini",
-   "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T07:49:46.000Z",
-   "hn": {
-    "id": "49681152",
-    "points": 562,
-    "comments": 230
-   },
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "cec523332601",
-   "title": "LG Says We're Fake News [video]",
-   "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-12T19:35:36.000Z",
-   "hn": {
-    "id": "49676324",
-    "points": 377,
-    "comments": 195
-   },
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "96cefa2b4516",
-   "title": "Watch what you say: Apple opens the door to a nightmare world of always-listening tech",
-   "url": "https://this.weekinsecurity.com/watch-what-you-say-apple-opens-the-door-to-a-nightmare-world-of-always-listening-tech/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T12:10:30.087Z",
-   "score": 105,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "5c766af03230",
-   "title": "what if my git host were a static site generator?",
-   "url": "https://char.lt/blog/2026/09/sorcery-repo-viewer/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T16:10:06.327Z",
-   "score": 63,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "dfc33ee5fb44",
-   "title": "Golang developers should try Odin",
-   "url": "https://rm4n0s.github.io/posts/2-go-devs-should-learn-odin/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T15:23:41.394Z",
-   "score": 23,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "e2c4c2466992",
-   "title": "Switching to GNU Guix: A Beginner's Perspective",
-   "url": "https://whhone.com/posts/switching-to-gnu-guix/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T16:19:47.288Z",
-   "score": 48,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "633cb42ecb14",
-   "title": "Don't call yourself an artisanal programmer",
-   "url": "https://purplesyringa.moe/blog/dont-call-yourself-an-artisanal-programmer/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T11:39:43.658Z",
-   "score": 20,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "adcfbec24502",
-   "title": "Can a regex match valid card numbers?",
-   "url": "https://abstractnonsense.xyz/blog/2025-08-31-can-a-regex-match-valid-card-numbers/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T13:39:15.845Z",
-   "score": 21,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "d3415ce181b8",
-   "title": "After Math",
-   "url": "https://terrytao.wordpress.com/2026/09/12/after-math/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T12:59:09.092Z",
-   "score": 19,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "562b1be36a47",
-   "title": "A Dick Smith VZ200 without the Dick Smith",
-   "url": "http://oldvcr.blogspot.com/2026/09/a-dick-smith-vz200-without-dick-smith.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T02:31:35.781Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "5bc42122c6b1",
-   "title": "Nobody pays for open source. We can force them to",
-   "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T14:34:32.534Z",
-   "score": 11,
-   "firstSeenAt": "2026-09-13T23:00:13.490Z"
-  },
-  {
-   "id": "ae1c0b143270",
-   "title": "Why are AI agents lying, cheating and coordinating?",
-   "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T01:22:31.000Z",
-   "hn": {
-    "id": "49678969",
-    "points": 644,
-    "comments": 682
-   },
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "29a046c34d36",
-   "title": "Everyone should slow down AI development except for me",
-   "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T00:30:44.000Z",
-   "hn": {
-    "id": "49678683",
-    "points": 797,
-    "comments": 450
-   },
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "232a181e27c1",
-   "title": "Make your first edit to OpenStreetMap",
-   "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-12T16:25:08.000Z",
-   "hn": {
-    "id": "49674050",
-    "points": 609,
-    "comments": 147
-   },
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "b57f108bbb1a",
-   "title": "From Git to Fossil (2025)",
-   "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T07:51:19.345Z",
-   "score": 32,
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "fb711c0d210e",
-   "title": "heol",
-   "url": "https://wiki.xxiivv.com/site/heol.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T05:59:41.454Z",
-   "score": 70,
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "1d9e3d12857d",
-   "title": "a better way of blocking macOS updates",
-   "url": "https://zoey-on-github.github.io/blog/updates.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T01:12:07.992Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "5a208102a6d1",
-   "title": "A Few Good Ideas in Programming Languages",
-   "url": "https://prydt.xyz/blog/a-few-good-ideas-in-pl/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T18:19:16.652Z",
-   "score": 37,
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "043e8223d1f5",
-   "title": "Optimizing a single Rust Clippy lint by 3133X",
-   "url": "https://blog.goose.love/posts/making-a-clippy-lint-faster-by-3133x/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-12T20:29:09.734Z",
-   "score": 15,
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
-  },
-  {
-   "id": "2981ecf752e1",
-   "title": "Generating running routes with GPT-6 Astra and ChatGPT Work",
-   "url": "https://simonwillison.net/2026/Sep/12/astra-running-routes/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-09-12T23:56:42.000Z",
-   "firstSeenAt": "2026-09-13T13:45:33.564Z"
   }
  ]
 }
