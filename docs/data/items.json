@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-20T23:04:30.978Z",
+ "generatedAt": "2026-09-21T15:51:05.987Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -30,10 +30,10 @@
    "publishedAt": "2026-09-20T15:18:44.000Z",
    "hn": {
     "id": "49776729",
-    "points": 507,
-    "comments": 294
+    "points": 737,
+    "comments": 388
    },
-   "score": 14,
+   "score": 58,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -247,6 +247,228 @@
    "score": 25
   },
   {
+   "id": "987a6aa2b174",
+   "title": "ZuckOff Know when a camera is in the room",
+   "url": "https://zuckoff.app/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T10:33:14.000Z",
+   "hn": {
+    "id": "49785429",
+    "points": 580,
+    "comments": 249
+   },
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "d3900e99d12d",
+   "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
+   "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T07:55:28.000Z",
+   "hn": {
+    "id": "49784336",
+    "points": 407,
+    "comments": 263
+   },
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "8db79723e7ad",
+   "title": "What happened to the Snowden archive",
+   "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T22:35:49.000Z",
+   "hn": {
+    "id": "49780820",
+    "points": 582,
+    "comments": 406
+   },
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "ea087dc9487c",
+   "title": "AX – Google’s Open Agentic Orchestrator",
+   "url": "https://agentexecutor.io",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T22:32:43.000Z",
+   "hn": {
+    "id": "49780797",
+    "points": 579,
+    "comments": 269
+   },
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "9bc480d7a7e3",
+   "title": "Bill to Ban Private Equity from Owning Medical Practices",
+   "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T22:13:46.000Z",
+   "hn": {
+    "id": "49780630",
+    "points": 466,
+    "comments": 332
+   },
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "54422eea0235",
+   "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
+   "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T17:38:50.000Z",
+   "hn": {
+    "id": "49778029",
+    "points": 529,
+    "comments": 392
+   },
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "216df9425bbd",
+   "title": "Spain orders blocks on Archive.today and its mirrors",
+   "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T06:16:42.000Z",
+   "hn": {
+    "id": "49772961",
+    "points": 510,
+    "comments": 402
+   },
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "b30711547eb7",
+   "title": "What Sun got wrong",
+   "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T07:14:39.869Z",
+   "score": 70,
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "c0f3cd11c614",
+   "title": "Creating a Blog in Gemini://",
+   "url": "https://brennan.day/creating-a-blog-in-gemini/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T11:24:46.585Z",
+   "score": 19,
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "9464bd891d1c",
+   "title": "Do you use :visited on links?",
+   "url": "https://kevquirk.com/do-you-use-visited-on-links",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T11:42:15.164Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "7b82b3cd541a",
+   "title": "Are we really going to use the same Desktop UX forever?",
+   "url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T20:34:34.067Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "b6322ca91c1c",
+   "title": "Bot-free self-hosted analytics with GoatCounter on NixOS",
+   "url": "https://vincent.bernat.ch/en/blog/2026-goatcounter",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T22:51:03.251Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "c18243cb944d",
+   "title": "Deterministic Core, Non-Deterministic Shell",
+   "url": "https://outdata.net/blog/260803",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T21:13:51.416Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "8b1cdac6d3be",
+   "title": "Roku launches open-source Roku LT OS for creative programmers",
+   "url": "https://blog.roku.com/developer/roku-lt-os",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-20T23:15:16.168Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "d1749ba76a98",
+   "title": "How V7 gives AI agents institutional memory",
+   "url": "https://openai.com/index/v7",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-21T00:00:00.000Z",
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "9a319be2f748",
+   "title": "The current balance of power in open models",
+   "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-09-21T11:56:56.000Z",
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "57dcd6ca1978",
+   "title": "[$] Testing compat_linux on NetBSD with the Linux Test Project",
+   "url": "https://lwn.net/Articles/1094310/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-21T14:22:55.000Z",
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
+   "id": "bf2ea8abc504",
+   "title": "Python Workers are now generally available",
+   "url": "https://blog.cloudflare.com/python-workers-ga/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-21T13:00:00.000Z",
+   "firstSeenAt": "2026-09-21T15:51:05.987Z"
+  },
+  {
    "id": "8bfe2a2350a2",
    "title": "Pirate Face Rescues LLM Models from Deletion",
    "url": "https://pirateface.co/",
@@ -256,8 +478,8 @@
    "publishedAt": "2026-09-20T15:16:07.000Z",
    "hn": {
     "id": "49776699",
-    "points": 397,
-    "comments": 124
+    "points": 543,
+    "comments": 144
    },
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
@@ -271,8 +493,8 @@
    "publishedAt": "2026-09-20T13:09:25.000Z",
    "hn": {
     "id": "49775499",
-    "points": 444,
-    "comments": 146
+    "points": 702,
+    "comments": 189
    },
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
@@ -286,8 +508,8 @@
    "publishedAt": "2026-09-19T20:41:26.000Z",
    "hn": {
     "id": "49769944",
-    "points": 347,
-    "comments": 477
+    "points": 357,
+    "comments": 504
    },
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
@@ -314,7 +536,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T14:13:11.598Z",
-   "score": 27,
+   "score": 47,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -325,7 +547,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T16:04:18.544Z",
-   "score": 16,
+   "score": 24,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -336,7 +558,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T17:13:41.124Z",
-   "score": 20,
+   "score": 38,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -347,7 +569,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T10:51:04.335Z",
-   "score": 45,
+   "score": 84,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -371,8 +593,8 @@
    "publishedAt": "2026-09-19T23:46:42.000Z",
    "hn": {
     "id": "49771110",
-    "points": 594,
-    "comments": 246
+    "points": 699,
+    "comments": 291
    },
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
@@ -386,8 +608,8 @@
    "publishedAt": "2026-09-19T16:35:24.000Z",
    "hn": {
     "id": "49767937",
-    "points": 339,
-    "comments": 165
+    "points": 357,
+    "comments": 168
    },
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
@@ -414,7 +636,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-19T22:27:02.722Z",
-   "score": 56,
+   "score": 70,
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
   {
@@ -425,7 +647,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T05:46:48.216Z",
-   "score": 87,
+   "score": 125,
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
   },
   {
@@ -2663,7 +2885,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-14T07:47:47.767Z",
-   "score": 10,
+   "score": 11,
    "firstSeenAt": "2026-09-14T23:44:09.646Z"
   },
   {
