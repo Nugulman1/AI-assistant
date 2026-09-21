@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T15:51:05.987Z",
+ "generatedAt": "2026-09-21T23:55:38.804Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -20,6 +20,40 @@
    "score": 32
   },
   {
+   "id": "dfd00f6ab151",
+   "title": "Attention is all you have",
+   "url": "https://alicegg.tech/2026/09/21/attention",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T14:26:56.000Z",
+   "hn": {
+    "id": "49787726",
+    "points": 547,
+    "comments": 158
+   },
+   "score": 15,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "b30711547eb7",
+   "title": "What Sun got wrong",
+   "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T07:14:39.869Z",
+   "score": 99,
+   "firstSeenAt": "2026-09-21T15:51:05.987Z",
+   "hn": {
+    "id": "49787436",
+    "points": 480,
+    "comments": 264
+   }
+  },
+  {
    "id": "81b3da03dd64",
    "title": "ChatGPT now knows what you do on other websites via ad collector",
    "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
@@ -30,10 +64,10 @@
    "publishedAt": "2026-09-20T15:18:44.000Z",
    "hn": {
     "id": "49776729",
-    "points": 737,
+    "points": 749,
     "comments": 388
    },
-   "score": 58,
+   "score": 61,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -247,6 +281,275 @@
    "score": 25
   },
   {
+   "id": "65539846fc8f",
+   "title": "Xiaomi MiMo v2.6",
+   "url": "https://mimo.xiaomi.com/mimo-v2-6",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T20:12:12.000Z",
+   "hn": {
+    "id": "49792730",
+    "points": 438,
+    "comments": 217
+   },
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "09131d9cd421",
+   "title": "Fable 5 – Median thinking declined in August",
+   "url": "https://twitter.com/Lon/status/2101793422487204027",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T16:13:57.000Z",
+   "hn": {
+    "id": "49789224",
+    "points": 338,
+    "comments": 233
+   },
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "81104d8861cf",
+   "title": "Grok 4.7",
+   "url": "https://x.ai/news/grok-4-7",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T15:50:15.000Z",
+   "hn": {
+    "id": "49788838",
+    "points": 469,
+    "comments": 384
+   },
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "d0d7c27ccb17",
+   "title": "ZuckOff is a free app that sees Meta glasses before they see you",
+   "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T10:27:50.000Z",
+   "hn": {
+    "id": "49785397",
+    "points": 361,
+    "comments": 332
+   },
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "513f706570e2",
+   "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+   "url": "https://github.com/jaredpalmer/kev/tree/main",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T07:11:55.000Z",
+   "hn": {
+    "id": "49783999",
+    "points": 396,
+    "comments": 175
+   },
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "3b45c2112693",
+   "title": "Grim Fandango Puzzle Document (1996) [pdf]",
+   "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T05:55:22.000Z",
+   "hn": {
+    "id": "49783495",
+    "points": 359,
+    "comments": 93
+   },
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "ef6362531a2e",
+   "title": "MCP was always a bad idea?",
+   "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T19:44:40.000Z",
+   "hn": {
+    "id": "49779329",
+    "points": 317,
+    "comments": 306
+   },
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "4661f8db93d1",
+   "title": "I am often wrong",
+   "url": "https://borischerny.com/management,/product/2026/09/19/I-am-often-wrong.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-20T16:41:46.000Z",
+   "hn": {
+    "id": "49777467",
+    "points": 328,
+    "comments": 223
+   },
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "738e19f90d54",
+   "title": "Self-Hosting Behind CGNAT",
+   "url": "https://david.alvarezrosa.com/posts/self-hosting-behind-cgnat/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T17:53:28.062Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "b3942ac4a8e1",
+   "title": "Textbook review: Is Parallel Programming Hard, And, If So, What Can You Do About It?",
+   "url": "https://ahelwer.ca/post/2026-09-21-concurrency-textbook/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T14:28:38.597Z",
+   "score": 28,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "598d847a4ec5",
+   "title": "rift - a tiling window manager for macos",
+   "url": "https://github.com/acsandmann/rift/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T18:02:53.927Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "7ab818404fda",
+   "title": "Squalk: an old-school forum engine built on Nostr (NIP-29 groups, NIP-7D threads)",
+   "url": "https://github.com/dtonon/squalk",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T14:44:12.725Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "d3594ce1c925",
+   "title": "Markdown in /src",
+   "url": "https://htmx.org/essays/markdown-in-src/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T14:27:08.869Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "ea8e8d9f6848",
+   "title": "Relation algebra is not relational algebra",
+   "url": "https://remy.wang/blog/ra-ra.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T17:01:35.726Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "cea219fab8aa",
+   "title": "Canonical announces Zephyr 26.04 LTS",
+   "url": "https://canonical.com/blog/zephyr-lts-announcement",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T13:53:04.045Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "a07883993bed",
+   "title": "Making a game for the GBA and PC from the same codebase",
+   "url": "https://mattgreer.dev/blog/making-a-game-for-gba-and-pc/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T16:02:54.229Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "49439283f8a0",
+   "title": "Why do computers look like this anyway?",
+   "url": "https://www.youtube.com/watch?v=dpIuNUn0PZc",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T09:37:22.485Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "a7ca59844a94",
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-21T12:00:00.000Z",
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "d37f5b2c5927",
+   "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+   "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-21T12:00:00.000Z",
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "2c9792fbb14a",
+   "title": "Building standards for the next phase of AI",
+   "url": "https://openai.com/index/building-standards-next-phase-ai",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-21T10:00:00.000Z",
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "530db518a73a",
+   "title": "Expanding OpenAI Academy with new learning paths",
+   "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-21T07:00:00.000Z",
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
+   "id": "82b7c1ad7628",
+   "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+   "url": "https://simonwillison.net/2026/Sep/21/jev/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-09-21T23:09:20.000Z",
+   "firstSeenAt": "2026-09-21T23:55:38.804Z"
+  },
+  {
    "id": "987a6aa2b174",
    "title": "ZuckOff Know when a camera is in the room",
    "url": "https://zuckoff.app/",
@@ -256,8 +559,8 @@
    "publishedAt": "2026-09-21T10:33:14.000Z",
    "hn": {
     "id": "49785429",
-    "points": 580,
-    "comments": 249
+    "points": 588,
+    "comments": 3
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -271,8 +574,8 @@
    "publishedAt": "2026-09-21T07:55:28.000Z",
    "hn": {
     "id": "49784336",
-    "points": 407,
-    "comments": 263
+    "points": 484,
+    "comments": 341
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -286,8 +589,8 @@
    "publishedAt": "2026-09-20T22:35:49.000Z",
    "hn": {
     "id": "49780820",
-    "points": 582,
-    "comments": 406
+    "points": 673,
+    "comments": 504
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -301,8 +604,8 @@
    "publishedAt": "2026-09-20T22:32:43.000Z",
    "hn": {
     "id": "49780797",
-    "points": 579,
-    "comments": 269
+    "points": 628,
+    "comments": 288
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -316,8 +619,8 @@
    "publishedAt": "2026-09-20T22:13:46.000Z",
    "hn": {
     "id": "49780630",
-    "points": 466,
-    "comments": 332
+    "points": 489,
+    "comments": 364
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -331,8 +634,8 @@
    "publishedAt": "2026-09-20T17:38:50.000Z",
    "hn": {
     "id": "49778029",
-    "points": 529,
-    "comments": 392
+    "points": 546,
+    "comments": 441
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -346,20 +649,9 @@
    "publishedAt": "2026-09-20T06:16:42.000Z",
    "hn": {
     "id": "49772961",
-    "points": 510,
-    "comments": 402
+    "points": 529,
+    "comments": 417
    },
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "b30711547eb7",
-   "title": "What Sun got wrong",
-   "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-21T07:14:39.869Z",
-   "score": 70,
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
   {
@@ -370,7 +662,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T11:24:46.585Z",
-   "score": 19,
+   "score": 27,
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
   {
@@ -381,7 +673,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T11:42:15.164Z",
-   "score": 12,
+   "score": 22,
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
   {
@@ -392,7 +684,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T20:34:34.067Z",
-   "score": 34,
+   "score": 50,
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
   {
@@ -403,7 +695,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T22:51:03.251Z",
-   "score": 16,
+   "score": 22,
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
   {
@@ -478,7 +770,7 @@
    "publishedAt": "2026-09-20T15:16:07.000Z",
    "hn": {
     "id": "49776699",
-    "points": 543,
+    "points": 546,
     "comments": 144
    },
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
@@ -493,8 +785,8 @@
    "publishedAt": "2026-09-20T13:09:25.000Z",
    "hn": {
     "id": "49775499",
-    "points": 702,
-    "comments": 189
+    "points": 722,
+    "comments": 193
    },
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
@@ -536,7 +828,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T14:13:11.598Z",
-   "score": 47,
+   "score": 51,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -547,7 +839,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T16:04:18.544Z",
-   "score": 24,
+   "score": 28,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -558,7 +850,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-20T17:13:41.124Z",
-   "score": 38,
+   "score": 42,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
@@ -2754,351 +3046,6 @@
    ],
    "publishedAt": "2026-09-15T13:00:00.000Z",
    "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "ea38292b932e",
-   "title": "Steam Frame starts at $1059",
-   "url": "https://store.steampowered.com/hardware/steamframe",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T17:27:55.000Z",
-   "hn": {
-    "id": "49700661",
-    "points": 732,
-    "comments": 631
-   },
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "dce815e05e9f",
-   "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-   "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T12:40:57.000Z",
-   "hn": {
-    "id": "49695876",
-    "points": 504,
-    "comments": 413
-   },
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "b77021054768",
-   "title": "XCancel service is suspended until further notice",
-   "url": "https://xcancel.com/#",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T09:51:50.000Z",
-   "hn": {
-    "id": "49694296",
-    "points": 746,
-    "comments": 1009
-   },
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "e73517753a64",
-   "title": "The contagion of fear",
-   "url": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T16:53:14.313Z",
-   "score": 179,
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "224f15fdacd1",
-   "title": "What blog posts influenced your thinking the most?",
-   "url": "https://lobste.rs/s/lbavmm/what_blog_posts_influenced_your_thinking",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T15:27:32.545Z",
-   "score": 95,
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "778a93785423",
-   "title": "How can you not be romantic about UNIX domain sockets?",
-   "url": "https://yuvalino.com/how-can-you-not-be-romantic-about-unix-domain-sockets",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T16:27:12.300Z",
-   "score": 94,
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "b66fa660ea47",
-   "title": "Why Am I Still Programming",
-   "url": "https://www.youtube.com/watch?v=pOAj3mor8y8",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T13:28:42.300Z",
-   "score": 24,
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "470923ae6920",
-   "title": "We are all Product Engineers now",
-   "url": "https://seldo.com/posts/we-are-all-product-engineers-now/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T10:52:45.255Z",
-   "score": 15,
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "c9d91dd49f64",
-   "title": "I wish you the best in the Offline",
-   "url": "https://daverupert.com/2026/09/i-wish-you-the-best-in-the-offline/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T16:39:55.673Z",
-   "score": 59,
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "b8462b297bf7",
-   "title": "There are only twelve 4x4 sudokus - and a cool trick for finding minimal subsets",
-   "url": "https://baldino.dev/blog/there-are-only-twelve-4x4-sudokus/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T15:00:16.981Z",
-   "score": 10,
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "8586a4842ac1",
-   "title": "What are you doing this week?",
-   "url": "https://lobste.rs/s/0inlyw/what_are_you_doing_this_week",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T07:47:47.767Z",
-   "score": 11,
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "296d33defd03",
-   "title": "How Fyxer built an AI executive assistant people trust",
-   "url": "https://openai.com/index/fyxer",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-14T12:00:00.000Z",
-   "firstSeenAt": "2026-09-14T23:44:09.646Z"
-  },
-  {
-   "id": "9cc347bcfd80",
-   "title": "Apple's Dimensional Drawings",
-   "url": "https://developer.apple.com/accessories/dimensional-drawings/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T00:11:21.000Z",
-   "hn": {
-    "id": "49690174",
-    "points": 405,
-    "comments": 131
-   },
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "4827a6903f84",
-   "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-   "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T21:47:04.000Z",
-   "hn": {
-    "id": "49689048",
-    "points": 387,
-    "comments": 206
-   },
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "0fa77dcd1de2",
-   "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-   "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T21:06:13.000Z",
-   "hn": {
-    "id": "49688695",
-    "points": 1196,
-    "comments": 563
-   },
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "351b0e630c64",
-   "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-   "url": "https://twitter.com/TechEmails/status/2099214399840059428",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T20:08:45.000Z",
-   "hn": {
-    "id": "49688157",
-    "points": 310,
-    "comments": 145
-   },
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "4e3f293e3094",
-   "title": "David Sacks: OpenAI and Anthropic Don't Need Regulations to Pace Frontier Models",
-   "url": "https://twitter.com/DavidSacks/status/2098973625252708460",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T16:52:33.000Z",
-   "hn": {
-    "id": "49685991",
-    "points": 325,
-    "comments": 258
-   },
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "ed60bc70cf72",
-   "title": "Data collected by cars and sold to third parties",
-   "url": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T13:45:08.000Z",
-   "hn": {
-    "id": "49683953",
-    "points": 466,
-    "comments": 244
-   },
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "1da5354014d8",
-   "title": "An open letter to Dario: if you mean it, open the weights",
-   "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-12T19:15:32.000Z",
-   "hn": {
-    "id": "49676085",
-    "points": 302,
-    "comments": 98
-   },
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "2f61b197bc53",
-   "title": "The case against JPEG XL",
-   "url": "https://giannirosato.com/blog/post/case-against-jxl",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T01:18:11.130Z",
-   "score": 62,
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "797de290dec6",
-   "title": "Anecdotally, programmers dislike \"reduce\"",
-   "url": "https://evanhahn.com/posts/2026-09-13-programmers-dislike-reduce/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T23:59:05.562Z",
-   "score": 98,
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "6a7a5694b523",
-   "title": "Mergiraf: A syntax-aware git merge driver for a growing collection of programming languages and file formats",
-   "url": "https://codeberg.org/mergiraf/mergiraf",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T11:16:14.338Z",
-   "score": 54,
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "d92d5e5b1725",
-   "title": "Writing a Guix service from scratch, as a beginner",
-   "url": "https://aloysberger.com/posts/writing-a-guix-service-from-scratch-as-a-beginner.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T23:24:10.765Z",
-   "score": 35,
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "0985bd40d7f5",
-   "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260910-00/?p=112689",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T03:34:33.147Z",
-   "score": 74,
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "e58d93dd5c72",
-   "title": "Purely Functional Operating Systems",
-   "url": "https://eighty-twenty.org/2022/06/23/henderson-functional-operating-systems-1982",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T00:03:38.791Z",
-   "score": 35,
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "846b8f1cb486",
-   "title": "This PCB is brought to you by Fable 5",
-   "url": "https://a6mzero.com/posts/this-pcb-is-brought-to-you-by-fable-5/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-13T18:00:25.852Z",
-   "score": 14,
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "d6dce00fbe66",
-   "title": "[$] Lessons learned as the Debian Project Leader",
-   "url": "https://lwn.net/Articles/1093381/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-14T15:34:44.000Z",
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
-  },
-  {
-   "id": "c99eb2137d4b",
-   "title": "Query plan rewriting in PostgreSQL",
-   "url": "http://notes.eatonphil.com/2026-09-13-query-plan-rewriting-in-postgresql.html",
-   "sources": [
-    "Phil Eaton"
-   ],
-   "publishedAt": "2026-09-13T00:00:00.000Z",
-   "firstSeenAt": "2026-09-14T15:51:11.161Z"
   }
  ]
 }
