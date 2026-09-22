@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T23:55:38.804Z",
+ "generatedAt": "2026-09-22T13:59:35.338Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -30,10 +30,10 @@
    "publishedAt": "2026-09-21T14:26:56.000Z",
    "hn": {
     "id": "49787726",
-    "points": 547,
-    "comments": 158
+    "points": 923,
+    "comments": 274
    },
-   "score": 15,
+   "score": 34,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -45,12 +45,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-09-21T07:14:39.869Z",
-   "score": 99,
+   "score": 114,
    "firstSeenAt": "2026-09-21T15:51:05.987Z",
    "hn": {
     "id": "49787436",
-    "points": 480,
-    "comments": 264
+    "points": 630,
+    "comments": 361
    }
   },
   {
@@ -64,8 +64,8 @@
    "publishedAt": "2026-09-20T15:18:44.000Z",
    "hn": {
     "id": "49776729",
-    "points": 749,
-    "comments": 388
+    "points": 757,
+    "comments": 390
    },
    "score": 61,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
@@ -103,6 +103,18 @@
    },
    "score": 70,
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
+  },
+  {
+   "id": "06bf1785277c",
+   "title": "[$] Looking forward to Git 2.56 — and 3.0",
+   "url": "https://lwn.net/Articles/1094575/",
+   "sources": [
+    "LWN",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-18T14:14:09.000Z",
+   "firstSeenAt": "2026-09-18T23:07:35.851Z",
+   "score": 35
   },
   {
    "id": "39b208522bb5",
@@ -281,6 +293,259 @@
    "score": 25
   },
   {
+   "id": "d722cbd50ef7",
+   "title": "I said no and Apple said yes",
+   "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T08:04:55.000Z",
+   "hn": {
+    "id": "49797982",
+    "points": 453,
+    "comments": 364
+   },
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "7e4a7495b36e",
+   "title": "Spymarks, Not Watermarks",
+   "url": "https://brand.io/article/spymarks/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T23:03:49.000Z",
+   "hn": {
+    "id": "49794615",
+    "points": 553,
+    "comments": 133
+   },
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "36d08d7343d1",
+   "title": "I don't want to read what you didn't write",
+   "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T22:30:41.000Z",
+   "hn": {
+    "id": "49794330",
+    "points": 823,
+    "comments": 345
+   },
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "196e695124f1",
+   "title": "Transformers Explained Visually",
+   "url": "https://poloclub.github.io/transformer-explainer/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T19:43:49.000Z",
+   "hn": {
+    "id": "49792342",
+    "points": 504,
+    "comments": 77
+   },
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "6eeee8641709",
+   "title": "NASA’s Mars Sample Return mission is dead",
+   "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T19:14:12.000Z",
+   "hn": {
+    "id": "49791939",
+    "points": 423,
+    "comments": 345
+   },
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "971e342da5bd",
+   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+   "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T17:30:21.000Z",
+   "hn": {
+    "id": "49790409",
+    "points": 326,
+    "comments": 206
+   },
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "83e4a4662a72",
+   "title": "Named and Optional Arguments are Awesome",
+   "url": "https://botahamec.dev/named-optional-args",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T21:16:53.226Z",
+   "score": 45,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "b044bb6feb97",
+   "title": "Arguing about arguments",
+   "url": "https://steveklabnik.com/writing/arguing-about-arguments/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T04:29:12.182Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "92635b8f2fbf",
+   "title": "Fearless SIMD v1.0 is here",
+   "url": "https://linebender.org/blog/fearless-simd-1-0/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T12:10:21.859Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "98fdf8f4a563",
+   "title": "Why 0xCAFEBABE?",
+   "url": "https://www.artima.com/insidejvm/whyCAFEBABE.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T00:05:45.764Z",
+   "score": 26,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "46ca49c50227",
+   "title": "evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",
+   "url": "https://code.irenes.space/evocation/tree/README.txt",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T21:51:56.741Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "42672a608b82",
+   "title": "Design your programming languages right (2024)",
+   "url": "https://blog.veritates.love/design-it-right",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T05:21:15.888Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "17da634d5a52",
+   "title": "Ju! Ju! Tsu",
+   "url": "https://arialdo.codeberg.page/ju-ju-tsu/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T20:59:09.005Z",
+   "score": 23,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "6a89ef1845a3",
+   "title": "What are you doing this week?",
+   "url": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-21T12:30:37.334Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "24e6ac3a6bd4",
+   "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+   "url": "https://huggingface.co/papers/2609.24972",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-20T20:00:00.000Z",
+   "score": 126,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "78c87b578b72",
+   "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+   "url": "https://huggingface.co/papers/2609.24984",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-20T20:00:00.000Z",
+   "score": 98,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "a16d1c8f08d2",
+   "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+   "url": "https://huggingface.co/papers/2609.25001",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-20T20:00:00.000Z",
+   "score": 81,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "ae5d092ad2f8",
+   "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
+   "url": "https://huggingface.co/papers/2609.24220",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-20T20:00:00.000Z",
+   "score": 42,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "771423240a19",
+   "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+   "url": "https://huggingface.co/papers/2609.24997",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-20T20:00:00.000Z",
+   "score": 26,
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "b7ce14e363bb",
+   "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
+   "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-09-22T13:37:45.000Z",
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
+   "id": "66e8a8962096",
+   "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
+   "url": "https://blog.cloudflare.com/worker-previews/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-22T13:00:00.000Z",
+   "firstSeenAt": "2026-09-22T13:59:35.338Z"
+  },
+  {
    "id": "65539846fc8f",
    "title": "Xiaomi MiMo v2.6",
    "url": "https://mimo.xiaomi.com/mimo-v2-6",
@@ -290,8 +555,8 @@
    "publishedAt": "2026-09-21T20:12:12.000Z",
    "hn": {
     "id": "49792730",
-    "points": 438,
-    "comments": 217
+    "points": 978,
+    "comments": 443
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -305,8 +570,8 @@
    "publishedAt": "2026-09-21T16:13:57.000Z",
    "hn": {
     "id": "49789224",
-    "points": 338,
-    "comments": 233
+    "points": 401,
+    "comments": 283
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -320,8 +585,8 @@
    "publishedAt": "2026-09-21T15:50:15.000Z",
    "hn": {
     "id": "49788838",
-    "points": 469,
-    "comments": 384
+    "points": 584,
+    "comments": 496
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -335,8 +600,8 @@
    "publishedAt": "2026-09-21T10:27:50.000Z",
    "hn": {
     "id": "49785397",
-    "points": 361,
-    "comments": 332
+    "points": 392,
+    "comments": 343
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -350,8 +615,8 @@
    "publishedAt": "2026-09-21T07:11:55.000Z",
    "hn": {
     "id": "49783999",
-    "points": 396,
-    "comments": 175
+    "points": 443,
+    "comments": 197
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -365,8 +630,8 @@
    "publishedAt": "2026-09-21T05:55:22.000Z",
    "hn": {
     "id": "49783495",
-    "points": 359,
-    "comments": 93
+    "points": 370,
+    "comments": 97
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -380,8 +645,8 @@
    "publishedAt": "2026-09-20T19:44:40.000Z",
    "hn": {
     "id": "49779329",
-    "points": 317,
-    "comments": 306
+    "points": 325,
+    "comments": 324
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -395,7 +660,7 @@
    "publishedAt": "2026-09-20T16:41:46.000Z",
    "hn": {
     "id": "49777467",
-    "points": 328,
+    "points": 332,
     "comments": 223
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
@@ -408,7 +673,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T17:53:28.062Z",
-   "score": 13,
+   "score": 42,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -419,7 +684,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T14:28:38.597Z",
-   "score": 28,
+   "score": 41,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -430,7 +695,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T18:02:53.927Z",
-   "score": 13,
+   "score": 30,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -441,7 +706,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T14:44:12.725Z",
-   "score": 13,
+   "score": 14,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -452,7 +717,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T14:27:08.869Z",
-   "score": 11,
+   "score": 13,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -463,7 +728,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T17:01:35.726Z",
-   "score": 16,
+   "score": 25,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -485,7 +750,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T16:02:54.229Z",
-   "score": 10,
+   "score": 19,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -559,8 +824,8 @@
    "publishedAt": "2026-09-21T10:33:14.000Z",
    "hn": {
     "id": "49785429",
-    "points": 588,
-    "comments": 3
+    "points": 599,
+    "comments": 4
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -574,8 +839,8 @@
    "publishedAt": "2026-09-21T07:55:28.000Z",
    "hn": {
     "id": "49784336",
-    "points": 484,
-    "comments": 341
+    "points": 499,
+    "comments": 354
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -589,8 +854,8 @@
    "publishedAt": "2026-09-20T22:35:49.000Z",
    "hn": {
     "id": "49780820",
-    "points": 673,
-    "comments": 504
+    "points": 703,
+    "comments": 552
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -604,8 +869,8 @@
    "publishedAt": "2026-09-20T22:32:43.000Z",
    "hn": {
     "id": "49780797",
-    "points": 628,
-    "comments": 288
+    "points": 648,
+    "comments": 295
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -619,8 +884,8 @@
    "publishedAt": "2026-09-20T22:13:46.000Z",
    "hn": {
     "id": "49780630",
-    "points": 489,
-    "comments": 364
+    "points": 497,
+    "comments": 369
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -634,8 +899,8 @@
    "publishedAt": "2026-09-20T17:38:50.000Z",
    "hn": {
     "id": "49778029",
-    "points": 546,
-    "comments": 441
+    "points": 553,
+    "comments": 453
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -662,7 +927,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T11:24:46.585Z",
-   "score": 27,
+   "score": 30,
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
   {
@@ -673,7 +938,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T11:42:15.164Z",
-   "score": 22,
+   "score": 26,
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
   {
@@ -770,8 +1035,8 @@
    "publishedAt": "2026-09-20T15:16:07.000Z",
    "hn": {
     "id": "49776699",
-    "points": 546,
-    "comments": 144
+    "points": 551,
+    "comments": 146
    },
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
@@ -1477,16 +1742,6 @@
     "Anthropic"
    ],
    "publishedAt": "2026-09-18T00:00:00.000Z",
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "06bf1785277c",
-   "title": "[$] Looking forward to Git 2.56 — and 3.0",
-   "url": "https://lwn.net/Articles/1094575/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-18T14:14:09.000Z",
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
   },
   {
