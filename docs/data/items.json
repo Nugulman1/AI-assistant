@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T13:59:35.338Z",
+ "generatedAt": "2026-09-22T23:32:05.423Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -20,6 +20,39 @@
    "score": 32
   },
   {
+   "id": "3d48e529ad7a",
+   "title": "GPT-6 Sol and Luna",
+   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "sources": [
+    "Hacker News",
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-22T18:00:00.000Z",
+   "hn": {
+    "id": "49805509",
+    "points": 1049,
+    "comments": 548
+   },
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "e051d8454776",
+   "title": "AI Has No Wisdom and Neither Will You",
+   "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T11:55:39.143Z",
+   "hn": {
+    "id": "49799965",
+    "points": 363,
+    "comments": 508
+   },
+   "score": 24,
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
    "id": "dfd00f6ab151",
    "title": "Attention is all you have",
    "url": "https://alicegg.tech/2026/09/21/attention",
@@ -30,8 +63,8 @@
    "publishedAt": "2026-09-21T14:26:56.000Z",
    "hn": {
     "id": "49787726",
-    "points": 923,
-    "comments": 274
+    "points": 1033,
+    "comments": 315
    },
    "score": 34,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
@@ -45,12 +78,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-09-21T07:14:39.869Z",
-   "score": 114,
+   "score": 116,
    "firstSeenAt": "2026-09-21T15:51:05.987Z",
    "hn": {
     "id": "49787436",
-    "points": 630,
-    "comments": 361
+    "points": 674,
+    "comments": 388
    }
   },
   {
@@ -114,7 +147,7 @@
    ],
    "publishedAt": "2026-09-18T14:14:09.000Z",
    "firstSeenAt": "2026-09-18T23:07:35.851Z",
-   "score": 35
+   "score": 71
   },
   {
    "id": "39b208522bb5",
@@ -259,38 +292,198 @@
    "score": 49
   },
   {
-   "id": "ac082bb1f4a5",
-   "title": "Small Programming Tricks",
-   "url": "https://will-keleher.com/posts/small-programming-tricks-matter/",
+   "id": "245d063e08eb",
+   "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-15T20:50:57.381Z",
-   "score": 59,
-   "firstSeenAt": "2026-09-15T23:27:29.595Z",
+   "publishedAt": "2026-09-22T19:03:38.000Z",
    "hn": {
-    "id": "49729000",
-    "points": 656,
-    "comments": 287
-   }
+    "id": "49806430",
+    "points": 339,
+    "comments": 174
+   },
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
-   "id": "642a1494ec3f",
-   "title": "Introducing System One Models and Jev",
-   "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+   "id": "0c90c73c08cf",
+   "title": "Claude Opus 5.5",
+   "url": "https://www.anthropic.com/claude-opus-5-5",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T16:29:05.000Z",
+   "hn": {
+    "id": "49803892",
+    "points": 1085,
+    "comments": 763
+   },
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "400c8e1fb368",
+   "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+   "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T14:30:12.000Z",
+   "hn": {
+    "id": "49801939",
+    "points": 572,
+    "comments": 432
+   },
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "0f1ff99a4515",
+   "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+   "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T13:52:15.000Z",
+   "hn": {
+    "id": "49801324",
+    "points": 533,
+    "comments": 354
+   },
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "66deb2c0d677",
+   "title": "Can gzip be a language model?",
+   "url": "https://nathan.rs/posts/gzip-lm/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T06:08:39.000Z",
+   "hn": {
+    "id": "49797323",
+    "points": 368,
+    "comments": 144
+   },
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "015dbc4f8268",
+   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+   "url": "https://linear.app/now/ci-bottleneck-reworked",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-21T19:23:33.000Z",
+   "hn": {
+    "id": "49792067",
+    "points": 308,
+    "comments": 381
+   },
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "6aed06146460",
+   "title": "Plain-text files are at risk",
+   "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-15T19:25:03.000Z",
-   "hn": {
-    "id": "49717558",
-    "points": 1837,
-    "comments": 482
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z",
-   "score": 25
+   "publishedAt": "2026-09-22T17:14:56.329Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "f1d7c2ca7ae3",
+   "title": "That About Wraps It Up for Stock Mac UI",
+   "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T19:29:53.840Z",
+   "score": 17,
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "3c64bb95b237",
+   "title": "tokens too cheap to meter",
+   "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T16:28:45.312Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "8ce57850a3fe",
+   "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
+   "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T08:20:19.656Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "b6b1e4118cdb",
+   "title": "Better prompt caching for GPT-6",
+   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-22T21:00:00.000Z",
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "ce45d8dc0f6c",
+   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-22T12:00:00.000Z",
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "b4fb82cc1313",
+   "title": "Priorities and principles for effective third party assessments",
+   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-22T00:00:00.000Z",
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "3894b4a8e426",
+   "title": "[$] Compiling the kernel with gccrs",
+   "url": "https://lwn.net/Articles/1095553/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-22T15:27:35.000Z",
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "0c9c25568aa0",
+   "title": "We just shipped support for the ugliest part of HTTP: Vary",
+   "url": "https://blog.cloudflare.com/vary-support/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-22T14:04:31.000Z",
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
+  },
+  {
+   "id": "a1905b81ace1",
+   "title": "How will AI change operating systems? Part 2: Windows",
+   "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-09-22T17:17:31.000Z",
+   "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
    "id": "d722cbd50ef7",
@@ -302,8 +495,8 @@
    "publishedAt": "2026-09-22T08:04:55.000Z",
    "hn": {
     "id": "49797982",
-    "points": 453,
-    "comments": 364
+    "points": 780,
+    "comments": 641
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -317,8 +510,8 @@
    "publishedAt": "2026-09-21T23:03:49.000Z",
    "hn": {
     "id": "49794615",
-    "points": 553,
-    "comments": 133
+    "points": 645,
+    "comments": 160
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -332,8 +525,8 @@
    "publishedAt": "2026-09-21T22:30:41.000Z",
    "hn": {
     "id": "49794330",
-    "points": 823,
-    "comments": 345
+    "points": 985,
+    "comments": 419
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -347,8 +540,8 @@
    "publishedAt": "2026-09-21T19:43:49.000Z",
    "hn": {
     "id": "49792342",
-    "points": 504,
-    "comments": 77
+    "points": 593,
+    "comments": 87
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -362,8 +555,8 @@
    "publishedAt": "2026-09-21T19:14:12.000Z",
    "hn": {
     "id": "49791939",
-    "points": 423,
-    "comments": 345
+    "points": 445,
+    "comments": 374
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -377,8 +570,8 @@
    "publishedAt": "2026-09-21T17:30:21.000Z",
    "hn": {
     "id": "49790409",
-    "points": 326,
-    "comments": 206
+    "points": 340,
+    "comments": 219
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -390,7 +583,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T21:16:53.226Z",
-   "score": 45,
+   "score": 58,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -401,7 +594,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T04:29:12.182Z",
-   "score": 18,
+   "score": 46,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -412,7 +605,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T12:10:21.859Z",
-   "score": 11,
+   "score": 46,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -423,7 +616,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T00:05:45.764Z",
-   "score": 26,
+   "score": 39,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -445,7 +638,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T05:21:15.888Z",
-   "score": 11,
+   "score": 23,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -456,7 +649,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T20:59:09.005Z",
-   "score": 23,
+   "score": 36,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -555,8 +748,8 @@
    "publishedAt": "2026-09-21T20:12:12.000Z",
    "hn": {
     "id": "49792730",
-    "points": 978,
-    "comments": 443
+    "points": 1090,
+    "comments": 470
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -570,8 +763,8 @@
    "publishedAt": "2026-09-21T16:13:57.000Z",
    "hn": {
     "id": "49789224",
-    "points": 401,
-    "comments": 283
+    "points": 417,
+    "comments": 290
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -585,8 +778,8 @@
    "publishedAt": "2026-09-21T15:50:15.000Z",
    "hn": {
     "id": "49788838",
-    "points": 584,
-    "comments": 496
+    "points": 597,
+    "comments": 516
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -600,8 +793,8 @@
    "publishedAt": "2026-09-21T10:27:50.000Z",
    "hn": {
     "id": "49785397",
-    "points": 392,
-    "comments": 343
+    "points": 397,
+    "comments": 347
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -615,8 +808,8 @@
    "publishedAt": "2026-09-21T07:11:55.000Z",
    "hn": {
     "id": "49783999",
-    "points": 443,
-    "comments": 197
+    "points": 452,
+    "comments": 199
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -630,8 +823,8 @@
    "publishedAt": "2026-09-21T05:55:22.000Z",
    "hn": {
     "id": "49783495",
-    "points": 370,
-    "comments": 97
+    "points": 374,
+    "comments": 98
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -673,7 +866,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T17:53:28.062Z",
-   "score": 42,
+   "score": 54,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -684,7 +877,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T14:28:38.597Z",
-   "score": 41,
+   "score": 48,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -695,7 +888,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T18:02:53.927Z",
-   "score": 30,
+   "score": 41,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -824,8 +1017,8 @@
    "publishedAt": "2026-09-21T10:33:14.000Z",
    "hn": {
     "id": "49785429",
-    "points": 599,
-    "comments": 4
+    "points": 605,
+    "comments": 6
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -839,8 +1032,8 @@
    "publishedAt": "2026-09-21T07:55:28.000Z",
    "hn": {
     "id": "49784336",
-    "points": 499,
-    "comments": 354
+    "points": 505,
+    "comments": 365
    },
    "firstSeenAt": "2026-09-21T15:51:05.987Z"
   },
@@ -2836,471 +3029,6 @@
    ],
    "publishedAt": "2026-09-16T13:00:00.000Z",
    "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "96d0250dcbd8",
-   "title": "An Update on Wayback Machine Access",
-   "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T17:52:18.000Z",
-   "hn": {
-    "id": "49716176",
-    "points": 670,
-    "comments": 354
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "2ad85f458f57",
-   "title": "Java 27",
-   "url": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T13:13:43.000Z",
-   "hn": {
-    "id": "49712041",
-    "points": 342,
-    "comments": 408
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "4e7ba9f5f04b",
-   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-   "url": "https://github.com/arnegiacomo/fugleramme",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T12:31:10.000Z",
-   "hn": {
-    "id": "49711544",
-    "points": 2043,
-    "comments": 236
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "d7845e38c425",
-   "title": "25 years of mass surveillance is enough",
-   "url": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T11:26:48.000Z",
-   "hn": {
-    "id": "49710883",
-    "points": 914,
-    "comments": 338
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "7a7e08b5d834",
-   "title": "Suspected sabotage causes major Netherlands rail disruption",
-   "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T10:22:46.000Z",
-   "hn": {
-    "id": "49710253",
-    "points": 517,
-    "comments": 470
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "4e10364b5ef8",
-   "title": "Linux from Scratch",
-   "url": "https://www.linuxfromscratch.org/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T04:15:23.000Z",
-   "hn": {
-    "id": "49707627",
-    "points": 378,
-    "comments": 111
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "3a790bf32b8f",
-   "title": "US confirms for first time it has deployed space weapons",
-   "url": "https://www.bbc.com/news/articles/ck790xg41ygro",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T03:47:56.000Z",
-   "hn": {
-    "id": "49707473",
-    "points": 472,
-    "comments": 359
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "d6bf55e0212f",
-   "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
-   "url": "https://www.effort.news/irregular",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T21:15:01.000Z",
-   "hn": {
-    "id": "49704132",
-    "points": 641,
-    "comments": 218
-   },
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "3b59aae16d09",
-   "title": "GEFS on OpenBSD: A very early preview",
-   "url": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T17:21:47.861Z",
-   "score": 90,
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "fee1ad50a626",
-   "title": "Converting a $20 4G wireless hotspot into a texting device",
-   "url": "https://bkovac.github.io/modem-thing/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T13:43:30.592Z",
-   "score": 35,
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "922d99079b19",
-   "title": "Stalling installing",
-   "url": "https://adactio.com/journal/22757",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T07:31:11.986Z",
-   "score": 14,
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "2f92a8ca47fb",
-   "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-09-15T17:05:57.000Z",
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "4b2ac32b486c",
-   "title": "[$] Adding BPF to blk-iocost",
-   "url": "https://lwn.net/Articles/1093661/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-15T14:37:30.000Z",
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "8356199c8c98",
-   "title": "Nail the Narrative",
-   "url": "https://martinfowler.com/articles/never-send-slides/nail-your-narrative.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-09-15T15:11:00.000Z",
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "557dcb769a02",
-   "title": "Inside OpenAI’s agentic software factory",
-   "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-09-15T15:41:25.000Z",
-   "firstSeenAt": "2026-09-15T23:27:29.595Z"
-  },
-  {
-   "id": "8410ab28b2f1",
-   "title": "I can't stop thinking about Papua New Guinea",
-   "url": "https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T06:16:24.000Z",
-   "hn": {
-    "id": "49708431",
-    "points": 1114,
-    "comments": 468
-   },
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "03f1b5d44960",
-   "title": "iOS 27, iPadOS 27, and macOS 27",
-   "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T17:50:29.000Z",
-   "hn": {
-    "id": "49701004",
-    "points": 705,
-    "comments": 843
-   },
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "310d4fd0496b",
-   "title": "Pion, an agent designed to run any company autonomously",
-   "url": "https://andonlabs.com/blog/why-we-built-pion",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T17:16:06.000Z",
-   "hn": {
-    "id": "49700477",
-    "points": 485,
-    "comments": 601
-   },
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "31fa1fe3afe5",
-   "title": "Distributed Systems Classics (2017)",
-   "url": "https://nvartolomei.com/dist-sys-classics/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T16:02:01.000Z",
-   "hn": {
-    "id": "49699158",
-    "points": 346,
-    "comments": 74
-   },
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "e6d6db22ece5",
-   "title": "Dario, Please",
-   "url": "https://pop.rdi.sh/dario-please/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T14:50:32.000Z",
-   "hn": {
-    "id": "49697893",
-    "points": 634,
-    "comments": 309
-   },
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "97679bf9705e",
-   "title": "How to write an effective software design document",
-   "url": "https://refactoringenglish.com/excerpts/write-an-effective-design-doc/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T13:00:46.000Z",
-   "hn": {
-    "id": "49696125",
-    "points": 342,
-    "comments": 139
-   },
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "8f9b9f0bfe83",
-   "title": "Nike exits the S&P 100 after 18 years and a $200B market-cap wipeout",
-   "url": "https://fortune.com/2026/09/08/nike-stock-plummets-sp500-market-cap-index/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T02:50:40.000Z",
-   "hn": {
-    "id": "49691343",
-    "points": 312,
-    "comments": 427
-   },
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "97e14b967a5d",
-   "title": "Ask HN: What are you working on? (September 2026)",
-   "url": "https://news.ycombinator.com/item?id=49686380",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-13T17:31:38.000Z",
-   "hn": {
-    "id": "49686380",
-    "points": 347,
-    "comments": 1073
-   },
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "bcb00d56fde8",
-   "title": "\"Do You Still Read the Code?\"",
-   "url": "https://zanlib.dev/blog/do-you-still-read-the-code/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T20:16:07.338Z",
-   "score": 80,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "c7aeac0c4f36",
-   "title": "Coreutils - rejected feature requests",
-   "url": "https://www.gnu.org/software/coreutils/rejected_requests.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T09:06:36.640Z",
-   "score": 63,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "174f77d92568",
-   "title": "CSS-Tricks in Limbo",
-   "url": "https://vale.rocks/micros/20260915-0135",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T09:12:31.945Z",
-   "score": 51,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "1fb92bf26136",
-   "title": "A New Equal-Area Map for Interactive Computer Use (natively zooms to Mercator)",
-   "url": "https://www.benjoffe.com/map",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T22:37:17.715Z",
-   "score": 30,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "022f838bbeea",
-   "title": "GDScript: The Good, Bad, and Ugly Parts",
-   "url": "https://azhdarchid.com/gdscript-good-bad-ugly/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T00:29:04.599Z",
-   "score": 25,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "a5a6bf8b3c5b",
-   "title": "A Nix store is three functions",
-   "url": "https://fzakaria.com/2026/09/11/a-nix-store-is-three-functions",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T04:07:33.586Z",
-   "score": 23,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "f55afdd97887",
-   "title": "A Letter from a Machine Learning Engineer",
-   "url": "https://nemin.hu/llm-letter/index.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-14T17:58:22.527Z",
-   "score": 24,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "cbe4ea34e041",
-   "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
-   "url": "https://huggingface.co/papers/2609.15818",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-13T20:00:00.000Z",
-   "score": 363,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "95dd8edc5511",
-   "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-   "url": "https://huggingface.co/papers/2609.14858",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-13T20:00:00.000Z",
-   "score": 249,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "aafaf45f076d",
-   "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
-   "url": "https://huggingface.co/papers/2609.14973",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-13T20:00:00.000Z",
-   "score": 168,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "7e98109ec1dd",
-   "title": "LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows",
-   "url": "https://huggingface.co/papers/2609.15863",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-13T20:00:00.000Z",
-   "score": 42,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "4dbfeedc8d5a",
-   "title": "RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments",
-   "url": "https://huggingface.co/papers/2609.15364",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-13T20:00:00.000Z",
-   "score": 21,
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "4096ef147cca",
-   "title": "Have it both ways: stay discoverable in search while disallowing AI training",
-   "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-15T13:00:00.000Z",
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
-  },
-  {
-   "id": "e5095a156146",
-   "title": "Give every teammate and agent the right level of access to your Workers",
-   "url": "https://blog.cloudflare.com/workers-granular-authorization/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-15T13:00:00.000Z",
-   "firstSeenAt": "2026-09-15T14:17:22.258Z"
   }
  ]
 }
