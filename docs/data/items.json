@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-22T23:32:05.423Z",
+ "generatedAt": "2026-09-23T14:11:36.283Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -30,8 +30,8 @@
    "publishedAt": "2026-09-22T18:00:00.000Z",
    "hn": {
     "id": "49805509",
-    "points": 1049,
-    "comments": 548
+    "points": 1637,
+    "comments": 787
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -46,8 +46,8 @@
    "publishedAt": "2026-09-22T11:55:39.143Z",
    "hn": {
     "id": "49799965",
-    "points": 363,
-    "comments": 508
+    "points": 381,
+    "comments": 533
    },
    "score": 24,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
@@ -63,8 +63,8 @@
    "publishedAt": "2026-09-21T14:26:56.000Z",
    "hn": {
     "id": "49787726",
-    "points": 1033,
-    "comments": 315
+    "points": 1058,
+    "comments": 324
    },
    "score": 34,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
@@ -147,7 +147,7 @@
    ],
    "publishedAt": "2026-09-18T14:14:09.000Z",
    "firstSeenAt": "2026-09-18T23:07:35.851Z",
-   "score": 71
+   "score": 83
   },
   {
    "id": "39b208522bb5",
@@ -258,38 +258,267 @@
    "score": 13
   },
   {
-   "id": "a07ed46e75cc",
-   "title": "Apple Reference Image: A New Approach for Verified Photography",
-   "url": "https://security.apple.com/blog/apple-reference-image/",
+   "id": "fec080e23669",
+   "title": "Jev in 25 Lines of Python",
+   "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-09-16T02:07:31.000Z",
+   "publishedAt": "2026-09-23T07:26:23.000Z",
    "hn": {
-    "id": "49721322",
-    "points": 524,
-    "comments": 351
+    "id": "49812769",
+    "points": 377,
+    "comments": 127
    },
-   "score": 19,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
-   "id": "b4f808eed5ad",
-   "title": "Why I'm still bearish on LLMs after Navier-Stokes",
-   "url": "https://dank.systems/posts/2026-09-15-ai-bear.html",
+   "id": "0d481db41fd2",
+   "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+   "url": "https://foxscript.org/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T21:00:30.000Z",
+   "hn": {
+    "id": "49808023",
+    "points": 396,
+    "comments": 216
+   },
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "4e69396feb63",
+   "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
+   "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T17:46:02.000Z",
+   "hn": {
+    "id": "49805278",
+    "points": 702,
+    "comments": 510
+   },
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "cdb477377ba3",
+   "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+   "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T16:51:31.000Z",
+   "hn": {
+    "id": "49804316",
+    "points": 315,
+    "comments": 99
+   },
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "5635ba4ca03c",
+   "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
+   "url": "https://mouse.dev/blog/muse-runtime-export/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T15:25:12.000Z",
+   "hn": {
+    "id": "49802871",
+    "points": 319,
+    "comments": 153
+   },
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "18dcc1c8f6f4",
+   "title": "OpenAI is well positioned to fast-follow Jev",
+   "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T14:42:59.000Z",
+   "hn": {
+    "id": "49802161",
+    "points": 302,
+    "comments": 213
+   },
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "31f9f3ae5862",
+   "title": "The GNOME LLM Policy That I Want",
+   "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-15T17:37:12.000Z",
-   "hn": {
-    "id": "49715927",
-    "points": 478,
-    "comments": 631
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z",
-   "score": 49
+   "publishedAt": "2026-09-23T10:28:14.797Z",
+   "score": 21,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "6850e396383a",
+   "title": "No Sloptober",
+   "url": "https://no-sloptober.com/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T21:06:34.391Z",
+   "score": 62,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "e5dd163090c4",
+   "title": "Abandoning Scientific Linux Was a Mistake",
+   "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T09:53:20.473Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "18606ed72436",
+   "title": "How to talk about \"AI\" without adding to the anthropomorphization",
+   "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T21:45:11.788Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "d32e2f74debc",
+   "title": "The GitHub wiki is an anti-pattern",
+   "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T11:48:39.707Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "ad370fb2c4d0",
+   "title": "Jev-powered autocorrection",
+   "url": "https://levmiseri.com/nospace",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T18:55:00.112Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "23bea62dbd55",
+   "title": "Parsing JSON Objects without intermediate ASTs",
+   "url": "https://arthi-chaud.github.io/posts/json-ir/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T04:28:16.369Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "9afbbfda0372",
+   "title": "Serious editors are a commitment (at least for me)",
+   "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T18:50:12.898Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "31d196dd5b2b",
+   "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
+   "url": "https://huggingface.co/papers/2609.25804",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-21T20:00:00.000Z",
+   "score": 88,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "c11a71cae413",
+   "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
+   "url": "https://huggingface.co/papers/2609.26774",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-21T20:00:00.000Z",
+   "score": 19,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "c188af53495e",
+   "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
+   "url": "https://huggingface.co/papers/2609.26796",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-21T20:00:00.000Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "923e973a8e7f",
+   "title": "Recursive self-improvement of AI research agents",
+   "url": "https://huggingface.co/papers/2609.26457",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-21T20:00:00.000Z",
+   "score": 6,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "47c6654446be",
+   "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
+   "url": "https://huggingface.co/papers/2609.26781",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-21T20:00:00.000Z",
+   "score": 5,
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "1d77064cbebb",
+   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T13:00:00.000Z",
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "09a0c6dbf1c6",
+   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T00:00:00.000Z",
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
+  },
+  {
+   "id": "4a34b417a079",
+   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
+   "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-09-22T23:46:41.000Z",
+   "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
    "id": "245d063e08eb",
@@ -301,8 +530,8 @@
    "publishedAt": "2026-09-22T19:03:38.000Z",
    "hn": {
     "id": "49806430",
-    "points": 339,
-    "comments": 174
+    "points": 758,
+    "comments": 384
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -316,8 +545,8 @@
    "publishedAt": "2026-09-22T16:29:05.000Z",
    "hn": {
     "id": "49803892",
-    "points": 1085,
-    "comments": 763
+    "points": 1647,
+    "comments": 1004
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -331,8 +560,8 @@
    "publishedAt": "2026-09-22T14:30:12.000Z",
    "hn": {
     "id": "49801939",
-    "points": 572,
-    "comments": 432
+    "points": 750,
+    "comments": 553
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -346,8 +575,8 @@
    "publishedAt": "2026-09-22T13:52:15.000Z",
    "hn": {
     "id": "49801324",
-    "points": 533,
-    "comments": 354
+    "points": 698,
+    "comments": 410
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -361,8 +590,8 @@
    "publishedAt": "2026-09-22T06:08:39.000Z",
    "hn": {
     "id": "49797323",
-    "points": 368,
-    "comments": 144
+    "points": 395,
+    "comments": 154
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -376,8 +605,8 @@
    "publishedAt": "2026-09-21T19:23:33.000Z",
    "hn": {
     "id": "49792067",
-    "points": 308,
-    "comments": 381
+    "points": 311,
+    "comments": 396
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -389,7 +618,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T17:14:56.329Z",
-   "score": 12,
+   "score": 31,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
@@ -400,7 +629,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T19:29:53.840Z",
-   "score": 17,
+   "score": 42,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
@@ -411,7 +640,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T16:28:45.312Z",
-   "score": 11,
+   "score": 24,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
@@ -422,7 +651,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T08:20:19.656Z",
-   "score": 14,
+   "score": 26,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
@@ -495,8 +724,8 @@
    "publishedAt": "2026-09-22T08:04:55.000Z",
    "hn": {
     "id": "49797982",
-    "points": 780,
-    "comments": 641
+    "points": 838,
+    "comments": 679
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -510,8 +739,8 @@
    "publishedAt": "2026-09-21T23:03:49.000Z",
    "hn": {
     "id": "49794615",
-    "points": 645,
-    "comments": 160
+    "points": 669,
+    "comments": 165
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -525,8 +754,8 @@
    "publishedAt": "2026-09-21T22:30:41.000Z",
    "hn": {
     "id": "49794330",
-    "points": 985,
-    "comments": 419
+    "points": 1026,
+    "comments": 448
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -540,8 +769,8 @@
    "publishedAt": "2026-09-21T19:43:49.000Z",
    "hn": {
     "id": "49792342",
-    "points": 593,
-    "comments": 87
+    "points": 620,
+    "comments": 88
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -555,8 +784,8 @@
    "publishedAt": "2026-09-21T19:14:12.000Z",
    "hn": {
     "id": "49791939",
-    "points": 445,
-    "comments": 374
+    "points": 447,
+    "comments": 384
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -570,8 +799,8 @@
    "publishedAt": "2026-09-21T17:30:21.000Z",
    "hn": {
     "id": "49790409",
-    "points": 340,
-    "comments": 219
+    "points": 345,
+    "comments": 222
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -594,7 +823,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T04:29:12.182Z",
-   "score": 46,
+   "score": 54,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -605,7 +834,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T12:10:21.859Z",
-   "score": 46,
+   "score": 60,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -638,7 +867,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T05:21:15.888Z",
-   "score": 23,
+   "score": 30,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
@@ -748,8 +977,8 @@
    "publishedAt": "2026-09-21T20:12:12.000Z",
    "hn": {
     "id": "49792730",
-    "points": 1090,
-    "comments": 470
+    "points": 1110,
+    "comments": 475
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -763,8 +992,8 @@
    "publishedAt": "2026-09-21T16:13:57.000Z",
    "hn": {
     "id": "49789224",
-    "points": 417,
-    "comments": 290
+    "points": 422,
+    "comments": 292
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -778,8 +1007,8 @@
    "publishedAt": "2026-09-21T15:50:15.000Z",
    "hn": {
     "id": "49788838",
-    "points": 597,
-    "comments": 516
+    "points": 603,
+    "comments": 519
    },
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
@@ -866,7 +1095,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-21T17:53:28.062Z",
-   "score": 54,
+   "score": 60,
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
@@ -2734,301 +2963,6 @@
    ],
    "publishedAt": "2026-09-16T20:05:00.000Z",
    "firstSeenAt": "2026-09-16T23:34:48.302Z"
-  },
-  {
-   "id": "4119c90b0ff2",
-   "title": "EU chief opens door for Canada to become 'associate member'",
-   "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-16T09:54:05.000Z",
-   "hn": {
-    "id": "49724141",
-    "points": 681,
-    "comments": 877
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "d0b9509c549f",
-   "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
-   "url": "https://codyho.dev/blog/gpu-driver/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T19:30:03.000Z",
-   "hn": {
-    "id": "49717638",
-    "points": 414,
-    "comments": 276
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "685a03460968",
-   "title": "We got admin access to Baseten's production GitHub",
-   "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T18:11:24.000Z",
-   "hn": {
-    "id": "49716476",
-    "points": 322,
-    "comments": 184
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "78ec933d8f3c",
-   "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T17:38:18.000Z",
-   "hn": {
-    "id": "49715947",
-    "points": 485,
-    "comments": 325
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "446415069e07",
-   "title": "Israeli Minister Threatens Filmmakers' Citizenship over Gaza Documentary",
-   "url": "https://www.reutersconnect.com/item/israeli-minister-threatens-filmmakers-citizenship-over-gaza-documentary/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX09XQ1ZNQzQ0NjcxMC1WSURFTw",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T14:52:14.000Z",
-   "hn": {
-    "id": "49713468",
-    "points": 325,
-    "comments": 86
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "a516aa444b42",
-   "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
-   "url": "https://withcapsule.app/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T13:31:40.000Z",
-   "hn": {
-    "id": "49712278",
-    "points": 365,
-    "comments": 156
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "e87e5980f4b2",
-   "title": "Let's make quality the norm again",
-   "url": "https://www.forbrukerradet.no/short-life/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-15T10:00:16.000Z",
-   "hn": {
-    "id": "49710109",
-    "points": 448,
-    "comments": 483
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "0c19917afeab",
-   "title": "Most people prefer traditional architecture",
-   "url": "https://www.worksinprogress.news/p/do-people-prefer-traditional-architecture",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-14T14:30:17.000Z",
-   "hn": {
-    "id": "49697496",
-    "points": 349,
-    "comments": 332
-   },
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "7737bba1b986",
-   "title": "A/I Shuts Down",
-   "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-16T06:05:38.170Z",
-   "score": 163,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "0cbcfb956928",
-   "title": "Ubuntu 26.10 completes transition to Rust-based coreutils",
-   "url": "https://www.omgubuntu.co.uk/2026/09/ubuntu-2610-rust-coreutils-complete",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-16T03:39:05.470Z",
-   "score": 50,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "c1c8df56150f",
-   "title": "Some things Veloren does differently",
-   "url": "https://blog.jsbarretto.com/post/veloren",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-16T03:47:55.703Z",
-   "score": 62,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "83da4278b262",
-   "title": "Maintaining the love for coding in the time of AI",
-   "url": "https://blog.nlnetlabs.nl/maintaining-the-love-for-coding-in-the-time-of-ai/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-16T06:31:52.450Z",
-   "score": 28,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "45cfac4d3ffe",
-   "title": "JDK 27 has been released",
-   "url": "https://openjdk.org/projects/jdk/27/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-16T03:17:56.544Z",
-   "score": 36,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "1f5beddd3ef5",
-   "title": "Swift 6.4 Released",
-   "url": "https://www.swift.org/blog/swift-6.4-released/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T18:55:10.632Z",
-   "score": 22,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "9005c448cf68",
-   "title": "How much of F-Droid is LLM generated?",
-   "url": "https://tintotint.eu/whacky-corner/f-droid_slop/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T17:09:13.731Z",
-   "score": 17,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "1da8c45f32a6",
-   "title": "PlayBook: A Programmable Paper Notebook",
-   "url": "https://www.youtube.com/watch?v=GurWDZ8ENpA",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T18:24:41.929Z",
-   "score": 21,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "b934de795cb2",
-   "title": "1Password's AI patching benchmark is misleading",
-   "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T20:03:12.094Z",
-   "score": 12,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "eb2018bd46bc",
-   "title": "Unsizing unsized values",
-   "url": "https://hackmd.io/@WorldSEnder/Hkyqni6Ofl",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-15T23:03:40.886Z",
-   "score": 11,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "334363c328bb",
-   "title": "AI for Games in the Foundation Model Era",
-   "url": "https://huggingface.co/papers/2609.16679",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-14T20:00:00.000Z",
-   "score": 99,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "ead46093c669",
-   "title": "ScienceBuddy: Recursive-in-Recursive Self-Improvement for Interactive Scientific Agents",
-   "url": "https://huggingface.co/papers/2609.17523",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-14T20:00:00.000Z",
-   "score": 17,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "edd8eac8a9d3",
-   "title": "Modality-Autoregressive World-Action Models",
-   "url": "https://huggingface.co/papers/2609.17524",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-14T20:00:00.000Z",
-   "score": 4,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "0d77ddf32c1a",
-   "title": "PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Memory and Fine-Grained Motion Control",
-   "url": "https://huggingface.co/papers/2609.17521",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-14T20:00:00.000Z",
-   "score": 3,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "a0f560a7d2b9",
-   "title": "ImpossibleRubrics: Stress-Testing Generated Rubrics as Reward Signals",
-   "url": "https://huggingface.co/papers/2609.16816",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-14T20:00:00.000Z",
-   "score": 2,
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
-  },
-  {
-   "id": "52752974efc0",
-   "title": "Reimagining advertising with AI",
-   "url": "https://openai.com/index/reimagining-advertising-with-ai",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-16T13:00:00.000Z",
-   "firstSeenAt": "2026-09-16T14:09:30.647Z"
   }
  ]
 }
