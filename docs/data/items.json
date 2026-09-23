@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-23T14:11:36.283Z",
+ "generatedAt": "2026-09-23T23:28:20.459Z",
  "items": [
   {
    "id": "8b3759fdb1e4",
@@ -20,6 +20,51 @@
    "score": 32
   },
   {
+   "id": "f82afb648776",
+   "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+   "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+   "sources": [
+    "Hacker News",
+    "Anthropic"
+   ],
+   "publishedAt": "2026-09-23T00:00:00.000Z",
+   "hn": {
+    "id": "49820134",
+    "points": 414,
+    "comments": 454
+   },
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "5b6b9557cdb4",
+   "title": "SAML: A fractal of bad design",
+   "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-22T18:57:17.000Z",
+   "hn": {
+    "id": "49806335",
+    "points": 339,
+    "comments": 177
+   },
+   "score": 26,
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "5802a0bc714c",
+   "title": "Ideas on modernizing the open-source desktop",
+   "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+   "sources": [
+    "Lobsters",
+    "LWN"
+   ],
+   "publishedAt": "2026-09-23T15:39:30.000Z",
+   "score": 11,
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
    "id": "3d48e529ad7a",
    "title": "GPT-6 Sol and Luna",
    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
@@ -30,8 +75,8 @@
    "publishedAt": "2026-09-22T18:00:00.000Z",
    "hn": {
     "id": "49805509",
-    "points": 1637,
-    "comments": 787
+    "points": 1729,
+    "comments": 821
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -46,8 +91,8 @@
    "publishedAt": "2026-09-22T11:55:39.143Z",
    "hn": {
     "id": "49799965",
-    "points": 381,
-    "comments": 533
+    "points": 383,
+    "comments": 542
    },
    "score": 24,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
@@ -147,7 +192,7 @@
    ],
    "publishedAt": "2026-09-18T14:14:09.000Z",
    "firstSeenAt": "2026-09-18T23:07:35.851Z",
-   "score": 83
+   "score": 85
   },
   {
    "id": "39b208522bb5",
@@ -258,6 +303,277 @@
    "score": 13
   },
   {
+   "id": "5dce497623ae",
+   "title": "Italian parliament votes for return to nuclear energy",
+   "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-23T17:06:16.000Z",
+   "hn": {
+    "id": "49819221",
+    "points": 505,
+    "comments": 326
+   },
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "f8d9a221b9a4",
+   "title": "Fixing the Portobello Police Station Clock",
+   "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-23T15:18:53.000Z",
+   "hn": {
+    "id": "49817469",
+    "points": 364,
+    "comments": 84
+   },
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "f41713034d9d",
+   "title": "I don't want the details",
+   "url": "https://michaelheap.com/i-dont-want-the-details/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-23T13:04:44.000Z",
+   "hn": {
+    "id": "49815466",
+    "points": 336,
+    "comments": 190
+   },
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "a877a4ca2131",
+   "title": "Claude Code reads AGENTS.md only when telemetry is on [fixed]",
+   "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-23T12:15:33.000Z",
+   "hn": {
+    "id": "49814947",
+    "points": 437,
+    "comments": 243
+   },
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "8757fd298232",
+   "title": "Grammarly will send unhinged messages to all your users if you try to cancel",
+   "url": "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-23T04:00:43.000Z",
+   "hn": {
+    "id": "49811484",
+    "points": 348,
+    "comments": 97
+   },
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "dc6c07b74f75",
+   "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
+   "url": "https://grapheneos.social/@GrapheneOS/117299954135808210",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T17:12:51.000Z",
+   "hn": {
+    "id": "49804683",
+    "points": 307,
+    "comments": 138
+   },
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "dba35133f0d7",
+   "title": "What California is learning from solar panels built over irrigation canals",
+   "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-22T03:10:05.000Z",
+   "hn": {
+    "id": "49796379",
+    "points": 357,
+    "comments": 690
+   },
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "b21c2e431747",
+   "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+   "url": "https://radicle.dev/2026/09/23/disclosure-of-vulnerability-in-network-protocol.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T14:34:37.015Z",
+   "score": 73,
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "f11af3db31f4",
+   "title": "I want my mesh networks to be signed, not encrypted",
+   "url": "https://andanti.no/blog/SignedMesh.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T14:39:46.740Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "d0d1850e4e34",
+   "title": "KDE for People",
+   "url": "https://kdeforpeople.com",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T16:08:33.758Z",
+   "score": 60,
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "31e4505dbc9a",
+   "title": "The Zig Journey",
+   "url": "https://kristoff.it/blog/the-zig-journey/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T15:25:52.923Z",
+   "score": 33,
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "80002d460188",
+   "title": "Do not let your type system reason about aliasing in your programming language",
+   "url": "https://futhark-lang.org/blog/2026-09-22-aliasing.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T14:07:23.555Z",
+   "score": 17,
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "a18461d331c6",
+   "title": "Sandboxing with minimal effort",
+   "url": "https://yorickpeterse.com/articles/sandboxing-with-minimal-effort/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-23T05:08:03.825Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "9d02eeb8cef1",
+   "title": "Two years of OpenAI Academy",
+   "url": "https://openai.com/index/two-years-of-openai-academy",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T16:00:00.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "01d4e543c941",
+   "title": "Sam Altman’s remarks at the United Nations Security Council",
+   "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "f7558dc5c9de",
+   "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+   "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "7357353a1f1d",
+   "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+   "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "7cff1964bf19",
+   "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+   "url": "https://openai.com/index/ringg",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T12:00:00.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "1d5a9cc2d950",
+   "title": "Introducing MentalHealthBench",
+   "url": "https://openai.com/index/introducing-mentalhealthbench",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T10:00:00.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "73fafdf6f45f",
+   "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
+   "url": "https://openai.com/index/airbnb-gpt-6-astra",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-23T01:00:00.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "cd8117c6d35f",
+   "title": "Advancing Private AI Compute with secure, server-side memory",
+   "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-09-23T16:00:57.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "914ed32ad555",
+   "title": "Gemini 3.8 text-to-speech says hello",
+   "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-09-23T15:25:14.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
+   "id": "3a35425568c4",
+   "title": "Design Engineering with Maggie Appleton",
+   "url": "https://newsletter.pragmaticengineer.com/p/design-engineering-with-maggie-appleton",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-09-23T17:07:22.000Z",
+   "firstSeenAt": "2026-09-23T23:28:20.459Z"
+  },
+  {
    "id": "fec080e23669",
    "title": "Jev in 25 Lines of Python",
    "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
@@ -267,8 +583,8 @@
    "publishedAt": "2026-09-23T07:26:23.000Z",
    "hn": {
     "id": "49812769",
-    "points": 377,
-    "comments": 127
+    "points": 614,
+    "comments": 194
    },
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
@@ -282,8 +598,8 @@
    "publishedAt": "2026-09-22T21:00:30.000Z",
    "hn": {
     "id": "49808023",
-    "points": 396,
-    "comments": 216
+    "points": 466,
+    "comments": 250
    },
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
@@ -297,8 +613,8 @@
    "publishedAt": "2026-09-22T17:46:02.000Z",
    "hn": {
     "id": "49805278",
-    "points": 702,
-    "comments": 510
+    "points": 785,
+    "comments": 589
    },
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
@@ -312,8 +628,8 @@
    "publishedAt": "2026-09-22T16:51:31.000Z",
    "hn": {
     "id": "49804316",
-    "points": 315,
-    "comments": 99
+    "points": 329,
+    "comments": 103
    },
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
@@ -327,8 +643,8 @@
    "publishedAt": "2026-09-22T15:25:12.000Z",
    "hn": {
     "id": "49802871",
-    "points": 319,
-    "comments": 153
+    "points": 332,
+    "comments": 163
    },
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
@@ -342,8 +658,8 @@
    "publishedAt": "2026-09-22T14:42:59.000Z",
    "hn": {
     "id": "49802161",
-    "points": 302,
-    "comments": 213
+    "points": 314,
+    "comments": 221
    },
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
@@ -355,7 +671,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-23T10:28:14.797Z",
-   "score": 21,
+   "score": 39,
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
@@ -366,7 +682,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T21:06:34.391Z",
-   "score": 62,
+   "score": 79,
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
@@ -377,7 +693,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-23T09:53:20.473Z",
-   "score": 12,
+   "score": 41,
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
@@ -388,7 +704,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T21:45:11.788Z",
-   "score": 20,
+   "score": 23,
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
@@ -399,7 +715,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-23T11:48:39.707Z",
-   "score": 12,
+   "score": 33,
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
@@ -410,7 +726,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T18:55:00.112Z",
-   "score": 11,
+   "score": 12,
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
@@ -421,7 +737,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-23T04:28:16.369Z",
-   "score": 11,
+   "score": 19,
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
   },
   {
@@ -530,8 +846,8 @@
    "publishedAt": "2026-09-22T19:03:38.000Z",
    "hn": {
     "id": "49806430",
-    "points": 758,
-    "comments": 384
+    "points": 886,
+    "comments": 492
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -545,8 +861,8 @@
    "publishedAt": "2026-09-22T16:29:05.000Z",
    "hn": {
     "id": "49803892",
-    "points": 1647,
-    "comments": 1004
+    "points": 1767,
+    "comments": 1075
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -560,8 +876,8 @@
    "publishedAt": "2026-09-22T14:30:12.000Z",
    "hn": {
     "id": "49801939",
-    "points": 750,
-    "comments": 553
+    "points": 783,
+    "comments": 573
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -575,8 +891,8 @@
    "publishedAt": "2026-09-22T13:52:15.000Z",
    "hn": {
     "id": "49801324",
-    "points": 698,
-    "comments": 410
+    "points": 720,
+    "comments": 437
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -590,8 +906,8 @@
    "publishedAt": "2026-09-22T06:08:39.000Z",
    "hn": {
     "id": "49797323",
-    "points": 395,
-    "comments": 154
+    "points": 397,
+    "comments": 159
    },
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
@@ -618,7 +934,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T17:14:56.329Z",
-   "score": 31,
+   "score": 37,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
@@ -629,7 +945,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T19:29:53.840Z",
-   "score": 42,
+   "score": 47,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
@@ -640,7 +956,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T16:28:45.312Z",
-   "score": 24,
+   "score": 30,
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
   },
   {
@@ -724,8 +1040,8 @@
    "publishedAt": "2026-09-22T08:04:55.000Z",
    "hn": {
     "id": "49797982",
-    "points": 838,
-    "comments": 679
+    "points": 854,
+    "comments": 690
    },
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
@@ -834,7 +1150,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-22T12:10:21.859Z",
-   "score": 60,
+   "score": 67,
    "firstSeenAt": "2026-09-22T13:59:35.338Z"
   },
   {
