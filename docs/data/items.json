@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-24T23:47:50.280Z",
+ "generatedAt": "2026-09-25T14:33:09.141Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -15,8 +15,8 @@
    "firstSeenAt": "2026-09-23T23:28:20.459Z",
    "hn": {
     "id": "49825642",
-    "points": 376,
-    "comments": 474
+    "points": 394,
+    "comments": 515
    }
   },
   {
@@ -48,11 +48,28 @@
    "publishedAt": "2026-09-24T15:26:12.000Z",
    "hn": {
     "id": "49831968",
-    "points": 869,
-    "comments": 247
+    "points": 1337,
+    "comments": 385
    },
-   "score": 32,
+   "score": 84,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
+  },
+  {
+   "id": "cf789b4b12a0",
+   "title": "Two-tier encryption in the UK",
+   "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-24T10:39:19.000Z",
+   "hn": {
+    "id": "49828731",
+    "points": 481,
+    "comments": 433
+   },
+   "firstSeenAt": "2026-09-24T23:47:50.280Z",
+   "score": 20
   },
   {
    "id": "f82afb648776",
@@ -65,8 +82,8 @@
    "publishedAt": "2026-09-23T00:00:00.000Z",
    "hn": {
     "id": "49820134",
-    "points": 757,
-    "comments": 780
+    "points": 771,
+    "comments": 788
    },
    "firstSeenAt": "2026-09-23T23:28:20.459Z"
   },
@@ -102,7 +119,7 @@
     "comments": 163
    },
    "firstSeenAt": "2026-09-23T14:11:36.283Z",
-   "score": 35
+   "score": 66
   },
   {
    "id": "3d48e529ad7a",
@@ -252,53 +269,262 @@
    "score": 85
   },
   {
-   "id": "39b208522bb5",
-   "title": "A heap overflow and SSO misconfiguration to compromise OpenAI internal repos",
-   "url": "https://www.hacktron.ai/blog/hacking-openai",
+   "id": "3e486f4c9d38",
+   "title": "Dutch governments builds alternative for Microsoft based on NixOS",
+   "url": "https://www.dawo.community/en/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-25T08:06:49.000Z",
+   "hn": {
+    "id": "49841563",
+    "points": 625,
+    "comments": 353
+   },
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "e3359762ea69",
+   "title": "Opus 5.5 is good at explainer videos",
+   "url": "https://launchvideo.io",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-24T20:28:47.000Z",
+   "hn": {
+    "id": "49836374",
+    "points": 323,
+    "comments": 177
+   },
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "185ddb0abcfc",
+   "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+   "url": "https://github.com/devdotfast/whiteboard",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-24T17:21:36.000Z",
+   "hn": {
+    "id": "49833867",
+    "points": 347,
+    "comments": 125
+   },
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "6e8691490283",
+   "title": "Why is the liver so weirdly regenerative?",
+   "url": "https://dynomight.substack.com/p/liver",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-24T16:23:00.000Z",
+   "hn": {
+    "id": "49832938",
+    "points": 470,
+    "comments": 241
+   },
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "2792cb9bc49e",
+   "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
+   "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-24T12:58:08.000Z",
+   "hn": {
+    "id": "49829960",
+    "points": 301,
+    "comments": 318
+   },
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "47a3af75ac4a",
+   "title": "Toyota is taking the Corolla electric",
+   "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-23T22:37:28.000Z",
+   "hn": {
+    "id": "49823568",
+    "points": 375,
+    "comments": 671
+   },
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "2346b2083d64",
+   "title": "Rails World 2026 Opening Keynote [video]",
+   "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-23T15:33:33.000Z",
+   "hn": {
+    "id": "49817680",
+    "points": 377,
+    "comments": 404
+   },
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "e7c26b192c55",
+   "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
+   "url": "https://greasyfork.org/en/scripts?by=1646191",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-18T02:47:24.000Z",
-   "hn": {
-    "id": "49749656",
-    "points": 483,
-    "comments": 205
-   },
-   "firstSeenAt": "2026-09-18T13:32:42.294Z",
-   "score": 12
+   "publishedAt": "2026-09-25T05:33:53.765Z",
+   "score": 43,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
-   "id": "705ff08b9e85",
-   "title": "jemalloc 5.4.0 release",
-   "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+   "id": "5a411421e2d8",
+   "title": "Goodbye Google",
+   "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
    "sources": [
-    "Lobsters",
-    "Hacker News"
+    "Lobsters"
    ],
-   "publishedAt": "2026-09-17T18:47:39.432Z",
+   "publishedAt": "2026-09-25T05:51:12.558Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "3b5cf2416260",
+   "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
+   "url": "https://inoti.fyi/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T02:50:41.729Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "58c72bf9dab3",
+   "title": "Every package is already installed",
+   "url": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T06:39:43.034Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "63e9a8b375dc",
+   "title": "Grieving the loss of details",
+   "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T11:29:33.807Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "7daab1d949d7",
+   "title": "Paranoia-Sans: A conspiratorial typeface",
+   "url": "https://github.com/flegfleg/Paranoia-Sans",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T08:32:30.543Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "3c79dcfa3b90",
+   "title": "Launching FreeBSD/EC2 desktop AMIs",
+   "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T01:17:51.540Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "f3b93a4d2931",
+   "title": "katamari architecture",
+   "url": "https://nove.dev/blog/katamari-architecture/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-24T18:20:23.168Z",
    "score": 20,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z",
-   "hn": {
-    "id": "49750152",
-    "points": 332,
-    "comments": 94
-   }
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
-   "id": "cf789b4b12a0",
-   "title": "Two-tier encryption in the UK",
-   "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+   "id": "c39d3732b86d",
+   "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+   "url": "https://huggingface.co/papers/2609.29845",
    "sources": [
-    "Hacker News"
+    "HF Papers"
    ],
-   "publishedAt": "2026-09-24T10:39:19.000Z",
-   "hn": {
-    "id": "49828731",
-    "points": 363,
-    "comments": 372
-   },
-   "firstSeenAt": "2026-09-24T23:47:50.280Z"
+   "publishedAt": "2026-09-23T20:00:00.000Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "9c8dbe890382",
+   "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
+   "url": "https://huggingface.co/papers/2609.29362",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-23T20:00:00.000Z",
+   "score": 9,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "48ed5d53175a",
+   "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+   "url": "https://huggingface.co/papers/2609.30221",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-23T20:00:00.000Z",
+   "score": 8,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "00117a8e35ee",
+   "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
+   "url": "https://huggingface.co/papers/2609.29892",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-23T20:00:00.000Z",
+   "score": 8,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "54dbfd49ef77",
+   "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
+   "url": "https://huggingface.co/papers/2609.29444",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-23T20:00:00.000Z",
+   "score": 7,
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
+  },
+  {
+   "id": "b3c4883870e4",
+   "title": "Agents can now set up your website’s security with Turnstile Spin",
+   "url": "https://blog.cloudflare.com/turnstile-spin/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-25T13:00:00.000Z",
+   "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
    "id": "2e8aa166044b",
@@ -310,8 +536,8 @@
    "publishedAt": "2026-09-23T22:53:28.000Z",
    "hn": {
     "id": "49823738",
-    "points": 408,
-    "comments": 57
+    "points": 776,
+    "comments": 102
    },
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
@@ -325,8 +551,8 @@
    "publishedAt": "2026-09-23T22:45:49.000Z",
    "hn": {
     "id": "49823664",
-    "points": 304,
-    "comments": 38
+    "points": 307,
+    "comments": 39
    },
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
@@ -340,8 +566,8 @@
    "publishedAt": "2026-09-23T21:01:48.000Z",
    "hn": {
     "id": "49822555",
-    "points": 301,
-    "comments": 208
+    "points": 307,
+    "comments": 215
    },
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
@@ -355,8 +581,8 @@
    "publishedAt": "2026-09-23T15:05:20.000Z",
    "hn": {
     "id": "49817280",
-    "points": 315,
-    "comments": 157
+    "points": 326,
+    "comments": 165
    },
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
@@ -368,7 +594,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T14:57:57.021Z",
-   "score": 67,
+   "score": 133,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -379,7 +605,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T20:38:32.218Z",
-   "score": 24,
+   "score": 82,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -390,7 +616,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T17:41:35.717Z",
-   "score": 15,
+   "score": 29,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -401,7 +627,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T12:11:25.025Z",
-   "score": 19,
+   "score": 26,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -474,8 +700,8 @@
    "publishedAt": "2026-09-24T08:23:03.000Z",
    "hn": {
     "id": "49827794",
-    "points": 593,
-    "comments": 354
+    "points": 616,
+    "comments": 374
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -489,8 +715,8 @@
    "publishedAt": "2026-09-24T00:41:31.000Z",
    "hn": {
     "id": "49824686",
-    "points": 369,
-    "comments": 408
+    "points": 383,
+    "comments": 430
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -504,8 +730,8 @@
    "publishedAt": "2026-09-23T23:47:56.000Z",
    "hn": {
     "id": "49824268",
-    "points": 478,
-    "comments": 455
+    "points": 484,
+    "comments": 470
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -519,8 +745,8 @@
    "publishedAt": "2026-09-23T22:38:16.000Z",
    "hn": {
     "id": "49823582",
-    "points": 589,
-    "comments": 248
+    "points": 608,
+    "comments": 263
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -534,8 +760,8 @@
    "publishedAt": "2026-09-23T19:55:14.000Z",
    "hn": {
     "id": "49821608",
-    "points": 331,
-    "comments": 178
+    "points": 340,
+    "comments": 185
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -549,8 +775,8 @@
    "publishedAt": "2026-09-23T15:29:23.000Z",
    "hn": {
     "id": "49817615",
-    "points": 326,
-    "comments": 146
+    "points": 329,
+    "comments": 150
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -564,8 +790,8 @@
    "publishedAt": "2026-09-23T15:14:22.000Z",
    "hn": {
     "id": "49817404",
-    "points": 307,
-    "comments": 242
+    "points": 311,
+    "comments": 247
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -592,7 +818,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T04:09:40.357Z",
-   "score": 63,
+   "score": 69,
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
   {
@@ -603,7 +829,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T11:34:43.976Z",
-   "score": 28,
+   "score": 36,
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
   {
@@ -724,8 +950,8 @@
    "publishedAt": "2026-09-23T17:06:16.000Z",
    "hn": {
     "id": "49819221",
-    "points": 872,
-    "comments": 757
+    "points": 892,
+    "comments": 796
    },
    "firstSeenAt": "2026-09-23T23:28:20.459Z"
   },
@@ -739,8 +965,8 @@
    "publishedAt": "2026-09-23T15:18:53.000Z",
    "hn": {
     "id": "49817469",
-    "points": 520,
-    "comments": 113
+    "points": 534,
+    "comments": 115
    },
    "firstSeenAt": "2026-09-23T23:28:20.459Z"
   },
@@ -2867,153 +3093,6 @@
    ],
    "publishedAt": "2026-09-18T00:00:00.000Z",
    "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "5ff94f8b654c",
-   "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-   "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T09:45:07.000Z",
-   "hn": {
-    "id": "49752056",
-    "points": 915,
-    "comments": 812
-   },
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "4a65016fd02f",
-   "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-   "url": "https://prismml.com/news/bonsai-2-27b",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-17T21:13:31.000Z",
-   "hn": {
-    "id": "49746618",
-    "points": 570,
-    "comments": 190
-   },
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "91b1986b6835",
-   "title": "Bend – A language that blocks AI mistakes via proof, on CPU and GPU",
-   "url": "https://bend-lang.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-17T20:36:13.000Z",
-   "hn": {
-    "id": "49746163",
-    "points": 599,
-    "comments": 305
-   },
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "96721dd73996",
-   "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
-   "url": "https://news.ycombinator.com/item?id=49738879",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-17T10:44:49.000Z",
-   "hn": {
-    "id": "49738879",
-    "points": 309,
-    "comments": 264
-   },
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "f1493b4047b7",
-   "title": "What is still exciting in tech?",
-   "url": "https://lobste.rs/s/lcjf7c/what_is_still_exciting_tech",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T08:14:52.256Z",
-   "score": 144,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "fd86329ddacc",
-   "title": "We Must Create the Shit Machine",
-   "url": "https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T00:00:28.770Z",
-   "score": 89,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "67d6a5e6442b",
-   "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
-   "url": "https://huggingface.co/papers/2609.19969",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-16T20:00:00.000Z",
-   "score": 45,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "f27c681e7855",
-   "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
-   "url": "https://huggingface.co/papers/2609.20519",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-16T20:00:00.000Z",
-   "score": 39,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "20f25018a108",
-   "title": "An Empirical Study of Harness Design for Coding Agents",
-   "url": "https://huggingface.co/papers/2609.20804",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-16T20:00:00.000Z",
-   "score": 33,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "7e7ad59df36b",
-   "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
-   "url": "https://huggingface.co/papers/2609.20800",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-16T20:00:00.000Z",
-   "score": 22,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "39b61133dc78",
-   "title": "RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning",
-   "url": "https://huggingface.co/papers/2609.20784",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-16T20:00:00.000Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
-  },
-  {
-   "id": "964ae1dd0fac",
-   "title": "How Cooley is accelerating IPO work with ChatGPT",
-   "url": "https://openai.com/index/cooley-gopublic",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-17T12:00:00.000Z",
-   "firstSeenAt": "2026-09-18T13:32:42.294Z"
   }
  ]
 }
