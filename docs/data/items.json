@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T14:33:09.141Z",
+ "generatedAt": "2026-09-25T23:53:55.833Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -15,27 +15,26 @@
    "firstSeenAt": "2026-09-23T23:28:20.459Z",
    "hn": {
     "id": "49825642",
-    "points": 394,
-    "comments": 515
+    "points": 397,
+    "comments": 523
    }
   },
   {
-   "id": "8b3759fdb1e4",
-   "title": "Saving another 100TB of RAM with math (and Rust)",
-   "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+   "id": "095e27364978",
+   "title": "What About Rails?",
+   "url": "https://jardo.dev/what-about-rails",
    "sources": [
-    "Cloudflare",
     "Hacker News",
     "Lobsters"
    ],
-   "publishedAt": "2026-09-18T17:23:58.000Z",
-   "firstSeenAt": "2026-09-18T23:07:35.851Z",
+   "publishedAt": "2026-09-25T02:50:16.000Z",
    "hn": {
-    "id": "49758580",
-    "points": 471,
-    "comments": 113
+    "id": "49839664",
+    "points": 303,
+    "comments": 197
    },
-   "score": 32
+   "score": 31,
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
    "id": "50c0b912a0ed",
@@ -48,10 +47,10 @@
    "publishedAt": "2026-09-24T15:26:12.000Z",
    "hn": {
     "id": "49831968",
-    "points": 1337,
-    "comments": 385
+    "points": 1435,
+    "comments": 408
    },
-   "score": 84,
+   "score": 94,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -65,8 +64,8 @@
    "publishedAt": "2026-09-24T10:39:19.000Z",
    "hn": {
     "id": "49828731",
-    "points": 481,
-    "comments": 433
+    "points": 500,
+    "comments": 459
    },
    "firstSeenAt": "2026-09-24T23:47:50.280Z",
    "score": 20
@@ -119,7 +118,7 @@
     "comments": 163
    },
    "firstSeenAt": "2026-09-23T14:11:36.283Z",
-   "score": 66
+   "score": 70
   },
   {
    "id": "3d48e529ad7a",
@@ -240,33 +239,124 @@
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
-   "id": "dd042bbde563",
-   "title": "I don't like passkeys",
-   "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+   "id": "5e8bd66ca873",
+   "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+   "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-09-18T12:06:50.000Z",
+   "publishedAt": "2026-09-25T15:29:25.000Z",
    "hn": {
-    "id": "49753211",
-    "points": 818,
-    "comments": 785
+    "id": "49845977",
+    "points": 355,
+    "comments": 660
    },
-   "score": 70,
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
-   "id": "06bf1785277c",
-   "title": "[$] Looking forward to Git 2.56 — and 3.0",
-   "url": "https://lwn.net/Articles/1094575/",
+   "id": "018be5fe2386",
+   "title": "Factorio that you can touch",
+   "url": "https://factorio.com/blog/post/fff-447",
    "sources": [
-    "LWN",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-25T14:24:42.000Z",
+   "hn": {
+    "id": "49845133",
+    "points": 300,
+    "comments": 95
+   },
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
+  },
+  {
+   "id": "e0645c8a9048",
+   "title": "Platform-independent SIMD in Go",
+   "url": "https://go.dev/blog/simd-experiment",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-25T11:47:06.000Z",
+   "hn": {
+    "id": "49843269",
+    "points": 344,
+    "comments": 132
+   },
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
+  },
+  {
+   "id": "a090895ba039",
+   "title": "Commodified Intelligence",
+   "url": "https://herecomesthemoon.net/2026/09/commodified-intelligence/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-18T14:14:09.000Z",
-   "firstSeenAt": "2026-09-18T23:07:35.851Z",
-   "score": 85
+   "publishedAt": "2026-09-25T18:24:29.215Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
+  },
+  {
+   "id": "0bda35ba3b30",
+   "title": "Amiga screens: a primer",
+   "url": "https://www.datagubbe.se/amscr/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T13:01:42.474Z",
+   "score": 25,
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
+  },
+  {
+   "id": "fe0652c2f93d",
+   "title": "This Month in Redox - August 2026",
+   "url": "https://www.redox-os.org/news/this-month-260831/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T15:59:24.612Z",
+   "score": 25,
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
+  },
+  {
+   "id": "0fa7bdf3bbdc",
+   "title": "Who Is Open Source About?",
+   "url": "https://blog.glyph.im/2026/09/who-is-open-source-about.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T10:57:30.238Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
+  },
+  {
+   "id": "26d3191f15a9",
+   "title": "LLM Policies: Progress At All Costs",
+   "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T12:30:36.039Z",
+   "score": 21,
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
+  },
+  {
+   "id": "d2d497e5eee4",
+   "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+   "url": "https://openai.com/index/proaction",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-25T19:00:00.000Z",
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
+  },
+  {
+   "id": "dd9294605b36",
+   "title": "[$] How KDE got funding to add enterprise features",
+   "url": "https://lwn.net/Articles/1096245/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-25T15:59:55.000Z",
+   "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
    "id": "3e486f4c9d38",
@@ -278,8 +368,8 @@
    "publishedAt": "2026-09-25T08:06:49.000Z",
    "hn": {
     "id": "49841563",
-    "points": 625,
-    "comments": 353
+    "points": 922,
+    "comments": 541
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -293,8 +383,8 @@
    "publishedAt": "2026-09-24T20:28:47.000Z",
    "hn": {
     "id": "49836374",
-    "points": 323,
-    "comments": 177
+    "points": 404,
+    "comments": 213
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -308,8 +398,8 @@
    "publishedAt": "2026-09-24T17:21:36.000Z",
    "hn": {
     "id": "49833867",
-    "points": 347,
-    "comments": 125
+    "points": 396,
+    "comments": 129
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -323,8 +413,8 @@
    "publishedAt": "2026-09-24T16:23:00.000Z",
    "hn": {
     "id": "49832938",
-    "points": 470,
-    "comments": 241
+    "points": 548,
+    "comments": 285
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -338,8 +428,8 @@
    "publishedAt": "2026-09-24T12:58:08.000Z",
    "hn": {
     "id": "49829960",
-    "points": 301,
-    "comments": 318
+    "points": 315,
+    "comments": 326
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -381,7 +471,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T05:33:53.765Z",
-   "score": 43,
+   "score": 66,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -392,7 +482,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T05:51:12.558Z",
-   "score": 34,
+   "score": 73,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -403,7 +493,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T02:50:41.729Z",
-   "score": 16,
+   "score": 28,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -414,7 +504,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T06:39:43.034Z",
-   "score": 15,
+   "score": 32,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -425,7 +515,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T11:29:33.807Z",
-   "score": 15,
+   "score": 36,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -594,7 +684,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T14:57:57.021Z",
-   "score": 133,
+   "score": 153,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -605,7 +695,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T20:38:32.218Z",
-   "score": 82,
+   "score": 91,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -700,8 +790,8 @@
    "publishedAt": "2026-09-24T08:23:03.000Z",
    "hn": {
     "id": "49827794",
-    "points": 616,
-    "comments": 374
+    "points": 622,
+    "comments": 377
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -715,8 +805,8 @@
    "publishedAt": "2026-09-24T00:41:31.000Z",
    "hn": {
     "id": "49824686",
-    "points": 383,
-    "comments": 430
+    "points": 387,
+    "comments": 443
    },
    "firstSeenAt": "2026-09-24T14:09:28.961Z"
   },
@@ -2882,217 +2972,6 @@
    ],
    "publishedAt": "2026-09-18T12:00:00.000Z",
    "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "9b0bea9a8f22",
-   "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-   "url": "https://code.claude.com/docs/en/changelog",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T21:00:32.000Z",
-   "hn": {
-    "id": "49760187",
-    "points": 723,
-    "comments": 271
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "1704ec300ffe",
-   "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-   "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T19:03:09.000Z",
-   "hn": {
-    "id": "49758736",
-    "points": 1143,
-    "comments": 687
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "176ec7b3e8f0",
-   "title": "US Military had close call after using AI for hallucinated intelligence report",
-   "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T17:28:01.000Z",
-   "hn": {
-    "id": "49757520",
-    "points": 507,
-    "comments": 387
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "a835970085ad",
-   "title": "Cloudflare Quick Tunnels",
-   "url": "https://try.cloudflare.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T14:18:41.000Z",
-   "hn": {
-    "id": "49754785",
-    "points": 823,
-    "comments": 316
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "d04edd1e5e15",
-   "title": "Bend 2 and the Vibe-Coding Trap",
-   "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T12:03:55.000Z",
-   "hn": {
-    "id": "49753179",
-    "points": 321,
-    "comments": 234
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "1bc9b2646faf",
-   "title": "OpenJev",
-   "url": "https://openjev.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T09:42:22.000Z",
-   "hn": {
-    "id": "49752041",
-    "points": 691,
-    "comments": 284
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "3195ca010f5c",
-   "title": "Qwen 3.8 Omni Flash",
-   "url": "https://qwen.ai/blog?id=qwen3.8-omni-flash",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-17T23:05:48.000Z",
-   "hn": {
-    "id": "49747925",
-    "points": 338,
-    "comments": 135
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "da2138201611",
-   "title": "How to Write with an LLM",
-   "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-17T21:48:38.000Z",
-   "hn": {
-    "id": "49747070",
-    "points": 520,
-    "comments": 345
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "fe87c5b60e22",
-   "title": "AI safety is mostly a sex cult",
-   "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-17T08:36:37.000Z",
-   "hn": {
-    "id": "49737985",
-    "points": 311,
-    "comments": 256
-   },
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "4515f59f0bdc",
-   "title": "Typst makes big strides",
-   "url": "https://lwn.net/Articles/1092993/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T13:14:17.568Z",
-   "score": 113,
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "f9b2b6c5303f",
-   "title": "There's no point at which turning your brain off will work",
-   "url": "https://danluu.com/brain-off/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T17:15:40.357Z",
-   "score": 42,
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "3761ca238e64",
-   "title": "Benchmarking Wild vs Mold",
-   "url": "https://davidlattimore.github.io/posts/2026/09/18/benchmarking-wild-vs-mold.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T15:25:08.333Z",
-   "score": 52,
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "ae723844b6a6",
-   "title": "FAQ: Why isn’t mutable a subtype of immutable, or vice versa?",
-   "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T15:30:01.511Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "1fd7a34ac54d",
-   "title": "The C++20’s u8/char8_t Backward-Compatibility Fiasco",
-   "url": "https://giodicanio.com/2026/09/11/the-c-plus-plus-20-s-u8-char8_t-fiasco/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T09:21:24.744Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "707a19943c54",
-   "title": "Internet Phone Book",
-   "url": "https://internetphonebook.net/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T14:04:44.535Z",
-   "score": 11,
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
-  },
-  {
-   "id": "47b87cc27bae",
-   "title": "Partnering with Accenture on embedded evaluation",
-   "url": "https://www.anthropic.com/news/accenture-embedded-evaluation",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-09-18T00:00:00.000Z",
-   "firstSeenAt": "2026-09-18T23:07:35.851Z"
   }
  ]
 }
