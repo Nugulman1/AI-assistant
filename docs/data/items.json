@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-25T23:53:55.833Z",
+ "generatedAt": "2026-09-26T13:43:03.105Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -30,10 +30,10 @@
    "publishedAt": "2026-09-25T02:50:16.000Z",
    "hn": {
     "id": "49839664",
-    "points": 303,
-    "comments": 197
+    "points": 319,
+    "comments": 218
    },
-   "score": 31,
+   "score": 50,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -47,8 +47,8 @@
    "publishedAt": "2026-09-24T15:26:12.000Z",
    "hn": {
     "id": "49831968",
-    "points": 1435,
-    "comments": 408
+    "points": 1445,
+    "comments": 413
    },
    "score": 94,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
@@ -239,6 +239,110 @@
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
   },
   {
+   "id": "7af26c7f12f1",
+   "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+   "url": "https://swarmtraces.org/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-25T21:09:27.000Z",
+   "hn": {
+    "id": "49849985",
+    "points": 549,
+    "comments": 348
+   },
+   "firstSeenAt": "2026-09-26T13:43:03.105Z"
+  },
+  {
+   "id": "403415989617",
+   "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+   "url": "https://ollaya.dev/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-25T18:33:50.000Z",
+   "hn": {
+    "id": "49848269",
+    "points": 498,
+    "comments": 125
+   },
+   "firstSeenAt": "2026-09-26T13:43:03.105Z"
+  },
+  {
+   "id": "8fc9916b0178",
+   "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
+   "url": "https://github.com/git-bug/git-bug",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-25T11:38:31.000Z",
+   "hn": {
+    "id": "49843174",
+    "points": 341,
+    "comments": 108
+   },
+   "firstSeenAt": "2026-09-26T13:43:03.105Z"
+  },
+  {
+   "id": "4ff7eba120a6",
+   "title": "Plan mode is dead",
+   "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-25T03:59:11.000Z",
+   "hn": {
+    "id": "49840054",
+    "points": 384,
+    "comments": 351
+   },
+   "firstSeenAt": "2026-09-26T13:43:03.105Z"
+  },
+  {
+   "id": "517a6b9e9085",
+   "title": "NetBSD Playing with disklabels",
+   "url": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T02:14:59.759Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-26T13:43:03.105Z"
+  },
+  {
+   "id": "1113e051551f",
+   "title": "We’re gonna need a lot more mathematicians",
+   "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T18:27:05.345Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-26T13:43:03.105Z"
+  },
+  {
+   "id": "53c6959c1870",
+   "title": "How to keep enjoying programming in a world of LLMs",
+   "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T23:22:27.151Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-26T13:43:03.105Z"
+  },
+  {
+   "id": "ce659cea5181",
+   "title": "A Type Stronger than the Sum of its Components",
+   "url": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-25T15:23:16.820Z",
+   "score": 12,
+   "firstSeenAt": "2026-09-26T13:43:03.105Z"
+  },
+  {
    "id": "5e8bd66ca873",
    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
@@ -248,8 +352,8 @@
    "publishedAt": "2026-09-25T15:29:25.000Z",
    "hn": {
     "id": "49845977",
-    "points": 355,
-    "comments": 660
+    "points": 459,
+    "comments": 788
    },
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
@@ -263,8 +367,8 @@
    "publishedAt": "2026-09-25T14:24:42.000Z",
    "hn": {
     "id": "49845133",
-    "points": 300,
-    "comments": 95
+    "points": 339,
+    "comments": 118
    },
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
@@ -278,8 +382,8 @@
    "publishedAt": "2026-09-25T11:47:06.000Z",
    "hn": {
     "id": "49843269",
-    "points": 344,
-    "comments": 132
+    "points": 393,
+    "comments": 145
    },
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
@@ -291,7 +395,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T18:24:29.215Z",
-   "score": 13,
+   "score": 38,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -302,7 +406,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T13:01:42.474Z",
-   "score": 25,
+   "score": 29,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -313,7 +417,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T15:59:24.612Z",
-   "score": 25,
+   "score": 36,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -324,7 +428,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T10:57:30.238Z",
-   "score": 16,
+   "score": 32,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -368,8 +472,8 @@
    "publishedAt": "2026-09-25T08:06:49.000Z",
    "hn": {
     "id": "49841563",
-    "points": 922,
-    "comments": 541
+    "points": 965,
+    "comments": 563
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -383,8 +487,8 @@
    "publishedAt": "2026-09-24T20:28:47.000Z",
    "hn": {
     "id": "49836374",
-    "points": 404,
-    "comments": 213
+    "points": 414,
+    "comments": 217
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -398,8 +502,8 @@
    "publishedAt": "2026-09-24T17:21:36.000Z",
    "hn": {
     "id": "49833867",
-    "points": 396,
-    "comments": 129
+    "points": 403,
+    "comments": 134
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -413,8 +517,8 @@
    "publishedAt": "2026-09-24T16:23:00.000Z",
    "hn": {
     "id": "49832938",
-    "points": 548,
-    "comments": 285
+    "points": 561,
+    "comments": 289
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -471,7 +575,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T05:33:53.765Z",
-   "score": 66,
+   "score": 74,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -482,7 +586,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T05:51:12.558Z",
-   "score": 73,
+   "score": 93,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -493,7 +597,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T02:50:41.729Z",
-   "score": 28,
+   "score": 33,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -504,7 +608,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T06:39:43.034Z",
-   "score": 32,
+   "score": 43,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -515,7 +619,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T11:29:33.807Z",
-   "score": 36,
+   "score": 46,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -684,7 +788,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T14:57:57.021Z",
-   "score": 153,
+   "score": 163,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -695,7 +799,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-24T20:38:32.218Z",
-   "score": 91,
+   "score": 95,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -2854,124 +2958,6 @@
    ],
    "publishedAt": "2026-09-19T00:00:00.000Z",
    "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "643a84217e15",
-   "title": "AI-generated posters don’t have to be horrible",
-   "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-19T09:20:58.000Z",
-   "hn": {
-    "id": "49764791",
-    "points": 1767,
-    "comments": 908
-   },
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "239a0abdd24d",
-   "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-   "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-19T05:48:50.000Z",
-   "hn": {
-    "id": "49763697",
-    "points": 640,
-    "comments": 255
-   },
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "0789abb96b12",
-   "title": "Korea raises data breach fines to 10% of revenue",
-   "url": "https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T20:02:54.000Z",
-   "hn": {
-    "id": "49759466",
-    "points": 331,
-    "comments": 109
-   },
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "bcfece4060eb",
-   "title": "Warren Buffett Steps Down as Berkshire Chairman, Names Son to Replace Him",
-   "url": "https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T11:01:44.000Z",
-   "hn": {
-    "id": "49752614",
-    "points": 311,
-    "comments": 211
-   },
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "be949a9f1568",
-   "title": "Inside ZCode: Silently uploading your Git history to the cloud",
-   "url": "https://blog.ferstar.org/en/posts/zcode-silent-workspace-snapshot-upload/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T06:11:17.000Z",
-   "hn": {
-    "id": "49750694",
-    "points": 326,
-    "comments": 108
-   },
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "478cfbc9bb59",
-   "title": "The scourge of x86 emulation",
-   "url": "https://fex-emu.com/Scourge-of-emulation/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T05:01:05.094Z",
-   "score": 74,
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "8456e632a4ad",
-   "title": "CSS-Tricks could be a co-op",
-   "url": "https://ericwbailey.website/published/css-tricks-could-be-a-co-op/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T22:11:51.364Z",
-   "score": 36,
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "8fd6f24b0f08",
-   "title": "What are you doing this weekend?",
-   "url": "https://lobste.rs/s/e1xglz/what_are_you_doing_this_weekend",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-18T08:15:23.174Z",
-   "score": 21,
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
-  },
-  {
-   "id": "559b0cf11197",
-   "title": "Introducing the Australian Youth Safety Blueprint",
-   "url": "https://openai.com/index/australian-youth-safety-blueprint",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-18T12:00:00.000Z",
-   "firstSeenAt": "2026-09-19T13:02:22.909Z"
   }
  ]
 }
