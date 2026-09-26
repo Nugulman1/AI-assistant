@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-26T13:43:03.105Z",
+ "generatedAt": "2026-09-26T23:25:38.088Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -20,6 +20,23 @@
    }
   },
   {
+   "id": "1113e051551f",
+   "title": "We’re gonna need a lot more mathematicians",
+   "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-25T18:27:05.345Z",
+   "score": 17,
+   "firstSeenAt": "2026-09-26T13:43:03.105Z",
+   "hn": {
+    "id": "49852717",
+    "points": 357,
+    "comments": 460
+   }
+  },
+  {
    "id": "095e27364978",
    "title": "What About Rails?",
    "url": "https://jardo.dev/what-about-rails",
@@ -30,10 +47,10 @@
    "publishedAt": "2026-09-25T02:50:16.000Z",
    "hn": {
     "id": "49839664",
-    "points": 319,
-    "comments": 218
+    "points": 328,
+    "comments": 221
    },
-   "score": 50,
+   "score": 60,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -69,6 +86,23 @@
    },
    "firstSeenAt": "2026-09-24T23:47:50.280Z",
    "score": 20
+  },
+  {
+   "id": "ded6585d0069",
+   "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+   "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-24T14:57:57.021Z",
+   "score": 163,
+   "firstSeenAt": "2026-09-24T23:47:50.280Z",
+   "hn": {
+    "id": "49855315",
+    "points": 624,
+    "comments": 245
+   }
   },
   {
    "id": "f82afb648776",
@@ -222,21 +256,115 @@
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
-   "id": "1fc5f06ab4e0",
-   "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-   "url": "https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio",
+   "id": "cf39f2b97963",
+   "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
+   "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-26T16:12:18.000Z",
+   "hn": {
+    "id": "49857899",
+    "points": 404,
+    "comments": 168
+   },
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
+  },
+  {
+   "id": "9191c8293eea",
+   "title": "Fifteen years later, the Apple Cards origin story",
+   "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-26T09:13:41.000Z",
+   "hn": {
+    "id": "49854693",
+    "points": 326,
+    "comments": 80
+   },
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
+  },
+  {
+   "id": "c70d5e45e6bf",
+   "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+   "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-26T01:36:50.000Z",
+   "hn": {
+    "id": "49852302",
+    "points": 387,
+    "comments": 97
+   },
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
+  },
+  {
+   "id": "8c34c904beaa",
+   "title": "Infecting the Steam Link with NixOS",
+   "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-19T06:41:44.000Z",
-   "hn": {
-    "id": "49763987",
-    "points": 388,
-    "comments": 177
-   },
-   "score": 11,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
+   "publishedAt": "2026-09-26T13:45:59.865Z",
+   "score": 25,
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
+  },
+  {
+   "id": "5c69d58444e5",
+   "title": "If we do not stop to help each other, what do we become?",
+   "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T11:02:48.079Z",
+   "score": 107,
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
+  },
+  {
+   "id": "40e9153a7713",
+   "title": "Go concurrency distilled",
+   "url": "https://antonz.org/go-concurrency-distilled/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T12:14:01.590Z",
+   "score": 28,
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
+  },
+  {
+   "id": "d685d4fb0820",
+   "title": "The state of SIMD in Rust in 2026",
+   "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T08:28:50.571Z",
+   "score": 25,
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
+  },
+  {
+   "id": "3272efa86240",
+   "title": "Suggestion to replace LibreOffice with Collabora as default on Fedora",
+   "url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T09:13:15.170Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
+  },
+  {
+   "id": "8300d4bdc98e",
+   "title": "Keep if clauses side-effect free",
+   "url": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T03:45:44.108Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
   {
    "id": "7af26c7f12f1",
@@ -248,8 +376,8 @@
    "publishedAt": "2026-09-25T21:09:27.000Z",
    "hn": {
     "id": "49849985",
-    "points": 549,
-    "comments": 348
+    "points": 699,
+    "comments": 443
    },
    "firstSeenAt": "2026-09-26T13:43:03.105Z"
   },
@@ -263,8 +391,8 @@
    "publishedAt": "2026-09-25T18:33:50.000Z",
    "hn": {
     "id": "49848269",
-    "points": 498,
-    "comments": 125
+    "points": 581,
+    "comments": 141
    },
    "firstSeenAt": "2026-09-26T13:43:03.105Z"
   },
@@ -278,7 +406,7 @@
    "publishedAt": "2026-09-25T11:38:31.000Z",
    "hn": {
     "id": "49843174",
-    "points": 341,
+    "points": 352,
     "comments": 108
    },
    "firstSeenAt": "2026-09-26T13:43:03.105Z"
@@ -293,8 +421,8 @@
    "publishedAt": "2026-09-25T03:59:11.000Z",
    "hn": {
     "id": "49840054",
-    "points": 384,
-    "comments": 351
+    "points": 545,
+    "comments": 474
    },
    "firstSeenAt": "2026-09-26T13:43:03.105Z"
   },
@@ -306,18 +434,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-26T02:14:59.759Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-26T13:43:03.105Z"
-  },
-  {
-   "id": "1113e051551f",
-   "title": "We’re gonna need a lot more mathematicians",
-   "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T18:27:05.345Z",
-   "score": 16,
+   "score": 26,
    "firstSeenAt": "2026-09-26T13:43:03.105Z"
   },
   {
@@ -328,7 +445,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T23:22:27.151Z",
-   "score": 14,
+   "score": 26,
    "firstSeenAt": "2026-09-26T13:43:03.105Z"
   },
   {
@@ -352,8 +469,8 @@
    "publishedAt": "2026-09-25T15:29:25.000Z",
    "hn": {
     "id": "49845977",
-    "points": 459,
-    "comments": 788
+    "points": 486,
+    "comments": 852
    },
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
@@ -367,8 +484,8 @@
    "publishedAt": "2026-09-25T14:24:42.000Z",
    "hn": {
     "id": "49845133",
-    "points": 339,
-    "comments": 118
+    "points": 352,
+    "comments": 124
    },
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
@@ -382,8 +499,8 @@
    "publishedAt": "2026-09-25T11:47:06.000Z",
    "hn": {
     "id": "49843269",
-    "points": 393,
-    "comments": 145
+    "points": 401,
+    "comments": 146
    },
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
@@ -395,7 +512,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T18:24:29.215Z",
-   "score": 38,
+   "score": 57,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -417,7 +534,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T15:59:24.612Z",
-   "score": 36,
+   "score": 42,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -472,8 +589,8 @@
    "publishedAt": "2026-09-25T08:06:49.000Z",
    "hn": {
     "id": "49841563",
-    "points": 965,
-    "comments": 563
+    "points": 992,
+    "comments": 575
    },
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
@@ -575,7 +692,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T05:33:53.765Z",
-   "score": 74,
+   "score": 75,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -586,7 +703,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T05:51:12.558Z",
-   "score": 93,
+   "score": 99,
    "firstSeenAt": "2026-09-25T14:33:09.141Z"
   },
   {
@@ -778,17 +895,6 @@
     "points": 326,
     "comments": 165
    },
-   "firstSeenAt": "2026-09-24T23:47:50.280Z"
-  },
-  {
-   "id": "ded6585d0069",
-   "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
-   "url": "https://gultsch.de/posts/breaking-up-with-google-play/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-24T14:57:57.021Z",
-   "score": 163,
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
   },
   {
@@ -2772,192 +2878,6 @@
    "publishedAt": "2026-09-19T21:25:34.131Z",
    "score": 10,
    "firstSeenAt": "2026-09-20T13:32:53.927Z"
-  },
-  {
-   "id": "83f196275b0d",
-   "title": "I built non-autoregressive decision models with RL a year ago",
-   "url": "https://laya.convaiinnovations.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-19T10:46:58.000Z",
-   "hn": {
-    "id": "49765348",
-    "points": 1291,
-    "comments": 310
-   },
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "518a66ddc17f",
-   "title": "San Francisco Onion Futures Company",
-   "url": "https://onionfutures.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-19T04:23:30.000Z",
-   "hn": {
-    "id": "49763296",
-    "points": 388,
-    "comments": 173
-   },
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "6f073a83eb4f",
-   "title": "Minimal Phone 2",
-   "url": "https://minimalcompany.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-18T02:00:25.000Z",
-   "hn": {
-    "id": "49749369",
-    "points": 311,
-    "comments": 247
-   },
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "ff70dfe1c386",
-   "title": "AI Is an Elite Crime Spree",
-   "url": "https://www.thebignewsletter.com/p/ai-is-an-elite-crime-spree",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T15:44:52.572Z",
-   "score": 89,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "a6b0bd5b12be",
-   "title": "Don’t Let Architecture Astronauts Scare You (2001)",
-   "url": "https://www.joelonsoftware.com/2001/04/21/dont-let-architecture-astronauts-scare-you/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T12:08:52.631Z",
-   "score": 44,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "9e347c7394a5",
-   "title": "I Built Non-Autoregressive Decision Models a Year Ago. Then a Frontier Lab Called It a \"Breakthrough\"",
-   "url": "https://dev.to/nandakishor_m_6cc0adfde9f/i-built-non-autoregressive-decision-models-a-year-ago-then-a-frontier-lab-called-it-a-18me",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T13:41:57.630Z",
-   "score": 58,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "8a4b2ca6eb49",
-   "title": "we have a year to fix security everywhere",
-   "url": "https://jyn.dev/a-year-to-fix-security/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T19:27:46.429Z",
-   "score": 52,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "d25e3d9749cf",
-   "title": "kicking the tires on jev (TypeSafe's System One model) with 2048",
-   "url": "https://gist.github.com/cablehead/bdf9ad946ceb26d9008976e49c9bfbbb",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T12:38:11.952Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "56a6371d8099",
-   "title": "“The Secret Life of Circuits” is here",
-   "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-here",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T12:12:18.763Z",
-   "score": 44,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "811b8bca67f9",
-   "title": "What happens to TLDs when their country stops existing? (2022)",
-   "url": "https://astrid.tech/2022/04/05/0/dead-tlds/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T11:53:28.060Z",
-   "score": 33,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "e7dde8f73bb1",
-   "title": "Write while learning",
-   "url": "https://purplesyringa.moe/blog/write-while-learning/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T06:56:24.938Z",
-   "score": 32,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "3b0afed2b661",
-   "title": "Reviving the language that brought us the Jak & Daxter Series",
-   "url": "https://opengoal.dev/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T14:28:49.182Z",
-   "score": 27,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "b1b7d90b796f",
-   "title": "Faster JSON parsing with SVE2 on ARM processors",
-   "url": "https://lemire.me/blog/2026/09/18/faster-json-parsing-with-sve2-on-arm-processors/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T15:10:09.421Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "84c2b4d10d7d",
-   "title": "LispBM: Concurrent Lisp for Microcontrollers",
-   "url": "https://www.lispbm.com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T11:36:56.503Z",
-   "score": 11,
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "00e72da2b937",
-   "title": "Why I still haven’t bought into true RSI",
-   "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-09-19T15:42:20.000Z",
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
-  },
-  {
-   "id": "be270d1902fb",
-   "title": "Finding Bugs",
-   "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
-   "sources": [
-    "matklad"
-   ],
-   "publishedAt": "2026-09-19T00:00:00.000Z",
-   "firstSeenAt": "2026-09-19T22:45:20.190Z"
   }
  ]
 }
