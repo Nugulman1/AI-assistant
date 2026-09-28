@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-27T23:42:43.763Z",
+ "generatedAt": "2026-09-28T17:35:13.900Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -30,11 +30,45 @@
    "publishedAt": "2026-09-27T14:44:53.153Z",
    "hn": {
     "id": "49867067",
-    "points": 341,
-    "comments": 301
+    "points": 382,
+    "comments": 340
    },
-   "score": 107,
+   "score": 167,
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
+  },
+  {
+   "id": "3bd40c5dcc31",
+   "title": "When did Google get so weird?",
+   "url": "https://sancho.bearblog.dev/google-weird/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-27T20:12:54.000Z",
+   "hn": {
+    "id": "49870367",
+    "points": 1646,
+    "comments": 898
+   },
+   "firstSeenAt": "2026-09-27T23:42:43.763Z",
+   "score": 34
+  },
+  {
+   "id": "66af25621bdf",
+   "title": "Don't couple your Go code to GitHub",
+   "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-27T16:50:58.000Z",
+   "score": 41,
+   "firstSeenAt": "2026-09-27T23:42:43.763Z",
+   "hn": {
+    "id": "49868404",
+    "points": 310,
+    "comments": 166
+   }
   },
   {
    "id": "40e9153a7713",
@@ -273,36 +307,283 @@
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
   },
   {
-   "id": "b30711547eb7",
-   "title": "What Sun got wrong",
-   "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+   "id": "db3e760e700f",
+   "title": "AI companies in race to demonstrate their model most threatening to humanity",
+   "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-21T07:14:39.869Z",
-   "score": 116,
-   "firstSeenAt": "2026-09-21T15:51:05.987Z",
+   "publishedAt": "2026-09-28T08:35:40.000Z",
    "hn": {
-    "id": "49787436",
-    "points": 674,
-    "comments": 388
-   }
+    "id": "49875148",
+    "points": 410,
+    "comments": 369
+   },
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
-   "id": "3bd40c5dcc31",
-   "title": "When did Google get so weird?",
-   "url": "https://sancho.bearblog.dev/google-weird/",
+   "id": "0dc955c86c2b",
+   "title": "Owed a billion dollars in Nvidia stock",
+   "url": "https://colo.to/nvidia-stock-narrative.html",
    "sources": [
     "Hacker News"
    ],
-   "publishedAt": "2026-09-27T20:12:54.000Z",
+   "publishedAt": "2026-09-28T02:05:13.000Z",
    "hn": {
-    "id": "49870367",
-    "points": 573,
-    "comments": 304
+    "id": "49872723",
+    "points": 989,
+    "comments": 420
    },
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "f622546c3555",
+   "title": "Self-Hosting on the Dark Web",
+   "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-27T20:03:36.000Z",
+   "hn": {
+    "id": "49870295",
+    "points": 318,
+    "comments": 106
+   },
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "09a2114f89da",
+   "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+   "url": "https://loficities.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-27T18:44:30.000Z",
+   "hn": {
+    "id": "49869574",
+    "points": 301,
+    "comments": 120
+   },
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "9641f0c84823",
+   "title": "Yes, no AI is now a feature",
+   "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-28T09:58:26.129Z",
+   "score": 70,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "8545341ecba9",
+   "title": "Hijacking the PS5's RTMP Stream",
+   "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-28T11:45:16.525Z",
+   "score": 30,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "bad67d806019",
+   "title": "What makes Lisp difficult to read?",
+   "url": "https://paultm.nl/paren-thesis",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-28T04:44:02.263Z",
+   "score": 51,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "53a77cf61582",
+   "title": "Leaving them behind",
+   "url": "https://dbushell.com/2026/09/28/leaving-them-behind/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-28T09:44:05.658Z",
+   "score": 32,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "1fc55e5c46fd",
+   "title": "Rickrolling with a Pharmacy cross",
+   "url": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-28T07:52:23.979Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "7c51c347773b",
+   "title": "Fool's Expertise",
+   "url": "https://bcantrill.dtrace.org/2026/09/27/fools-expertise/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-28T03:50:52.079Z",
+   "score": 28,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "fd18dee3e0d1",
+   "title": "Replacing the old battery on rechargeable bike lights",
+   "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-28T03:27:24.858Z",
+   "score": 16,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "bb7147701401",
+   "title": "Expert asterisks",
+   "url": "https://nedbatchelder.com/blog/202609/expert_asterisks",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-28T03:48:21.007Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "175635f5f78b",
+   "title": "Dropping Swift entirely from our Bevy iOS crates",
+   "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-27T23:22:45.754Z",
+   "score": 19,
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "193eb09a66e5",
+   "title": "2026 in LLMs (so far)",
+   "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-09-27T23:54:15.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "c70184feffa6",
+   "title": "[$] Reducing undefined behavior in the C language",
+   "url": "https://lwn.net/Articles/1095811/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-28T15:16:22.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "33610af00244",
+   "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
+   "url": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T14:51:57.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "ff1c78cd980c",
+   "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
+   "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T14:50:37.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "aa02690151aa",
+   "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
+   "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T14:43:05.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "ad509518aaef",
+   "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
+   "url": "https://blog.cloudflare.com/voidzero-update/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T13:00:00.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "fa867433a231",
+   "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
+   "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T13:00:00.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "019d3657d23b",
+   "title": "The road to the agentic browser: A Kitesurf update",
+   "url": "https://blog.cloudflare.com/kitesurf-update/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T13:00:00.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "c6455aebbffe",
+   "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
+   "url": "https://blog.cloudflare.com/introducing-the-cold-start/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T13:00:00.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "2fd8f946519a",
+   "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
+   "url": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T13:00:00.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "fed1a098a46f",
+   "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
+   "url": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-28T13:00:00.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
+  },
+  {
+   "id": "efc2d0980d03",
+   "title": "Small Decisions: Engineering a Leading Model",
+   "url": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
+   "sources": [
+    "Marc Brooker"
+   ],
+   "publishedAt": "2026-09-28T00:00:00.000Z",
+   "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
    "id": "a365d26f319b",
@@ -314,8 +595,8 @@
    "publishedAt": "2026-09-27T17:31:53.000Z",
    "hn": {
     "id": "49868830",
-    "points": 304,
-    "comments": 164
+    "points": 558,
+    "comments": 240
    },
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
@@ -329,8 +610,8 @@
    "publishedAt": "2026-09-27T16:19:46.000Z",
    "hn": {
     "id": "49868083",
-    "points": 322,
-    "comments": 240
+    "points": 384,
+    "comments": 264
    },
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
@@ -344,8 +625,8 @@
    "publishedAt": "2026-09-27T14:41:26.000Z",
    "hn": {
     "id": "49867038",
-    "points": 330,
-    "comments": 223
+    "points": 373,
+    "comments": 235
    },
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
@@ -359,8 +640,8 @@
    "publishedAt": "2026-09-26T18:22:41.000Z",
    "hn": {
     "id": "49859112",
-    "points": 314,
-    "comments": 104
+    "points": 320,
+    "comments": 110
    },
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
@@ -387,7 +668,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-27T17:34:21.672Z",
-   "score": 33,
+   "score": 77,
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
   {
@@ -398,7 +679,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-27T13:05:28.206Z",
-   "score": 35,
+   "score": 56,
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
   {
@@ -409,18 +690,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-27T13:58:57.101Z",
-   "score": 26,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "66af25621bdf",
-   "title": "Don't couple your Go code to GitHub",
-   "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T20:17:42.121Z",
-   "score": 13,
+   "score": 31,
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
   {
@@ -476,8 +746,8 @@
    "publishedAt": "2026-09-27T08:44:04.000Z",
    "hn": {
     "id": "49864642",
-    "points": 416,
-    "comments": 282
+    "points": 459,
+    "comments": 299
    },
    "firstSeenAt": "2026-09-27T14:39:27.467Z"
   },
@@ -491,8 +761,8 @@
    "publishedAt": "2026-09-27T06:19:33.000Z",
    "hn": {
     "id": "49863864",
-    "points": 598,
-    "comments": 574
+    "points": 623,
+    "comments": 608
    },
    "firstSeenAt": "2026-09-27T14:39:27.467Z"
   },
@@ -519,7 +789,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-27T06:22:21.194Z",
-   "score": 72,
+   "score": 96,
    "firstSeenAt": "2026-09-27T14:39:27.467Z"
   },
   {
@@ -2774,217 +3044,6 @@
    ],
    "publishedAt": "2026-09-21T23:09:20.000Z",
    "firstSeenAt": "2026-09-21T23:55:38.804Z"
-  },
-  {
-   "id": "987a6aa2b174",
-   "title": "ZuckOff Know when a camera is in the room",
-   "url": "https://zuckoff.app/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-21T10:33:14.000Z",
-   "hn": {
-    "id": "49785429",
-    "points": 605,
-    "comments": 6
-   },
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "d3900e99d12d",
-   "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-   "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-21T07:55:28.000Z",
-   "hn": {
-    "id": "49784336",
-    "points": 505,
-    "comments": 365
-   },
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "8db79723e7ad",
-   "title": "What happened to the Snowden archive",
-   "url": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-20T22:35:49.000Z",
-   "hn": {
-    "id": "49780820",
-    "points": 703,
-    "comments": 552
-   },
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "ea087dc9487c",
-   "title": "AX – Google’s Open Agentic Orchestrator",
-   "url": "https://agentexecutor.io",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-20T22:32:43.000Z",
-   "hn": {
-    "id": "49780797",
-    "points": 648,
-    "comments": 295
-   },
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "9bc480d7a7e3",
-   "title": "Bill to Ban Private Equity from Owning Medical Practices",
-   "url": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-20T22:13:46.000Z",
-   "hn": {
-    "id": "49780630",
-    "points": 497,
-    "comments": 369
-   },
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "54422eea0235",
-   "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-   "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-20T17:38:50.000Z",
-   "hn": {
-    "id": "49778029",
-    "points": 553,
-    "comments": 453
-   },
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "216df9425bbd",
-   "title": "Spain orders blocks on Archive.today and its mirrors",
-   "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-20T06:16:42.000Z",
-   "hn": {
-    "id": "49772961",
-    "points": 529,
-    "comments": 417
-   },
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "c0f3cd11c614",
-   "title": "Creating a Blog in Gemini://",
-   "url": "https://brennan.day/creating-a-blog-in-gemini/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-21T11:24:46.585Z",
-   "score": 30,
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "9464bd891d1c",
-   "title": "Do you use :visited on links?",
-   "url": "https://kevquirk.com/do-you-use-visited-on-links",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-21T11:42:15.164Z",
-   "score": 26,
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "7b82b3cd541a",
-   "title": "Are we really going to use the same Desktop UX forever?",
-   "url": "https://www.youtube.com/watch?v=V7AfAcQwLW0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-20T20:34:34.067Z",
-   "score": 50,
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "b6322ca91c1c",
-   "title": "Bot-free self-hosted analytics with GoatCounter on NixOS",
-   "url": "https://vincent.bernat.ch/en/blog/2026-goatcounter",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-20T22:51:03.251Z",
-   "score": 22,
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "c18243cb944d",
-   "title": "Deterministic Core, Non-Deterministic Shell",
-   "url": "https://outdata.net/blog/260803",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-20T21:13:51.416Z",
-   "score": 14,
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "8b1cdac6d3be",
-   "title": "Roku launches open-source Roku LT OS for creative programmers",
-   "url": "https://blog.roku.com/developer/roku-lt-os",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-20T23:15:16.168Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "d1749ba76a98",
-   "title": "How V7 gives AI agents institutional memory",
-   "url": "https://openai.com/index/v7",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-21T00:00:00.000Z",
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "9a319be2f748",
-   "title": "The current balance of power in open models",
-   "url": "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-09-21T11:56:56.000Z",
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "57dcd6ca1978",
-   "title": "[$] Testing compat_linux on NetBSD with the Linux Test Project",
-   "url": "https://lwn.net/Articles/1094310/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-21T14:22:55.000Z",
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
-  },
-  {
-   "id": "bf2ea8abc504",
-   "title": "Python Workers are now generally available",
-   "url": "https://blog.cloudflare.com/python-workers-ga/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-21T13:00:00.000Z",
-   "firstSeenAt": "2026-09-21T15:51:05.987Z"
   }
  ]
 }
