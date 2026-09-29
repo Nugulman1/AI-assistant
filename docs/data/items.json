@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T00:52:28.703Z",
+ "generatedAt": "2026-09-29T15:38:30.510Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -17,6 +17,23 @@
     "id": "49825642",
     "points": 397,
     "comments": 523
+   }
+  },
+  {
+   "id": "a37b0826d622",
+   "title": "It’s Time to Investigate the AI Labs",
+   "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T13:56:41.713Z",
+   "score": 35,
+   "firstSeenAt": "2026-09-29T00:52:28.703Z",
+   "hn": {
+    "id": "49883471",
+    "points": 560,
+    "comments": 238
    }
   },
   {
@@ -47,11 +64,11 @@
    "publishedAt": "2026-09-27T20:12:54.000Z",
    "hn": {
     "id": "49870367",
-    "points": 1843,
-    "comments": 1033
+    "points": 1925,
+    "comments": 1076
    },
    "firstSeenAt": "2026-09-27T23:42:43.763Z",
-   "score": 52
+   "score": 71
   },
   {
    "id": "66af25621bdf",
@@ -66,8 +83,8 @@
    "firstSeenAt": "2026-09-27T23:42:43.763Z",
    "hn": {
     "id": "49868404",
-    "points": 321,
-    "comments": 174
+    "points": 323,
+    "comments": 175
    }
   },
   {
@@ -290,6 +307,344 @@
    }
   },
   {
+   "id": "3317c556e900",
+   "title": "You Are No Longer Invited to Dinner",
+   "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T11:14:45.000Z",
+   "hn": {
+    "id": "49891295",
+    "points": 435,
+    "comments": 378
+   },
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "c92e39202c4c",
+   "title": "AI companies leak data to advertisers [pdf]",
+   "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T09:03:41.000Z",
+   "hn": {
+    "id": "49890226",
+    "points": 327,
+    "comments": 105
+   },
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "5e33c235053c",
+   "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+   "url": "https://github.com/firelex/jeff",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T20:23:36.000Z",
+   "hn": {
+    "id": "49883844",
+    "points": 545,
+    "comments": 208
+   },
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "dd4ff024e415",
+   "title": "California farmers are struggling to sell grapes as demand for wine drops",
+   "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T20:00:06.000Z",
+   "hn": {
+    "id": "49883539",
+    "points": 313,
+    "comments": 757
+   },
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "4a76cb4492f1",
+   "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+   "url": "https://www.thisamericanlife.org/897/transcript",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T15:35:09.000Z",
+   "hn": {
+    "id": "49879697",
+    "points": 453,
+    "comments": 246
+   },
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "fce6153568f3",
+   "title": "Updated Google Maps shows destruction of the city of Rafah",
+   "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T15:32:18.000Z",
+   "hn": {
+    "id": "49879645",
+    "points": 820,
+    "comments": 702
+   },
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "8e748fa56626",
+   "title": "Parley: Federated, decentralised chat that speaks plain IRC",
+   "url": "https://git.mills.io/prologic/parley",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T10:30:54.000Z",
+   "hn": {
+    "id": "49875913",
+    "points": 321,
+    "comments": 185
+   },
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "fcb037d463f8",
+   "title": "SpaceX's Starship launching to orbit for first time ever today",
+   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T09:15:04.000Z",
+   "hn": {
+    "id": "49875411",
+    "points": 302,
+    "comments": 358
+   },
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "81fe9044a4b7",
+   "title": "CoW — a stacking window manager for Wayland",
+   "url": "https://cow-wm.codeberg.page/cow/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T09:07:37.137Z",
+   "score": 59,
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "a1ea01404cc9",
+   "title": "My experience writing automated tests for a SPA",
+   "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T06:00:10.041Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "c7dd9848a8e8",
+   "title": "Switching To Emacs as a Neovim User",
+   "url": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T03:41:34.837Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "db2a4a7528dc",
+   "title": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation",
+   "url": "https://huggingface.co/papers/2609.35347",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-27T20:00:00.000Z",
+   "score": 129,
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "9099ca10e7dd",
+   "title": "How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining",
+   "url": "https://huggingface.co/papers/2609.35457",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-27T20:00:00.000Z",
+   "score": 53,
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "e0a4a87d3945",
+   "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+   "url": "https://huggingface.co/papers/2609.35767",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-27T20:00:00.000Z",
+   "score": 32,
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "6fd1dbabbe0f",
+   "title": "WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon",
+   "url": "https://huggingface.co/papers/2609.35560",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-27T20:00:00.000Z",
+   "score": 22,
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "3a90d9a4e52a",
+   "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
+   "url": "https://huggingface.co/papers/2609.35673",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-27T20:00:00.000Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "cfe8e900401f",
+   "title": "How we will do better for Australia",
+   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-28T19:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "cf468ec39dd6",
+   "title": "Towards safety cases for frontier AI training",
+   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-28T19:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "fdeae7bb039f",
+   "title": "Using AI to chart a course for our post-quantum migration",
+   "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "d385a2253200",
+   "title": "Building a certificate authority for the whole Internet",
+   "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "4f6b0652e0ee",
+   "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
+   "url": "https://blog.cloudflare.com/ai-era-framework/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "ab881b15a8c6",
+   "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
+   "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "724cedcf62f5",
+   "title": "We tested our own WAF with frontier AI models. Here’s what we found",
+   "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "2ae657c3256a",
+   "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
+   "url": "https://blog.cloudflare.com/threat-signals/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "0999f45f4e9f",
+   "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
+   "url": "https://blog.cloudflare.com/post-quantum-visibility/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "f1ff1c95f2ba",
+   "title": "Enforce positive security with Cloudflare Application Profiles",
+   "url": "https://blog.cloudflare.com/application-profiles/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "e8a54d503ece",
+   "title": "Preventing quantum downgrade attacks against IPsec",
+   "url": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-29T13:00:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "6102ac4cd82d",
+   "title": "Bliki: Sensible Default",
+   "url": "https://martinfowler.com/bliki/SensibleDefault.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-09-29T13:43:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
+   "id": "7344bae708cb",
+   "title": "Fragments: September 29",
+   "url": "https://martinfowler.com/fragments/2026-09-29.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-09-29T12:41:00.000Z",
+   "firstSeenAt": "2026-09-29T15:38:30.510Z"
+  },
+  {
    "id": "50e18c541984",
    "title": "Sonnet 5.5",
    "url": "https://www.anthropic.com/claude-sonnet-5-5",
@@ -299,8 +654,8 @@
    "publishedAt": "2026-09-28T17:58:11.000Z",
    "hn": {
     "id": "49881850",
-    "points": 548,
-    "comments": 376
+    "points": 848,
+    "comments": 580
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -314,8 +669,8 @@
    "publishedAt": "2026-09-28T17:51:24.000Z",
    "hn": {
     "id": "49881747",
-    "points": 423,
-    "comments": 129
+    "points": 503,
+    "comments": 166
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -329,8 +684,8 @@
    "publishedAt": "2026-09-28T16:11:42.000Z",
    "hn": {
     "id": "49880312",
-    "points": 343,
-    "comments": 223
+    "points": 374,
+    "comments": 237
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -344,8 +699,8 @@
    "publishedAt": "2026-09-28T15:54:15.000Z",
    "hn": {
     "id": "49880036",
-    "points": 397,
-    "comments": 206
+    "points": 653,
+    "comments": 337
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -359,8 +714,8 @@
    "publishedAt": "2026-09-28T14:54:21.000Z",
    "hn": {
     "id": "49879000",
-    "points": 325,
-    "comments": 266
+    "points": 355,
+    "comments": 286
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -374,8 +729,8 @@
    "publishedAt": "2026-09-28T13:52:57.000Z",
    "hn": {
     "id": "49877988",
-    "points": 401,
-    "comments": 424
+    "points": 528,
+    "comments": 516
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -387,7 +742,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T16:18:16.783Z",
-   "score": 49,
+   "score": 115,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
   {
@@ -398,7 +753,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T17:01:01.997Z",
-   "score": 41,
+   "score": 86,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
   {
@@ -409,7 +764,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T16:14:23.422Z",
-   "score": 14,
+   "score": 18,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
   {
@@ -420,7 +775,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T20:35:51.568Z",
-   "score": 11,
+   "score": 44,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
   {
@@ -431,17 +786,6 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T15:34:10.200Z",
-   "score": 12,
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "a37b0826d622",
-   "title": "It’s Time to Investigate the AI Labs",
-   "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T13:56:41.713Z",
    "score": 19,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -485,8 +829,8 @@
    "publishedAt": "2026-09-28T08:35:40.000Z",
    "hn": {
     "id": "49875148",
-    "points": 426,
-    "comments": 383
+    "points": 433,
+    "comments": 390
    },
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
@@ -500,8 +844,8 @@
    "publishedAt": "2026-09-28T02:05:13.000Z",
    "hn": {
     "id": "49872723",
-    "points": 1054,
-    "comments": 447
+    "points": 1074,
+    "comments": 451
    },
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
@@ -515,8 +859,8 @@
    "publishedAt": "2026-09-27T20:03:36.000Z",
    "hn": {
     "id": "49870295",
-    "points": 342,
-    "comments": 109
+    "points": 348,
+    "comments": 113
    },
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
@@ -530,8 +874,8 @@
    "publishedAt": "2026-09-27T18:44:30.000Z",
    "hn": {
     "id": "49869574",
-    "points": 305,
-    "comments": 134
+    "points": 311,
+    "comments": 135
    },
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
@@ -543,7 +887,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T09:58:26.129Z",
-   "score": 106,
+   "score": 118,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -554,7 +898,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T11:45:16.525Z",
-   "score": 44,
+   "score": 56,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -565,7 +909,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T04:44:02.263Z",
-   "score": 65,
+   "score": 78,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -576,7 +920,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T09:44:05.658Z",
-   "score": 52,
+   "score": 70,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -587,7 +931,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T07:52:23.979Z",
-   "score": 26,
+   "score": 36,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -764,8 +1108,8 @@
    "publishedAt": "2026-09-27T17:31:53.000Z",
    "hn": {
     "id": "49868830",
-    "points": 577,
-    "comments": 246
+    "points": 582,
+    "comments": 248
    },
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
@@ -779,8 +1123,8 @@
    "publishedAt": "2026-09-27T16:19:46.000Z",
    "hn": {
     "id": "49868083",
-    "points": 389,
-    "comments": 267
+    "points": 392,
+    "comments": 268
    },
    "firstSeenAt": "2026-09-27T23:42:43.763Z"
   },
@@ -2691,259 +3035,6 @@
    ],
    "publishedAt": "2026-09-22T17:17:31.000Z",
    "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "d722cbd50ef7",
-   "title": "I said no and Apple said yes",
-   "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T08:04:55.000Z",
-   "hn": {
-    "id": "49797982",
-    "points": 854,
-    "comments": 690
-   },
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "7e4a7495b36e",
-   "title": "Spymarks, Not Watermarks",
-   "url": "https://brand.io/article/spymarks/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-21T23:03:49.000Z",
-   "hn": {
-    "id": "49794615",
-    "points": 669,
-    "comments": 165
-   },
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "36d08d7343d1",
-   "title": "I don't want to read what you didn't write",
-   "url": "https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-21T22:30:41.000Z",
-   "hn": {
-    "id": "49794330",
-    "points": 1026,
-    "comments": 448
-   },
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "196e695124f1",
-   "title": "Transformers Explained Visually",
-   "url": "https://poloclub.github.io/transformer-explainer/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-21T19:43:49.000Z",
-   "hn": {
-    "id": "49792342",
-    "points": 620,
-    "comments": 88
-   },
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "6eeee8641709",
-   "title": "NASA’s Mars Sample Return mission is dead",
-   "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-21T19:14:12.000Z",
-   "hn": {
-    "id": "49791939",
-    "points": 447,
-    "comments": 384
-   },
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "971e342da5bd",
-   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-   "url": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-21T17:30:21.000Z",
-   "hn": {
-    "id": "49790409",
-    "points": 345,
-    "comments": 222
-   },
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "83e4a4662a72",
-   "title": "Named and Optional Arguments are Awesome",
-   "url": "https://botahamec.dev/named-optional-args",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-21T21:16:53.226Z",
-   "score": 58,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "b044bb6feb97",
-   "title": "Arguing about arguments",
-   "url": "https://steveklabnik.com/writing/arguing-about-arguments/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T04:29:12.182Z",
-   "score": 54,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "92635b8f2fbf",
-   "title": "Fearless SIMD v1.0 is here",
-   "url": "https://linebender.org/blog/fearless-simd-1-0/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T12:10:21.859Z",
-   "score": 67,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "98fdf8f4a563",
-   "title": "Why 0xCAFEBABE?",
-   "url": "https://www.artima.com/insidejvm/whyCAFEBABE.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T00:05:45.764Z",
-   "score": 39,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "46ca49c50227",
-   "title": "evocation - Call forth the blue-green flame of computation from the universe, weave its energies into a fabric, that we may share our blood with it",
-   "url": "https://code.irenes.space/evocation/tree/README.txt",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-21T21:51:56.741Z",
-   "score": 22,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "42672a608b82",
-   "title": "Design your programming languages right (2024)",
-   "url": "https://blog.veritates.love/design-it-right",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T05:21:15.888Z",
-   "score": 30,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "17da634d5a52",
-   "title": "Ju! Ju! Tsu",
-   "url": "https://arialdo.codeberg.page/ju-ju-tsu/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-21T20:59:09.005Z",
-   "score": 36,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "6a89ef1845a3",
-   "title": "What are you doing this week?",
-   "url": "https://lobste.rs/s/fyngrv/what_are_you_doing_this_week",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-21T12:30:37.334Z",
-   "score": 16,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "24e6ac3a6bd4",
-   "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
-   "url": "https://huggingface.co/papers/2609.24972",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-20T20:00:00.000Z",
-   "score": 126,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "78c87b578b72",
-   "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
-   "url": "https://huggingface.co/papers/2609.24984",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-20T20:00:00.000Z",
-   "score": 98,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "a16d1c8f08d2",
-   "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
-   "url": "https://huggingface.co/papers/2609.25001",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-20T20:00:00.000Z",
-   "score": 81,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "ae5d092ad2f8",
-   "title": "Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion",
-   "url": "https://huggingface.co/papers/2609.24220",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-20T20:00:00.000Z",
-   "score": 42,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "771423240a19",
-   "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
-   "url": "https://huggingface.co/papers/2609.24997",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-20T20:00:00.000Z",
-   "score": 26,
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "b7ce14e363bb",
-   "title": "Debating RSI, the US-China Gap, and Jaggedness with JS Denain of Epoch AI",
-   "url": "https://www.interconnects.ai/p/debating-rsi-the-us-china-gap-and",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-09-22T13:37:45.000Z",
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
-  },
-  {
-   "id": "66e8a8962096",
-   "title": "Introducing Worker Previews: isolated preview environments for every change your agent makes",
-   "url": "https://blog.cloudflare.com/worker-previews/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-22T13:00:00.000Z",
-   "firstSeenAt": "2026-09-22T13:59:35.338Z"
   }
  ]
 }
