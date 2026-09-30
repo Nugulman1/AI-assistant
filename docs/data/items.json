@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-29T15:38:30.510Z",
+ "generatedAt": "2026-09-30T00:09:25.064Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -20,6 +20,38 @@
    }
   },
   {
+   "id": "884977ecb800",
+   "title": "Dots: Always-on agents",
+   "url": "https://openai.com/index/introducing-dots/",
+   "sources": [
+    "Hacker News",
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-29T00:00:00.000Z",
+   "hn": {
+    "id": "49896604",
+    "points": 446,
+    "comments": 337
+   },
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "dd66acaed2a0",
+   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+   "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+   "sources": [
+    "Hacker News",
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-29T10:00:00.000Z",
+   "hn": {
+    "id": "49896586",
+    "points": 748,
+    "comments": 686
+   },
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
    "id": "a37b0826d622",
    "title": "It’s Time to Investigate the AI Labs",
    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
@@ -32,8 +64,8 @@
    "firstSeenAt": "2026-09-29T00:52:28.703Z",
    "hn": {
     "id": "49883471",
-    "points": 560,
-    "comments": 238
+    "points": 594,
+    "comments": 261
    }
   },
   {
@@ -68,7 +100,7 @@
     "comments": 1076
    },
    "firstSeenAt": "2026-09-27T23:42:43.763Z",
-   "score": 71
+   "score": 73
   },
   {
    "id": "66af25621bdf",
@@ -257,54 +289,199 @@
    "score": 70
   },
   {
-   "id": "3d48e529ad7a",
-   "title": "GPT-6 Sol and Luna",
-   "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+   "id": "0a51a0bd84cd",
+   "title": "DraftKings is using AI to behaviorally target chronic gamblers",
+   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
    "sources": [
-    "Hacker News",
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-22T18:00:00.000Z",
-   "hn": {
-    "id": "49805509",
-    "points": 1754,
-    "comments": 831
-   },
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "e051d8454776",
-   "title": "AI Has No Wisdom and Neither Will You",
-   "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-   "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T11:55:39.143Z",
-   "hn": {
-    "id": "49799965",
-    "points": 383,
-    "comments": 542
-   },
-   "score": 24,
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "3c64bb95b237",
-   "title": "tokens too cheap to meter",
-   "url": "https://jyn.dev/tokens-too-cheap-to-meter/",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-22T16:28:45.312Z",
-   "score": 30,
-   "firstSeenAt": "2026-09-22T23:32:05.423Z",
+   "publishedAt": "2026-09-29T16:30:48.000Z",
    "hn": {
-    "id": "49813482",
-    "points": 345,
-    "comments": 225
-   }
+    "id": "49896050",
+    "points": 522,
+    "comments": 368
+   },
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "ecca61a68f44",
+   "title": "macOS Golden Gate Is a Buggy Mess",
+   "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T14:32:33.000Z",
+   "hn": {
+    "id": "49894005",
+    "points": 435,
+    "comments": 309
+   },
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "f6300592734e",
+   "title": "How Delhi cut electricity loss from 50 to 5 percent",
+   "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T12:43:29.000Z",
+   "hn": {
+    "id": "49892245",
+    "points": 421,
+    "comments": 247
+   },
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "66fb330f67cf",
+   "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+   "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T11:44:25.000Z",
+   "hn": {
+    "id": "49891550",
+    "points": 361,
+    "comments": 353
+   },
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "9d35c805fb61",
+   "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
+   "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T11:35:18.000Z",
+   "hn": {
+    "id": "49891480",
+    "points": 466,
+    "comments": 288
+   },
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "a7a3b674e644",
+   "title": "World Labs is Joining AMD",
+   "url": "https://www.worldlabs.ai/blog/amd-announcement",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T20:18:05.000Z",
+   "hn": {
+    "id": "49883760",
+    "points": 303,
+    "comments": 117
+   },
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "1eb9907f3193",
+   "title": "Pining for Arc Downcasting in Rust",
+   "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T15:35:14.850Z",
+   "score": 26,
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "3b0f3ef0c3d7",
+   "title": "Aho-Corasick Algorithm",
+   "url": "https://compiler.club/aho-corasick/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T14:49:08.046Z",
+   "score": 36,
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "d9c901e57e6e",
+   "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
+   "url": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T19:20:05.967Z",
+   "score": 13,
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "ab5d75d06387",
+   "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
+   "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T09:40:33.245Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "d2e1d048b31f",
+   "title": "MotifCentral - All Things Motif/Xt/Xlib",
+   "url": "https://motif-central.org/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T09:01:47.493Z",
+   "score": 20,
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "19db7cc5ca5c",
+   "title": "DevDay 2026 Recap",
+   "url": "https://openai.com/index/devday-2026-recap",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-29T10:00:00.000Z",
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "f7665b70e425",
+   "title": "OpenAI DevDay 2026 live blog",
+   "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-09-29T15:55:13.000Z",
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "5d66eee06327",
+   "title": "[$] Native support for Rust on the GPU",
+   "url": "https://lwn.net/Articles/1095731/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-29T17:57:20.000Z",
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "dfa5dcc7a333",
+   "title": "[$] The kernel from a PostgreSQL point of view",
+   "url": "https://lwn.net/Articles/1096827/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-29T15:42:30.000Z",
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+  },
+  {
+   "id": "04392c500deb",
+   "title": "Why has Shopify dropped React Native?",
+   "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-09-29T15:53:19.000Z",
+   "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
   {
    "id": "3317c556e900",
@@ -316,8 +493,8 @@
    "publishedAt": "2026-09-29T11:14:45.000Z",
    "hn": {
     "id": "49891295",
-    "points": 435,
-    "comments": 378
+    "points": 713,
+    "comments": 652
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -331,8 +508,8 @@
    "publishedAt": "2026-09-29T09:03:41.000Z",
    "hn": {
     "id": "49890226",
-    "points": 327,
-    "comments": 105
+    "points": 406,
+    "comments": 128
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -346,8 +523,8 @@
    "publishedAt": "2026-09-28T20:23:36.000Z",
    "hn": {
     "id": "49883844",
-    "points": 545,
-    "comments": 208
+    "points": 564,
+    "comments": 218
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -361,8 +538,8 @@
    "publishedAt": "2026-09-28T20:00:06.000Z",
    "hn": {
     "id": "49883539",
-    "points": 313,
-    "comments": 757
+    "points": 370,
+    "comments": 915
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -376,8 +553,8 @@
    "publishedAt": "2026-09-28T15:35:09.000Z",
    "hn": {
     "id": "49879697",
-    "points": 453,
-    "comments": 246
+    "points": 471,
+    "comments": 254
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -391,8 +568,8 @@
    "publishedAt": "2026-09-28T15:32:18.000Z",
    "hn": {
     "id": "49879645",
-    "points": 820,
-    "comments": 702
+    "points": 882,
+    "comments": 847
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -406,8 +583,8 @@
    "publishedAt": "2026-09-28T10:30:54.000Z",
    "hn": {
     "id": "49875913",
-    "points": 321,
-    "comments": 185
+    "points": 323,
+    "comments": 190
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -421,8 +598,8 @@
    "publishedAt": "2026-09-28T09:15:04.000Z",
    "hn": {
     "id": "49875411",
-    "points": 302,
-    "comments": 358
+    "points": 303,
+    "comments": 363
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -434,7 +611,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T09:07:37.137Z",
-   "score": 59,
+   "score": 98,
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
   {
@@ -445,7 +622,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T06:00:10.041Z",
-   "score": 15,
+   "score": 31,
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
   {
@@ -456,7 +633,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T03:41:34.837Z",
-   "score": 22,
+   "score": 35,
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
   {
@@ -654,8 +831,8 @@
    "publishedAt": "2026-09-28T17:58:11.000Z",
    "hn": {
     "id": "49881850",
-    "points": 848,
-    "comments": 580
+    "points": 871,
+    "comments": 603
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -669,8 +846,8 @@
    "publishedAt": "2026-09-28T17:51:24.000Z",
    "hn": {
     "id": "49881747",
-    "points": 503,
-    "comments": 166
+    "points": 519,
+    "comments": 172
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -684,8 +861,8 @@
    "publishedAt": "2026-09-28T16:11:42.000Z",
    "hn": {
     "id": "49880312",
-    "points": 374,
-    "comments": 237
+    "points": 381,
+    "comments": 238
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -699,8 +876,8 @@
    "publishedAt": "2026-09-28T15:54:15.000Z",
    "hn": {
     "id": "49880036",
-    "points": 653,
-    "comments": 337
+    "points": 685,
+    "comments": 361
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -714,8 +891,8 @@
    "publishedAt": "2026-09-28T14:54:21.000Z",
    "hn": {
     "id": "49879000",
-    "points": 355,
-    "comments": 286
+    "points": 357,
+    "comments": 297
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -729,8 +906,8 @@
    "publishedAt": "2026-09-28T13:52:57.000Z",
    "hn": {
     "id": "49877988",
-    "points": 528,
-    "comments": 516
+    "points": 545,
+    "comments": 531
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -742,7 +919,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T16:18:16.783Z",
-   "score": 115,
+   "score": 136,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
   {
@@ -753,7 +930,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T17:01:01.997Z",
-   "score": 86,
+   "score": 100,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
   {
@@ -775,7 +952,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T20:35:51.568Z",
-   "score": 44,
+   "score": 53,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
   {
@@ -829,8 +1006,8 @@
    "publishedAt": "2026-09-28T08:35:40.000Z",
    "hn": {
     "id": "49875148",
-    "points": 433,
-    "comments": 390
+    "points": 436,
+    "comments": 392
    },
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
@@ -844,8 +1021,8 @@
    "publishedAt": "2026-09-28T02:05:13.000Z",
    "hn": {
     "id": "49872723",
-    "points": 1074,
-    "comments": 451
+    "points": 1082,
+    "comments": 453
    },
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
@@ -887,7 +1064,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T09:58:26.129Z",
-   "score": 118,
+   "score": 124,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -898,7 +1075,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T11:45:16.525Z",
-   "score": 56,
+   "score": 59,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -909,7 +1086,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T04:44:02.263Z",
-   "score": 78,
+   "score": 83,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -920,7 +1097,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T09:44:05.658Z",
-   "score": 70,
+   "score": 75,
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
   },
   {
@@ -2852,189 +3029,6 @@
    ],
    "publishedAt": "2026-09-22T23:46:41.000Z",
    "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "245d063e08eb",
-   "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-   "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T19:03:38.000Z",
-   "hn": {
-    "id": "49806430",
-    "points": 926,
-    "comments": 523
-   },
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "0c90c73c08cf",
-   "title": "Claude Opus 5.5",
-   "url": "https://www.anthropic.com/claude-opus-5-5",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T16:29:05.000Z",
-   "hn": {
-    "id": "49803892",
-    "points": 1783,
-    "comments": 1108
-   },
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "400c8e1fb368",
-   "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-   "url": "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T14:30:12.000Z",
-   "hn": {
-    "id": "49801939",
-    "points": 795,
-    "comments": 591
-   },
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "0f1ff99a4515",
-   "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-   "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T13:52:15.000Z",
-   "hn": {
-    "id": "49801324",
-    "points": 720,
-    "comments": 437
-   },
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "66deb2c0d677",
-   "title": "Can gzip be a language model?",
-   "url": "https://nathan.rs/posts/gzip-lm/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T06:08:39.000Z",
-   "hn": {
-    "id": "49797323",
-    "points": 397,
-    "comments": 159
-   },
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "015dbc4f8268",
-   "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-   "url": "https://linear.app/now/ci-bottleneck-reworked",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-21T19:23:33.000Z",
-   "hn": {
-    "id": "49792067",
-    "points": 311,
-    "comments": 396
-   },
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "6aed06146460",
-   "title": "Plain-text files are at risk",
-   "url": "https://paste.sr.ht/~awal/b76caf6f213a96a634454fa7292c035a10035b49",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T17:14:56.329Z",
-   "score": 37,
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "f1d7c2ca7ae3",
-   "title": "That About Wraps It Up for Stock Mac UI",
-   "url": "https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T19:29:53.840Z",
-   "score": 47,
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "8ce57850a3fe",
-   "title": "Raspberry Pi locks down Pi 5 RAM upgrades in firmware",
-   "url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-ram-lockdown/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T08:20:19.656Z",
-   "score": 26,
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "b6b1e4118cdb",
-   "title": "Better prompt caching for GPT-6",
-   "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-22T21:00:00.000Z",
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "ce45d8dc0f6c",
-   "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
-   "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-22T12:00:00.000Z",
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "b4fb82cc1313",
-   "title": "Priorities and principles for effective third party assessments",
-   "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-22T00:00:00.000Z",
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "3894b4a8e426",
-   "title": "[$] Compiling the kernel with gccrs",
-   "url": "https://lwn.net/Articles/1095553/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-22T15:27:35.000Z",
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "0c9c25568aa0",
-   "title": "We just shipped support for the ugliest part of HTTP: Vary",
-   "url": "https://blog.cloudflare.com/vary-support/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-22T14:04:31.000Z",
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
-  },
-  {
-   "id": "a1905b81ace1",
-   "title": "How will AI change operating systems? Part 2: Windows",
-   "url": "https://newsletter.pragmaticengineer.com/p/windows-and-ai",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-09-22T17:17:31.000Z",
-   "firstSeenAt": "2026-09-22T23:32:05.423Z"
   }
  ]
 }
