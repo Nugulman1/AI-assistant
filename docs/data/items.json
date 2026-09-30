@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-30T00:09:25.064Z",
+ "generatedAt": "2026-09-30T15:49:32.400Z",
  "items": [
   {
    "id": "5802a0bc714c",
@@ -30,8 +30,8 @@
    "publishedAt": "2026-09-29T00:00:00.000Z",
    "hn": {
     "id": "49896604",
-    "points": 446,
-    "comments": 337
+    "points": 702,
+    "comments": 575
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -46,8 +46,8 @@
    "publishedAt": "2026-09-29T10:00:00.000Z",
    "hn": {
     "id": "49896586",
-    "points": 748,
-    "comments": 686
+    "points": 1023,
+    "comments": 891
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -64,8 +64,8 @@
    "firstSeenAt": "2026-09-29T00:52:28.703Z",
    "hn": {
     "id": "49883471",
-    "points": 594,
-    "comments": 261
+    "points": 616,
+    "comments": 272
    }
   },
   {
@@ -272,21 +272,433 @@
    "firstSeenAt": "2026-09-23T23:28:20.459Z"
   },
   {
-   "id": "5635ba4ca03c",
-   "title": "I asked Meta’s Muse for its filesystem and it sent me 6.8GB",
-   "url": "https://mouse.dev/blog/muse-runtime-export/",
+   "id": "f9d283d850cc",
+   "title": "Pi.dev: You Said No MCP",
+   "url": "https://earendil.com/posts/you-said-no-mcp/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-30T09:55:23.000Z",
+   "hn": {
+    "id": "49906637",
+    "points": 388,
+    "comments": 209
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "1865b854bf19",
+   "title": "September 2026: The world today, as seen by one Polish guy",
+   "url": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-30T07:12:31.000Z",
+   "hn": {
+    "id": "49905487",
+    "points": 430,
+    "comments": 310
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "bf2e738d2e1a",
+   "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+   "url": "https://github.com/ninjahawk/livenerf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T22:36:14.000Z",
+   "hn": {
+    "id": "49901736",
+    "points": 786,
+    "comments": 333
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "bfff3cf854ef",
+   "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
+   "url": "https://space.bl2.net/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T19:08:01.000Z",
+   "hn": {
+    "id": "49898778",
+    "points": 334,
+    "comments": 85
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "a7b61b652d1e",
+   "title": "Vermont replacing power plants with home batteries",
+   "url": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T18:19:02.000Z",
+   "hn": {
+    "id": "49897993",
+    "points": 307,
+    "comments": 235
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "c99dbf1f7b94",
+   "title": "PS5 Relapse Exploit",
+   "url": "https://github.com/ntfargo/Relapse-Exploit",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T15:44:41.000Z",
+   "hn": {
+    "id": "49895304",
+    "points": 335,
+    "comments": 218
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "32d3feab4f14",
+   "title": "America.gov",
+   "url": "https://america.gov/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T14:04:57.000Z",
+   "hn": {
+    "id": "49893509",
+    "points": 705,
+    "comments": 616
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "e457d860c626",
+   "title": "Ask HN: What are you reading?",
+   "url": "https://news.ycombinator.com/item?id=49893157",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T13:44:43.000Z",
+   "hn": {
+    "id": "49893157",
+    "points": 380,
+    "comments": 732
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "6f5c2af0a911",
+   "title": "Phyllotaxis: An audio-reactive LED display",
+   "url": "https://jagi.studio/posts/phyllotaxis/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-28T16:18:57.000Z",
+   "hn": {
+    "id": "49880411",
+    "points": 320,
+    "comments": 48
+   },
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "5f030cfd4e54",
+   "title": "The Cuckoo's Egg",
+   "url": "https://en.wikipedia.org/wiki/The_Cuckoo%27s_Egg_(book)",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-22T15:25:12.000Z",
-   "hn": {
-    "id": "49802871",
-    "points": 339,
-    "comments": 163
-   },
-   "firstSeenAt": "2026-09-23T14:11:36.283Z",
-   "score": 70
+   "publishedAt": "2026-09-30T08:48:43.805Z",
+   "score": 21,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "91d1779c5042",
+   "title": "How to speed up the Rust compiler in September 2026",
+   "url": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T02:08:22.758Z",
+   "score": 48,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "6b262ef52747",
+   "title": "Differences between `foldl` and `foldr`",
+   "url": "https://blog.haskell.org/foldl-and-foldr/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T12:47:02.869Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "45c60971f2cb",
+   "title": "Deser: Rethinking Rust Serialization",
+   "url": "https://lucumr.pocoo.org/2026/9/29/deser/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T22:02:31.395Z",
+   "score": 36,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "38661ae6f52f",
+   "title": "Two Kinds of SQL Query Builders",
+   "url": "https://mechanicalrabbit.github.io/FunSQL.jl/stable/two-kinds-of-sql-query-builders/#Two-Kinds-of-SQL-Query-Builders",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T20:47:03.820Z",
+   "score": 27,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "e2b7dd86df61",
+   "title": "The Only Intuitive Interface Is The Nipple",
+   "url": "https://www.greenend.org.uk/rjk/misc/nipple.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T03:45:19.552Z",
+   "score": 10,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "8c7a5132c0a2",
+   "title": "Hardly Promethean",
+   "url": "https://jardo.dev/hardly-promethean",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T02:10:26.657Z",
+   "score": 23,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "75a4c60894cd",
+   "title": "Dirty Optimization Secrets (C for Playdate)",
+   "url": "https://devforum.play.date/t/dirty-optimization-secrets-c-for-playdate/23011",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T05:05:56.191Z",
+   "score": 14,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "ddf65536a376",
+   "title": "Getting root on OnePlus 15 from an untrusted app",
+   "url": "https://blog.nns.ee/2026/09/24/oneplus-root/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-29T17:25:55.917Z",
+   "score": 15,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "5694d203116d",
+   "title": "Follow the Entities: A Corpus Map for Agentic Search",
+   "url": "https://huggingface.co/papers/2609.37226",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-28T20:00:00.000Z",
+   "score": 38,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "af7a9531f19f",
+   "title": "EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?",
+   "url": "https://huggingface.co/papers/2609.37686",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-28T20:00:00.000Z",
+   "score": 34,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "a6c28e6aa524",
+   "title": "SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video",
+   "url": "https://huggingface.co/papers/2609.37969",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-28T20:00:00.000Z",
+   "score": 18,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "a76b0b490b97",
+   "title": "APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants",
+   "url": "https://huggingface.co/papers/2609.37559",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-28T20:00:00.000Z",
+   "score": 17,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "71f690c6d184",
+   "title": "Asking for What Was Never Requested: Horizontal and Vertical Proactivity in Agents",
+   "url": "https://huggingface.co/papers/2609.37236",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-28T20:00:00.000Z",
+   "score": 17,
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "b5e5e43443d2",
+   "title": "Helping small businesses put AI to work",
+   "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-09-30T10:00:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "396b95f3429c",
+   "title": "Introducing SynthID Bio",
+   "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-09-30T15:03:07.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "c394c893534e",
+   "title": "[$] The year in Plasma and what's ahead",
+   "url": "https://lwn.net/Articles/1096518/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-30T15:31:42.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "f5de8c0fcf34",
+   "title": "[$] Comparing Chromium development at Google and Igalia",
+   "url": "https://lwn.net/Articles/1094721/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-09-30T14:16:19.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "fa555d9a2322",
+   "title": "Cloudflare Impact reaches $100 million in donations",
+   "url": "https://blog.cloudflare.com/100-million-donations/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T13:01:55.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "ee440c0d1eba",
+   "title": "Cut your AI spend with AI Gateway's Auto Router",
+   "url": "https://blog.cloudflare.com/auto-router/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "20c98f8389b1",
+   "title": "Detect and send production issues straight to your agent",
+   "url": "https://blog.cloudflare.com/real-time-issue-detection/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "230a3430f52b",
+   "title": "Simplifying domains for people and agents",
+   "url": "https://blog.cloudflare.com/simplifying-domains/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "6c753ea8ff22",
+   "title": "Monetization Gateway beta: charge AI agents for consumption with HTTP 402",
+   "url": "https://blog.cloudflare.com/monetization-gateway-beta/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "703031683ee4",
+   "title": "Pay Per Use: when AI uses your work, you should get paid",
+   "url": "https://blog.cloudflare.com/pay-per-use/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "71261214eac6",
+   "title": "Identify AI model overuse with User Insights",
+   "url": "https://blog.cloudflare.com/ai-model-overuse-user-insights/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T13:00:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "1c1c21a082d3",
+   "title": "Cloudflare Containers, rebuilt to scale agent sandboxes",
+   "url": "https://blog.cloudflare.com/faster-agent-sandboxes/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T12:58:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "657be6a647e0",
+   "title": "The Internet has a second audience",
+   "url": "https://blog.cloudflare.com/agentic-web/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-09-30T12:58:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
+  },
+  {
+   "id": "5c34efbd94af",
+   "title": "Principles for effective slides",
+   "url": "https://martinfowler.com/articles/never-send-slides/slide-principles.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-09-30T14:14:00.000Z",
+   "firstSeenAt": "2026-09-30T15:49:32.400Z"
   },
   {
    "id": "0a51a0bd84cd",
@@ -298,8 +710,8 @@
    "publishedAt": "2026-09-29T16:30:48.000Z",
    "hn": {
     "id": "49896050",
-    "points": 522,
-    "comments": 368
+    "points": 548,
+    "comments": 412
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -313,8 +725,8 @@
    "publishedAt": "2026-09-29T14:32:33.000Z",
    "hn": {
     "id": "49894005",
-    "points": 435,
-    "comments": 309
+    "points": 467,
+    "comments": 344
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -328,8 +740,8 @@
    "publishedAt": "2026-09-29T12:43:29.000Z",
    "hn": {
     "id": "49892245",
-    "points": 421,
-    "comments": 247
+    "points": 553,
+    "comments": 303
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -343,8 +755,8 @@
    "publishedAt": "2026-09-29T11:44:25.000Z",
    "hn": {
     "id": "49891550",
-    "points": 361,
-    "comments": 353
+    "points": 381,
+    "comments": 386
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -358,8 +770,8 @@
    "publishedAt": "2026-09-29T11:35:18.000Z",
    "hn": {
     "id": "49891480",
-    "points": 466,
-    "comments": 288
+    "points": 499,
+    "comments": 299
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -373,8 +785,8 @@
    "publishedAt": "2026-09-28T20:18:05.000Z",
    "hn": {
     "id": "49883760",
-    "points": 303,
-    "comments": 117
+    "points": 305,
+    "comments": 119
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -386,7 +798,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T15:35:14.850Z",
-   "score": 26,
+   "score": 48,
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
   {
@@ -397,7 +809,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T14:49:08.046Z",
-   "score": 36,
+   "score": 49,
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
   {
@@ -408,7 +820,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T19:20:05.967Z",
-   "score": 13,
+   "score": 26,
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
   {
@@ -419,7 +831,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T09:40:33.245Z",
-   "score": 14,
+   "score": 28,
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
   {
@@ -493,8 +905,8 @@
    "publishedAt": "2026-09-29T11:14:45.000Z",
    "hn": {
     "id": "49891295",
-    "points": 713,
-    "comments": 652
+    "points": 801,
+    "comments": 712
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -508,8 +920,8 @@
    "publishedAt": "2026-09-29T09:03:41.000Z",
    "hn": {
     "id": "49890226",
-    "points": 406,
-    "comments": 128
+    "points": 420,
+    "comments": 136
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -523,8 +935,8 @@
    "publishedAt": "2026-09-28T20:23:36.000Z",
    "hn": {
     "id": "49883844",
-    "points": 564,
-    "comments": 218
+    "points": 569,
+    "comments": 222
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -538,8 +950,8 @@
    "publishedAt": "2026-09-28T20:00:06.000Z",
    "hn": {
     "id": "49883539",
-    "points": 370,
-    "comments": 915
+    "points": 382,
+    "comments": 964
    },
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
@@ -611,7 +1023,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T09:07:37.137Z",
-   "score": 98,
+   "score": 131,
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
   {
@@ -622,7 +1034,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-29T06:00:10.041Z",
-   "score": 31,
+   "score": 37,
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
   },
   {
@@ -831,8 +1243,8 @@
    "publishedAt": "2026-09-28T17:58:11.000Z",
    "hn": {
     "id": "49881850",
-    "points": 871,
-    "comments": 603
+    "points": 878,
+    "comments": 609
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -846,8 +1258,8 @@
    "publishedAt": "2026-09-28T17:51:24.000Z",
    "hn": {
     "id": "49881747",
-    "points": 519,
-    "comments": 172
+    "points": 529,
+    "comments": 176
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -861,8 +1273,8 @@
    "publishedAt": "2026-09-28T16:11:42.000Z",
    "hn": {
     "id": "49880312",
-    "points": 381,
-    "comments": 238
+    "points": 384,
+    "comments": 239
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -876,8 +1288,8 @@
    "publishedAt": "2026-09-28T15:54:15.000Z",
    "hn": {
     "id": "49880036",
-    "points": 685,
-    "comments": 361
+    "points": 693,
+    "comments": 375
    },
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
@@ -919,7 +1331,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-28T16:18:16.783Z",
-   "score": 136,
+   "score": 151,
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
   },
   {
@@ -2781,254 +3193,6 @@
    ],
    "publishedAt": "2026-09-23T17:07:22.000Z",
    "firstSeenAt": "2026-09-23T23:28:20.459Z"
-  },
-  {
-   "id": "fec080e23669",
-   "title": "Jev in 25 Lines of Python",
-   "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T07:26:23.000Z",
-   "hn": {
-    "id": "49812769",
-    "points": 672,
-    "comments": 209
-   },
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "0d481db41fd2",
-   "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-   "url": "https://foxscript.org/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T21:00:30.000Z",
-   "hn": {
-    "id": "49808023",
-    "points": 477,
-    "comments": 262
-   },
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "4e69396feb63",
-   "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-   "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T17:46:02.000Z",
-   "hn": {
-    "id": "49805278",
-    "points": 802,
-    "comments": 603
-   },
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "cdb477377ba3",
-   "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-   "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T16:51:31.000Z",
-   "hn": {
-    "id": "49804316",
-    "points": 330,
-    "comments": 103
-   },
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "18dcc1c8f6f4",
-   "title": "OpenAI is well positioned to fast-follow Jev",
-   "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-22T14:42:59.000Z",
-   "hn": {
-    "id": "49802161",
-    "points": 321,
-    "comments": 221
-   },
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "31f9f3ae5862",
-   "title": "The GNOME LLM Policy That I Want",
-   "url": "https://blogs.gnome.org/alatiera/2026/09/23/the-gnome-llm-policy-that-i-want/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-23T10:28:14.797Z",
-   "score": 52,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "6850e396383a",
-   "title": "No Sloptober",
-   "url": "https://no-sloptober.com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T21:06:34.391Z",
-   "score": 88,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "e5dd163090c4",
-   "title": "Abandoning Scientific Linux Was a Mistake",
-   "url": "https://blog.melashri.net/posts/scientific-linux-mistake/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-23T09:53:20.473Z",
-   "score": 49,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "18606ed72436",
-   "title": "How to talk about \"AI\" without adding to the anthropomorphization",
-   "url": "https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T21:45:11.788Z",
-   "score": 23,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "d32e2f74debc",
-   "title": "The GitHub wiki is an anti-pattern",
-   "url": "https://michaelheap.com/github-wiki-is-an-antipattern/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-23T11:48:39.707Z",
-   "score": 41,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "ad370fb2c4d0",
-   "title": "Jev-powered autocorrection",
-   "url": "https://levmiseri.com/nospace",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T18:55:00.112Z",
-   "score": 12,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "23bea62dbd55",
-   "title": "Parsing JSON Objects without intermediate ASTs",
-   "url": "https://arthi-chaud.github.io/posts/json-ir/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-23T04:28:16.369Z",
-   "score": 19,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "9afbbfda0372",
-   "title": "Serious editors are a commitment (at least for me)",
-   "url": "https://utcc.utoronto.ca/~cks/space/blog/tech/EditorsAreACommitment",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-22T18:50:12.898Z",
-   "score": 22,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "31d196dd5b2b",
-   "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
-   "url": "https://huggingface.co/papers/2609.25804",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-21T20:00:00.000Z",
-   "score": 88,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "c11a71cae413",
-   "title": "StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training",
-   "url": "https://huggingface.co/papers/2609.26774",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-21T20:00:00.000Z",
-   "score": 19,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "c188af53495e",
-   "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-   "url": "https://huggingface.co/papers/2609.26796",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-21T20:00:00.000Z",
-   "score": 12,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "923e973a8e7f",
-   "title": "Recursive self-improvement of AI research agents",
-   "url": "https://huggingface.co/papers/2609.26457",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-21T20:00:00.000Z",
-   "score": 6,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "47c6654446be",
-   "title": "Agensh: Scaling Organizational Intelligence to 1,024 Agents",
-   "url": "https://huggingface.co/papers/2609.26781",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-21T20:00:00.000Z",
-   "score": 5,
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "1d77064cbebb",
-   "title": "OpenAI extends cyber access to Ukraine for civilian defense",
-   "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-23T13:00:00.000Z",
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "09a0c6dbf1c6",
-   "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-   "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-23T00:00:00.000Z",
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
-  },
-  {
-   "id": "4a34b417a079",
-   "title": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-   "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-09-22T23:46:41.000Z",
-   "firstSeenAt": "2026-09-23T14:11:36.283Z"
   }
  ]
 }
