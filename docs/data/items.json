@@ -1,6 +1,40 @@
 {
- "generatedAt": "2026-10-01T00:25:21.578Z",
+ "generatedAt": "2026-10-01T16:16:17.605Z",
  "items": [
+  {
+   "id": "09f54a7fb5d1",
+   "title": "A brief history of the Bloomberg terminal",
+   "url": "https://spectrum.ieee.org/bloomberg-terminal",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T14:34:07.000Z",
+   "hn": {
+    "id": "49909583",
+    "points": 350,
+    "comments": 149
+   },
+   "score": 11,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "ff45c3d479d2",
+   "title": "Tcl/Tk 9.1",
+   "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-29T17:13:38.000Z",
+   "score": 52,
+   "firstSeenAt": "2026-10-01T00:25:21.578Z",
+   "hn": {
+    "id": "49896712",
+    "points": 300,
+    "comments": 143
+   }
+  },
   {
    "id": "884977ecb800",
    "title": "Dots: Always-on agents",
@@ -12,8 +46,8 @@
    "publishedAt": "2026-09-29T00:00:00.000Z",
    "hn": {
     "id": "49896604",
-    "points": 748,
-    "comments": 629
+    "points": 758,
+    "comments": 634
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -28,8 +62,8 @@
    "publishedAt": "2026-09-29T10:00:00.000Z",
    "hn": {
     "id": "49896586",
-    "points": 1049,
-    "comments": 930
+    "points": 1057,
+    "comments": 944
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -238,6 +272,391 @@
    }
   },
   {
+   "id": "f7c3330b4cdd",
+   "title": "StreetComplete on iOS is now in public beta",
+   "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T10:59:57.000Z",
+   "hn": {
+    "id": "49920160",
+    "points": 350,
+    "comments": 71
+   },
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "62b3fa80745a",
+   "title": "The last time my family was replaced by technology",
+   "url": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-30T13:06:11.000Z",
+   "hn": {
+    "id": "49908394",
+    "points": 302,
+    "comments": 587
+   },
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "7db31d9865a7",
+   "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
+   "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-30T09:27:04.000Z",
+   "hn": {
+    "id": "49906432",
+    "points": 432,
+    "comments": 430
+   },
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "fd17f863095b",
+   "title": "IANA's email about why example.com changed",
+   "url": "https://www.oliverdunk.com/2026/09/30/iana-reply",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T08:47:50.120Z",
+   "score": 77,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "15597670151d",
+   "title": "Who's hiring? Q4 2026",
+   "url": "https://lobste.rs/s/bmcnwp/who_s_hiring_q4_2026",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T10:03:52.944Z",
+   "score": 36,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "adc30f6b02de",
+   "title": "Reducing the cognitive load of AI changes",
+   "url": "https://amoffat.github.io/blog/cognitive-load.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T12:57:19.033Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "cb5a7e360bc1",
+   "title": "Announcing Rust 1.99.0",
+   "url": "https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T13:08:57.777Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "5c57708d8eed",
+   "title": "Reviving Valve's 15-year-old e-book",
+   "url": "https://nikolan.net/posts/portal2/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T06:02:28.542Z",
+   "score": 29,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "0fd6e282f925",
+   "title": "Typeclasses vs Modules",
+   "url": "https://sm2n.ca/articles/typeclasses-vs-modules/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T05:13:31.010Z",
+   "score": 22,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "341068a8bc21",
+   "title": "Is sandboxing sufficient to contain rogue agents?",
+   "url": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T12:16:51.385Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "b0fd9bf7944c",
+   "title": "The AI Pascal’s Wager",
+   "url": "https://ploum.net/2026-10-01-pascal_wager.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T02:03:34.978Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "580517130f27",
+   "title": "EDG C/C++ Compiler Project",
+   "url": "https://github.com/edgcpp/compiler",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T22:06:21.893Z",
+   "score": 26,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "be270d1902fb",
+   "title": "Finding Bugs",
+   "url": "https://matklad.github.io/2026/09/19/finding-bugs.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T19:57:54.701Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "0c0471407819",
+   "title": "Major rsync upgrade in Debian because of 33 CVEs",
+   "url": "https://lobste.rs/s/sqyhgt/major_rsync_upgrade_debian_because_33",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T00:02:09.641Z",
+   "score": 20,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "bcf9a5e4df88",
+   "title": "Rust to WGSL transpiler `wgsl-rs` released",
+   "url": "https://renderling.xyz/articles/wgsl-rs-beta-release.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T00:13:12.110Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "8d612b29fdb2",
+   "title": "ASM Bots: Core War in real 8086 machine code",
+   "url": "https://asmbots.io",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T01:59:24.607Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "ea4c204f2a15",
+   "title": "EU KIDS Act",
+   "url": "https://commission.europa.eu/news-and-media/news/eu-kids-act-helping-children-navigate-safer-online-world-2026-09-17_en",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-01T10:19:09.227Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "31f510ca25f2",
+   "title": "We used a database as a message queue. Now we use Kafka",
+   "url": "https://www.tigrisdata.com/blog/quick-fdb-kafka/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-09-30T20:28:27.900Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "b55cb54dccb3",
+   "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+   "url": "https://huggingface.co/papers/2609.38721",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-29T20:00:00.000Z",
+   "score": 166,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "45507557a3ac",
+   "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
+   "url": "https://huggingface.co/papers/2609.39102",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-29T20:00:00.000Z",
+   "score": 143,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "81bad2502e12",
+   "title": "Mid-Harness: Scaling Actions Between Model and Harness for Terminal Agents",
+   "url": "https://huggingface.co/papers/2609.39982",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-29T20:00:00.000Z",
+   "score": 74,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "bab64e24f68b",
+   "title": "Agent Error Dataset: Scaling 50,000 Error--Diagnosis Pairs for Failure Analysis and Error-Aware Post-Training",
+   "url": "https://huggingface.co/papers/2609.40111",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-29T20:00:00.000Z",
+   "score": 22,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "916d4b3683d4",
+   "title": "DyRAD: Radar Novel View Synthesis for Dynamic Driving Scenes",
+   "url": "https://huggingface.co/papers/2609.39841",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-29T20:00:00.000Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "91b1f786ee50",
+   "title": "Barclays scales Claude to upgrade operations and improve client experience",
+   "url": "https://www.anthropic.com/news/barclays-scales-claude",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-01T00:00:00.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "63211fb0b210",
+   "title": "[$] Coping with the onslaught of kernel security bugs",
+   "url": "https://lwn.net/Articles/1096908/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-01T15:03:25.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "bb16e3a6cce2",
+   "title": "[$] LWN.net Weekly Edition for October 1, 2026",
+   "url": "https://lwn.net/Articles/1096293/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-01T00:30:07.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "317971da35b1",
+   "title": "Introducing Clef: our open-source decision models, and new RL fine-tuning platform",
+   "url": "https://blog.cloudflare.com/clef-decision-models/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T15:34:02.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "cff0cfdac8b9",
+   "title": "One year later: Sovereign AI and the fight for choice",
+   "url": "https://blog.cloudflare.com/sovereign-ai-choice-one-year-later/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T13:04:19.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "319e51413ab6",
+   "title": "Introducing Workers KV Instant — powered by Quicksilver",
+   "url": "https://blog.cloudflare.com/workers-kv-instant/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "d3d13d9734fe",
+   "title": "Cloudflare OS: your company’s agent workspace, managed for you",
+   "url": "https://blog.cloudflare.com/managed-cloudflare-os/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "4f45a66ba9a4",
+   "title": "Announcing Cloudflare K2: serverless event streams",
+   "url": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "55a839bbc3fd",
+   "title": "We want you to build the next Git platform on Cloudflare",
+   "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "c6c3c49e0ac1",
+   "title": "AI Search is now generally available",
+   "url": "https://blog.cloudflare.com/ai-search-ga/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "8581f2589f95",
+   "title": "Support for modern cryptographic algorithms in Workers",
+   "url": "https://blog.cloudflare.com/workers-ml-kem-ml-dsa-support/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T13:00:00.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
+   "id": "432829626cbf",
+   "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
+   "url": "https://blog.cloudflare.com/cloudflare-basin/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-01T12:58:00.000Z",
+   "firstSeenAt": "2026-10-01T16:16:17.605Z"
+  },
+  {
    "id": "9e57e69aee78",
    "title": "Gemini 4 Argon",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
@@ -247,8 +666,8 @@
    "publishedAt": "2026-09-30T20:04:37.000Z",
    "hn": {
     "id": "49913571",
-    "points": 889,
-    "comments": 612
+    "points": 1565,
+    "comments": 1037
    },
    "firstSeenAt": "2026-10-01T00:25:21.578Z"
   },
@@ -262,8 +681,8 @@
    "publishedAt": "2026-09-30T15:50:11.000Z",
    "hn": {
     "id": "49910553",
-    "points": 372,
-    "comments": 405
+    "points": 396,
+    "comments": 445
    },
    "firstSeenAt": "2026-10-01T00:25:21.578Z"
   },
@@ -290,18 +709,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-30T14:02:33.254Z",
-   "score": 27,
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "ff45c3d479d2",
-   "title": "Tcl/Tk 9.1",
-   "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-30T15:27:41.851Z",
-   "score": 38,
+   "score": 33,
    "firstSeenAt": "2026-10-01T00:25:21.578Z"
   },
   {
@@ -312,7 +720,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-30T15:55:21.340Z",
-   "score": 22,
+   "score": 45,
    "firstSeenAt": "2026-10-01T00:25:21.578Z"
   },
   {
@@ -377,8 +785,8 @@
    "publishedAt": "2026-09-30T09:55:23.000Z",
    "hn": {
     "id": "49906637",
-    "points": 603,
-    "comments": 335
+    "points": 653,
+    "comments": 358
    },
    "firstSeenAt": "2026-09-30T15:49:32.400Z"
   },
@@ -392,8 +800,8 @@
    "publishedAt": "2026-09-30T07:12:31.000Z",
    "hn": {
     "id": "49905487",
-    "points": 486,
-    "comments": 362
+    "points": 502,
+    "comments": 378
    },
    "firstSeenAt": "2026-09-30T15:49:32.400Z"
   },
@@ -407,8 +815,8 @@
    "publishedAt": "2026-09-29T22:36:14.000Z",
    "hn": {
     "id": "49901736",
-    "points": 879,
-    "comments": 374
+    "points": 906,
+    "comments": 384
    },
    "firstSeenAt": "2026-09-30T15:49:32.400Z"
   },
@@ -422,8 +830,8 @@
    "publishedAt": "2026-09-29T19:08:01.000Z",
    "hn": {
     "id": "49898778",
-    "points": 377,
-    "comments": 104
+    "points": 392,
+    "comments": 106
    },
    "firstSeenAt": "2026-09-30T15:49:32.400Z"
   },
@@ -437,8 +845,8 @@
    "publishedAt": "2026-09-29T18:19:02.000Z",
    "hn": {
     "id": "49897993",
-    "points": 374,
-    "comments": 275
+    "points": 378,
+    "comments": 292
    },
    "firstSeenAt": "2026-09-30T15:49:32.400Z"
   },
@@ -510,7 +918,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-30T08:48:43.805Z",
-   "score": 51,
+   "score": 56,
    "firstSeenAt": "2026-09-30T15:49:32.400Z"
   },
   {
@@ -532,7 +940,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-09-30T12:47:02.869Z",
-   "score": 35,
+   "score": 49,
    "firstSeenAt": "2026-09-30T15:49:32.400Z"
   },
   {
@@ -806,8 +1214,8 @@
    "publishedAt": "2026-09-29T16:30:48.000Z",
    "hn": {
     "id": "49896050",
-    "points": 561,
-    "comments": 424
+    "points": 565,
+    "comments": 427
    },
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
@@ -2753,256 +3161,6 @@
    ],
    "publishedAt": "2026-09-24T16:44:27.000Z",
    "firstSeenAt": "2026-09-24T23:47:50.280Z"
-  },
-  {
-   "id": "2091cb5ac2f2",
-   "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-   "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-24T08:23:03.000Z",
-   "hn": {
-    "id": "49827794",
-    "points": 622,
-    "comments": 377
-   },
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "2886d8572f92",
-   "title": "Feds Target AI Critics as \"Foreign Agents\"",
-   "url": "https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-24T00:41:31.000Z",
-   "hn": {
-    "id": "49824686",
-    "points": 387,
-    "comments": 443
-   },
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "0f4cc22088a6",
-   "title": "Meta VR Glasses",
-   "url": "https://www.meta.com/vr-glasses/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T23:47:56.000Z",
-   "hn": {
-    "id": "49824268",
-    "points": 484,
-    "comments": 470
-   },
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "4de1641fc6e4",
-   "title": "Linux support is coming to Snapdragon X2 Series",
-   "url": "https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T22:38:16.000Z",
-   "hn": {
-    "id": "49823582",
-    "points": 608,
-    "comments": 263
-   },
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "9fa5bd158703",
-   "title": "DoorDash Spent $1.4M Trying to Stop Mamdani from Becoming Mayor. Now We Know Why",
-   "url": "https://theintercept.com/2026/09/23/doordash-delivery-nyc-mamdani-wage-theft-settlement/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T19:55:14.000Z",
-   "hn": {
-    "id": "49821608",
-    "points": 340,
-    "comments": 185
-   },
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "f6fab29d9844",
-   "title": "Gemini 3.8 text-to-speech",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T15:29:23.000Z",
-   "hn": {
-    "id": "49817615",
-    "points": 329,
-    "comments": 150
-   },
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "586b8b73e86c",
-   "title": "GPT-6 Astra has gained the ability to drive a car",
-   "url": "https://drivingbench.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T15:14:22.000Z",
-   "hn": {
-    "id": "49817404",
-    "points": 311,
-    "comments": 247
-   },
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "ef3d9040bfd7",
-   "title": "Seattle City Council votes to ban surveillance pricing in sale of groceries",
-   "url": "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T14:04:34.000Z",
-   "hn": {
-    "id": "49816374",
-    "points": 382,
-    "comments": 222
-   },
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "50b562a82417",
-   "title": "The Story of Mel",
-   "url": "https://users.cs.utah.edu/~elb/folklore/mel.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-24T04:09:40.357Z",
-   "score": 69,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "3f090636492d",
-   "title": "Clankers Made Me Build a Second Brain",
-   "url": "https://jadarma.github.io/blog/posts/2026/09/clankers-made-me-build-a-second-brain/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-24T11:34:43.976Z",
-   "score": 36,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "6f918a8693fb",
-   "title": "Pick OS is a Living Fossil of Computer History",
-   "url": "https://csixty4.medium.com/pick-is-a-living-fossil-of-computer-history-36d74408d557",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-24T06:14:19.318Z",
-   "score": 23,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "bcbbd4c0fa86",
-   "title": "Beware overreliance on metaphor",
-   "url": "https://evnm.substack.com/p/beware-overreliance-on-metaphor",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-23T23:39:21.504Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "8eb0cf1ee50b",
-   "title": "A brief history of Windows scroll bar shortcuts",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-23T19:51:19.594Z",
-   "score": 20,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "56b35df7aa82",
-   "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
-   "url": "https://huggingface.co/papers/2609.28466",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "score": 34,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "8f308b0e1d8f",
-   "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
-   "url": "https://huggingface.co/papers/2609.27334",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "score": 17,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "0eb66f53b87f",
-   "title": "MemBodied: Recurrent Associative Memory for Vision-Language-Action Models",
-   "url": "https://huggingface.co/papers/2609.28256",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "score": 9,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "8b33e56e6c3e",
-   "title": "WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents",
-   "url": "https://huggingface.co/papers/2609.27490",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "score": 8,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "216702c39bc9",
-   "title": "Hunyuan-A13B Technical Report",
-   "url": "https://huggingface.co/papers/2609.27284",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-22T20:00:00.000Z",
-   "score": 6,
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "1dd9ce125c6e",
-   "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
-   "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-23T02:00:00.000Z",
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
-  },
-  {
-   "id": "26c653e3056b",
-   "title": "[$] LWN.net Weekly Edition for September 24, 2026",
-   "url": "https://lwn.net/Articles/1094840/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-24T00:22:42.000Z",
-   "firstSeenAt": "2026-09-24T14:09:28.961Z"
   }
  ]
 }
