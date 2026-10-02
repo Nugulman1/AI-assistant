@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-10-02T00:35:49.093Z",
+ "generatedAt": "2026-10-02T15:40:26.963Z",
  "items": [
+  {
+   "id": "9f58bc056c1d",
+   "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+   "url": "https://blog.gitbutler.com/git-3-sha-256",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T16:57:03.000Z",
+   "score": 68,
+   "firstSeenAt": "2026-10-02T00:35:49.093Z",
+   "hn": {
+    "id": "49924179",
+    "points": 493,
+    "comments": 471
+   }
+  },
   {
    "id": "09f54a7fb5d1",
    "title": "A brief history of the Bloomberg terminal",
@@ -30,8 +47,8 @@
    "firstSeenAt": "2026-10-01T16:16:17.605Z",
    "hn": {
     "id": "49923692",
-    "points": 411,
-    "comments": 157
+    "points": 574,
+    "comments": 209
    }
   },
   {
@@ -237,6 +254,299 @@
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
   },
   {
+   "id": "4c41d0de1f5c",
+   "title": "DeepSeek Harness Desktop for macOS and Windows",
+   "url": "https://www.deepseek.com/en/harness/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-02T03:11:20.000Z",
+   "hn": {
+    "id": "49929489",
+    "points": 342,
+    "comments": 173
+   },
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "95d0ef58b850",
+   "title": "Several vulnerabilities have been discovered in the Linux kernel",
+   "url": "https://lwn.net/Articles/1097401/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T23:10:44.000Z",
+   "hn": {
+    "id": "49928121",
+    "points": 463,
+    "comments": 328
+   },
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "79f8fdb93f17",
+   "title": "Frog and Toad and the Increasingly Capable Machines",
+   "url": "https://www.frogandtoad.ai/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T22:23:38.000Z",
+   "hn": {
+    "id": "49927760",
+    "points": 414,
+    "comments": 90
+   },
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "5d7cb0335041",
+   "title": "SvelteKit 3",
+   "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T20:14:23.000Z",
+   "hn": {
+    "id": "49926536",
+    "points": 360,
+    "comments": 154
+   },
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "8d8c225d2284",
+   "title": "Pi Durable",
+   "url": "https://earendil.com/posts/pi-durable/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T19:24:08.000Z",
+   "hn": {
+    "id": "49925969",
+    "points": 454,
+    "comments": 63
+   },
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "a4d5be1f0220",
+   "title": "RIP, vector database",
+   "url": "https://turbopuffer.com/blog/rip-vector-database",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T16:01:56.000Z",
+   "hn": {
+    "id": "49923466",
+    "points": 364,
+    "comments": 102
+   },
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "aa61e9fcbdd3",
+   "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
+   "url": "https://www.thespacereview.com/article/4951/1",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-09-30T22:03:04.000Z",
+   "hn": {
+    "id": "49915082",
+    "points": 306,
+    "comments": 162
+   },
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "7f1bcba64445",
+   "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
+   "url": "https://www.waterfox.com/releases/6.7.5/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T02:17:04.275Z",
+   "score": 42,
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "9c34a8eb4051",
+   "title": "What are you doing this weekend?",
+   "url": "https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T08:18:01.576Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "056d578858c2",
+   "title": "Generic Const Args and You",
+   "url": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T09:20:42.528Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "8f020abdf366",
+   "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+   "url": "https://huggingface.co/papers/2610.01762",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-30T20:00:00.000Z",
+   "score": 138,
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "36ee8bdf3ffd",
+   "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
+   "url": "https://huggingface.co/papers/2610.02162",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-30T20:00:00.000Z",
+   "score": 40,
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "94580c0cfb12",
+   "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
+   "url": "https://huggingface.co/papers/2610.01939",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-30T20:00:00.000Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "d735305da6a4",
+   "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
+   "url": "https://huggingface.co/papers/2610.02196",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-30T20:00:00.000Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "ca41d921766f",
+   "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
+   "url": "https://huggingface.co/papers/2610.02201",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-09-30T20:00:00.000Z",
+   "score": 8,
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "5d095f0fff9f",
+   "title": "[$] Beyond the &",
+   "url": "https://lwn.net/Articles/1096028/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-02T15:11:11.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "5282f8714e4c",
+   "title": "Introducing Web Search API via AI Gateway",
+   "url": "https://blog.cloudflare.com/introducing-web-search-api/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:28:10.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "afad8aacc340",
+   "title": "8 major updates to Cloudflare Observability",
+   "url": "https://blog.cloudflare.com/one-observability-platform/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:00:00.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "bc7eda42cb3f",
+   "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
+   "url": "https://blog.cloudflare.com/cloudflare-tracing/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:00:00.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "72f49031912f",
+   "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
+   "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:00:00.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "5e1d1c7f4599",
+   "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
+   "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:00:00.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "3836babc9c5a",
+   "title": "Follow the thread: a new dashboard to investigate account abuse",
+   "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:00:00.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "34c5734222cd",
+   "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
+   "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:00:00.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "19ec3340e630",
+   "title": "Building for good: How civil society organizations are automating on Cloudflare",
+   "url": "https://blog.cloudflare.com/civil-society-automation/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:00:00.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
+   "id": "c5769abc90da",
+   "title": "2026 Birthday week: network performance update",
+   "url": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-02T13:00:00.000Z",
+   "firstSeenAt": "2026-10-02T15:40:26.963Z"
+  },
+  {
    "id": "f796b39f9fcc",
    "title": "Pi 1.0",
    "url": "https://earendil.com/posts/pi-1-0/",
@@ -246,8 +556,8 @@
    "publishedAt": "2026-10-01T19:33:05.000Z",
    "hn": {
     "id": "49926069",
-    "points": 689,
-    "comments": 230
+    "points": 1564,
+    "comments": 525
    },
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
@@ -261,8 +571,8 @@
    "publishedAt": "2026-10-01T12:55:27.000Z",
    "hn": {
     "id": "49920997",
-    "points": 342,
-    "comments": 153
+    "points": 350,
+    "comments": 156
    },
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
@@ -276,8 +586,8 @@
    "publishedAt": "2026-10-01T12:48:59.000Z",
    "hn": {
     "id": "49920932",
-    "points": 325,
-    "comments": 377
+    "points": 375,
+    "comments": 431
    },
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
@@ -291,8 +601,8 @@
    "publishedAt": "2026-10-01T11:13:59.000Z",
    "hn": {
     "id": "49920234",
-    "points": 353,
-    "comments": 323
+    "points": 387,
+    "comments": 360
    },
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
@@ -306,8 +616,8 @@
    "publishedAt": "2026-10-01T04:32:38.000Z",
    "hn": {
     "id": "49917761",
-    "points": 309,
-    "comments": 129
+    "points": 321,
+    "comments": 135
    },
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
@@ -327,17 +637,6 @@
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
   {
-   "id": "9f58bc056c1d",
-   "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-   "url": "https://blog.gitbutler.com/git-3-sha-256",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-01T18:26:59.318Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
    "id": "c3f9b0c23f43",
    "title": "Pidgin 3.0 Alpha 3 2.97.0 has been released",
    "url": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436",
@@ -345,7 +644,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T16:47:42.962Z",
-   "score": 16,
+   "score": 23,
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
   {
@@ -356,7 +655,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T11:43:16.865Z",
-   "score": 18,
+   "score": 24,
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
   {
@@ -367,7 +666,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T17:14:23.255Z",
-   "score": 16,
+   "score": 37,
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
   {
@@ -420,8 +719,8 @@
    "publishedAt": "2026-10-01T10:59:57.000Z",
    "hn": {
     "id": "49920160",
-    "points": 513,
-    "comments": 123
+    "points": 602,
+    "comments": 167
    },
    "firstSeenAt": "2026-10-01T16:16:17.605Z"
   },
@@ -463,7 +762,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T08:47:50.120Z",
-   "score": 110,
+   "score": 128,
    "firstSeenAt": "2026-10-01T16:16:17.605Z"
   },
   {
@@ -474,7 +773,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T10:03:52.944Z",
-   "score": 48,
+   "score": 54,
    "firstSeenAt": "2026-10-01T16:16:17.605Z"
   },
   {
@@ -485,7 +784,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T12:57:19.033Z",
-   "score": 29,
+   "score": 43,
    "firstSeenAt": "2026-10-01T16:16:17.605Z"
   },
   {
@@ -496,7 +795,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T13:08:57.777Z",
-   "score": 49,
+   "score": 69,
    "firstSeenAt": "2026-10-01T16:16:17.605Z"
   },
   {
@@ -518,7 +817,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T05:13:31.010Z",
-   "score": 35,
+   "score": 38,
    "firstSeenAt": "2026-10-01T16:16:17.605Z"
   },
   {
@@ -529,7 +828,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-01T12:16:51.385Z",
-   "score": 21,
+   "score": 23,
    "firstSeenAt": "2026-10-01T16:16:17.605Z"
   },
   {
@@ -795,8 +1094,8 @@
    "publishedAt": "2026-09-30T20:04:37.000Z",
    "hn": {
     "id": "49913571",
-    "points": 1638,
-    "comments": 1123
+    "points": 1677,
+    "comments": 1159
    },
    "firstSeenAt": "2026-10-01T00:25:21.578Z"
   },
@@ -810,8 +1109,8 @@
    "publishedAt": "2026-09-30T15:50:11.000Z",
    "hn": {
     "id": "49910553",
-    "points": 408,
-    "comments": 455
+    "points": 412,
+    "comments": 458
    },
    "firstSeenAt": "2026-10-01T00:25:21.578Z"
   },
@@ -2879,264 +3178,6 @@
    ],
    "publishedAt": "2026-09-25T15:59:55.000Z",
    "firstSeenAt": "2026-09-25T23:53:55.833Z"
-  },
-  {
-   "id": "3e486f4c9d38",
-   "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-   "url": "https://www.dawo.community/en/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-25T08:06:49.000Z",
-   "hn": {
-    "id": "49841563",
-    "points": 992,
-    "comments": 575
-   },
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "e3359762ea69",
-   "title": "Opus 5.5 is good at explainer videos",
-   "url": "https://launchvideo.io",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-24T20:28:47.000Z",
-   "hn": {
-    "id": "49836374",
-    "points": 414,
-    "comments": 217
-   },
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "185ddb0abcfc",
-   "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-   "url": "https://github.com/devdotfast/whiteboard",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-24T17:21:36.000Z",
-   "hn": {
-    "id": "49833867",
-    "points": 403,
-    "comments": 134
-   },
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "6e8691490283",
-   "title": "Why is the liver so weirdly regenerative?",
-   "url": "https://dynomight.substack.com/p/liver",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-24T16:23:00.000Z",
-   "hn": {
-    "id": "49832938",
-    "points": 561,
-    "comments": 289
-   },
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "2792cb9bc49e",
-   "title": "Owners mourn spoiled food after firmware update bricks Samsung smart fridges",
-   "url": "https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-24T12:58:08.000Z",
-   "hn": {
-    "id": "49829960",
-    "points": 315,
-    "comments": 326
-   },
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "47a3af75ac4a",
-   "title": "Toyota is taking the Corolla electric",
-   "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T22:37:28.000Z",
-   "hn": {
-    "id": "49823568",
-    "points": 375,
-    "comments": 671
-   },
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "2346b2083d64",
-   "title": "Rails World 2026 Opening Keynote [video]",
-   "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-23T15:33:33.000Z",
-   "hn": {
-    "id": "49817680",
-    "points": 377,
-    "comments": 404
-   },
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "e7c26b192c55",
-   "title": "Lobsters: Rename vibecoding to llms (Greasemonkey script)",
-   "url": "https://greasyfork.org/en/scripts?by=1646191",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T05:33:53.765Z",
-   "score": 75,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "5a411421e2d8",
-   "title": "Goodbye Google",
-   "url": "https://robert.ocallahan.org/2026/09/goodbye-google.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T05:51:12.558Z",
-   "score": 99,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "3b5cf2416260",
-   "title": "File Notification Attacks: Side-Channel Leakage from the File-Notification System on Linux, Android, Windows, and macOS",
-   "url": "https://inoti.fyi/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T02:50:41.729Z",
-   "score": 33,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "58c72bf9dab3",
-   "title": "Every package is already installed",
-   "url": "https://fzakaria.com/2026/09/24/every-package-is-already-installed",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T06:39:43.034Z",
-   "score": 43,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "63e9a8b375dc",
-   "title": "Grieving the loss of details",
-   "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T11:29:33.807Z",
-   "score": 46,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "7daab1d949d7",
-   "title": "Paranoia-Sans: A conspiratorial typeface",
-   "url": "https://github.com/flegfleg/Paranoia-Sans",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T08:32:30.543Z",
-   "score": 10,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "3c79dcfa3b90",
-   "title": "Launching FreeBSD/EC2 desktop AMIs",
-   "url": "https://www.daemonology.net/blog/2026-09-24-Launching-FreeBSD-EC2-desktop-AMIs.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T01:17:51.540Z",
-   "score": 12,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "f3b93a4d2931",
-   "title": "katamari architecture",
-   "url": "https://nove.dev/blog/katamari-architecture/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-24T18:20:23.168Z",
-   "score": 20,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "c39d3732b86d",
-   "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
-   "url": "https://huggingface.co/papers/2609.29845",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-23T20:00:00.000Z",
-   "score": 10,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "9c8dbe890382",
-   "title": "Parts-of-Speech as Emergent Categories in SAE Latent Space",
-   "url": "https://huggingface.co/papers/2609.29362",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-23T20:00:00.000Z",
-   "score": 9,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "48ed5d53175a",
-   "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
-   "url": "https://huggingface.co/papers/2609.30221",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-23T20:00:00.000Z",
-   "score": 8,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "00117a8e35ee",
-   "title": "Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents",
-   "url": "https://huggingface.co/papers/2609.29892",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-23T20:00:00.000Z",
-   "score": 8,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "54dbfd49ef77",
-   "title": "IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis",
-   "url": "https://huggingface.co/papers/2609.29444",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-23T20:00:00.000Z",
-   "score": 7,
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
-  },
-  {
-   "id": "b3c4883870e4",
-   "title": "Agents can now set up your website’s security with Turnstile Spin",
-   "url": "https://blog.cloudflare.com/turnstile-spin/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-25T13:00:00.000Z",
-   "firstSeenAt": "2026-09-25T14:33:09.141Z"
   }
  ]
 }
