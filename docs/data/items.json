@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-03T00:15:59.722Z",
+ "generatedAt": "2026-10-03T14:15:32.493Z",
  "items": [
   {
    "id": "9f58bc056c1d",
@@ -10,12 +10,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-01T16:57:03.000Z",
-   "score": 75,
+   "score": 79,
    "firstSeenAt": "2026-10-02T00:35:49.093Z",
    "hn": {
     "id": "49924179",
-    "points": 546,
-    "comments": 517
+    "points": 552,
+    "comments": 528
    }
   },
   {
@@ -47,7 +47,7 @@
    "firstSeenAt": "2026-10-01T16:16:17.605Z",
    "hn": {
     "id": "49923692",
-    "points": 618,
+    "points": 622,
     "comments": 215
    }
   },
@@ -203,38 +203,201 @@
    }
   },
   {
-   "id": "1113e051551f",
-   "title": "We’re gonna need a lot more mathematicians",
-   "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+   "id": "aa5b44863905",
+   "title": "Extra Big Ass Intelligence",
+   "url": "https://www.extrabigassintelligence.com/",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-25T18:27:05.345Z",
-   "score": 17,
-   "firstSeenAt": "2026-09-26T13:43:03.105Z",
+   "publishedAt": "2026-10-03T03:19:10.000Z",
    "hn": {
-    "id": "49852717",
-    "points": 393,
-    "comments": 485
-   }
+    "id": "49941114",
+    "points": 362,
+    "comments": 78
+   },
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
-   "id": "53c6959c1870",
-   "title": "How to keep enjoying programming in a world of LLMs",
-   "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+   "id": "7181b62f0158",
+   "title": "Newgrounds.com – A community of games, music, and art",
+   "url": "https://www.newgrounds.com/",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-25T23:22:27.151Z",
-   "score": 26,
-   "firstSeenAt": "2026-09-26T13:43:03.105Z",
+   "publishedAt": "2026-10-03T00:55:25.000Z",
    "hn": {
-    "id": "49854875",
-    "points": 323,
-    "comments": 330
-   }
+    "id": "49940394",
+    "points": 320,
+    "comments": 90
+   },
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "f645ab769782",
+   "title": "Apple Pass Designer",
+   "url": "https://developer.apple.com/pass-designer/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-02T19:06:56.000Z",
+   "hn": {
+    "id": "49937276",
+    "points": 478,
+    "comments": 293
+   },
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "1ba30ffb2175",
+   "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+   "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-02T11:07:17.000Z",
+   "hn": {
+    "id": "49932147",
+    "points": 326,
+    "comments": 62
+   },
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "47e64466ac74",
+   "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+   "url": "https://stillwet.art/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-02T00:27:56.000Z",
+   "hn": {
+    "id": "49928566",
+    "points": 311,
+    "comments": 100
+   },
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "cc9eb70adea3",
+   "title": "Sites in ChatGPT",
+   "url": "https://chatgpt.com/features/sites/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T22:22:21.000Z",
+   "hn": {
+    "id": "49927747",
+    "points": 306,
+    "comments": 288
+   },
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "649e4d2bdd96",
+   "title": "FLUX 3 Image",
+   "url": "https://bfl.ai/models/flux-3-image",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T19:24:29.000Z",
+   "hn": {
+    "id": "49925974",
+    "points": 377,
+    "comments": 83
+   },
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "1671a01d9f3f",
+   "title": "Mike Tomlin spent 12 years building a Minecraft city",
+   "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-01T18:20:18.000Z",
+   "hn": {
+    "id": "49925184",
+    "points": 540,
+    "comments": 126
+   },
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "c22864d63ba1",
+   "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
+   "url": "https://frankwiles.com/posts/i-got-targeted/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T22:19:02.622Z",
+   "score": 75,
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "5641221462e8",
+   "title": "Lobsters Interview with Sjamaan",
+   "url": "https://alexalejandre.com/interviews/peter-bex/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T22:01:27.215Z",
+   "score": 39,
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "d77ccec1b164",
+   "title": "gVisor is being donated to CNCF",
+   "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-03T02:41:38.394Z",
+   "score": 24,
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "14db68452116",
+   "title": "Updates to Full Disk Access in macOS",
+   "url": "https://developer.apple.com/news/?id=p6zjojqw",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T20:10:26.574Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "e0f4f68945de",
+   "title": "Keeping Futhark off the GPU",
+   "url": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T20:17:47.529Z",
+   "score": 24,
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "7a080e797efd",
+   "title": "The hidden design compromises of Docker layers",
+   "url": "https://loige.co/hidden-design-compromises-of-docker-layers/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T08:29:47.847Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
+  },
+  {
+   "id": "fe8bc0a4c216",
+   "title": "Klassik Revives the KDE 3 Desktop on Modern Plasma 6",
+   "url": "https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-02T18:34:38.273Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
    "id": "3ac5b3360665",
@@ -246,8 +409,8 @@
    "publishedAt": "2026-10-01T22:23:07.000Z",
    "hn": {
     "id": "49927754",
-    "points": 460,
-    "comments": 206
+    "points": 692,
+    "comments": 329
    },
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
@@ -259,7 +422,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T14:17:00.980Z",
-   "score": 56,
+   "score": 83,
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
   {
@@ -270,7 +433,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T21:10:41.271Z",
-   "score": 32,
+   "score": 98,
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
   {
@@ -281,7 +444,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T14:01:47.761Z",
-   "score": 41,
+   "score": 58,
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
   {
@@ -292,7 +455,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T16:48:36.431Z",
-   "score": 22,
+   "score": 51,
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
   {
@@ -356,8 +519,8 @@
    "publishedAt": "2026-10-02T03:11:20.000Z",
    "hn": {
     "id": "49929489",
-    "points": 381,
-    "comments": 205
+    "points": 391,
+    "comments": 211
    },
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
@@ -371,8 +534,8 @@
    "publishedAt": "2026-10-01T23:10:44.000Z",
    "hn": {
     "id": "49928121",
-    "points": 546,
-    "comments": 393
+    "points": 562,
+    "comments": 403
    },
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
@@ -386,8 +549,8 @@
    "publishedAt": "2026-10-01T22:23:38.000Z",
    "hn": {
     "id": "49927760",
-    "points": 537,
-    "comments": 120
+    "points": 555,
+    "comments": 127
    },
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
@@ -401,8 +564,8 @@
    "publishedAt": "2026-10-01T20:14:23.000Z",
    "hn": {
     "id": "49926536",
-    "points": 394,
-    "comments": 168
+    "points": 398,
+    "comments": 173
    },
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
@@ -416,8 +579,8 @@
    "publishedAt": "2026-10-01T19:24:08.000Z",
    "hn": {
     "id": "49925969",
-    "points": 486,
-    "comments": 67
+    "points": 495,
+    "comments": 69
    },
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
@@ -431,8 +594,8 @@
    "publishedAt": "2026-10-01T16:01:56.000Z",
    "hn": {
     "id": "49923466",
-    "points": 374,
-    "comments": 105
+    "points": 382,
+    "comments": 113
    },
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
@@ -459,7 +622,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T02:17:04.275Z",
-   "score": 54,
+   "score": 60,
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
   {
@@ -470,7 +633,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T08:18:01.576Z",
-   "score": 20,
+   "score": 22,
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
   {
@@ -481,7 +644,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T09:20:42.528Z",
-   "score": 24,
+   "score": 28,
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
   {
@@ -649,8 +812,8 @@
    "publishedAt": "2026-10-01T19:33:05.000Z",
    "hn": {
     "id": "49926069",
-    "points": 1640,
-    "comments": 572
+    "points": 1663,
+    "comments": 582
    },
    "firstSeenAt": "2026-10-02T00:35:49.093Z"
   },
@@ -3069,88 +3232,6 @@
    "publishedAt": "2026-09-26T03:45:44.108Z",
    "score": 24,
    "firstSeenAt": "2026-09-26T23:25:38.088Z"
-  },
-  {
-   "id": "7af26c7f12f1",
-   "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-   "url": "https://swarmtraces.org/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-25T21:09:27.000Z",
-   "hn": {
-    "id": "49849985",
-    "points": 728,
-    "comments": 457
-   },
-   "firstSeenAt": "2026-09-26T13:43:03.105Z"
-  },
-  {
-   "id": "403415989617",
-   "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-   "url": "https://ollaya.dev/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-25T18:33:50.000Z",
-   "hn": {
-    "id": "49848269",
-    "points": 598,
-    "comments": 145
-   },
-   "firstSeenAt": "2026-09-26T13:43:03.105Z"
-  },
-  {
-   "id": "8fc9916b0178",
-   "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-   "url": "https://github.com/git-bug/git-bug",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-25T11:38:31.000Z",
-   "hn": {
-    "id": "49843174",
-    "points": 352,
-    "comments": 108
-   },
-   "firstSeenAt": "2026-09-26T13:43:03.105Z"
-  },
-  {
-   "id": "4ff7eba120a6",
-   "title": "Plan mode is dead",
-   "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-25T03:59:11.000Z",
-   "hn": {
-    "id": "49840054",
-    "points": 545,
-    "comments": 474
-   },
-   "firstSeenAt": "2026-09-26T13:43:03.105Z"
-  },
-  {
-   "id": "517a6b9e9085",
-   "title": "NetBSD Playing with disklabels",
-   "url": "https://movq.de/blog/postings/2026-09-25/0/POSTING-en.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-26T02:14:59.759Z",
-   "score": 26,
-   "firstSeenAt": "2026-09-26T13:43:03.105Z"
-  },
-  {
-   "id": "ce659cea5181",
-   "title": "A Type Stronger than the Sum of its Components",
-   "url": "https://www.schneems.com/2026/09/24/a-type-stronger-than-the-sum-of-its-components/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-25T15:23:16.820Z",
-   "score": 12,
-   "firstSeenAt": "2026-09-26T13:43:03.105Z"
   }
  ]
 }
