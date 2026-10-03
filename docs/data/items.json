@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-03T14:15:32.493Z",
+ "generatedAt": "2026-10-03T23:36:22.884Z",
  "items": [
   {
    "id": "9f58bc056c1d",
@@ -186,21 +186,159 @@
    }
   },
   {
-   "id": "40e9153a7713",
-   "title": "Go concurrency distilled",
-   "url": "https://antonz.org/go-concurrency-distilled/",
+   "id": "9a14422b82b9",
+   "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
+   "url": "https://tej.as/blog/aleph-alpha-kolibri",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-26T12:14:01.590Z",
-   "score": 46,
-   "firstSeenAt": "2026-09-26T23:25:38.088Z",
+   "publishedAt": "2026-10-03T10:43:51.000Z",
    "hn": {
-    "id": "49856988",
-    "points": 371,
-    "comments": 172
-   }
+    "id": "49943034",
+    "points": 409,
+    "comments": 11
+   },
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "a650c74fe354",
+   "title": "Kolibri: A Sovereign Open-Weight Model",
+   "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-03T09:36:04.000Z",
+   "hn": {
+    "id": "49942706",
+    "points": 476,
+    "comments": 288
+   },
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "3577570198f4",
+   "title": "From the creator of Redis; run LLM locally with ds4",
+   "url": "https://dwarfstar.sh/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-02T18:01:16.000Z",
+   "hn": {
+    "id": "49936575",
+    "points": 340,
+    "comments": 98
+   },
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "c8d6ca0fb18e",
+   "title": "The Legend of von Neumann (1973) [pdf]",
+   "url": "https://gwern.net/doc/math/1973-halmos.pdf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-02T13:18:32.000Z",
+   "hn": {
+    "id": "49933235",
+    "points": 302,
+    "comments": 181
+   },
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "348fe09464e4",
+   "title": "Shimano Bicycle Museum Review",
+   "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-02T05:12:58.000Z",
+   "hn": {
+    "id": "49930047",
+    "points": 302,
+    "comments": 80
+   },
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "87a7234dae36",
+   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-02T02:51:27.000Z",
+   "hn": {
+    "id": "49929391",
+    "points": 325,
+    "comments": 118
+   },
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "92988a7a0a4e",
+   "title": "The Era of Software Quality, or the Era of Ostriches?",
+   "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-03T13:31:58.277Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "b7accd4f6d9f",
+   "title": "How to Hack Time, With C2PA",
+   "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-03T11:58:14.604Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "187a18926f7e",
+   "title": "Two-Stack Sliding-Window Aggregation",
+   "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-03T12:39:14.892Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "77e75ae2396f",
+   "title": "Rust for CPython (Python Language Summit 2026)",
+   "url": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-03T09:40:38.169Z",
+   "score": 21,
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "9de879129dba",
+   "title": "Problems and solutions to the modern desktop (Make tmux the OS)",
+   "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-03T08:17:27.437Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
+  },
+  {
+   "id": "3ba89625595d",
+   "title": "We're going to need default hard budget caps on pretty much everything",
+   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-10-03T23:34:02.000Z",
+   "firstSeenAt": "2026-10-03T23:36:22.884Z"
   },
   {
    "id": "aa5b44863905",
@@ -212,8 +350,8 @@
    "publishedAt": "2026-10-03T03:19:10.000Z",
    "hn": {
     "id": "49941114",
-    "points": 362,
-    "comments": 78
+    "points": 476,
+    "comments": 115
    },
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
@@ -227,8 +365,8 @@
    "publishedAt": "2026-10-03T00:55:25.000Z",
    "hn": {
     "id": "49940394",
-    "points": 320,
-    "comments": 90
+    "points": 432,
+    "comments": 129
    },
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
@@ -242,8 +380,8 @@
    "publishedAt": "2026-10-02T19:06:56.000Z",
    "hn": {
     "id": "49937276",
-    "points": 478,
-    "comments": 293
+    "points": 541,
+    "comments": 323
    },
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
@@ -257,8 +395,8 @@
    "publishedAt": "2026-10-02T11:07:17.000Z",
    "hn": {
     "id": "49932147",
-    "points": 326,
-    "comments": 62
+    "points": 388,
+    "comments": 79
    },
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
@@ -272,8 +410,8 @@
    "publishedAt": "2026-10-02T00:27:56.000Z",
    "hn": {
     "id": "49928566",
-    "points": 311,
-    "comments": 100
+    "points": 369,
+    "comments": 108
    },
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
@@ -330,7 +468,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T22:19:02.622Z",
-   "score": 75,
+   "score": 104,
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
@@ -341,7 +479,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T22:01:27.215Z",
-   "score": 39,
+   "score": 51,
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
@@ -352,7 +490,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T02:41:38.394Z",
-   "score": 24,
+   "score": 37,
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
@@ -363,7 +501,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T20:10:26.574Z",
-   "score": 17,
+   "score": 21,
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
@@ -374,7 +512,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T20:17:47.529Z",
-   "score": 24,
+   "score": 26,
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
@@ -385,7 +523,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T08:29:47.847Z",
-   "score": 18,
+   "score": 22,
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
@@ -422,7 +560,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T14:17:00.980Z",
-   "score": 83,
+   "score": 92,
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
   {
@@ -433,7 +571,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T21:10:41.271Z",
-   "score": 98,
+   "score": 119,
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
   {
@@ -444,7 +582,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T14:01:47.761Z",
-   "score": 58,
+   "score": 63,
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
   {
@@ -455,7 +593,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-02T16:48:36.431Z",
-   "score": 51,
+   "score": 56,
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
   },
   {
@@ -519,8 +657,8 @@
    "publishedAt": "2026-10-02T03:11:20.000Z",
    "hn": {
     "id": "49929489",
-    "points": 391,
-    "comments": 211
+    "points": 405,
+    "comments": 216
    },
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
   },
@@ -3132,106 +3270,6 @@
    "publishedAt": "2026-09-26T15:37:12.781Z",
    "score": 17,
    "firstSeenAt": "2026-09-27T14:39:27.467Z"
-  },
-  {
-   "id": "cf39f2b97963",
-   "title": "I'm the mom in that viral Giants clip. Let me tell you about my husband",
-   "url": "https://themomoftheyear.substack.com/p/im-the-mom-in-that-viral-giants-clip",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-26T16:12:18.000Z",
-   "hn": {
-    "id": "49857899",
-    "points": 573,
-    "comments": 231
-   },
-   "firstSeenAt": "2026-09-26T23:25:38.088Z"
-  },
-  {
-   "id": "9191c8293eea",
-   "title": "Fifteen years later, the Apple Cards origin story",
-   "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-26T09:13:41.000Z",
-   "hn": {
-    "id": "49854693",
-    "points": 432,
-    "comments": 114
-   },
-   "firstSeenAt": "2026-09-26T23:25:38.088Z"
-  },
-  {
-   "id": "c70d5e45e6bf",
-   "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-   "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-26T01:36:50.000Z",
-   "hn": {
-    "id": "49852302",
-    "points": 415,
-    "comments": 105
-   },
-   "firstSeenAt": "2026-09-26T23:25:38.088Z"
-  },
-  {
-   "id": "8c34c904beaa",
-   "title": "Infecting the Steam Link with NixOS",
-   "url": "https://feyor.sh/blog/infecting-the-steam-link-with-nixos/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-26T13:45:59.865Z",
-   "score": 41,
-   "firstSeenAt": "2026-09-26T23:25:38.088Z"
-  },
-  {
-   "id": "5c69d58444e5",
-   "title": "If we do not stop to help each other, what do we become?",
-   "url": "https://blog.codinghorror.com/if-we-do-not-stop-to-help-each-other-what-do-we-become/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-26T11:02:48.079Z",
-   "score": 168,
-   "firstSeenAt": "2026-09-26T23:25:38.088Z"
-  },
-  {
-   "id": "d685d4fb0820",
-   "title": "The state of SIMD in Rust in 2026",
-   "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-26T08:28:50.571Z",
-   "score": 32,
-   "firstSeenAt": "2026-09-26T23:25:38.088Z"
-  },
-  {
-   "id": "3272efa86240",
-   "title": "Suggestion to replace LibreOffice with Collabora as default on Fedora",
-   "url": "https://www.phoronix.com/news/Fedora-Discuss-Collabora-Office",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-26T09:13:15.170Z",
-   "score": 16,
-   "firstSeenAt": "2026-09-26T23:25:38.088Z"
-  },
-  {
-   "id": "8300d4bdc98e",
-   "title": "Keep if clauses side-effect free",
-   "url": "https://www.teamten.com/lawrence/programming/keep-if-clauses-side-effect-free.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-26T03:45:44.108Z",
-   "score": 24,
-   "firstSeenAt": "2026-09-26T23:25:38.088Z"
   }
  ]
 }
