@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T14:44:21.888Z",
+ "generatedAt": "2026-10-04T23:52:40.565Z",
  "items": [
   {
    "id": "3ba89625595d",
@@ -14,10 +14,10 @@
    "firstSeenAt": "2026-10-03T23:36:22.884Z",
    "hn": {
     "id": "49949235",
-    "points": 512,
-    "comments": 259
+    "points": 583,
+    "comments": 297
    },
-   "score": 17
+   "score": 33
   },
   {
    "id": "a650c74fe354",
@@ -30,11 +30,11 @@
    "publishedAt": "2026-10-03T09:36:04.000Z",
    "hn": {
     "id": "49942706",
-    "points": 629,
-    "comments": 319
+    "points": 653,
+    "comments": 325
    },
    "firstSeenAt": "2026-10-03T23:36:22.884Z",
-   "score": 14
+   "score": 32
   },
   {
    "id": "14db68452116",
@@ -187,55 +187,162 @@
    "score": 24
   },
   {
-   "id": "adab374e680b",
-   "title": "On caring for user data: NeoVim caused Vim undo files to be deleted",
-   "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users/",
+   "id": "bca476fd3463",
+   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+   "url": "https://github.com/Niko1221/Strata",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T14:44:53.153Z",
-   "hn": {
-    "id": "49867067",
-    "points": 384,
-    "comments": 342
-   },
-   "score": 181,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "3bd40c5dcc31",
-   "title": "When did Google get so weird?",
-   "url": "https://sancho.bearblog.dev/google-weird/",
-   "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T20:12:54.000Z",
-   "hn": {
-    "id": "49870367",
-    "points": 1925,
-    "comments": 1076
-   },
-   "firstSeenAt": "2026-09-27T23:42:43.763Z",
-   "score": 73
-  },
-  {
-   "id": "66af25621bdf",
-   "title": "Don't couple your Go code to GitHub",
-   "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-27T16:50:58.000Z",
-   "score": 45,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z",
+   "publishedAt": "2026-10-04T12:51:53.000Z",
    "hn": {
-    "id": "49868404",
-    "points": 323,
-    "comments": 175
-   }
+    "id": "49953495",
+    "points": 565,
+    "comments": 270
+   },
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "549bdd288f9a",
+   "title": "Treachery in the Rodin Museum 3D scan verdict",
+   "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-03T18:01:27.000Z",
+   "hn": {
+    "id": "49946355",
+    "points": 308,
+    "comments": 185
+   },
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "8b1e323a2293",
+   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-03T17:44:29.000Z",
+   "hn": {
+    "id": "49946228",
+    "points": 383,
+    "comments": 694
+   },
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "2ad697ead091",
+   "title": "Agents don't need memory, they need documentation",
+   "url": "https://liao.gg/blog/agents-dont-need-memory",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-03T17:03:37.000Z",
+   "hn": {
+    "id": "49945933",
+    "points": 342,
+    "comments": 209
+   },
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "e14b7453fd65",
+   "title": "ncdu: NCurses Disk Usage (an updated fork)",
+   "url": "https://github.com/rcalixte/ncdu",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-04T19:30:36.027Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "76be51b10171",
+   "title": "grubby: static site generator for git repos written in Ruby",
+   "url": "https://git.btxx.org/grubby",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-04T10:28:57.685Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "60b36e485231",
+   "title": "The complement of true is true, except when it's false",
+   "url": "https://dryperspective.github.io/posts/complement-of-true/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-04T12:30:26.844Z",
+   "score": 29,
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "657482147780",
+   "title": "Iroh global content discovery",
+   "url": "https://www.iroh.computer/blog/iroh-global-content-discovery",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-04T19:19:42.619Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "e962f3eded1a",
+   "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
+   "url": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-04T18:49:55.122Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "a3906162c866",
+   "title": "Flatpak from the CLI sucks",
+   "url": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-04T15:21:34.965Z",
+   "score": 21,
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "ebf7c71e6cc1",
+   "title": "Our RISC-V emulator PasRISCV",
+   "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-04T08:40:38.612Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "5f2beb3b5b73",
+   "title": "Why I recommend Renovate over any other dependency update tools (2024)",
+   "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-03T22:54:52.919Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
+  },
+  {
+   "id": "b69f647ed1fd",
+   "title": "Strands Decider: Why Not an Encoder?",
+   "url": "http://brooker.co.za/blog/2026/10/04/encoders.html",
+   "sources": [
+    "Marc Brooker"
+   ],
+   "publishedAt": "2026-10-04T00:00:00.000Z",
+   "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
   {
    "id": "ee1071d66dee",
@@ -247,8 +354,8 @@
    "publishedAt": "2026-10-04T00:50:52.000Z",
    "hn": {
     "id": "49949438",
-    "points": 608,
-    "comments": 121
+    "points": 795,
+    "comments": 170
    },
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
@@ -262,8 +369,8 @@
    "publishedAt": "2026-10-03T22:07:13.000Z",
    "hn": {
     "id": "49948254",
-    "points": 449,
-    "comments": 248
+    "points": 474,
+    "comments": 265
    },
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
@@ -277,8 +384,8 @@
    "publishedAt": "2026-10-03T19:14:48.000Z",
    "hn": {
     "id": "49946895",
-    "points": 361,
-    "comments": 63
+    "points": 456,
+    "comments": 92
    },
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
@@ -292,8 +399,8 @@
    "publishedAt": "2026-10-03T18:06:45.000Z",
    "hn": {
     "id": "49946393",
-    "points": 322,
-    "comments": 77
+    "points": 354,
+    "comments": 87
    },
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
@@ -307,8 +414,8 @@
    "publishedAt": "2026-10-03T13:46:34.000Z",
    "hn": {
     "id": "49944227",
-    "points": 332,
-    "comments": 559
+    "points": 454,
+    "comments": 765
    },
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
@@ -320,7 +427,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T01:41:57.843Z",
-   "score": 35,
+   "score": 61,
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
   {
@@ -331,7 +438,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T21:35:28.658Z",
-   "score": 46,
+   "score": 63,
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
   {
@@ -342,7 +449,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T20:43:41.881Z",
-   "score": 19,
+   "score": 26,
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
   {
@@ -353,7 +460,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T15:57:16.909Z",
-   "score": 21,
+   "score": 25,
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
   {
@@ -364,7 +471,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T20:37:40.362Z",
-   "score": 18,
+   "score": 24,
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
   {
@@ -377,7 +484,7 @@
    "publishedAt": "2026-10-03T10:43:51.000Z",
    "hn": {
     "id": "49943034",
-    "points": 414,
+    "points": 417,
     "comments": 12
    },
    "firstSeenAt": "2026-10-03T23:36:22.884Z"
@@ -450,7 +557,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T13:31:58.277Z",
-   "score": 35,
+   "score": 41,
    "firstSeenAt": "2026-10-03T23:36:22.884Z"
   },
   {
@@ -461,7 +568,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T11:58:14.604Z",
-   "score": 21,
+   "score": 25,
    "firstSeenAt": "2026-10-03T23:36:22.884Z"
   },
   {
@@ -472,7 +579,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T12:39:14.892Z",
-   "score": 22,
+   "score": 29,
    "firstSeenAt": "2026-10-03T23:36:22.884Z"
   },
   {
@@ -507,8 +614,8 @@
    "publishedAt": "2026-10-03T03:19:10.000Z",
    "hn": {
     "id": "49941114",
-    "points": 498,
-    "comments": 123
+    "points": 510,
+    "comments": 125
    },
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
@@ -522,8 +629,8 @@
    "publishedAt": "2026-10-03T00:55:25.000Z",
    "hn": {
     "id": "49940394",
-    "points": 453,
-    "comments": 135
+    "points": 457,
+    "comments": 136
    },
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
@@ -647,7 +754,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-03T02:41:38.394Z",
-   "score": 44,
+   "score": 50,
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
   },
   {
@@ -3143,157 +3250,6 @@
    ],
    "publishedAt": "2026-09-28T00:00:00.000Z",
    "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "a365d26f319b",
-   "title": "Ember-1",
-   "url": "https://fireworks.ai/blog/ember-1",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-27T17:31:53.000Z",
-   "hn": {
-    "id": "49868830",
-    "points": 582,
-    "comments": 248
-   },
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "4aa8cdc749d3",
-   "title": "There are no \"rogue\" AI agents",
-   "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-27T16:19:46.000Z",
-   "hn": {
-    "id": "49868083",
-    "points": 392,
-    "comments": 268
-   },
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "c219fe8f6b6a",
-   "title": "Tells of a Slop UI",
-   "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-27T14:41:26.000Z",
-   "hn": {
-    "id": "49867038",
-    "points": 377,
-    "comments": 237
-   },
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "755e3dc914b2",
-   "title": "DeepSeek Elastic Compute (DSec)",
-   "url": "https://arxiv.org/abs/2609.22978",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-26T18:22:41.000Z",
-   "hn": {
-    "id": "49859112",
-    "points": 320,
-    "comments": 110
-   },
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "22fb81d30b15",
-   "title": "Flip Fluid on Flip Dots",
-   "url": "https://mitxela.com/projects/flipflip",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-26T07:50:24.000Z",
-   "hn": {
-    "id": "49854219",
-    "points": 358,
-    "comments": 24
-   },
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "6c665e8770a4",
-   "title": "postmarketOS rebrands as Nura",
-   "url": "https://nura.eco/blog/2026/09/27/nura-rename/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T17:34:21.672Z",
-   "score": 81,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "14a5bb9a56be",
-   "title": "Ten Lines Of Code That Changed My World",
-   "url": "https://pixelambacht.nl/2026/ten-lines-of-code/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T13:05:28.206Z",
-   "score": 61,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "051c1dc9e135",
-   "title": "LuaRocks Security Incident September 2026",
-   "url": "https://luarocks.org/security-incident-september-2026",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T13:58:57.101Z",
-   "score": 31,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "900e34db3eb3",
-   "title": "What Improves Developer Productivity at Google? Code Quality (2022)",
-   "url": "https://dl.acm.org/doi/pdf/10.1145/3540250.3558940",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T12:52:57.601Z",
-   "score": 12,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "562cdf5e841b",
-   "title": "Teaching GPU programming in p5.js: now with compute shaders",
-   "url": "https://www.davepagurek.com/blog/p5-compute-shaders/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T00:28:51.094Z",
-   "score": 10,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "befa835d6e27",
-   "title": "Can we have reachability properties in TLA⁺?",
-   "url": "https://ahelwer.ca/post/2026-09-26-reachability/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-26T15:49:22.686Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
-  },
-  {
-   "id": "ffad4bbe1705",
-   "title": "Cloudflare’s 2026 Annual Founders’ Letter",
-   "url": "https://blog.cloudflare.com/cloudflares-2026-annual-founders-letter/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-27T17:00:00.000Z",
-   "firstSeenAt": "2026-09-27T23:42:43.763Z"
   }
  ]
 }
