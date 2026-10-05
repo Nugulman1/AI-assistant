@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-04T23:52:40.565Z",
+ "generatedAt": "2026-10-05T18:17:14.559Z",
  "items": [
   {
    "id": "3ba89625595d",
@@ -14,10 +14,27 @@
    "firstSeenAt": "2026-10-03T23:36:22.884Z",
    "hn": {
     "id": "49949235",
-    "points": 583,
-    "comments": 297
+    "points": 620,
+    "comments": 305
    },
-   "score": 33
+   "score": 45
+  },
+  {
+   "id": "ccaf54e36ccf",
+   "title": "Why don’t more developers \"use the platform\"?",
+   "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-03T21:35:28.658Z",
+   "score": 72,
+   "firstSeenAt": "2026-10-04T14:44:21.888Z",
+   "hn": {
+    "id": "49950554",
+    "points": 320,
+    "comments": 336
+   }
   },
   {
    "id": "a650c74fe354",
@@ -187,6 +204,280 @@
    "score": 24
   },
   {
+   "id": "a641cc00db60",
+   "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+   "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T13:02:25.000Z",
+   "hn": {
+    "id": "49964303",
+    "points": 320,
+    "comments": 177
+   },
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "4c94ef1906d2",
+   "title": "Germany’s RobCo hits $1B valuation",
+   "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T11:13:51.000Z",
+   "hn": {
+    "id": "49963366",
+    "points": 312,
+    "comments": 290
+   },
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "ecc2a8b76eac",
+   "title": "Web Search API",
+   "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T10:47:06.000Z",
+   "hn": {
+    "id": "49963171",
+    "points": 336,
+    "comments": 166
+   },
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "5f0cd900658d",
+   "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T08:09:36.000Z",
+   "hn": {
+    "id": "49962012",
+    "points": 391,
+    "comments": 282
+   },
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "fb514e83ae1c",
+   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+   "url": "https://github.com/omlahore/RemoveMacAI",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-04T19:42:25.000Z",
+   "hn": {
+    "id": "49957116",
+    "points": 725,
+    "comments": 489
+   },
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "758d3c86e8ca",
+   "title": "Improper redaction reveals Google Data Center water and electricity usage",
+   "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-04T19:37:05.000Z",
+   "hn": {
+    "id": "49957068",
+    "points": 494,
+    "comments": 657
+   },
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "38463d0c598d",
+   "title": "A browser-native classic Visual Basic VB6 IDE",
+   "url": "https://wieslawsoltes.github.io/VB6/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-04T18:49:17.000Z",
+   "hn": {
+    "id": "49956681",
+    "points": 361,
+    "comments": 121
+   },
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "2d6b4a5218ec",
+   "title": "Flirt is now Open-Source",
+   "url": "https://blog.buenzli.dev/flirt-is-open-source/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T09:34:42.913Z",
+   "score": 32,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "2cc36f9e1be3",
+   "title": "Friendship ended with Deno, now Node is my best friend",
+   "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T10:01:55.874Z",
+   "score": 34,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "1167debced9f",
+   "title": "Another step towards elm v1",
+   "url": "https://elm-lang.org/news/another-step-towards-elm-v1",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T13:20:47.476Z",
+   "score": 26,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "fa919f7d6aff",
+   "title": "Using docker-compose with Podman rootless",
+   "url": "https://elou.world/en/tutorial/podman-docker-compose",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T09:51:28.692Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "4f85aca7a15f",
+   "title": "Mold 3.0.0 Released",
+   "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T14:24:26.756Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "a6e1894bbf9b",
+   "title": "Refinement E-Graphs",
+   "url": "https://www.philipzucker.com/refinement_egraph/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T02:23:30.392Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "812e2e121fda",
+   "title": "Factor Overview",
+   "url": "https://re.factorcode.org/2026/10/factor-overview.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T12:11:57.329Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "a1dd108cfb7d",
+   "title": "Claude Says",
+   "url": "https://ohhfishal.net/Posts/claude",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T04:48:18.022Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "c540ec3cafcf",
+   "title": "Self-hosted HTTP tunnels with SSH and nginx",
+   "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-04T19:08:58.378Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "78ad53815846",
+   "title": "Our approach to EU text provenance rules",
+   "url": "https://openai.com/index/eu-text-provenance",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-05T15:00:00.000Z",
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "3cbec84de8bf",
+   "title": "Building advertising for the way people use AI",
+   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-05T10:00:00.000Z",
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "0456b04488ab",
+   "title": "[$] An update on the Sashiko patch-review system",
+   "url": "https://lwn.net/Articles/1096963/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-05T15:10:37.000Z",
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "d1602119935a",
+   "title": "Everything we launched during Birthday Week 2026",
+   "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-05T13:00:00.000Z",
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "917bc7059d97",
+   "title": "One year later: the power of 1.1.1.1 interns",
+   "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-05T13:00:00.000Z",
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "4a09bf8b95f0",
+   "title": "Benchmark In Milliseconds",
+   "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+   "sources": [
+    "matklad"
+   ],
+   "publishedAt": "2026-10-05T00:00:00.000Z",
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
+   "id": "f6ff5f6917ea",
+   "title": "Fragments: October  4",
+   "url": "https://martinfowler.com/fragments/2026-10-04.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-10-05T04:28:00.000Z",
+   "firstSeenAt": "2026-10-05T18:17:14.559Z"
+  },
+  {
    "id": "bca476fd3463",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
    "url": "https://github.com/Niko1221/Strata",
@@ -196,8 +487,8 @@
    "publishedAt": "2026-10-04T12:51:53.000Z",
    "hn": {
     "id": "49953495",
-    "points": 565,
-    "comments": 270
+    "points": 893,
+    "comments": 405
    },
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
@@ -254,7 +545,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T19:30:36.027Z",
-   "score": 11,
+   "score": 44,
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
   {
@@ -265,7 +556,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T10:28:57.685Z",
-   "score": 14,
+   "score": 18,
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
   {
@@ -276,7 +567,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T12:30:26.844Z",
-   "score": 29,
+   "score": 45,
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
   {
@@ -287,7 +578,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T19:19:42.619Z",
-   "score": 11,
+   "score": 52,
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
   {
@@ -354,8 +645,8 @@
    "publishedAt": "2026-10-04T00:50:52.000Z",
    "hn": {
     "id": "49949438",
-    "points": 795,
-    "comments": 170
+    "points": 920,
+    "comments": 202
    },
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
@@ -369,8 +660,8 @@
    "publishedAt": "2026-10-03T22:07:13.000Z",
    "hn": {
     "id": "49948254",
-    "points": 474,
-    "comments": 265
+    "points": 494,
+    "comments": 270
    },
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
@@ -384,8 +675,8 @@
    "publishedAt": "2026-10-03T19:14:48.000Z",
    "hn": {
     "id": "49946895",
-    "points": 456,
-    "comments": 92
+    "points": 486,
+    "comments": 104
    },
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
@@ -427,18 +718,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T01:41:57.843Z",
-   "score": 61,
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "ccaf54e36ccf",
-   "title": "Why don’t more developers \"use the platform\"?",
-   "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T21:35:28.658Z",
-   "score": 63,
+   "score": 71,
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
   },
   {
@@ -2971,285 +3251,6 @@
    ],
    "publishedAt": "2026-09-28T00:00:00.000Z",
    "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "db3e760e700f",
-   "title": "AI companies in race to demonstrate their model most threatening to humanity",
-   "url": "https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T08:35:40.000Z",
-   "hn": {
-    "id": "49875148",
-    "points": 436,
-    "comments": 392
-   },
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "0dc955c86c2b",
-   "title": "Owed a billion dollars in Nvidia stock",
-   "url": "https://colo.to/nvidia-stock-narrative.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T02:05:13.000Z",
-   "hn": {
-    "id": "49872723",
-    "points": 1082,
-    "comments": 453
-   },
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "f622546c3555",
-   "title": "Self-Hosting on the Dark Web",
-   "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-27T20:03:36.000Z",
-   "hn": {
-    "id": "49870295",
-    "points": 348,
-    "comments": 113
-   },
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "09a2114f89da",
-   "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
-   "url": "https://loficities.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-27T18:44:30.000Z",
-   "hn": {
-    "id": "49869574",
-    "points": 311,
-    "comments": 135
-   },
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "9641f0c84823",
-   "title": "Yes, no AI is now a feature",
-   "url": "https://blog.documentfoundation.org/blog/2026/09/03/yes-no-ai-is-now-a-feature/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T09:58:26.129Z",
-   "score": 124,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "8545341ecba9",
-   "title": "Hijacking the PS5's RTMP Stream",
-   "url": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T11:45:16.525Z",
-   "score": 59,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "bad67d806019",
-   "title": "What makes Lisp difficult to read?",
-   "url": "https://paultm.nl/paren-thesis",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T04:44:02.263Z",
-   "score": 83,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "53a77cf61582",
-   "title": "Leaving them behind",
-   "url": "https://dbushell.com/2026/09/28/leaving-them-behind/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T09:44:05.658Z",
-   "score": 75,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "1fc55e5c46fd",
-   "title": "Rickrolling with a Pharmacy cross",
-   "url": "https://hugoarnal.com/blog/rickroll-pharmacy-cross/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T07:52:23.979Z",
-   "score": 36,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "7c51c347773b",
-   "title": "Fool's Expertise",
-   "url": "https://bcantrill.dtrace.org/2026/09/27/fools-expertise/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T03:50:52.079Z",
-   "score": 30,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "fd18dee3e0d1",
-   "title": "Replacing the old battery on rechargeable bike lights",
-   "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T03:27:24.858Z",
-   "score": 23,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "bb7147701401",
-   "title": "Expert asterisks",
-   "url": "https://nedbatchelder.com/blog/202609/expert_asterisks",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T03:48:21.007Z",
-   "score": 37,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "175635f5f78b",
-   "title": "Dropping Swift entirely from our Bevy iOS crates",
-   "url": "https://rustunit.com/blog/2026/09-04-bevy-ios-crates-objc2/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-27T23:22:45.754Z",
-   "score": 19,
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "193eb09a66e5",
-   "title": "2026 in LLMs (so far)",
-   "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-09-27T23:54:15.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "c70184feffa6",
-   "title": "[$] Reducing undefined behavior in the C language",
-   "url": "https://lwn.net/Articles/1095811/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-28T15:16:22.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "33610af00244",
-   "title": "Next.js applications, powered by Vite: introducing Vinext 1.0",
-   "url": "https://blog.cloudflare.com/vinext-nextjs-on-vite/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T14:51:57.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "ff1c78cd980c",
-   "title": "Introducing cf: the agentic CLI for the entire Cloudflare API",
-   "url": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T14:50:37.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "aa02690151aa",
-   "title": "How fast is the web? Explore billions of real-user measurements with BEACON",
-   "url": "https://blog.cloudflare.com/how-fast-is-the-web/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T14:43:05.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "ad509518aaef",
-   "title": "Four months of VoidZero at Cloudflare: making the open-source JavaScript toolchain faster for all humans and agents",
-   "url": "https://blog.cloudflare.com/voidzero-update/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T13:00:00.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "fa867433a231",
-   "title": "Introducing Forge: the open source pipeline for generating SDKs, CLIs, docs, and more",
-   "url": "https://blog.cloudflare.com/forge-open-source-generation-pipeline/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T13:00:00.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "019d3657d23b",
-   "title": "The road to the agentic browser: A Kitesurf update",
-   "url": "https://blog.cloudflare.com/kitesurf-update/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T13:00:00.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "c6455aebbffe",
-   "title": "Introducing The Cold Start: pitch your startup live at Cloudflare Connect",
-   "url": "https://blog.cloudflare.com/introducing-the-cold-start/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T13:00:00.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "2fd8f946519a",
-   "title": "EmDash 1.0: the stable CMS with a secure plugin registry",
-   "url": "https://blog.cloudflare.com/emdash-cms-plugin-registry/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T13:00:00.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "fed1a098a46f",
-   "title": "Supporting native Rust in Workers with the new Emscripten target for wasm-bindgen",
-   "url": "https://blog.cloudflare.com/rust-workers-emscripten-target/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-28T13:00:00.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
-  },
-  {
-   "id": "efc2d0980d03",
-   "title": "Small Decisions: Engineering a Leading Model",
-   "url": "http://brooker.co.za/blog/2026/09/28/engineering-system-one.html",
-   "sources": [
-    "Marc Brooker"
-   ],
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "firstSeenAt": "2026-09-28T17:35:13.900Z"
   }
  ]
 }
