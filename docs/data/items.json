@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T01:41:45.190Z",
+ "generatedAt": "2026-10-06T15:49:39.319Z",
  "items": [
   {
    "id": "3ba89625595d",
@@ -170,6 +170,262 @@
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
   {
+   "id": "820bd24a41c4",
+   "title": "Mistral Large 4: \"Le Chonk\"",
+   "url": "https://mistral.ai/news/mistral-large-4/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-06T13:25:50.000Z",
+   "hn": {
+    "id": "49978116",
+    "points": 383,
+    "comments": 42
+   },
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "5888c276693c",
+   "title": "Mistral Large 4",
+   "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-06T13:15:49.000Z",
+   "hn": {
+    "id": "49977979",
+    "points": 710,
+    "comments": 409
+   },
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "daa1eaa0558a",
+   "title": "JetBrains reported a net financial loss first time in its tracked history",
+   "url": "https://www.helgilibrary.com/companies/jetbrains",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-06T11:45:55.000Z",
+   "hn": {
+    "id": "49977072",
+    "points": 362,
+    "comments": 368
+   },
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "56a896b5e9d6",
+   "title": "Nobel Prize in Physics goes to Francis Halzen",
+   "url": "https://www.nobelprize.org/prizes/physics/2026/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-06T09:48:46.000Z",
+   "hn": {
+    "id": "49976265",
+    "points": 309,
+    "comments": 95
+   },
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "cf509067bcf9",
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T22:46:45.000Z",
+   "hn": {
+    "id": "49971846",
+    "points": 509,
+    "comments": 371
+   },
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "ec9915c4fbdd",
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T21:00:21.000Z",
+   "hn": {
+    "id": "49970667",
+    "points": 424,
+    "comments": 290
+   },
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "d3a209133190",
+   "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+   "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T02:31:45.000Z",
+   "hn": {
+    "id": "49960084",
+    "points": 303,
+    "comments": 319
+   },
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "fb7870135df6",
+   "title": "Email Self Hosters - what are you using?",
+   "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T08:09:53.070Z",
+   "score": 47,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "23b4eff3cde8",
+   "title": "Montray - a tray icon for systemd service health",
+   "url": "https://github.com/dimonomid/montray/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T09:07:39.717Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "7fd1f66c4b2c",
+   "title": "Open Source as We Know It Is Dead",
+   "url": "https://jross.me/open-source-as-we-know-it-is-dead/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T23:25:52.404Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "0d5e0704d98b",
+   "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
+   "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T19:50:52.894Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "e8f4a1231648",
+   "title": "What are you doing this week?",
+   "url": "https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T16:07:55.872Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "9c51330d9b70",
+   "title": "You don't need an effect system",
+   "url": "https://burningwitness.github.io/blog/posts/against-effect-systems/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T18:03:27.608Z",
+   "score": 20,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "befb81c05542",
+   "title": "Optimizing the Optimizer: Language Models Discover Faster Molecular Relaxation",
+   "url": "https://huggingface.co/papers/2610.06577",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-04T20:00:00.000Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "d03a8420f2fd",
+   "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
+   "url": "https://huggingface.co/papers/2610.06833",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-04T20:00:00.000Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "b7a531805854",
+   "title": "Representation-Space MMD for Diffusion Language Models",
+   "url": "https://huggingface.co/papers/2610.06648",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-04T20:00:00.000Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "9d9fbe3c9d74",
+   "title": "Certification of Real Images through Calibrated Content Authentication",
+   "url": "https://huggingface.co/papers/2610.05870",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-04T20:00:00.000Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "c171201f8c89",
+   "title": "Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering",
+   "url": "https://huggingface.co/papers/2610.05894",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-04T20:00:00.000Z",
+   "score": 9,
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "ee5a948a7c39",
+   "title": "The Cyber Risk Discourse is Broken",
+   "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-10-06T14:22:41.000Z",
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "449f4225e94c",
+   "title": "[$] Python's two modules for random numbers",
+   "url": "https://lwn.net/Articles/1097468/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-06T15:02:09.000Z",
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
+   "id": "ba649422ea9b",
+   "title": "[$] Last rites for Gentoo's Chromium package",
+   "url": "https://lwn.net/Articles/1097760/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-06T13:44:50.000Z",
+   "firstSeenAt": "2026-10-06T15:49:39.319Z"
+  },
+  {
    "id": "7ded5c03aba5",
    "title": "Beam: Reflection's 501B open-weight model",
    "url": "https://reflection.ai/blog/introducing-beam",
@@ -179,8 +435,8 @@
    "publishedAt": "2026-10-05T19:16:35.000Z",
    "hn": {
     "id": "49969183",
-    "points": 305,
-    "comments": 81
+    "points": 502,
+    "comments": 162
    },
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
@@ -194,8 +450,8 @@
    "publishedAt": "2026-10-05T05:37:40.000Z",
    "hn": {
     "id": "49961057",
-    "points": 538,
-    "comments": 458
+    "points": 774,
+    "comments": 606
    },
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
@@ -207,7 +463,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T17:29:17.719Z",
-   "score": 76,
+   "score": 116,
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
   {
@@ -218,7 +474,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T18:31:29.400Z",
-   "score": 15,
+   "score": 52,
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
   {
@@ -229,7 +485,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T14:22:54.820Z",
-   "score": 18,
+   "score": 30,
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
   {
@@ -264,8 +520,8 @@
    "publishedAt": "2026-10-05T13:02:25.000Z",
    "hn": {
     "id": "49964303",
-    "points": 395,
-    "comments": 259
+    "points": 424,
+    "comments": 298
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -279,8 +535,8 @@
    "publishedAt": "2026-10-05T11:13:51.000Z",
    "hn": {
     "id": "49963366",
-    "points": 327,
-    "comments": 340
+    "points": 343,
+    "comments": 369
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -294,8 +550,8 @@
    "publishedAt": "2026-10-05T10:47:06.000Z",
    "hn": {
     "id": "49963171",
-    "points": 484,
-    "comments": 222
+    "points": 575,
+    "comments": 274
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -309,8 +565,8 @@
    "publishedAt": "2026-10-05T08:09:36.000Z",
    "hn": {
     "id": "49962012",
-    "points": 464,
-    "comments": 327
+    "points": 490,
+    "comments": 349
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -324,8 +580,8 @@
    "publishedAt": "2026-10-04T19:42:25.000Z",
    "hn": {
     "id": "49957116",
-    "points": 757,
-    "comments": 523
+    "points": 763,
+    "comments": 535
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -339,8 +595,8 @@
    "publishedAt": "2026-10-04T19:37:05.000Z",
    "hn": {
     "id": "49957068",
-    "points": 516,
-    "comments": 674
+    "points": 526,
+    "comments": 693
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -354,8 +610,8 @@
    "publishedAt": "2026-10-04T18:49:17.000Z",
    "hn": {
     "id": "49956681",
-    "points": 395,
-    "comments": 129
+    "points": 409,
+    "comments": 134
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -367,7 +623,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T09:34:42.913Z",
-   "score": 41,
+   "score": 45,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -378,7 +634,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T10:01:55.874Z",
-   "score": 49,
+   "score": 58,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -389,7 +645,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T13:20:47.476Z",
-   "score": 59,
+   "score": 77,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -400,7 +656,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T09:51:28.692Z",
-   "score": 13,
+   "score": 14,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -411,7 +667,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T14:24:26.756Z",
-   "score": 26,
+   "score": 33,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -422,7 +678,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T02:23:30.392Z",
-   "score": 34,
+   "score": 37,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -433,7 +689,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T12:11:57.329Z",
-   "score": 23,
+   "score": 36,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -596,7 +852,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T19:30:36.027Z",
-   "score": 47,
+   "score": 52,
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
   {
@@ -2804,344 +3060,6 @@
    ],
    "publishedAt": "2026-09-29T15:53:19.000Z",
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "3317c556e900",
-   "title": "You Are No Longer Invited to Dinner",
-   "url": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-29T11:14:45.000Z",
-   "hn": {
-    "id": "49891295",
-    "points": 812,
-    "comments": 721
-   },
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "c92e39202c4c",
-   "title": "AI companies leak data to advertisers [pdf]",
-   "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-29T09:03:41.000Z",
-   "hn": {
-    "id": "49890226",
-    "points": 422,
-    "comments": 136
-   },
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "5e33c235053c",
-   "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "url": "https://github.com/firelex/jeff",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T20:23:36.000Z",
-   "hn": {
-    "id": "49883844",
-    "points": 569,
-    "comments": 222
-   },
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "dd4ff024e415",
-   "title": "California farmers are struggling to sell grapes as demand for wine drops",
-   "url": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T20:00:06.000Z",
-   "hn": {
-    "id": "49883539",
-    "points": 382,
-    "comments": 964
-   },
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "4a76cb4492f1",
-   "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-   "url": "https://www.thisamericanlife.org/897/transcript",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T15:35:09.000Z",
-   "hn": {
-    "id": "49879697",
-    "points": 471,
-    "comments": 254
-   },
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "fce6153568f3",
-   "title": "Updated Google Maps shows destruction of the city of Rafah",
-   "url": "https://twitter.com/AliAbunimah/status/2103890594137309425",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T15:32:18.000Z",
-   "hn": {
-    "id": "49879645",
-    "points": 882,
-    "comments": 847
-   },
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "8e748fa56626",
-   "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-   "url": "https://git.mills.io/prologic/parley",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T10:30:54.000Z",
-   "hn": {
-    "id": "49875913",
-    "points": 323,
-    "comments": 190
-   },
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "fcb037d463f8",
-   "title": "SpaceX's Starship launching to orbit for first time ever today",
-   "url": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T09:15:04.000Z",
-   "hn": {
-    "id": "49875411",
-    "points": 303,
-    "comments": 363
-   },
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "81fe9044a4b7",
-   "title": "CoW — a stacking window manager for Wayland",
-   "url": "https://cow-wm.codeberg.page/cow/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-29T09:07:37.137Z",
-   "score": 136,
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "a1ea01404cc9",
-   "title": "My experience writing automated tests for a SPA",
-   "url": "https://reecoute.fr/tech_blog/2026-09-28_my-experience-writing-automated-tests-for-a-spa",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-29T06:00:10.041Z",
-   "score": 37,
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "c7dd9848a8e8",
-   "title": "Switching To Emacs as a Neovim User",
-   "url": "https://eliasebner.com/blog/thoughts/switching-to-emacs-as-a-neovim-user/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-29T03:41:34.837Z",
-   "score": 35,
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "db2a4a7528dc",
-   "title": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation",
-   "url": "https://huggingface.co/papers/2609.35347",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-27T20:00:00.000Z",
-   "score": 129,
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "9099ca10e7dd",
-   "title": "How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining",
-   "url": "https://huggingface.co/papers/2609.35457",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-27T20:00:00.000Z",
-   "score": 53,
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "e0a4a87d3945",
-   "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
-   "url": "https://huggingface.co/papers/2609.35767",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-27T20:00:00.000Z",
-   "score": 32,
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "6fd1dbabbe0f",
-   "title": "WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon",
-   "url": "https://huggingface.co/papers/2609.35560",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-27T20:00:00.000Z",
-   "score": 22,
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "3a90d9a4e52a",
-   "title": "FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching",
-   "url": "https://huggingface.co/papers/2609.35673",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-27T20:00:00.000Z",
-   "score": 13,
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "cfe8e900401f",
-   "title": "How we will do better for Australia",
-   "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-28T19:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "cf468ec39dd6",
-   "title": "Towards safety cases for frontier AI training",
-   "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-28T19:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "fdeae7bb039f",
-   "title": "Using AI to chart a course for our post-quantum migration",
-   "url": "https://blog.cloudflare.com/ai-driven-cryptography-discovery/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "d385a2253200",
-   "title": "Building a certificate authority for the whole Internet",
-   "url": "https://blog.cloudflare.com/cloudflare-certificate-authority/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "4f6b0652e0ee",
-   "title": "Adaptive application security for the AI era: how Cloudflare connects code, traffic, and intelligence to stop attacks",
-   "url": "https://blog.cloudflare.com/ai-era-framework/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "ab881b15a8c6",
-   "title": "Building a post-quantum certificate authority with Merkle Tree Certificates",
-   "url": "https://blog.cloudflare.com/pq-ca-with-mtcs/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "724cedcf62f5",
-   "title": "We tested our own WAF with frontier AI models. Here’s what we found",
-   "url": "https://blog.cloudflare.com/adaptive-ai-waf-testing/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "2ae657c3256a",
-   "title": "Introducing Threat Signals: agentic skills for open-source threat intelligence, free for every Cloudflare account",
-   "url": "https://blog.cloudflare.com/threat-signals/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "0999f45f4e9f",
-   "title": "Is your domain using post-quantum encryption? Now you can see for yourself",
-   "url": "https://blog.cloudflare.com/post-quantum-visibility/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "f1ff1c95f2ba",
-   "title": "Enforce positive security with Cloudflare Application Profiles",
-   "url": "https://blog.cloudflare.com/application-profiles/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "e8a54d503ece",
-   "title": "Preventing quantum downgrade attacks against IPsec",
-   "url": "https://blog.cloudflare.com/ipsec-downgrade-protection/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-09-29T13:00:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "6102ac4cd82d",
-   "title": "Bliki: Sensible Default",
-   "url": "https://martinfowler.com/bliki/SensibleDefault.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-09-29T13:43:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "7344bae708cb",
-   "title": "Fragments: September 29",
-   "url": "https://martinfowler.com/fragments/2026-09-29.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-09-29T12:41:00.000Z",
-   "firstSeenAt": "2026-09-29T15:38:30.510Z"
   }
  ]
 }
