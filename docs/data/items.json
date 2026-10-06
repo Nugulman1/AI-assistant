@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-05T18:17:14.559Z",
+ "generatedAt": "2026-10-06T01:41:45.190Z",
  "items": [
   {
    "id": "3ba89625595d",
@@ -32,8 +32,8 @@
    "firstSeenAt": "2026-10-04T14:44:21.888Z",
    "hn": {
     "id": "49950554",
-    "points": 320,
-    "comments": 336
+    "points": 322,
+    "comments": 349
    }
   },
   {
@@ -170,38 +170,89 @@
    "firstSeenAt": "2026-09-30T00:09:25.064Z"
   },
   {
-   "id": "a37b0826d622",
-   "title": "It’s Time to Investigate the AI Labs",
-   "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+   "id": "7ded5c03aba5",
+   "title": "Beam: Reflection's 501B open-weight model",
+   "url": "https://reflection.ai/blog/introducing-beam",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-28T13:56:41.713Z",
-   "score": 35,
-   "firstSeenAt": "2026-09-29T00:52:28.703Z",
+   "publishedAt": "2026-10-05T19:16:35.000Z",
    "hn": {
-    "id": "49883471",
-    "points": 616,
-    "comments": 272
-   }
+    "id": "49969183",
+    "points": 305,
+    "comments": 81
+   },
+   "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
   {
-   "id": "477373a559ec",
-   "title": "Coding is not solved",
-   "url": "https://blog.alexewerlof.com/p/coding-is-not-solved",
+   "id": "489333482e18",
+   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T05:37:40.000Z",
+   "hn": {
+    "id": "49961057",
+    "points": 538,
+    "comments": 458
+   },
+   "firstSeenAt": "2026-10-06T01:41:45.190Z"
+  },
+  {
+   "id": "800d460c0ed7",
+   "title": "Gleam doesn't compile to Erlang source anymore",
+   "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-09-28T13:52:57.000Z",
-   "hn": {
-    "id": "49877988",
-    "points": 545,
-    "comments": 531
-   },
-   "firstSeenAt": "2026-09-29T00:52:28.703Z",
-   "score": 24
+   "publishedAt": "2026-10-05T17:29:17.719Z",
+   "score": 76,
+   "firstSeenAt": "2026-10-06T01:41:45.190Z"
+  },
+  {
+   "id": "6ad4e9be1dfc",
+   "title": "Async Rust: Where does the scheduler live?",
+   "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T18:31:29.400Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-06T01:41:45.190Z"
+  },
+  {
+   "id": "af2dc456cb94",
+   "title": "Making a GTK application in Haskell, part 1",
+   "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T14:22:54.820Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-06T01:41:45.190Z"
+  },
+  {
+   "id": "6abc17ac57a7",
+   "title": "Reverse Engineering Comanche Terrain Maps",
+   "url": "https://pikuma.com/blog/comanche-maps-reverse-engineering",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T10:45:51.812Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-06T01:41:45.190Z"
+  },
+  {
+   "id": "f4180586211d",
+   "title": "We ported the original Doom to SQL",
+   "url": "https://cedardb.com/blog/sqldoom/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-05T10:27:06.699Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
   {
    "id": "a641cc00db60",
@@ -213,8 +264,8 @@
    "publishedAt": "2026-10-05T13:02:25.000Z",
    "hn": {
     "id": "49964303",
-    "points": 320,
-    "comments": 177
+    "points": 395,
+    "comments": 259
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -228,8 +279,8 @@
    "publishedAt": "2026-10-05T11:13:51.000Z",
    "hn": {
     "id": "49963366",
-    "points": 312,
-    "comments": 290
+    "points": 327,
+    "comments": 340
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -243,8 +294,8 @@
    "publishedAt": "2026-10-05T10:47:06.000Z",
    "hn": {
     "id": "49963171",
-    "points": 336,
-    "comments": 166
+    "points": 484,
+    "comments": 222
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -258,8 +309,8 @@
    "publishedAt": "2026-10-05T08:09:36.000Z",
    "hn": {
     "id": "49962012",
-    "points": 391,
-    "comments": 282
+    "points": 464,
+    "comments": 327
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -273,8 +324,8 @@
    "publishedAt": "2026-10-04T19:42:25.000Z",
    "hn": {
     "id": "49957116",
-    "points": 725,
-    "comments": 489
+    "points": 757,
+    "comments": 523
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -288,8 +339,8 @@
    "publishedAt": "2026-10-04T19:37:05.000Z",
    "hn": {
     "id": "49957068",
-    "points": 494,
-    "comments": 657
+    "points": 516,
+    "comments": 674
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -303,8 +354,8 @@
    "publishedAt": "2026-10-04T18:49:17.000Z",
    "hn": {
     "id": "49956681",
-    "points": 361,
-    "comments": 121
+    "points": 395,
+    "comments": 129
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -316,7 +367,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T09:34:42.913Z",
-   "score": 32,
+   "score": 41,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -327,7 +378,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T10:01:55.874Z",
-   "score": 34,
+   "score": 49,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -338,7 +389,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T13:20:47.476Z",
-   "score": 26,
+   "score": 59,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -349,7 +400,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T09:51:28.692Z",
-   "score": 10,
+   "score": 13,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -360,7 +411,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T14:24:26.756Z",
-   "score": 14,
+   "score": 26,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -371,7 +422,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T02:23:30.392Z",
-   "score": 25,
+   "score": 34,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -382,7 +433,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T12:11:57.329Z",
-   "score": 15,
+   "score": 23,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -393,7 +444,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T04:48:18.022Z",
-   "score": 27,
+   "score": 34,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -487,8 +538,8 @@
    "publishedAt": "2026-10-04T12:51:53.000Z",
    "hn": {
     "id": "49953495",
-    "points": 893,
-    "comments": 405
+    "points": 911,
+    "comments": 412
    },
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
@@ -545,7 +596,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T19:30:36.027Z",
-   "score": 44,
+   "score": 47,
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
   {
@@ -578,7 +629,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-04T19:19:42.619Z",
-   "score": 52,
+   "score": 61,
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
   },
   {
@@ -3091,166 +3142,6 @@
    ],
    "publishedAt": "2026-09-29T12:41:00.000Z",
    "firstSeenAt": "2026-09-29T15:38:30.510Z"
-  },
-  {
-   "id": "50e18c541984",
-   "title": "Sonnet 5.5",
-   "url": "https://www.anthropic.com/claude-sonnet-5-5",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T17:58:11.000Z",
-   "hn": {
-    "id": "49881850",
-    "points": 878,
-    "comments": 609
-   },
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "3496f7f40000",
-   "title": "Windows 11½",
-   "url": "https://definitelynotwindows.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T17:51:24.000Z",
-   "hn": {
-    "id": "49881747",
-    "points": 529,
-    "comments": 176
-   },
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "c1277762aa17",
-   "title": "The problem is not AI code, but not knowing about system architecture or intent",
-   "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T16:11:42.000Z",
-   "hn": {
-    "id": "49880312",
-    "points": 384,
-    "comments": 239
-   },
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "cf35c5927732",
-   "title": "Pirating the Pirates",
-   "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T15:54:15.000Z",
-   "hn": {
-    "id": "49880036",
-    "points": 693,
-    "comments": 375
-   },
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "b3c63653c45b",
-   "title": "MongoDB CEO resigns to join Meta",
-   "url": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T14:54:21.000Z",
-   "hn": {
-    "id": "49879000",
-    "points": 357,
-    "comments": 297
-   },
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "fba9ff183617",
-   "title": "Bill Gates tries to install Movie Maker",
-   "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T16:18:16.783Z",
-   "score": 151,
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "8c79cd7d02d1",
-   "title": "What Would A Serious AI Product Look Like?",
-   "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T17:01:01.997Z",
-   "score": 100,
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "d04eea6964d1",
-   "title": "HardenedBSD August / September 2026 Status Report",
-   "url": "https://hardenedbsd.org/article/shawn-webb/2026-09-27/hardenedbsd-august-september-2026-status-report",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T16:14:23.422Z",
-   "score": 18,
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "b01b2d8a1968",
-   "title": "State of the (Tagged) Union Address by Andrew Kelley",
-   "url": "https://www.youtube.com/watch?v=zwi5b5xSsKA",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T20:35:51.568Z",
-   "score": 53,
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "f94c0a1e56c7",
-   "title": "the normalization of inexplicable failures",
-   "url": "https://www.ihatethefuture.com/2026/09/the-normalization-of-inexplicable.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-28T15:34:10.200Z",
-   "score": 19,
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "216d56bba26c",
-   "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
-   "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-28T07:00:00.000Z",
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "914f14710638",
-   "title": "Are you a Codex Original?",
-   "url": "https://openai.com/form/codex-originals",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
-  },
-  {
-   "id": "bf0fe8cc388a",
-   "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-   "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-28T00:00:00.000Z",
-   "firstSeenAt": "2026-09-29T00:52:28.703Z"
   }
  ]
 }
