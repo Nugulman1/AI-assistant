@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-06T15:49:39.319Z",
+ "generatedAt": "2026-10-07T00:28:58.851Z",
  "items": [
   {
    "id": "3ba89625595d",
@@ -18,6 +18,52 @@
     "comments": 305
    },
    "score": 45
+  },
+  {
+   "id": "ec031df26322",
+   "title": "Polars 2.0",
+   "url": "https://pola.rs/posts/release-polars-2/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T11:59:01.000Z",
+   "hn": {
+    "id": "49977177",
+    "points": 410,
+    "comments": 95
+   },
+   "score": 14,
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "ba649422ea9b",
+   "title": "[$] Last rites for Gentoo's Chromium package",
+   "url": "https://lwn.net/Articles/1097760/",
+   "sources": [
+    "LWN",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T13:44:50.000Z",
+   "firstSeenAt": "2026-10-06T15:49:39.319Z",
+   "score": 15
+  },
+  {
+   "id": "2cc36f9e1be3",
+   "title": "Friendship ended with Deno, now Node is my best friend",
+   "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T10:01:55.874Z",
+   "score": 59,
+   "firstSeenAt": "2026-10-05T18:17:14.559Z",
+   "hn": {
+    "id": "49971719",
+    "points": 312,
+    "comments": 231
+   }
   },
   {
    "id": "ccaf54e36ccf",
@@ -138,36 +184,214 @@
    }
   },
   {
-   "id": "884977ecb800",
-   "title": "Dots: Always-on agents",
-   "url": "https://openai.com/index/introducing-dots/",
+   "id": "dd8e89899cf0",
+   "title": "Meta’s Muse is an adorable privacy and security dumpster fire",
+   "url": "https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/",
    "sources": [
-    "Hacker News",
-    "OpenAI"
+    "Hacker News"
    ],
-   "publishedAt": "2026-09-29T00:00:00.000Z",
+   "publishedAt": "2026-10-06T12:45:49.000Z",
    "hn": {
-    "id": "49896604",
-    "points": 758,
-    "comments": 634
+    "id": "49977588",
+    "points": 364,
+    "comments": 258
    },
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
   },
   {
-   "id": "dd66acaed2a0",
-   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+   "id": "05d7fb535e0b",
+   "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+   "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-06T11:11:51.000Z",
+   "hn": {
+    "id": "49976823",
+    "points": 313,
+    "comments": 154
+   },
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "a2e22d7beb63",
+   "title": "Example.com just launched the biggest redesign in decades",
+   "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T22:55:11.000Z",
+   "hn": {
+    "id": "49971921",
+    "points": 340,
+    "comments": 231
+   },
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "fd915bcb238f",
+   "title": "Find the flattest route between any two points in SF",
+   "url": "https://flattensf.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T21:40:50.000Z",
+   "hn": {
+    "id": "49971230",
+    "points": 305,
+    "comments": 114
+   },
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "caf1ac63ddf5",
+   "title": "The lamps in my house",
+   "url": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-05T14:12:14.000Z",
+   "hn": {
+    "id": "49965152",
+    "points": 332,
+    "comments": 126
+   },
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "3cb4cb4bc684",
+   "title": "Brut, the Brutal Router for Unix Tools",
+   "url": "https://brut.sh",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T17:17:23.875Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "ea59e6b7bcd5",
+   "title": "A sustainable web career, for when all this blows over",
+   "url": "https://dbushell.com/2026/10/07/sustainable-web-career/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T18:29:11.053Z",
+   "score": 28,
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "a80cae722c78",
+   "title": "That Time I Worked With a Laptop Thief",
+   "url": "https://blog.pipetogrep.org/2025/07/27/that-time-i-worked-with-a-laptop-thief/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T20:16:33.717Z",
+   "score": 28,
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "fa7f3e3d25ec",
+   "title": "Bidirectional Type Slicing",
+   "url": "https://arxiv.org/pdf/2607.12197",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T13:36:33.005Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "f83d65a16725",
+   "title": "Extend Lua with Zig 1: Hello World",
+   "url": "https://www.robbielyman.com/blog/extend-lua-with-zig-1/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-06T11:58:23.637Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "a22a6ca92e5c",
+   "title": "Expanding the Cyber Verification Program",
+   "url": "https://www.anthropic.com/news/cyber-verification-program",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-06T00:00:00.000Z",
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "60ef2af305e7",
+   "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+   "url": "https://openai.com/index/atlassian-partnership",
+   "sources": [
     "OpenAI"
    ],
-   "publishedAt": "2026-09-29T10:00:00.000Z",
-   "hn": {
-    "id": "49896586",
-    "points": 1057,
-    "comments": 944
-   },
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
+   "publishedAt": "2026-10-06T16:00:00.000Z",
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "342677ae7ead",
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "url": "https://openai.com/index/jump-trading",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-06T12:00:00.000Z",
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "47b9255d8fa0",
+   "title": "Sharing AI progress in mathematics",
+   "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-06T12:00:00.000Z",
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "9964af802e9c",
+   "title": "Advancing computer use with Ironclad",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-06T10:00:00.000Z",
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "2435ebd74585",
+   "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-10-06T19:57:04.000Z",
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "ddec0ece98fa",
+   "title": "The keys to the Internet change on October 11. Are you ready?",
+   "url": "https://blog.cloudflare.com/root-ksk-2024-rollover/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-06T17:50:11.000Z",
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
+  },
+  {
+   "id": "659ba4f15196",
+   "title": "The state of the tech industry in 2026",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-state-of-the-tech-industry-in",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-06T16:25:03.000Z",
+   "firstSeenAt": "2026-10-07T00:28:58.851Z"
   },
   {
    "id": "820bd24a41c4",
@@ -176,11 +400,11 @@
    "sources": [
     "Hacker News"
    ],
-   "publishedAt": "2026-10-06T13:25:50.000Z",
+   "publishedAt": "2026-10-06T13:15:49.000Z",
    "hn": {
-    "id": "49978116",
-    "points": 383,
-    "comments": 42
+    "id": "49977979",
+    "points": 1557,
+    "comments": 952
    },
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
@@ -209,8 +433,8 @@
    "publishedAt": "2026-10-06T11:45:55.000Z",
    "hn": {
     "id": "49977072",
-    "points": 362,
-    "comments": 368
+    "points": 570,
+    "comments": 529
    },
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
@@ -224,8 +448,8 @@
    "publishedAt": "2026-10-06T09:48:46.000Z",
    "hn": {
     "id": "49976265",
-    "points": 309,
-    "comments": 95
+    "points": 516,
+    "comments": 169
    },
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
@@ -239,8 +463,8 @@
    "publishedAt": "2026-10-05T22:46:45.000Z",
    "hn": {
     "id": "49971846",
-    "points": 509,
-    "comments": 371
+    "points": 539,
+    "comments": 400
    },
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
@@ -254,8 +478,8 @@
    "publishedAt": "2026-10-05T21:00:21.000Z",
    "hn": {
     "id": "49970667",
-    "points": 424,
-    "comments": 290
+    "points": 482,
+    "comments": 325
    },
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
@@ -282,7 +506,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-06T08:09:53.070Z",
-   "score": 47,
+   "score": 71,
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
   {
@@ -293,7 +517,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-06T09:07:39.717Z",
-   "score": 17,
+   "score": 31,
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
   {
@@ -304,7 +528,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T23:25:52.404Z",
-   "score": 25,
+   "score": 37,
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
   {
@@ -416,16 +640,6 @@
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
   {
-   "id": "ba649422ea9b",
-   "title": "[$] Last rites for Gentoo's Chromium package",
-   "url": "https://lwn.net/Articles/1097760/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-06T13:44:50.000Z",
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
    "id": "7ded5c03aba5",
    "title": "Beam: Reflection's 501B open-weight model",
    "url": "https://reflection.ai/blog/introducing-beam",
@@ -435,8 +649,8 @@
    "publishedAt": "2026-10-05T19:16:35.000Z",
    "hn": {
     "id": "49969183",
-    "points": 502,
-    "comments": 162
+    "points": 541,
+    "comments": 167
    },
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
@@ -450,8 +664,8 @@
    "publishedAt": "2026-10-05T05:37:40.000Z",
    "hn": {
     "id": "49961057",
-    "points": 774,
-    "comments": 606
+    "points": 808,
+    "comments": 647
    },
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
@@ -463,7 +677,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T17:29:17.719Z",
-   "score": 116,
+   "score": 130,
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
   {
@@ -474,7 +688,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T18:31:29.400Z",
-   "score": 52,
+   "score": 59,
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
   },
   {
@@ -520,8 +734,8 @@
    "publishedAt": "2026-10-05T13:02:25.000Z",
    "hn": {
     "id": "49964303",
-    "points": 424,
-    "comments": 298
+    "points": 427,
+    "comments": 302
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -550,8 +764,8 @@
    "publishedAt": "2026-10-05T10:47:06.000Z",
    "hn": {
     "id": "49963171",
-    "points": 575,
-    "comments": 274
+    "points": 585,
+    "comments": 280
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -565,8 +779,8 @@
    "publishedAt": "2026-10-05T08:09:36.000Z",
    "hn": {
     "id": "49962012",
-    "points": 490,
-    "comments": 349
+    "points": 501,
+    "comments": 350
    },
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
@@ -623,18 +837,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T09:34:42.913Z",
-   "score": 45,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "2cc36f9e1be3",
-   "title": "Friendship ended with Deno, now Node is my best friend",
-   "url": "https://dbushell.com/2026/10/03/deno-to-node/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T10:01:55.874Z",
-   "score": 58,
+   "score": 46,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -645,7 +848,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T13:20:47.476Z",
-   "score": 77,
+   "score": 83,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -667,7 +870,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-05T14:24:26.756Z",
-   "score": 33,
+   "score": 35,
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
   },
   {
@@ -2865,201 +3068,6 @@
    ],
    "publishedAt": "2026-09-30T14:14:00.000Z",
    "firstSeenAt": "2026-09-30T15:49:32.400Z"
-  },
-  {
-   "id": "0a51a0bd84cd",
-   "title": "DraftKings is using AI to behaviorally target chronic gamblers",
-   "url": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-29T16:30:48.000Z",
-   "hn": {
-    "id": "49896050",
-    "points": 565,
-    "comments": 427
-   },
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "ecca61a68f44",
-   "title": "macOS Golden Gate Is a Buggy Mess",
-   "url": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-29T14:32:33.000Z",
-   "hn": {
-    "id": "49894005",
-    "points": 473,
-    "comments": 348
-   },
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "f6300592734e",
-   "title": "How Delhi cut electricity loss from 50 to 5 percent",
-   "url": "https://spectrum.ieee.org/delhi-electricity-loss",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-29T12:43:29.000Z",
-   "hn": {
-    "id": "49892245",
-    "points": 580,
-    "comments": 319
-   },
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "66fb330f67cf",
-   "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-   "url": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-29T11:44:25.000Z",
-   "hn": {
-    "id": "49891550",
-    "points": 384,
-    "comments": 390
-   },
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "9d35c805fb61",
-   "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
-   "url": "https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-29T11:35:18.000Z",
-   "hn": {
-    "id": "49891480",
-    "points": 506,
-    "comments": 301
-   },
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "a7a3b674e644",
-   "title": "World Labs is Joining AMD",
-   "url": "https://www.worldlabs.ai/blog/amd-announcement",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-28T20:18:05.000Z",
-   "hn": {
-    "id": "49883760",
-    "points": 305,
-    "comments": 119
-   },
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "1eb9907f3193",
-   "title": "Pining for Arc Downcasting in Rust",
-   "url": "https://wolfgirl.dev/blog/2026-09-29-pining-for-arc-downcasting-in-rust/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-29T15:35:14.850Z",
-   "score": 58,
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "3b0f3ef0c3d7",
-   "title": "Aho-Corasick Algorithm",
-   "url": "https://compiler.club/aho-corasick/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-29T14:49:08.046Z",
-   "score": 49,
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "d9c901e57e6e",
-   "title": "Nura (postmarketOS): The road to daily-drivable mainline phones",
-   "url": "https://postmarketos.org/blog/2026/09/29/road-to-main-category/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-29T19:20:05.967Z",
-   "score": 26,
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "ab5d75d06387",
-   "title": "AI Didn’t Make Programming Easier. It Just Made It Differently Difficult",
-   "url": "https://cacm.acm.org/opinion/ai-didnt-make-programming-easier-it-just-made-it-differently-difficult/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-29T09:40:33.245Z",
-   "score": 28,
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "d2e1d048b31f",
-   "title": "MotifCentral - All Things Motif/Xt/Xlib",
-   "url": "https://motif-central.org/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-29T09:01:47.493Z",
-   "score": 20,
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "19db7cc5ca5c",
-   "title": "DevDay 2026 Recap",
-   "url": "https://openai.com/index/devday-2026-recap",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-29T10:00:00.000Z",
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "f7665b70e425",
-   "title": "OpenAI DevDay 2026 live blog",
-   "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-09-29T15:55:13.000Z",
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "5d66eee06327",
-   "title": "[$] Native support for Rust on the GPU",
-   "url": "https://lwn.net/Articles/1095731/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-29T17:57:20.000Z",
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "dfa5dcc7a333",
-   "title": "[$] The kernel from a PostgreSQL point of view",
-   "url": "https://lwn.net/Articles/1096827/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-09-29T15:42:30.000Z",
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
-  },
-  {
-   "id": "04392c500deb",
-   "title": "Why has Shopify dropped React Native?",
-   "url": "https://newsletter.pragmaticengineer.com/p/shopify-native-mobile",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-09-29T15:53:19.000Z",
-   "firstSeenAt": "2026-09-30T00:09:25.064Z"
   }
  ]
 }
