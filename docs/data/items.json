@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-07T16:18:24.085Z",
+ "generatedAt": "2026-10-08T00:49:38.553Z",
  "items": [
   {
    "id": "3ba89625595d",
@@ -20,6 +20,55 @@
    "score": 45
   },
   {
+   "id": "ffaeefda6df4",
+   "title": "Margaret Hamilton has died",
+   "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T21:16:18.000Z",
+   "hn": {
+    "id": "49998895",
+    "points": 577,
+    "comments": 61
+   },
+   "score": 45,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "4bb428a07b2a",
+   "title": "Claude Haiku 5.5",
+   "url": "https://www.anthropic.com/claude-haiku-5-5",
+   "sources": [
+    "Hacker News",
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-10-07T18:01:32.000Z",
+   "hn": {
+    "id": "49996437",
+    "points": 647,
+    "comments": 323
+   },
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "0ca1450969b5",
+   "title": "GPT‑6 and Intelligent UI for everyone",
+   "url": "https://openai.com/index/gpt-6-for-everyone/",
+   "sources": [
+    "Hacker News",
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-07T00:00:00.000Z",
+   "hn": {
+    "id": "49996425",
+    "points": 478,
+    "comments": 247
+   },
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
    "id": "e36111052c28",
    "title": "Shipping JPEG XL in Chrome",
    "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
@@ -30,10 +79,10 @@
    "publishedAt": "2026-10-07T11:25:02.000Z",
    "hn": {
     "id": "49991227",
-    "points": 313,
-    "comments": 184
+    "points": 476,
+    "comments": 304
    },
-   "score": 11,
+   "score": 23,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
   {
@@ -47,8 +96,8 @@
    "publishedAt": "2026-10-06T11:59:01.000Z",
    "hn": {
     "id": "49977177",
-    "points": 452,
-    "comments": 100
+    "points": 455,
+    "comments": 101
    },
    "score": 14,
    "firstSeenAt": "2026-10-07T00:28:58.851Z"
@@ -65,8 +114,8 @@
    "firstSeenAt": "2026-10-07T00:28:58.851Z",
    "hn": {
     "id": "49984923",
-    "points": 1132,
-    "comments": 1230
+    "points": 1222,
+    "comments": 1402
    }
   },
   {
@@ -81,8 +130,8 @@
    "firstSeenAt": "2026-10-07T00:28:58.851Z",
    "hn": {
     "id": "49980487",
-    "points": 402,
-    "comments": 45
+    "points": 413,
+    "comments": 46
    }
   },
   {
@@ -95,7 +144,7 @@
    ],
    "publishedAt": "2026-10-06T13:44:50.000Z",
    "firstSeenAt": "2026-10-06T15:49:39.319Z",
-   "score": 52
+   "score": 59
   },
   {
    "id": "800d460c0ed7",
@@ -110,8 +159,8 @@
    "firstSeenAt": "2026-10-06T01:41:45.190Z",
    "hn": {
     "id": "49975619",
-    "points": 311,
-    "comments": 134
+    "points": 313,
+    "comments": 136
    }
   },
   {
@@ -233,21 +282,198 @@
    }
   },
   {
-   "id": "ff45c3d479d2",
-   "title": "Tcl/Tk 9.1",
-   "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+   "id": "3c566b0429ae",
+   "title": "Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app",
+   "url": "https://bigwords.page/",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-09-29T17:13:38.000Z",
-   "score": 53,
-   "firstSeenAt": "2026-10-01T00:25:21.578Z",
+   "publishedAt": "2026-10-07T15:44:21.000Z",
    "hn": {
-    "id": "49896712",
-    "points": 300,
-    "comments": 143
-   }
+    "id": "49994443",
+    "points": 340,
+    "comments": 107
+   },
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "3ce2d39f4fed",
+   "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+   "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-07T15:09:59.000Z",
+   "hn": {
+    "id": "49993914",
+    "points": 474,
+    "comments": 336
+   },
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "9dba5aa935dd",
+   "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+   "url": "https://github.com/szabadkai/c64-keyboard-font/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-07T09:17:55.000Z",
+   "hn": {
+    "id": "49990224",
+    "points": 380,
+    "comments": 62
+   },
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "2b24f689f8ec",
+   "title": "Software developers are not okay",
+   "url": "https://www.baldurbjarnason.com/2026/05-software-developers-are-not-okay/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T19:35:08.637Z",
+   "score": 46,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "07dfab9b3494",
+   "title": "C for Rust Programmers",
+   "url": "https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T14:30:05.893Z",
+   "score": 31,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "f94322d3516b",
+   "title": "Creating distro build tooling for a small community",
+   "url": "https://chimera-linux.org/news/2026/10/the-case-for-cbuild.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T16:23:03.781Z",
+   "score": 22,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "548868935e20",
+   "title": "Calling a function in C without naming it",
+   "url": "https://wiro.world/posts/calling-c-func-without-naming-it/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T18:15:02.307Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "ca3f569fd4b8",
+   "title": "rat's minimal register allocator",
+   "url": "https://hexrat.cc/pages/blog/2026_10_07",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T18:01:25.709Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "b8fd5df0452f",
+   "title": "An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust",
+   "url": "https://github.com/storytold/photocraft",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T12:04:13.826Z",
+   "score": 22,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "1f02b2b0d521",
+   "title": "Zeroization, part 1: Wiping can make things worse",
+   "url": "https://00f.net/2026/10/06/zeroization-1/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T16:22:50.826Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "986958594512",
+   "title": "Twenty-two pending curl vulnerabilities",
+   "url": "https://daniel.haxx.se/blog/2026/10/07/twenty-two-pending-curl-vulnerabilities/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T15:04:10.849Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "529d6f7e6c91",
+   "title": "AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model",
+   "url": "https://huggingface.co/papers/2610.08773",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-06T13:56:43.000Z",
+   "score": 6,
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "04e9dc3828b5",
+   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+   "url": "https://openai.com/index/radisson",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-07T07:00:00.000Z",
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "07729723dd49",
+   "title": "[$] LWN.net Weekly Edition for October 8, 2026",
+   "url": "https://lwn.net/Articles/1097859/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-08T00:22:31.000Z",
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "59ba7555bc4a",
+   "title": "Building an evidence-grounded agentic security operations harness on Cloudflare",
+   "url": "https://blog.cloudflare.com/agentic-security-operations/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-07T16:30:36.000Z",
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "c54697c125c4",
+   "title": "On Git Refs",
+   "url": "https://matklad.github.io/2026/10/07/git-ref.html",
+   "sources": [
+    "matklad"
+   ],
+   "publishedAt": "2026-10-07T00:00:00.000Z",
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
+  },
+  {
+   "id": "c2e92180363e",
+   "title": "Building resilient systems with Sam Newman",
+   "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems-with-sam",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-07T17:19:58.000Z",
+   "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
    "id": "4e21b25c3f63",
@@ -259,8 +485,8 @@
    "publishedAt": "2026-10-06T23:28:08.000Z",
    "hn": {
     "id": "49985664",
-    "points": 327,
-    "comments": 282
+    "points": 342,
+    "comments": 293
    },
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
@@ -274,8 +500,8 @@
    "publishedAt": "2026-10-06T20:57:25.000Z",
    "hn": {
     "id": "49984025",
-    "points": 373,
-    "comments": 218
+    "points": 383,
+    "comments": 221
    },
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
@@ -289,8 +515,8 @@
    "publishedAt": "2026-10-06T18:54:01.000Z",
    "hn": {
     "id": "49982498",
-    "points": 455,
-    "comments": 247
+    "points": 511,
+    "comments": 300
    },
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
@@ -304,8 +530,8 @@
    "publishedAt": "2026-10-06T16:23:25.000Z",
    "hn": {
     "id": "49980715",
-    "points": 330,
-    "comments": 378
+    "points": 335,
+    "comments": 393
    },
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
@@ -332,7 +558,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T13:09:33.721Z",
-   "score": 27,
+   "score": 72,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
   {
@@ -343,7 +569,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-06T22:26:46.902Z",
-   "score": 59,
+   "score": 66,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
   {
@@ -354,7 +580,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T05:34:50.412Z",
-   "score": 22,
+   "score": 24,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
   {
@@ -365,7 +591,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T00:15:00.506Z",
-   "score": 38,
+   "score": 45,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
   {
@@ -376,7 +602,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T09:08:19.143Z",
-   "score": 17,
+   "score": 28,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
   {
@@ -387,7 +613,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-06T21:12:46.779Z",
-   "score": 25,
+   "score": 28,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
   {
@@ -398,7 +624,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T02:58:16.154Z",
-   "score": 12,
+   "score": 17,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
   },
   {
@@ -518,8 +744,8 @@
    "publishedAt": "2026-10-06T12:45:49.000Z",
    "hn": {
     "id": "49977588",
-    "points": 385,
-    "comments": 276
+    "points": 386,
+    "comments": 280
    },
    "firstSeenAt": "2026-10-07T00:28:58.851Z"
   },
@@ -533,8 +759,8 @@
    "publishedAt": "2026-10-06T11:11:51.000Z",
    "hn": {
     "id": "49976823",
-    "points": 340,
-    "comments": 169
+    "points": 343,
+    "comments": 178
    },
    "firstSeenAt": "2026-10-07T00:28:58.851Z"
   },
@@ -591,7 +817,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-06T17:17:23.875Z",
-   "score": 33,
+   "score": 35,
    "firstSeenAt": "2026-10-07T00:28:58.851Z"
   },
   {
@@ -602,7 +828,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-06T18:29:11.053Z",
-   "score": 46,
+   "score": 51,
    "firstSeenAt": "2026-10-07T00:28:58.851Z"
   },
   {
@@ -613,7 +839,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-06T20:16:33.717Z",
-   "score": 78,
+   "score": 87,
    "firstSeenAt": "2026-10-07T00:28:58.851Z"
   },
   {
@@ -708,8 +934,8 @@
    "publishedAt": "2026-10-06T13:15:49.000Z",
    "hn": {
     "id": "49977979",
-    "points": 1953,
-    "comments": 1167
+    "points": 1994,
+    "comments": 1190
    },
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
@@ -738,8 +964,8 @@
    "publishedAt": "2026-10-06T11:45:55.000Z",
    "hn": {
     "id": "49977072",
-    "points": 588,
-    "comments": 555
+    "points": 591,
+    "comments": 556
    },
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
@@ -753,8 +979,8 @@
    "publishedAt": "2026-10-06T09:48:46.000Z",
    "hn": {
     "id": "49976265",
-    "points": 564,
-    "comments": 203
+    "points": 569,
+    "comments": 209
    },
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
   },
@@ -2814,125 +3040,6 @@
    ],
    "publishedAt": "2026-10-01T12:58:00.000Z",
    "firstSeenAt": "2026-10-01T16:16:17.605Z"
-  },
-  {
-   "id": "9e57e69aee78",
-   "title": "Gemini 4 Argon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-30T20:04:37.000Z",
-   "hn": {
-    "id": "49913571",
-    "points": 1677,
-    "comments": 1159
-   },
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "fab3b1e4bf18",
-   "title": "The AI Race Just Got Awkward",
-   "url": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-30T15:50:11.000Z",
-   "hn": {
-    "id": "49910553",
-    "points": 412,
-    "comments": 458
-   },
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "f0edc3e49078",
-   "title": "NASA asked several former SR-71A staffers to help secret restart",
-   "url": "https://aviationweek.com/defense/aircraft-propulsion/nasa-asked-several-former-sr-71a-staffers-help-secret-restart",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-29T10:10:20.000Z",
-   "hn": {
-    "id": "49890733",
-    "points": 310,
-    "comments": 370
-   },
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "3f95e6f8fffe",
-   "title": "What TLA+ can and can't check",
-   "url": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-30T14:02:33.254Z",
-   "score": 34,
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "ac8be06aadba",
-   "title": "Hanami, Why?: Introductions",
-   "url": "https://aaronmallen.me/writing/hanami-why-introductions",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-30T15:55:21.340Z",
-   "score": 49,
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "6392ac7c1eef",
-   "title": "Q2 2026 Backblaze Drive Stats: Hard Drive Failure Rates",
-   "url": "https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-30T14:28:23.283Z",
-   "score": 19,
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "52323008a7b5",
-   "title": "Turbo Haskell",
-   "url": "https://comonad.com/reader/2026/turbo-haskell/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-09-30T13:35:52.964Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "6a91381a4292",
-   "title": "Disrupting a coordinated model-distillation campaign",
-   "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-09-30T10:30:00.000Z",
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "311e095023e6",
-   "title": "Gemini 4 Argon: our next era of frontier intelligence",
-   "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-09-30T20:01:45.000Z",
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
-  },
-  {
-   "id": "3ae27470c6ad",
-   "title": "Distributed databases with Peter Mattis",
-   "url": "https://newsletter.pragmaticengineer.com/p/distributed-databases-with-peter",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-09-30T16:30:05.000Z",
-   "firstSeenAt": "2026-10-01T00:25:21.578Z"
   }
  ]
 }
