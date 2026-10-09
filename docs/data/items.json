@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-10-09T01:03:02.605Z",
+ "generatedAt": "2026-10-09T16:04:18.953Z",
  "items": [
+  {
+   "id": "11660db67830",
+   "title": "Deno Is Joining Cloudflare",
+   "url": "https://deno.com/blog/cloudflare",
+   "sources": [
+    "Hacker News",
+    "Lobsters",
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-09T12:50:00.000Z",
+   "hn": {
+    "id": "50019911",
+    "points": 530,
+    "comments": 281
+   },
+   "score": 25,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
   {
    "id": "3ba89625595d",
    "title": "We're going to need default hard budget caps on pretty much everything",
@@ -20,6 +38,23 @@
    "score": 45
   },
   {
+   "id": "406ae3e6613b",
+   "title": "Beauty in DVD Menus",
+   "url": "https://vale.rocks/posts/dvd-menus",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T13:22:01.000Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z",
+   "hn": {
+    "id": "50005527",
+    "points": 326,
+    "comments": 171
+   }
+  },
+  {
    "id": "5c906478c817",
    "title": "The Mathocalypse",
    "url": "https://scottaaronson.blog/?p=10169",
@@ -30,8 +65,8 @@
    "publishedAt": "2026-10-07T19:33:40.000Z",
    "hn": {
     "id": "49997718",
-    "points": 379,
-    "comments": 390
+    "points": 392,
+    "comments": 406
    },
    "score": 16,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
@@ -51,7 +86,7 @@
     "comments": 210
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z",
-   "score": 14
+   "score": 22
   },
   {
    "id": "ffaeefda6df4",
@@ -64,10 +99,10 @@
    "publishedAt": "2026-10-07T21:16:18.000Z",
    "hn": {
     "id": "49998895",
-    "points": 2078,
-    "comments": 251
+    "points": 2101,
+    "comments": 250
    },
-   "score": 268,
+   "score": 307,
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
@@ -81,8 +116,8 @@
    "publishedAt": "2026-10-07T18:01:32.000Z",
    "hn": {
     "id": "49996437",
-    "points": 1033,
-    "comments": 482
+    "points": 1040,
+    "comments": 485
    },
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
@@ -97,8 +132,8 @@
    "publishedAt": "2026-10-07T00:00:00.000Z",
    "hn": {
     "id": "49996425",
-    "points": 742,
-    "comments": 447
+    "points": 750,
+    "comments": 456
    },
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
@@ -283,16 +318,244 @@
    }
   },
   {
-   "id": "5d095f0fff9f",
-   "title": "[$] Beyond the &",
-   "url": "https://lwn.net/Articles/1096028/",
+   "id": "d0d7c59d5432",
+   "title": "I'm in a Meeting",
+   "url": "https://iminafleeting.com/",
    "sources": [
-    "LWN",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T09:21:48.000Z",
+   "hn": {
+    "id": "50018088",
+    "points": 347,
+    "comments": 129
+   },
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "497aa58319b8",
+   "title": "ADHD as a circadian rhythm disorder: evidence and implications for chronotherapy (2025)",
+   "url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1697900/full",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T20:42:16.000Z",
+   "hn": {
+    "id": "50011928",
+    "points": 365,
+    "comments": 238
+   },
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "ba974d977d50",
+   "title": "Theranos.world",
+   "url": "https://www.theranos.world/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T17:51:49.000Z",
+   "hn": {
+    "id": "50009295",
+    "points": 509,
+    "comments": 184
+   },
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "fb834fd7d929",
+   "title": "Yes, and",
+   "url": "https://htmx.org/essays/yes-and/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T09:48:18.000Z",
+   "hn": {
+    "id": "50003796",
+    "points": 608,
+    "comments": 239
+   },
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "26cfcf0b2273",
+   "title": "OpenAI withdraws three mathematical results",
+   "url": "https://twitter.com/danintheory/status/2108065033070789090",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T07:05:40.000Z",
+   "hn": {
+    "id": "50002650",
+    "points": 362,
+    "comments": 599
+   },
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "19355795289b",
+   "title": "Docker Agent",
+   "url": "https://github.com/docker/docker-agent",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-07T17:48:38.000Z",
+   "hn": {
+    "id": "49996259",
+    "points": 301,
+    "comments": 143
+   },
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "4157a5794793",
+   "title": "Programming Isn’t Special",
+   "url": "https://blog.glyph.im/2026/10/programming-isnt-special.html",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-02T15:11:11.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z",
-   "score": 22
+   "publishedAt": "2026-10-09T11:09:10.381Z",
+   "score": 39,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "6853ed3d74cb",
+   "title": "A tale of four theorem provers, or: A (reasonably) opinionated comparison of Isabelle/HOL, Lean, HOL4, and Agda",
+   "url": "https://blueberrywren.dev/blog/primes/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T14:30:28.326Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "1a79c518e407",
+   "title": "Bevy 0.20",
+   "url": "https://bevy.org/news/bevy-0-20/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T23:21:57.992Z",
+   "score": 53,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "cf877b657992",
+   "title": "Demoting i686 Windows targets to std-only",
+   "url": "https://blog.rust-lang.org/2026/10/02/demoting-i686-windows-targets-to-std-only/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T21:39:50.616Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "c481b4270e57",
+   "title": "B-Trees Are Back: Engineering Fast and Pageable Node Layouts",
+   "url": "https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/papers/btrees-are-back.pdf",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T00:52:27.658Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "85f787bced7c",
+   "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
+   "url": "https://huggingface.co/papers/2610.08215",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-07T20:00:00.000Z",
+   "score": 117,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "9b015423a3d5",
+   "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+   "url": "https://huggingface.co/papers/2610.12242",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-07T20:00:00.000Z",
+   "score": 98,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "54362028897c",
+   "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+   "url": "https://huggingface.co/papers/2610.11959",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-07T20:00:00.000Z",
+   "score": 54,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "aa022ee1cf32",
+   "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+   "url": "https://huggingface.co/papers/2610.12299",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-07T20:00:00.000Z",
+   "score": 40,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "3acedd8c1f1a",
+   "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+   "url": "https://huggingface.co/papers/2610.12468",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-07T20:00:00.000Z",
+   "score": 33,
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "edd58468d564",
+   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+   "url": "https://openai.com/index/sophos",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-09T07:00:00.000Z",
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "19c45cc3b756",
+   "title": "A new feature for my blog, built using my voice",
+   "url": "https://simonwillison.net/2026/Oct/9/built-using-my-voice/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-10-09T12:54:06.000Z",
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "9fb1ac358db9",
+   "title": "[$] The state of systemd: 2026 edition",
+   "url": "https://lwn.net/Articles/1099024/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-09T14:58:15.000Z",
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
+  },
+  {
+   "id": "12cb3b705543",
+   "title": "Introducing on-demand CPU and memory profiling with flamegraphs for Workers and Durable Objects",
+   "url": "https://blog.cloudflare.com/workers-on-demand-profiling/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-09T13:00:00.000Z",
+   "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
    "id": "f9a7f01f513e",
@@ -304,8 +567,8 @@
    "publishedAt": "2026-10-08T16:59:39.000Z",
    "hn": {
     "id": "50008427",
-    "points": 512,
-    "comments": 117
+    "points": 843,
+    "comments": 169
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -319,8 +582,8 @@
    "publishedAt": "2026-10-08T16:45:58.000Z",
    "hn": {
     "id": "50008187",
-    "points": 349,
-    "comments": 245
+    "points": 413,
+    "comments": 287
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -334,8 +597,8 @@
    "publishedAt": "2026-10-08T15:15:00.000Z",
    "hn": {
     "id": "50006832",
-    "points": 821,
-    "comments": 1408
+    "points": 906,
+    "comments": 1540
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -349,8 +612,8 @@
    "publishedAt": "2026-10-08T14:39:47.000Z",
    "hn": {
     "id": "50006366",
-    "points": 656,
-    "comments": 196
+    "points": 727,
+    "comments": 226
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -364,8 +627,8 @@
    "publishedAt": "2026-10-08T12:00:20.000Z",
    "hn": {
     "id": "50004790",
-    "points": 354,
-    "comments": 179
+    "points": 395,
+    "comments": 195
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -379,8 +642,8 @@
    "publishedAt": "2026-10-08T00:14:48.000Z",
    "hn": {
     "id": "50000488",
-    "points": 381,
-    "comments": 322
+    "points": 946,
+    "comments": 863
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -394,8 +657,8 @@
    "publishedAt": "2026-10-07T16:56:30.000Z",
    "hn": {
     "id": "49995495",
-    "points": 371,
-    "comments": 230
+    "points": 839,
+    "comments": 513
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -437,7 +700,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T13:08:00.550Z",
-   "score": 26,
+   "score": 50,
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
   {
@@ -448,7 +711,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T14:43:19.489Z",
-   "score": 23,
+   "score": 62,
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
   {
@@ -459,18 +722,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T19:06:25.805Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-09T01:03:02.605Z"
-  },
-  {
-   "id": "406ae3e6613b",
-   "title": "Beauty in DVD Menus",
-   "url": "https://vale.rocks/posts/dvd-menus",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-08T15:00:23.959Z",
-   "score": 10,
+   "score": 31,
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
   {
@@ -608,7 +860,7 @@
    "publishedAt": "2026-10-08T08:08:37.000Z",
    "hn": {
     "id": "50003107",
-    "points": 338,
+    "points": 341,
     "comments": 3
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
@@ -623,8 +875,8 @@
    "publishedAt": "2026-10-08T05:14:14.000Z",
    "hn": {
     "id": "50002008",
-    "points": 590,
-    "comments": 626
+    "points": 601,
+    "comments": 636
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
@@ -638,8 +890,8 @@
    "publishedAt": "2026-10-07T18:49:40.000Z",
    "hn": {
     "id": "49997161",
-    "points": 367,
-    "comments": 381
+    "points": 372,
+    "comments": 382
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
@@ -666,7 +918,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T08:18:39.422Z",
-   "score": 55,
+   "score": 87,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
   {
@@ -677,7 +929,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T07:59:30.045Z",
-   "score": 49,
+   "score": 60,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
   {
@@ -688,7 +940,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T09:02:42.520Z",
-   "score": 37,
+   "score": 47,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
   {
@@ -2714,289 +2966,6 @@
    ],
    "publishedAt": "2026-10-02T16:13:45.000Z",
    "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "4c41d0de1f5c",
-   "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "url": "https://www.deepseek.com/en/harness/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-02T03:11:20.000Z",
-   "hn": {
-    "id": "49929489",
-    "points": 405,
-    "comments": 216
-   },
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "95d0ef58b850",
-   "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "url": "https://lwn.net/Articles/1097401/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T23:10:44.000Z",
-   "hn": {
-    "id": "49928121",
-    "points": 562,
-    "comments": 403
-   },
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "79f8fdb93f17",
-   "title": "Frog and Toad and the Increasingly Capable Machines",
-   "url": "https://www.frogandtoad.ai/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T22:23:38.000Z",
-   "hn": {
-    "id": "49927760",
-    "points": 555,
-    "comments": 127
-   },
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "5d7cb0335041",
-   "title": "SvelteKit 3",
-   "url": "https://svelte.dev/blog/sveltekit-3-is-here",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T20:14:23.000Z",
-   "hn": {
-    "id": "49926536",
-    "points": 398,
-    "comments": 173
-   },
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "8d8c225d2284",
-   "title": "Pi Durable",
-   "url": "https://earendil.com/posts/pi-durable/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T19:24:08.000Z",
-   "hn": {
-    "id": "49925969",
-    "points": 495,
-    "comments": 69
-   },
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "a4d5be1f0220",
-   "title": "RIP, vector database",
-   "url": "https://turbopuffer.com/blog/rip-vector-database",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T16:01:56.000Z",
-   "hn": {
-    "id": "49923466",
-    "points": 382,
-    "comments": 113
-   },
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "aa61e9fcbdd3",
-   "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-   "url": "https://www.thespacereview.com/article/4951/1",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-30T22:03:04.000Z",
-   "hn": {
-    "id": "49915082",
-    "points": 306,
-    "comments": 162
-   },
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "7f1bcba64445",
-   "title": "Waterfox 6.7.5 Adds a Built-in Feed Reader",
-   "url": "https://www.waterfox.com/releases/6.7.5/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T02:17:04.275Z",
-   "score": 60,
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "9c34a8eb4051",
-   "title": "What are you doing this weekend?",
-   "url": "https://lobste.rs/s/hfmcxi/what_are_you_doing_this_weekend",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T08:18:01.576Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "056d578858c2",
-   "title": "Generic Const Args and You",
-   "url": "https://blog.rust-lang.org/inside-rust/2026/10/02/generic-const-args-and-you/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T09:20:42.528Z",
-   "score": 28,
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "8f020abdf366",
-   "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
-   "url": "https://huggingface.co/papers/2610.01762",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-30T20:00:00.000Z",
-   "score": 138,
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "36ee8bdf3ffd",
-   "title": "World Observer: Joint Actor-Observer Generation for Persistent World Modeling",
-   "url": "https://huggingface.co/papers/2610.02162",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-30T20:00:00.000Z",
-   "score": 40,
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "94580c0cfb12",
-   "title": "Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens",
-   "url": "https://huggingface.co/papers/2610.01939",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-30T20:00:00.000Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "d735305da6a4",
-   "title": "InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation",
-   "url": "https://huggingface.co/papers/2610.02196",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-30T20:00:00.000Z",
-   "score": 11,
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "ca41d921766f",
-   "title": "SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation",
-   "url": "https://huggingface.co/papers/2610.02201",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-09-30T20:00:00.000Z",
-   "score": 8,
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "5282f8714e4c",
-   "title": "Introducing Web Search API via AI Gateway",
-   "url": "https://blog.cloudflare.com/introducing-web-search-api/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:28:10.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "afad8aacc340",
-   "title": "8 major updates to Cloudflare Observability",
-   "url": "https://blog.cloudflare.com/one-observability-platform/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:00:00.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "bc7eda42cb3f",
-   "title": "Introducing Cloudflare Traces: follow requests through our entire platform",
-   "url": "https://blog.cloudflare.com/cloudflare-tracing/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:00:00.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "72f49031912f",
-   "title": "Updates on our pledge to make Cloudflare features accessible to everyone",
-   "url": "https://blog.cloudflare.com/enterprise-for-all-update/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:00:00.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "5e1d1c7f4599",
-   "title": "Announcing Cloudflare OHTTP Gateway – expanding access to Cloudflare’s privacy-preserving infrastructure",
-   "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:00:00.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "3836babc9c5a",
-   "title": "Follow the thread: a new dashboard to investigate account abuse",
-   "url": "https://blog.cloudflare.com/account-abuse-protection-dashboard/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:00:00.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "34c5734222cd",
-   "title": "Protected Quick Tunnels: simple accountless authentication for your next dev project",
-   "url": "https://blog.cloudflare.com/protected-quick-tunnels/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:00:00.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "19ec3340e630",
-   "title": "Building for good: How civil society organizations are automating on Cloudflare",
-   "url": "https://blog.cloudflare.com/civil-society-automation/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:00:00.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "c5769abc90da",
-   "title": "2026 Birthday week: network performance update",
-   "url": "https://blog.cloudflare.com/network-performance-birthday-week-2026/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T13:00:00.000Z",
-   "firstSeenAt": "2026-10-02T15:40:26.963Z"
   }
  ]
 }
