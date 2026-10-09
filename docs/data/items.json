@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-08T16:20:44.528Z",
+ "generatedAt": "2026-10-09T01:03:02.605Z",
  "items": [
   {
    "id": "3ba89625595d",
@@ -30,11 +30,28 @@
    "publishedAt": "2026-10-07T19:33:40.000Z",
    "hn": {
     "id": "49997718",
-    "points": 334,
-    "comments": 343
+    "points": 379,
+    "comments": 390
    },
    "score": 16,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
+  },
+  {
+   "id": "4201f3de1d49",
+   "title": "Navier–Stokes Lost in Translation",
+   "url": "https://arxiv.org/abs/2610.08144",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-07T15:24:38.000Z",
+   "hn": {
+    "id": "49994145",
+    "points": 337,
+    "comments": 210
+   },
+   "firstSeenAt": "2026-10-08T16:20:44.528Z",
+   "score": 14
   },
   {
    "id": "ffaeefda6df4",
@@ -47,10 +64,10 @@
    "publishedAt": "2026-10-07T21:16:18.000Z",
    "hn": {
     "id": "49998895",
-    "points": 1985,
-    "comments": 224
+    "points": 2078,
+    "comments": 251
    },
-   "score": 198,
+   "score": 268,
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
@@ -64,8 +81,8 @@
    "publishedAt": "2026-10-07T18:01:32.000Z",
    "hn": {
     "id": "49996437",
-    "points": 991,
-    "comments": 466
+    "points": 1033,
+    "comments": 482
    },
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
@@ -80,8 +97,8 @@
    "publishedAt": "2026-10-07T00:00:00.000Z",
    "hn": {
     "id": "49996425",
-    "points": 721,
-    "comments": 424
+    "points": 742,
+    "comments": 447
    },
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
@@ -96,8 +113,8 @@
    "publishedAt": "2026-10-07T11:25:02.000Z",
    "hn": {
     "id": "49991227",
-    "points": 558,
-    "comments": 375
+    "points": 561,
+    "comments": 387
    },
    "score": 23,
    "firstSeenAt": "2026-10-07T16:18:24.085Z"
@@ -111,12 +128,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-07T13:08:26.000Z",
-   "score": 108,
+   "score": 127,
    "firstSeenAt": "2026-10-07T16:18:24.085Z",
    "hn": {
     "id": "49992257",
-    "points": 303,
-    "comments": 145
+    "points": 320,
+    "comments": 146
    }
   },
   {
@@ -275,24 +292,311 @@
    ],
    "publishedAt": "2026-10-02T15:11:11.000Z",
    "firstSeenAt": "2026-10-02T15:40:26.963Z",
-   "score": 17
+   "score": 22
   },
   {
-   "id": "9f58bc056c1d",
-   "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-   "url": "https://blog.gitbutler.com/git-3-sha-256",
+   "id": "f9a7f01f513e",
+   "title": "Whistle: Speech to Text in 16.9 MB",
+   "url": "https://cactuscompute.com/blog/whistle",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-01T16:57:03.000Z",
-   "score": 79,
-   "firstSeenAt": "2026-10-02T00:35:49.093Z",
+   "publishedAt": "2026-10-08T16:59:39.000Z",
    "hn": {
-    "id": "49924179",
-    "points": 552,
-    "comments": 528
-   }
+    "id": "50008427",
+    "points": 512,
+    "comments": 117
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "7bdbb68374d5",
+   "title": "OpenAI annualised revenues $20B less than previously signalled",
+   "url": "https://www.cnbc.com/2026/10/08/open-ai-revenue-nvidia-oracle-coreweave.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T16:45:58.000Z",
+   "hn": {
+    "id": "50008187",
+    "points": 349,
+    "comments": 245
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "db7ddb6b79e6",
+   "title": "Trump administration is suspending Microsoft from a green card program",
+   "url": "https://apnews.com/article/h1b-visa-program-vance-microsoft-e7b3a407f822702b269ee277d21343ea",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T15:15:00.000Z",
+   "hn": {
+    "id": "50006832",
+    "points": 821,
+    "comments": 1408
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "8ae9aa32e2ee",
+   "title": "Tell HN: I've been paying for a rural Tanzanian's education for 10 years",
+   "url": "https://news.ycombinator.com/item?id=50006366",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T14:39:47.000Z",
+   "hn": {
+    "id": "50006366",
+    "points": 656,
+    "comments": 196
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "95120c22b81b",
+   "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+   "url": "https://quesma.com/blog/invisible-cities-one-shot/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T12:00:20.000Z",
+   "hn": {
+    "id": "50004790",
+    "points": 354,
+    "comments": 179
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "f33b64fe9640",
+   "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+   "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-08T00:14:48.000Z",
+   "hn": {
+    "id": "50000488",
+    "points": 381,
+    "comments": 322
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "66b4be1eb888",
+   "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
+   "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-07T16:56:30.000Z",
+   "hn": {
+    "id": "49995495",
+    "points": 371,
+    "comments": 230
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "da885f5672be",
+   "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+   "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-07T09:51:43.000Z",
+   "hn": {
+    "id": "49990470",
+    "points": 300,
+    "comments": 57
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "34aeef37d4b4",
+   "title": "I hired an illustrator to draw my house. Now it's my Home Assistant dashboard",
+   "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-07T01:41:03.000Z",
+   "hn": {
+    "id": "49986882",
+    "points": 363,
+    "comments": 54
+   },
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "f9510b34321f",
+   "title": "Ending the Casuarina Linux Experiment",
+   "url": "https://casuarina.org/news/ending-the-casuarina-linux-experiment/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T13:08:00.550Z",
+   "score": 26,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "e7d6897ff1a8",
+   "title": "The Missing Piece in Rust Error Handling",
+   "url": "https://mcmah309.github.io/posts/the-missing-piece-in-rust-error-handling/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T14:43:19.489Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "61859197d25f",
+   "title": "64-Day Certificate Lifetimes Coming Feb 2027",
+   "url": "https://letsencrypt.org/2026/10/07/64-day-certs.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T19:06:25.805Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "406ae3e6613b",
+   "title": "Beauty in DVD Menus",
+   "url": "https://vale.rocks/posts/dvd-menus",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T15:00:23.959Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "fe2e6c33da45",
+   "title": "Extending Guix",
+   "url": "https://guix.gnu.org/en/blog/2026/extending-guix/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T13:20:22.582Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "842e27ee9dc3",
+   "title": "The Performance Cost of RwLock in Our Read-Heavy Workload",
+   "url": "https://pranitha.dev/posts/rwlock-vs-lockfree/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T11:58:52.090Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "fc73d741a1ca",
+   "title": "The history of the Hetzner Cloud network stack",
+   "url": "https://www.hetzner.com/blog/the-hetzner-cloud-network-stack-history-and-technical-overview/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T15:02:28.693Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "099330f6313a",
+   "title": "A rant about APIs",
+   "url": "https://dev.clintonblackburn.com/2026/10/08/a-rant-about-apis.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T06:07:14.732Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "62e62662588c",
+   "title": "Migrating Git repos to SHA-256",
+   "url": "https://exa.y2k.diy/garden/git-sha256/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-08T10:00:39.813Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "db9c355075ab",
+   "title": "Introducing the Anthropic Cyber Mission",
+   "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-08T00:00:00.000Z",
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "7a238471d709",
+   "title": "2026 Usage Policy update",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-08T00:00:00.000Z",
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "112b5f00879d",
+   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "url": "https://openai.com/index/oracle",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-08T16:00:00.000Z",
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "ca1ec6c6a1a1",
+   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+   "url": "https://openai.com/index/pollo-ai",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-08T12:00:00.000Z",
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "f6d3626eb7c8",
+   "title": "LegalOn halves Codex costs while maintaining development speed",
+   "url": "https://openai.com/index/legalon-halves-codex-costs",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-08T12:00:00.000Z",
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "3455af03ab08",
+   "title": "[$] An update on Rust's project goals",
+   "url": "https://lwn.net/Articles/1098617/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-08T17:00:30.000Z",
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
+  },
+  {
+   "id": "b5590cdb9727",
+   "title": "The Pulse: new trend of building “internal vibe-coding apps” at tech companies",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-new-trend-of-building-internal",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-08T16:55:51.000Z",
+   "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
   {
    "id": "133541a06ad0",
@@ -304,8 +608,8 @@
    "publishedAt": "2026-10-08T08:08:37.000Z",
    "hn": {
     "id": "50003107",
-    "points": 334,
-    "comments": 317
+    "points": 338,
+    "comments": 3
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
@@ -319,8 +623,8 @@
    "publishedAt": "2026-10-08T05:14:14.000Z",
    "hn": {
     "id": "50002008",
-    "points": 511,
-    "comments": 513
+    "points": 590,
+    "comments": 626
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
@@ -334,23 +638,8 @@
    "publishedAt": "2026-10-07T18:49:40.000Z",
    "hn": {
     "id": "49997161",
-    "points": 358,
-    "comments": 373
-   },
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "4201f3de1d49",
-   "title": "Navier–Stokes Lost in Translation",
-   "url": "https://arxiv.org/abs/2610.08144",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-07T15:24:38.000Z",
-   "hn": {
-    "id": "49994145",
-    "points": 331,
-    "comments": 200
+    "points": 367,
+    "comments": 381
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
@@ -364,8 +653,8 @@
    "publishedAt": "2026-10-07T15:05:37.000Z",
    "hn": {
     "id": "49993857",
-    "points": 431,
-    "comments": 73
+    "points": 449,
+    "comments": 75
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
@@ -377,7 +666,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T08:18:39.422Z",
-   "score": 27,
+   "score": 55,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
   {
@@ -388,7 +677,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T07:59:30.045Z",
-   "score": 28,
+   "score": 49,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
   {
@@ -399,7 +688,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T09:02:42.520Z",
-   "score": 23,
+   "score": 37,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
   {
@@ -410,7 +699,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T09:23:49.640Z",
-   "score": 17,
+   "score": 29,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
   {
@@ -518,8 +807,8 @@
    "publishedAt": "2026-10-07T15:44:21.000Z",
    "hn": {
     "id": "49994443",
-    "points": 622,
-    "comments": 148
+    "points": 687,
+    "comments": 160
    },
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
@@ -533,8 +822,8 @@
    "publishedAt": "2026-10-07T15:09:59.000Z",
    "hn": {
     "id": "49993914",
-    "points": 573,
-    "comments": 421
+    "points": 592,
+    "comments": 431
    },
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
@@ -548,7 +837,7 @@
    "publishedAt": "2026-10-07T09:17:55.000Z",
    "hn": {
     "id": "49990224",
-    "points": 397,
+    "points": 399,
     "comments": 64
    },
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
@@ -561,7 +850,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T19:35:08.637Z",
-   "score": 85,
+   "score": 105,
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
@@ -572,7 +861,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T14:30:05.893Z",
-   "score": 46,
+   "score": 53,
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
@@ -583,7 +872,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T16:23:03.781Z",
-   "score": 38,
+   "score": 40,
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
@@ -594,7 +883,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T18:15:02.307Z",
-   "score": 53,
+   "score": 65,
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
@@ -605,7 +894,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-07T18:01:25.709Z",
-   "score": 31,
+   "score": 33,
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
@@ -2708,169 +2997,6 @@
    ],
    "publishedAt": "2026-10-02T13:00:00.000Z",
    "firstSeenAt": "2026-10-02T15:40:26.963Z"
-  },
-  {
-   "id": "f796b39f9fcc",
-   "title": "Pi 1.0",
-   "url": "https://earendil.com/posts/pi-1-0/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T19:33:05.000Z",
-   "hn": {
-    "id": "49926069",
-    "points": 1663,
-    "comments": 582
-   },
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "9f6695a97885",
-   "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
-   "url": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T12:55:27.000Z",
-   "hn": {
-    "id": "49920997",
-    "points": 352,
-    "comments": 156
-   },
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "823047328727",
-   "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-   "url": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T12:48:59.000Z",
-   "hn": {
-    "id": "49920932",
-    "points": 382,
-    "comments": 437
-   },
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "b9c3043f96b9",
-   "title": "Returning from vacation? The government can search your phone without a warrant",
-   "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T11:13:59.000Z",
-   "hn": {
-    "id": "49920234",
-    "points": 401,
-    "comments": 367
-   },
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "f21695c0f35a",
-   "title": "Fuck Android Developer Verification Program",
-   "url": "https://twitter.com/0xcrypto/status/2105515822643114182",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T04:32:38.000Z",
-   "hn": {
-    "id": "49917761",
-    "points": 327,
-    "comments": 137
-   },
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "521f7b71e26a",
-   "title": "LinkedIn Larpmaxxing",
-   "url": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-09-30T04:19:57.000Z",
-   "hn": {
-    "id": "49904314",
-    "points": 302,
-    "comments": 236
-   },
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "c3f9b0c23f43",
-   "title": "Pidgin 3.0 Alpha 3 2.97.0 has been released",
-   "url": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-3-2-97-0-has-been-released/436",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-01T16:47:42.962Z",
-   "score": 24,
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "e3ddccd1a7f7",
-   "title": "WSL containers are now generally available",
-   "url": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-01T11:43:16.865Z",
-   "score": 24,
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "bb8d543dd58d",
-   "title": "The death of web development education",
-   "url": "https://molily.de/web-dev-education/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-01T17:14:23.255Z",
-   "score": 47,
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "7e67b43cf9d0",
-   "title": "The eternal complement",
-   "url": "https://openai.com/index/the-eternal-complement",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-01T17:00:00.000Z",
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "a80484c2d584",
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "url": "https://openai.com/index/albertsons-reimagining-retail",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-01T16:00:00.000Z",
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "3bba52758573",
-   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-   "url": "https://openai.com/index/the-den-family-social",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-01T00:00:00.000Z",
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
-  },
-  {
-   "id": "593fe84d411e",
-   "title": "The Pulse: Firebase’s global outage & poor response",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-firebases-global-outage",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-10-01T16:43:19.000Z",
-   "firstSeenAt": "2026-10-02T00:35:49.093Z"
   }
  ]
 }
