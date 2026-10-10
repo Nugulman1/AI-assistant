@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-09T16:04:18.953Z",
+ "generatedAt": "2026-10-10T00:35:18.229Z",
  "items": [
   {
    "id": "11660db67830",
@@ -13,8 +13,8 @@
    "publishedAt": "2026-10-09T12:50:00.000Z",
    "hn": {
     "id": "50019911",
-    "points": 530,
-    "comments": 281
+    "points": 1039,
+    "comments": 540
    },
    "score": 25,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
@@ -38,6 +38,23 @@
    "score": 45
   },
   {
+   "id": "4eb26ae0c121",
+   "title": "Keyboard differences between Windows and Macs",
+   "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T03:08:05.000Z",
+   "hn": {
+    "id": "50015515",
+    "points": 322,
+    "comments": 261
+   },
+   "score": 13,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
    "id": "406ae3e6613b",
    "title": "Beauty in DVD Menus",
    "url": "https://vale.rocks/posts/dvd-menus",
@@ -50,8 +67,8 @@
    "firstSeenAt": "2026-10-09T01:03:02.605Z",
    "hn": {
     "id": "50005527",
-    "points": 326,
-    "comments": 171
+    "points": 329,
+    "comments": 183
    }
   },
   {
@@ -318,6 +335,272 @@
    }
   },
   {
+   "id": "4e55dc1f06ea",
+   "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+   "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T21:06:59.000Z",
+   "hn": {
+    "id": "50026555",
+    "points": 368,
+    "comments": 197
+   },
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "7dbc60a0a91d",
+   "title": "Triple-A Minesweeper",
+   "url": "https://minesweeper.mikelacher.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T15:51:05.000Z",
+   "hn": {
+    "id": "50022292",
+    "points": 574,
+    "comments": 108
+   },
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "2a80656891c8",
+   "title": "US imposes sanctions on ICC hours after former judge wins Nobel Peace Prize",
+   "url": "https://www.reuters.com/world/us-imposes-sanctions-international-criminal-court-hours-after-former-judge-wins-2026-10-09/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T14:31:54.000Z",
+   "hn": {
+    "id": "50021066",
+    "points": 455,
+    "comments": 445
+   },
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "7dd1698bc3e8",
+   "title": "Our $445M Series D",
+   "url": "https://oxide.computer/blog/our-445m-series-d",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T13:12:47.000Z",
+   "hn": {
+    "id": "50020014",
+    "points": 575,
+    "comments": 250
+   },
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "595085953aee",
+   "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+   "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T11:03:48.000Z",
+   "hn": {
+    "id": "50018817",
+    "points": 369,
+    "comments": 161
+   },
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "8eb633fe2b47",
+   "title": "Nobel Peace Prize for 2026 to Navanethem Pillay",
+   "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T10:12:11.000Z",
+   "hn": {
+    "id": "50018420",
+    "points": 436,
+    "comments": 221
+   },
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "301544ff1a07",
+   "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T10:00:26.000Z",
+   "hn": {
+    "id": "50018350",
+    "points": 309,
+    "comments": 201
+   },
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "87dcf9a5de47",
+   "title": "Why Are Coding Agents So Dumb?",
+   "url": "https://mtlynch.io/why-are-coding-agents-so-dumb/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T14:22:04.535Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "e12144ee5e22",
+   "title": "Unison Cloud is now open source",
+   "url": "https://www.unison-lang.org/blog/unison-cloud-open-source/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T15:32:51.176Z",
+   "score": 35,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "751eeb8c32b6",
+   "title": "Python 3.15.0",
+   "url": "https://www.python.org/downloads/release/python-3150/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T17:07:02.641Z",
+   "score": 29,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "6dd676368e8d",
+   "title": "There are many themes, but this one is yours",
+   "url": "https://earendil.com/posts/system-theme/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T12:08:09.491Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "d8d1a1c02a0f",
+   "title": "Deepthi Sigireddi from Supabase",
+   "url": "https://theconsensus.dev/p/2026/10/08/deepthi-sigireddi-from-supabase.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T13:56:41.173Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "6c4a08f1dbbc",
+   "title": "Cloudflare shutting down Deno is news, not just PR",
+   "url": "https://lobste.rs/s/8rrtma/cloudflare_shutting_down_deno_is_news_not",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T21:20:03.262Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "5c807ccf96dd",
+   "title": "\"Robot\" Is A Social Construct: Why Your Dishwasher Is Not A Robot",
+   "url": "https://robotgirlgang.com/2026/10/08/robot-is-a-social-construct-why-your-dishwasher-is-not-a-robot/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T14:14:17.771Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "30cf818925bb",
+   "title": "What are you doing this weekend?",
+   "url": "https://lobste.rs/s/t3xjln/what_are_you_doing_this_weekend",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T12:53:09.890Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "ffae88e59d9f",
+   "title": "A minimal kernel in Swift, running in QEMU",
+   "url": "https://carette.xyz/posts/minimal_swift_kernel_on_qemu/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T12:17:01.066Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "2266653411a5",
+   "title": "Spinlocks Considered Harmful (2020)",
+   "url": "https://matklad.github.io/2020/01/02/spinlocks-considered-harmful.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T13:33:23.334Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "b9f73e57f746",
+   "title": "HIP and ROCm as first-class citizens in Guix",
+   "url": "https://hpc.guix.info/blog/2026/10/hip-and-rocm-as-first-class-citizens/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T13:01:43.973Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "90995f7dbc9c",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "url": "https://openai.com/index/asana-browser-agent",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-09T07:00:00.000Z",
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "992438874f53",
+   "title": "I expect rapid progress but not towards general superintelligence",
+   "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-10-09T21:33:47.000Z",
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "481f8bd7cecf",
+   "title": "[$] Adding kernel control-flow-integrity checking to GCC",
+   "url": "https://lwn.net/Articles/1098670/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-09T17:06:12.000Z",
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "0f232d59a4cf",
+   "title": "Introducing Clef-omni with full multimodality, plus a faster Clef and a cheaper Clef-flash",
+   "url": "https://blog.cloudflare.com/clef-faster-cheaper-multimodal/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-09T18:27:34.000Z",
+   "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
    "id": "d0d7c59d5432",
    "title": "I'm in a Meeting",
    "url": "https://iminafleeting.com/",
@@ -327,8 +610,8 @@
    "publishedAt": "2026-10-09T09:21:48.000Z",
    "hn": {
     "id": "50018088",
-    "points": 347,
-    "comments": 129
+    "points": 740,
+    "comments": 231
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -342,8 +625,8 @@
    "publishedAt": "2026-10-08T20:42:16.000Z",
    "hn": {
     "id": "50011928",
-    "points": 365,
-    "comments": 238
+    "points": 382,
+    "comments": 253
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -357,8 +640,8 @@
    "publishedAt": "2026-10-08T17:51:49.000Z",
    "hn": {
     "id": "50009295",
-    "points": 509,
-    "comments": 184
+    "points": 551,
+    "comments": 199
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -372,8 +655,8 @@
    "publishedAt": "2026-10-08T09:48:18.000Z",
    "hn": {
     "id": "50003796",
-    "points": 608,
-    "comments": 239
+    "points": 735,
+    "comments": 288
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -387,8 +670,8 @@
    "publishedAt": "2026-10-08T07:05:40.000Z",
    "hn": {
     "id": "50002650",
-    "points": 362,
-    "comments": 599
+    "points": 371,
+    "comments": 605
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -415,7 +698,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T11:09:10.381Z",
-   "score": 39,
+   "score": 64,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
@@ -426,7 +709,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T14:30:28.326Z",
-   "score": 10,
+   "score": 29,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
@@ -437,7 +720,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T23:21:57.992Z",
-   "score": 53,
+   "score": 59,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
@@ -567,8 +850,8 @@
    "publishedAt": "2026-10-08T16:59:39.000Z",
    "hn": {
     "id": "50008427",
-    "points": 843,
-    "comments": 169
+    "points": 917,
+    "comments": 176
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -582,8 +865,8 @@
    "publishedAt": "2026-10-08T16:45:58.000Z",
    "hn": {
     "id": "50008187",
-    "points": 413,
-    "comments": 287
+    "points": 421,
+    "comments": 298
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -597,8 +880,8 @@
    "publishedAt": "2026-10-08T15:15:00.000Z",
    "hn": {
     "id": "50006832",
-    "points": 906,
-    "comments": 1540
+    "points": 920,
+    "comments": 1585
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -612,8 +895,8 @@
    "publishedAt": "2026-10-08T14:39:47.000Z",
    "hn": {
     "id": "50006366",
-    "points": 727,
-    "comments": 226
+    "points": 739,
+    "comments": 235
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -627,8 +910,8 @@
    "publishedAt": "2026-10-08T12:00:20.000Z",
    "hn": {
     "id": "50004790",
-    "points": 395,
-    "comments": 195
+    "points": 405,
+    "comments": 199
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -700,7 +983,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T13:08:00.550Z",
-   "score": 50,
+   "score": 53,
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
   {
@@ -711,7 +994,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T14:43:19.489Z",
-   "score": 62,
+   "score": 71,
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
   {
@@ -722,7 +1005,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T19:06:25.805Z",
-   "score": 31,
+   "score": 34,
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
   {
@@ -860,7 +1143,7 @@
    "publishedAt": "2026-10-08T08:08:37.000Z",
    "hn": {
     "id": "50003107",
-    "points": 341,
+    "points": 342,
     "comments": 3
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
@@ -875,8 +1158,8 @@
    "publishedAt": "2026-10-08T05:14:14.000Z",
    "hn": {
     "id": "50002008",
-    "points": 601,
-    "comments": 636
+    "points": 608,
+    "comments": 640
    },
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
@@ -918,7 +1201,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-08T08:18:39.422Z",
-   "score": 87,
+   "score": 91,
    "firstSeenAt": "2026-10-08T16:20:44.528Z"
   },
   {
@@ -2856,116 +3139,6 @@
    "publishedAt": "2026-10-02T18:34:38.273Z",
    "score": 13,
    "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "3ac5b3360665",
-   "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-   "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T22:23:07.000Z",
-   "hn": {
-    "id": "49927754",
-    "points": 692,
-    "comments": 329
-   },
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "40252d9527e9",
-   "title": "Actual RFC1149 packet being auctioned",
-   "url": "https://onlineonly.christies.com/s/fine-printed-books-manuscripts-science/carrier-pigeon-internet-protocol-150/325216",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T14:17:00.980Z",
-   "score": 92,
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "0a4cfd02f572",
-   "title": "Zig 0.17.0 Release Notes",
-   "url": "https://ziglang.org/download/0.17.0/release-notes.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T21:10:41.271Z",
-   "score": 124,
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "47992b567ab4",
-   "title": "The forgetful CPU (Linux on M4)",
-   "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T14:01:47.761Z",
-   "score": 63,
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "e0bdbfcb3f74",
-   "title": "The Four Horsemen of Agentic Coding",
-   "url": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T16:48:36.431Z",
-   "score": 56,
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "0d268a001eed",
-   "title": "Readable Regular Expressions for JavaScript/TypeScript, Inspired by Emacs' rx",
-   "url": "https://rahuljuliato.com/posts/emacs-rx-in-typescript",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T08:20:02.189Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "9f2dde650fe4",
-   "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-   "url": "https://www.anthropic.com/news/claude-frontier-academy",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-02T00:00:00.000Z",
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "8e206c4d9ed6",
-   "title": "A model guide for the GPT-6 family",
-   "url": "https://openai.com/index/practical-guide-building-gpt-6",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-02T16:15:00.000Z",
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "a97398f76ee5",
-   "title": "Chatham scales its capital markets expertise with OpenAI",
-   "url": "https://openai.com/index/chatham-financial",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-02T00:00:00.000Z",
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
-  },
-  {
-   "id": "429215ba772b",
-   "title": "Streamline: custom video pipelines with Cloudflare Stream and Workers",
-   "url": "https://blog.cloudflare.com/streamline/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-02T16:13:45.000Z",
-   "firstSeenAt": "2026-10-03T00:15:59.722Z"
   }
  ]
 }
