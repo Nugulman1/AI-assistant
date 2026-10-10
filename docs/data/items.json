@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T00:35:18.229Z",
+ "generatedAt": "2026-10-10T15:12:31.988Z",
  "items": [
   {
    "id": "11660db67830",
@@ -13,8 +13,8 @@
    "publishedAt": "2026-10-09T12:50:00.000Z",
    "hn": {
     "id": "50019911",
-    "points": 1039,
-    "comments": 540
+    "points": 1292,
+    "comments": 664
    },
    "score": 25,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
@@ -48,8 +48,8 @@
    "publishedAt": "2026-10-09T03:08:05.000Z",
    "hn": {
     "id": "50015515",
-    "points": 322,
-    "comments": 261
+    "points": 335,
+    "comments": 280
    },
    "score": 13,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
@@ -318,21 +318,108 @@
    "score": 32
   },
   {
-   "id": "14db68452116",
-   "title": "Updates to Full Disk Access in macOS",
-   "url": "https://developer.apple.com/news/?id=p6zjojqw",
+   "id": "532da457651c",
+   "title": "Lobbying Is Corruption",
+   "url": "https://carette.xyz/posts/lobbying_and_corruption/",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-02T19:37:01.000Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-03T14:15:32.493Z",
+   "publishedAt": "2026-10-10T13:05:58.000Z",
    "hn": {
-    "id": "49937631",
-    "points": 307,
-    "comments": 214
-   }
+    "id": "50032556",
+    "points": 302,
+    "comments": 144
+   },
+   "firstSeenAt": "2026-10-10T15:12:31.988Z"
+  },
+  {
+   "id": "92fe947eb54a",
+   "title": "REA Reverse – Engineer Anything",
+   "url": "https://rea.tools/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-10T00:37:07.000Z",
+   "hn": {
+    "id": "50028275",
+    "points": 544,
+    "comments": 235
+   },
+   "firstSeenAt": "2026-10-10T15:12:31.988Z"
+  },
+  {
+   "id": "35b14c13d81b",
+   "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+   "url": "https://carrierexplode.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T18:10:55.000Z",
+   "hn": {
+    "id": "50024499",
+    "points": 373,
+    "comments": 45
+   },
+   "firstSeenAt": "2026-10-10T15:12:31.988Z"
+  },
+  {
+   "id": "04902b83f5b9",
+   "title": "Typesafe AI raises $870M at $7.5B",
+   "url": "https://typesafe.ai/blog/series-ai",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T17:02:31.000Z",
+   "hn": {
+    "id": "50023450",
+    "points": 408,
+    "comments": 324
+   },
+   "firstSeenAt": "2026-10-10T15:12:31.988Z"
+  },
+  {
+   "id": "98f1e3070cc1",
+   "title": "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",
+   "url": "https://sebsite.pw/w/20261009-strtod.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T05:37:18.608Z",
+   "score": 35,
+   "firstSeenAt": "2026-10-10T15:12:31.988Z"
+  },
+  {
+   "id": "b4b9b864afdc",
+   "title": "No Man Is an Island",
+   "url": "https://borretti.me/article/no-man-is-an-island",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T01:37:07.995Z",
+   "score": 38,
+   "firstSeenAt": "2026-10-10T15:12:31.988Z"
+  },
+  {
+   "id": "ddbf35e86da2",
+   "title": "There's little that's \"inevitable\" about AI",
+   "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T09:08:30.104Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-10T15:12:31.988Z"
+  },
+  {
+   "id": "efb811cdde26",
+   "title": "Branches in branch-free code",
+   "url": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T19:31:17.250Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
   {
    "id": "4e55dc1f06ea",
@@ -344,8 +431,8 @@
    "publishedAt": "2026-10-09T21:06:59.000Z",
    "hn": {
     "id": "50026555",
-    "points": 368,
-    "comments": 197
+    "points": 625,
+    "comments": 338
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -359,8 +446,8 @@
    "publishedAt": "2026-10-09T15:51:05.000Z",
    "hn": {
     "id": "50022292",
-    "points": 574,
-    "comments": 108
+    "points": 1160,
+    "comments": 229
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -374,8 +461,8 @@
    "publishedAt": "2026-10-09T14:31:54.000Z",
    "hn": {
     "id": "50021066",
-    "points": 455,
-    "comments": 445
+    "points": 498,
+    "comments": 500
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -389,8 +476,8 @@
    "publishedAt": "2026-10-09T13:12:47.000Z",
    "hn": {
     "id": "50020014",
-    "points": 575,
-    "comments": 250
+    "points": 676,
+    "comments": 304
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -404,8 +491,8 @@
    "publishedAt": "2026-10-09T11:03:48.000Z",
    "hn": {
     "id": "50018817",
-    "points": 369,
-    "comments": 161
+    "points": 403,
+    "comments": 183
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -419,8 +506,8 @@
    "publishedAt": "2026-10-09T10:12:11.000Z",
    "hn": {
     "id": "50018420",
-    "points": 436,
-    "comments": 221
+    "points": 473,
+    "comments": 244
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -434,8 +521,8 @@
    "publishedAt": "2026-10-09T10:00:26.000Z",
    "hn": {
     "id": "50018350",
-    "points": 309,
-    "comments": 201
+    "points": 346,
+    "comments": 216
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -447,7 +534,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T14:22:04.535Z",
-   "score": 27,
+   "score": 36,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -458,7 +545,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T15:32:51.176Z",
-   "score": 35,
+   "score": 50,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -469,7 +556,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T17:07:02.641Z",
-   "score": 29,
+   "score": 54,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -480,7 +567,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T12:08:09.491Z",
-   "score": 15,
+   "score": 19,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -491,7 +578,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T13:56:41.173Z",
-   "score": 11,
+   "score": 12,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -502,7 +589,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T21:20:03.262Z",
-   "score": 16,
+   "score": 50,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -513,7 +600,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T14:14:17.771Z",
-   "score": 13,
+   "score": 18,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -524,7 +611,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T12:53:09.890Z",
-   "score": 11,
+   "score": 14,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -546,7 +633,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T13:33:23.334Z",
-   "score": 10,
+   "score": 21,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -610,8 +697,8 @@
    "publishedAt": "2026-10-09T09:21:48.000Z",
    "hn": {
     "id": "50018088",
-    "points": 740,
-    "comments": 231
+    "points": 961,
+    "comments": 265
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -625,8 +712,8 @@
    "publishedAt": "2026-10-08T20:42:16.000Z",
    "hn": {
     "id": "50011928",
-    "points": 382,
-    "comments": 253
+    "points": 388,
+    "comments": 260
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -640,8 +727,8 @@
    "publishedAt": "2026-10-08T17:51:49.000Z",
    "hn": {
     "id": "50009295",
-    "points": 551,
-    "comments": 199
+    "points": 558,
+    "comments": 204
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -698,7 +785,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T11:09:10.381Z",
-   "score": 64,
+   "score": 76,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
@@ -709,7 +796,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T14:30:28.326Z",
-   "score": 29,
+   "score": 39,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
@@ -850,8 +937,8 @@
    "publishedAt": "2026-10-08T16:59:39.000Z",
    "hn": {
     "id": "50008427",
-    "points": 917,
-    "comments": 176
+    "points": 939,
+    "comments": 181
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -865,8 +952,8 @@
    "publishedAt": "2026-10-08T16:45:58.000Z",
    "hn": {
     "id": "50008187",
-    "points": 421,
-    "comments": 298
+    "points": 425,
+    "comments": 300
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -880,8 +967,8 @@
    "publishedAt": "2026-10-08T15:15:00.000Z",
    "hn": {
     "id": "50006832",
-    "points": 920,
-    "comments": 1585
+    "points": 931,
+    "comments": 1596
    },
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
   },
@@ -2953,192 +3040,6 @@
    "publishedAt": "2026-10-03T08:17:27.437Z",
    "score": 18,
    "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "aa5b44863905",
-   "title": "Extra Big Ass Intelligence",
-   "url": "https://www.extrabigassintelligence.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T03:19:10.000Z",
-   "hn": {
-    "id": "49941114",
-    "points": 510,
-    "comments": 125
-   },
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "7181b62f0158",
-   "title": "Newgrounds.com – A community of games, music, and art",
-   "url": "https://www.newgrounds.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T00:55:25.000Z",
-   "hn": {
-    "id": "49940394",
-    "points": 457,
-    "comments": 136
-   },
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "f645ab769782",
-   "title": "Apple Pass Designer",
-   "url": "https://developer.apple.com/pass-designer/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-02T19:06:56.000Z",
-   "hn": {
-    "id": "49937276",
-    "points": 557,
-    "comments": 331
-   },
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "1ba30ffb2175",
-   "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
-   "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-02T11:07:17.000Z",
-   "hn": {
-    "id": "49932147",
-    "points": 388,
-    "comments": 79
-   },
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "47e64466ac74",
-   "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-   "url": "https://stillwet.art/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-02T00:27:56.000Z",
-   "hn": {
-    "id": "49928566",
-    "points": 369,
-    "comments": 108
-   },
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "cc9eb70adea3",
-   "title": "Sites in ChatGPT",
-   "url": "https://chatgpt.com/features/sites/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T22:22:21.000Z",
-   "hn": {
-    "id": "49927747",
-    "points": 306,
-    "comments": 288
-   },
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "649e4d2bdd96",
-   "title": "FLUX 3 Image",
-   "url": "https://bfl.ai/models/flux-3-image",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T19:24:29.000Z",
-   "hn": {
-    "id": "49925974",
-    "points": 377,
-    "comments": 83
-   },
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "1671a01d9f3f",
-   "title": "Mike Tomlin spent 12 years building a Minecraft city",
-   "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-01T18:20:18.000Z",
-   "hn": {
-    "id": "49925184",
-    "points": 540,
-    "comments": 126
-   },
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "c22864d63ba1",
-   "title": "I got targeted: Trying to get your credentials via a git post-checkout hook",
-   "url": "https://frankwiles.com/posts/i-got-targeted/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T22:19:02.622Z",
-   "score": 122,
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "5641221462e8",
-   "title": "Lobsters Interview with Sjamaan",
-   "url": "https://alexalejandre.com/interviews/peter-bex/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T22:01:27.215Z",
-   "score": 57,
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "d77ccec1b164",
-   "title": "gVisor is being donated to CNCF",
-   "url": "https://gvisor.dev/blog/2026/10/02/gvisor-cncf/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T02:41:38.394Z",
-   "score": 50,
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "e0f4f68945de",
-   "title": "Keeping Futhark off the GPU",
-   "url": "https://futhark-lang.org/blog/2026-10-02-cpu_function.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T20:17:47.529Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "7a080e797efd",
-   "title": "The hidden design compromises of Docker layers",
-   "url": "https://loige.co/hidden-design-compromises-of-docker-layers/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T08:29:47.847Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
-  },
-  {
-   "id": "fe8bc0a4c216",
-   "title": "Klassik Revives the KDE 3 Desktop on Modern Plasma 6",
-   "url": "https://linuxiac.com/klassik-revives-the-kde-3-desktop-on-modern-plasma-6/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-02T18:34:38.273Z",
-   "score": 13,
-   "firstSeenAt": "2026-10-03T14:15:32.493Z"
   }
  ]
 }
