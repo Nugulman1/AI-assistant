@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-10T15:12:31.988Z",
+ "generatedAt": "2026-10-11T00:09:23.428Z",
  "items": [
   {
    "id": "11660db67830",
@@ -13,29 +13,28 @@
    "publishedAt": "2026-10-09T12:50:00.000Z",
    "hn": {
     "id": "50019911",
-    "points": 1292,
-    "comments": 664
+    "points": 1338,
+    "comments": 688
    },
    "score": 25,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
-   "id": "3ba89625595d",
-   "title": "We're going to need default hard budget caps on pretty much everything",
-   "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+   "id": "b4b9b864afdc",
+   "title": "No Man Is an Island",
+   "url": "https://borretti.me/article/no-man-is-an-island",
    "sources": [
-    "Simon Willison",
-    "Hacker News",
-    "Lobsters"
+    "Lobsters",
+    "Hacker News"
    ],
-   "publishedAt": "2026-10-03T23:34:02.000Z",
-   "firstSeenAt": "2026-10-03T23:36:22.884Z",
+   "publishedAt": "2026-10-09T20:04:00.000Z",
+   "score": 52,
+   "firstSeenAt": "2026-10-10T15:12:31.988Z",
    "hn": {
-    "id": "49949235",
-    "points": 620,
-    "comments": 305
-   },
-   "score": 45
+    "id": "50025935",
+    "points": 314,
+    "comments": 203
+   }
   },
   {
    "id": "4eb26ae0c121",
@@ -48,11 +47,28 @@
    "publishedAt": "2026-10-09T03:08:05.000Z",
    "hn": {
     "id": "50015515",
-    "points": 335,
-    "comments": 280
+    "points": 340,
+    "comments": 283
    },
    "score": 13,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
+  },
+  {
+   "id": "751eeb8c32b6",
+   "title": "Python 3.15.0",
+   "url": "https://www.python.org/downloads/release/python-3150/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-09T14:35:42.000Z",
+   "score": 65,
+   "firstSeenAt": "2026-10-10T00:35:18.229Z",
+   "hn": {
+    "id": "50021127",
+    "points": 308,
+    "comments": 105
+   }
   },
   {
    "id": "406ae3e6613b",
@@ -301,21 +317,82 @@
    }
   },
   {
-   "id": "a650c74fe354",
-   "title": "Kolibri: A Sovereign Open-Weight Model",
-   "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+   "id": "77a6fe42b025",
+   "title": "Bitwarden Dual License Model",
+   "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-10T14:32:50.000Z",
+   "hn": {
+    "id": "50033407",
+    "points": 335,
+    "comments": 243
+   },
+   "firstSeenAt": "2026-10-11T00:09:23.428Z"
+  },
+  {
+   "id": "3d9270bdc4bb",
+   "title": "`123456' password used in Danish CPR data breach",
+   "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-10T09:51:49.000Z",
+   "hn": {
+    "id": "50031269",
+    "points": 376,
+    "comments": 193
+   },
+   "firstSeenAt": "2026-10-11T00:09:23.428Z"
+  },
+  {
+   "id": "19faa179f05c",
+   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+   "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-10T03:02:47.000Z",
+   "hn": {
+    "id": "50029123",
+    "points": 399,
+    "comments": 254
+   },
+   "firstSeenAt": "2026-10-11T00:09:23.428Z"
+  },
+  {
+   "id": "41f66d0af92e",
+   "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+   "url": "https://lightbulbcomputer.com/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-03T09:36:04.000Z",
-   "hn": {
-    "id": "49942706",
-    "points": 653,
-    "comments": 325
-   },
-   "firstSeenAt": "2026-10-03T23:36:22.884Z",
-   "score": 32
+   "publishedAt": "2026-10-10T11:53:29.482Z",
+   "score": 20,
+   "firstSeenAt": "2026-10-11T00:09:23.428Z"
+  },
+  {
+   "id": "7a975c8b8f8b",
+   "title": "Iframes that finally fit their content",
+   "url": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T12:54:56.199Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-11T00:09:23.428Z"
+  },
+  {
+   "id": "e213041b6c31",
+   "title": "Lifeguard: A static analyzer for Python lazy imports compatibility",
+   "url": "https://github.com/Facebook/lifeguard",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-09T21:44:50.573Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-11T00:09:23.428Z"
   },
   {
    "id": "532da457651c",
@@ -327,8 +404,8 @@
    "publishedAt": "2026-10-10T13:05:58.000Z",
    "hn": {
     "id": "50032556",
-    "points": 302,
-    "comments": 144
+    "points": 465,
+    "comments": 259
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -342,8 +419,8 @@
    "publishedAt": "2026-10-10T00:37:07.000Z",
    "hn": {
     "id": "50028275",
-    "points": 544,
-    "comments": 235
+    "points": 688,
+    "comments": 300
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -357,8 +434,8 @@
    "publishedAt": "2026-10-09T18:10:55.000Z",
    "hn": {
     "id": "50024499",
-    "points": 373,
-    "comments": 45
+    "points": 410,
+    "comments": 48
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -372,8 +449,8 @@
    "publishedAt": "2026-10-09T17:02:31.000Z",
    "hn": {
     "id": "50023450",
-    "points": 408,
-    "comments": 324
+    "points": 429,
+    "comments": 343
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -385,18 +462,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T05:37:18.608Z",
-   "score": 35,
-   "firstSeenAt": "2026-10-10T15:12:31.988Z"
-  },
-  {
-   "id": "b4b9b864afdc",
-   "title": "No Man Is an Island",
-   "url": "https://borretti.me/article/no-man-is-an-island",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T01:37:07.995Z",
-   "score": 38,
+   "score": 51,
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
   {
@@ -407,7 +473,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T09:08:30.104Z",
-   "score": 15,
+   "score": 23,
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
   {
@@ -418,7 +484,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T19:31:17.250Z",
-   "score": 23,
+   "score": 26,
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
   {
@@ -431,8 +497,8 @@
    "publishedAt": "2026-10-09T21:06:59.000Z",
    "hn": {
     "id": "50026555",
-    "points": 625,
-    "comments": 338
+    "points": 662,
+    "comments": 349
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -446,8 +512,8 @@
    "publishedAt": "2026-10-09T15:51:05.000Z",
    "hn": {
     "id": "50022292",
-    "points": 1160,
-    "comments": 229
+    "points": 1357,
+    "comments": 271
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -461,8 +527,8 @@
    "publishedAt": "2026-10-09T14:31:54.000Z",
    "hn": {
     "id": "50021066",
-    "points": 498,
-    "comments": 500
+    "points": 513,
+    "comments": 520
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -476,8 +542,8 @@
    "publishedAt": "2026-10-09T13:12:47.000Z",
    "hn": {
     "id": "50020014",
-    "points": 676,
-    "comments": 304
+    "points": 691,
+    "comments": 315
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -491,8 +557,8 @@
    "publishedAt": "2026-10-09T11:03:48.000Z",
    "hn": {
     "id": "50018817",
-    "points": 403,
-    "comments": 183
+    "points": 412,
+    "comments": 188
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -506,8 +572,8 @@
    "publishedAt": "2026-10-09T10:12:11.000Z",
    "hn": {
     "id": "50018420",
-    "points": 473,
-    "comments": 244
+    "points": 483,
+    "comments": 248
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -521,8 +587,8 @@
    "publishedAt": "2026-10-09T10:00:26.000Z",
    "hn": {
     "id": "50018350",
-    "points": 346,
-    "comments": 216
+    "points": 355,
+    "comments": 217
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -534,7 +600,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T14:22:04.535Z",
-   "score": 36,
+   "score": 38,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -545,18 +611,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T15:32:51.176Z",
-   "score": 50,
-   "firstSeenAt": "2026-10-10T00:35:18.229Z"
-  },
-  {
-   "id": "751eeb8c32b6",
-   "title": "Python 3.15.0",
-   "url": "https://www.python.org/downloads/release/python-3150/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-09T17:07:02.641Z",
-   "score": 54,
+   "score": 60,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -589,7 +644,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T21:20:03.262Z",
-   "score": 50,
+   "score": 54,
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
   {
@@ -697,8 +752,8 @@
    "publishedAt": "2026-10-09T09:21:48.000Z",
    "hn": {
     "id": "50018088",
-    "points": 961,
-    "comments": 265
+    "points": 999,
+    "comments": 273
    },
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
@@ -785,7 +840,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T11:09:10.381Z",
-   "score": 76,
+   "score": 79,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
@@ -796,7 +851,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-09T14:30:28.326Z",
-   "score": 39,
+   "score": 47,
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
@@ -2910,136 +2965,6 @@
    "publishedAt": "2026-10-03T20:37:40.362Z",
    "score": 24,
    "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "9a14422b82b9",
-   "title": "Aleph Alpha Kolibri: How the sovereign German LLM works",
-   "url": "https://tej.as/blog/aleph-alpha-kolibri",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T10:43:51.000Z",
-   "hn": {
-    "id": "49943034",
-    "points": 417,
-    "comments": 12
-   },
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "3577570198f4",
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "url": "https://dwarfstar.sh/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-02T18:01:16.000Z",
-   "hn": {
-    "id": "49936575",
-    "points": 354,
-    "comments": 100
-   },
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "c8d6ca0fb18e",
-   "title": "The Legend of von Neumann (1973) [pdf]",
-   "url": "https://gwern.net/doc/math/1973-halmos.pdf",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-02T13:18:32.000Z",
-   "hn": {
-    "id": "49933235",
-    "points": 302,
-    "comments": 181
-   },
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "348fe09464e4",
-   "title": "Shimano Bicycle Museum Review",
-   "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-02T05:12:58.000Z",
-   "hn": {
-    "id": "49930047",
-    "points": 302,
-    "comments": 80
-   },
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "87a7234dae36",
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-   "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-02T02:51:27.000Z",
-   "hn": {
-    "id": "49929391",
-    "points": 325,
-    "comments": 118
-   },
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "92988a7a0a4e",
-   "title": "The Era of Software Quality, or the Era of Ostriches?",
-   "url": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T13:31:58.277Z",
-   "score": 41,
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "b7accd4f6d9f",
-   "title": "How to Hack Time, With C2PA",
-   "url": "https://www.da.vidbuchanan.co.uk/blog/hacking-time.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T11:58:14.604Z",
-   "score": 25,
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "187a18926f7e",
-   "title": "Two-Stack Sliding-Window Aggregation",
-   "url": "https://orlp.net/blog/two-stack-sliding-window-aggregation/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T12:39:14.892Z",
-   "score": 29,
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "77e75ae2396f",
-   "title": "Rust for CPython (Python Language Summit 2026)",
-   "url": "https://blog.python.org/2026/09/language-summit-2026-rust-for-cpython/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T09:40:38.169Z",
-   "score": 27,
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
-  },
-  {
-   "id": "9de879129dba",
-   "title": "Problems and solutions to the modern desktop (Make tmux the OS)",
-   "url": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T08:17:27.437Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-03T23:36:22.884Z"
   }
  ]
 }
