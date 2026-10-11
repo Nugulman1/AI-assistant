@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T00:09:23.428Z",
+ "generatedAt": "2026-10-11T15:32:27.009Z",
  "items": [
   {
    "id": "11660db67830",
@@ -20,6 +20,23 @@
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
+   "id": "41f66d0af92e",
+   "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
+   "url": "https://lightbulbcomputer.com/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-10T04:12:26.000Z",
+   "score": 58,
+   "firstSeenAt": "2026-10-11T00:09:23.428Z",
+   "hn": {
+    "id": "50029487",
+    "points": 514,
+    "comments": 80
+   }
+  },
+  {
    "id": "b4b9b864afdc",
    "title": "No Man Is an Island",
    "url": "https://borretti.me/article/no-man-is-an-island",
@@ -28,12 +45,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-09T20:04:00.000Z",
-   "score": 52,
+   "score": 70,
    "firstSeenAt": "2026-10-10T15:12:31.988Z",
    "hn": {
     "id": "50025935",
-    "points": 314,
-    "comments": 203
+    "points": 320,
+    "comments": 208
    }
   },
   {
@@ -62,7 +79,7 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-09T14:35:42.000Z",
-   "score": 65,
+   "score": 74,
    "firstSeenAt": "2026-10-10T00:35:18.229Z",
    "hn": {
     "id": "50021127",
@@ -300,21 +317,189 @@
    }
   },
   {
-   "id": "ccaf54e36ccf",
-   "title": "Why don’t more developers \"use the platform\"?",
-   "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+   "id": "e96b8175ab18",
+   "title": "Bot traffic from Yandex",
+   "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-03T21:35:28.658Z",
-   "score": 72,
-   "firstSeenAt": "2026-10-04T14:44:21.888Z",
+   "publishedAt": "2026-10-11T10:27:53.000Z",
    "hn": {
-    "id": "49950554",
-    "points": 322,
-    "comments": 349
-   }
+    "id": "50041619",
+    "points": 456,
+    "comments": 168
+   },
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "17c1930c7030",
+   "title": "3rd Yandex Cloud Data Center Was Hit",
+   "url": "https://status.yandex.cloud/en/incidents/2136",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T07:34:45.000Z",
+   "hn": {
+    "id": "50040547",
+    "points": 369,
+    "comments": 448
+   },
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "83056d7cecd2",
+   "title": "Build your own decision model",
+   "url": "https://nishtahir.com/build-your-own-decision-model/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-10T22:50:10.000Z",
+   "hn": {
+    "id": "50037949",
+    "points": 401,
+    "comments": 93
+   },
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "a819440e24a0",
+   "title": "A city-building game in which the city would prefer you didn't",
+   "url": "https://housing.over.pizza/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-10T20:31:50.000Z",
+   "hn": {
+    "id": "50036864",
+    "points": 438,
+    "comments": 153
+   },
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "6b75dae75d97",
+   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+   "url": "https://github.com/rociiu/talorys",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-10T10:52:09.000Z",
+   "hn": {
+    "id": "50031614",
+    "points": 310,
+    "comments": 142
+   },
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "306b6f13d8b4",
+   "title": "What's Wrong with GitHub",
+   "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T09:37:56.100Z",
+   "score": 30,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "f58281014b3c",
+   "title": "LineageOS 24.0 released",
+   "url": "https://lineageos.org/Changelog-32/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T06:21:25.386Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "1c7d174bb345",
+   "title": "How big is a Git commit?",
+   "url": "https://ratfactor.com/cards/git-commit-size",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T09:25:42.986Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "9a194e420d02",
+   "title": "How shredding JSON is giving Logfire 1000x query speedups",
+   "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T06:16:26.688Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "3bb426d94805",
+   "title": "I'm still around.. I'm just not writing here",
+   "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T14:44:03.386Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "5507ca425e8d",
+   "title": "Inside a 1980s filter chip that uses switched capacitors",
+   "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T21:28:51.816Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "b0bcecc5d2a1",
+   "title": "Kiesel Devlog #15: Release 0.4.0",
+   "url": "https://linus.dev/posts/kiesel-devlog-15/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T17:55:46.216Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "812820468dfa",
+   "title": "The 2D physics prototype behind GTA’s vehicles",
+   "url": "https://patkerr.co.uk/2d-vehicles/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T21:06:15.264Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "f1176f8be9da",
+   "title": "Why 'externalized' proofs of cyclic trait impls does not work",
+   "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T16:56:48.129Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
+  },
+  {
+   "id": "5ef62badd275",
+   "title": "SNTPings, draw on a canvas using ICMPv6",
+   "url": "https://pings.utwente.io/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T17:05:41.253Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
    "id": "77a6fe42b025",
@@ -326,8 +511,8 @@
    "publishedAt": "2026-10-10T14:32:50.000Z",
    "hn": {
     "id": "50033407",
-    "points": 335,
-    "comments": 243
+    "points": 388,
+    "comments": 290
    },
    "firstSeenAt": "2026-10-11T00:09:23.428Z"
   },
@@ -341,8 +526,8 @@
    "publishedAt": "2026-10-10T09:51:49.000Z",
    "hn": {
     "id": "50031269",
-    "points": 376,
-    "comments": 193
+    "points": 396,
+    "comments": 204
    },
    "firstSeenAt": "2026-10-11T00:09:23.428Z"
   },
@@ -356,20 +541,9 @@
    "publishedAt": "2026-10-10T03:02:47.000Z",
    "hn": {
     "id": "50029123",
-    "points": 399,
-    "comments": 254
+    "points": 454,
+    "comments": 300
    },
-   "firstSeenAt": "2026-10-11T00:09:23.428Z"
-  },
-  {
-   "id": "41f66d0af92e",
-   "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
-   "url": "https://lightbulbcomputer.com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T11:53:29.482Z",
-   "score": 20,
    "firstSeenAt": "2026-10-11T00:09:23.428Z"
   },
   {
@@ -380,7 +554,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T12:54:56.199Z",
-   "score": 18,
+   "score": 31,
    "firstSeenAt": "2026-10-11T00:09:23.428Z"
   },
   {
@@ -404,8 +578,8 @@
    "publishedAt": "2026-10-10T13:05:58.000Z",
    "hn": {
     "id": "50032556",
-    "points": 465,
-    "comments": 259
+    "points": 498,
+    "comments": 274
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -419,8 +593,8 @@
    "publishedAt": "2026-10-10T00:37:07.000Z",
    "hn": {
     "id": "50028275",
-    "points": 688,
-    "comments": 300
+    "points": 751,
+    "comments": 322
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -434,8 +608,8 @@
    "publishedAt": "2026-10-09T18:10:55.000Z",
    "hn": {
     "id": "50024499",
-    "points": 410,
-    "comments": 48
+    "points": 420,
+    "comments": 53
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -449,8 +623,8 @@
    "publishedAt": "2026-10-09T17:02:31.000Z",
    "hn": {
     "id": "50023450",
-    "points": 429,
-    "comments": 343
+    "points": 441,
+    "comments": 351
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -462,7 +636,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T05:37:18.608Z",
-   "score": 51,
+   "score": 63,
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
   {
@@ -473,7 +647,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T09:08:30.104Z",
-   "score": 23,
+   "score": 30,
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
   {
@@ -497,8 +671,8 @@
    "publishedAt": "2026-10-09T21:06:59.000Z",
    "hn": {
     "id": "50026555",
-    "points": 662,
-    "comments": 349
+    "points": 682,
+    "comments": 357
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -512,8 +686,8 @@
    "publishedAt": "2026-10-09T15:51:05.000Z",
    "hn": {
     "id": "50022292",
-    "points": 1357,
-    "comments": 271
+    "points": 1399,
+    "comments": 280
    },
    "firstSeenAt": "2026-10-10T00:35:18.229Z"
   },
@@ -2846,125 +3020,6 @@
    ],
    "publishedAt": "2026-10-04T00:00:00.000Z",
    "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "ee1071d66dee",
-   "title": "Tell HN: Bob Cringely has died",
-   "url": "https://news.ycombinator.com/item?id=49949438",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-04T00:50:52.000Z",
-   "hn": {
-    "id": "49949438",
-    "points": 920,
-    "comments": 202
-   },
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "6a468f70a022",
-   "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-   "url": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T22:07:13.000Z",
-   "hn": {
-    "id": "49948254",
-    "points": 494,
-    "comments": 270
-   },
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "016ae4161352",
-   "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-   "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T19:14:48.000Z",
-   "hn": {
-    "id": "49946895",
-    "points": 486,
-    "comments": 104
-   },
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "75a5212102f5",
-   "title": "Hole Punch: Sling your spaceship around gravitational fields",
-   "url": "https://notoriousbfg.com/hole-punch/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T18:06:45.000Z",
-   "hn": {
-    "id": "49946393",
-    "points": 354,
-    "comments": 87
-   },
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "02de520d403d",
-   "title": "I quit OpenAI because its culture is broken",
-   "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T13:46:34.000Z",
-   "hn": {
-    "id": "49944227",
-    "points": 454,
-    "comments": 765
-   },
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "4d4d122951d4",
-   "title": "Rust's derive often implies inline",
-   "url": "https://yossarian.net/til/post/rust-s-derive-often-implies-inline/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T01:41:57.843Z",
-   "score": 71,
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "d7de716b7792",
-   "title": "System-level ad-blocking in Android",
-   "url": "https://kevinboone.me/adblock.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T20:43:41.881Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "bb63587cc0f2",
-   "title": "An Update on Orion for Linux and Windows",
-   "url": "https://blog.kagi.com/update-orion-linux-windows",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T15:57:16.909Z",
-   "score": 25,
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
-  },
-  {
-   "id": "ebaa3b0e118f",
-   "title": "Rust, In Sickness & In Health",
-   "url": "https://www.youtube.com/watch?v=3kbPyuAtk7g",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T20:37:40.362Z",
-   "score": 24,
-   "firstSeenAt": "2026-10-04T14:44:21.888Z"
   }
  ]
 }
