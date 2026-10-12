@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T00:18:46.754Z",
+ "generatedAt": "2026-10-12T18:53:07.636Z",
  "items": [
   {
    "id": "11660db67830",
@@ -20,6 +20,23 @@
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
+   "id": "09279f7dec36",
+   "title": "Fingerprints are the new cookies",
+   "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T22:33:39.000Z",
+   "hn": {
+    "id": "50048642",
+    "points": 653,
+    "comments": 314
+   },
+   "score": 21,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
    "id": "8525fe1eeeea",
    "title": "I'm sorry, but you still have to think",
    "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
@@ -30,10 +47,10 @@
    "publishedAt": "2026-10-11T14:29:07.000Z",
    "hn": {
     "id": "50043689",
-    "points": 315,
-    "comments": 140
+    "points": 421,
+    "comments": 181
    },
-   "score": 23,
+   "score": 89,
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
   {
@@ -49,8 +66,8 @@
    "firstSeenAt": "2026-10-11T15:32:27.009Z",
    "hn": {
     "id": "50040276",
-    "points": 406,
-    "comments": 164
+    "points": 444,
+    "comments": 180
    }
   },
   {
@@ -334,21 +351,282 @@
    }
   },
   {
-   "id": "2cc36f9e1be3",
-   "title": "Friendship ended with Deno, now Node is my best friend",
-   "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+   "id": "c68c034bd72c",
+   "title": "QGIS: No AI contributions permitted",
+   "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-05T10:01:55.874Z",
-   "score": 59,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z",
+   "publishedAt": "2026-10-12T11:22:24.000Z",
    "hn": {
-    "id": "49971719",
-    "points": 318,
-    "comments": 244
-   }
+    "id": "50054751",
+    "points": 336,
+    "comments": 372
+   },
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "cf1515b0605c",
+   "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
+   "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T10:21:27.000Z",
+   "hn": {
+    "id": "50054207",
+    "points": 556,
+    "comments": 189
+   },
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "1a24ba621aea",
+   "title": "Google told to halt work on datacentres in Finland over environmental concerns",
+   "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T22:33:30.000Z",
+   "hn": {
+    "id": "50048638",
+    "points": 441,
+    "comments": 153
+   },
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "5947d794c16d",
+   "title": "Passkeys are a trap",
+   "url": "https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T21:59:48.000Z",
+   "hn": {
+    "id": "50048312",
+    "points": 954,
+    "comments": 500
+   },
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "44c65736f8dd",
+   "title": "The gap in shared understanding of LLM capability is widening",
+   "url": "https://twitter.com/karpathy/status/2109361546505966046",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T20:20:52.000Z",
+   "hn": {
+    "id": "50047422",
+    "points": 638,
+    "comments": 929
+   },
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "bbd0d7e49a7e",
+   "title": "Cartographers of North Korea (2019)",
+   "url": "https://cartographers-nk.wonyoung.so/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T19:46:40.000Z",
+   "hn": {
+    "id": "50047091",
+    "points": 309,
+    "comments": 63
+   },
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "06c1b233327d",
+   "title": "So, you’d like to sell your print issues of The Onion?",
+   "url": "https://theonion.com/archivehunt/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T19:43:32.000Z",
+   "hn": {
+    "id": "50047055",
+    "points": 368,
+    "comments": 58
+   },
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "e26c764019b7",
+   "title": "Living in the Weimar era of Ruby",
+   "url": "https://blog.julik.nl/2026/10/the-weimar-of-ruby",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T10:59:26.773Z",
+   "score": 28,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "5525ff334e3c",
+   "title": "Linus Torvalds Working On A Hefty Linux Kernel Improvement With Claude Code",
+   "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T10:11:29.702Z",
+   "score": 36,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "5a6b7e23ee06",
+   "title": "'AI' is Not a Tool",
+   "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T01:18:09.541Z",
+   "score": 74,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "5b14c033e9f5",
+   "title": "Writing a Demoscene Intro for the ZX Spectrum",
+   "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T08:46:10.600Z",
+   "score": 24,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "b05d92be030b",
+   "title": "(Post-Quantum) Cryptographic Right Answers",
+   "url": "https://words.filippo.io/right-answers/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T13:44:38.009Z",
+   "score": 21,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "5381e863731f",
+   "title": "French supermarket chains say cyberattack forced refrigerator shutdown",
+   "url": "https://www.afp.com/en/french-supermarket-chains-say-cyberattack-forced-refrigerator-shutdown",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T12:23:52.273Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "3cbe75ba0f77",
+   "title": "Finding a $90,000 Remote Code Execution Vulnerability in Google",
+   "url": "https://simonkoeck.com/writeups/google-devsite-flask-session-pickle-rce",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T14:40:35.395Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "a55c03105836",
+   "title": "Parsing JSON at tens of gigabytes per second… in Python",
+   "url": "https://lemire.me/blog/2026/10/12/parsing-json-at-tens-of-gigabytes-per-second-in-python/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T15:24:45.118Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "4a4af4b9e668",
+   "title": "Type-safe HTML templating in Zig",
+   "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T10:39:10.262Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "9b775a3ee096",
+   "title": "3-2-1 Backup Strategy with restic and Backblaze B2",
+   "url": "https://chuck.is/paranoid/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T04:21:09.078Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "1ec2eee6727b",
+   "title": "The wild west of polyglot docs sites",
+   "url": "https://technicalwriting.dev/blog/2026/10/polyglot/index.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T17:43:46.396Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "154b3d209fdf",
+   "title": "Highlights from \"I spent 6 years developing a game in Rust and it just shipped, AMA\" (2024)",
+   "url": "https://gamesbymason.com/blog/2024/6-years-in-rust-ama/#what-made-you-decide-to-use-rust",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T23:28:36.977Z",
+   "score": 19,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "997fd68848f3",
+   "title": "CSS for underlines",
+   "url": "https://www.rubenerd.au/css-for-underlines/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T01:43:08.545Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "a31dac6d0b53",
+   "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+   "url": "https://simonwillison.net/2026/Oct/12/python-3-15/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-10-12T18:15:38.000Z",
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "71efce2f5c76",
+   "title": "[$] The 2026 Maintainers Summit",
+   "url": "https://lwn.net/Articles/1099594/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-12T15:27:27.000Z",
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
+  },
+  {
+   "id": "5b9983880383",
+   "title": "Filter, reshape, and redact logs before export with Transformers",
+   "url": "https://blog.cloudflare.com/transformers-on-logpush/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-12T14:44:59.000Z",
+   "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
    "id": "36ee60902c3e",
@@ -360,8 +638,8 @@
    "publishedAt": "2026-10-11T18:04:47.000Z",
    "hn": {
     "id": "50045984",
-    "points": 327,
-    "comments": 140
+    "points": 640,
+    "comments": 245
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -375,8 +653,8 @@
    "publishedAt": "2026-10-11T18:01:16.000Z",
    "hn": {
     "id": "50045946",
-    "points": 321,
-    "comments": 152
+    "points": 572,
+    "comments": 305
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -390,8 +668,8 @@
    "publishedAt": "2026-10-11T14:28:39.000Z",
    "hn": {
     "id": "50043682",
-    "points": 381,
-    "comments": 205
+    "points": 401,
+    "comments": 219
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -405,8 +683,8 @@
    "publishedAt": "2026-10-11T13:16:45.000Z",
    "hn": {
     "id": "50043026",
-    "points": 302,
-    "comments": 357
+    "points": 497,
+    "comments": 495
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -420,8 +698,8 @@
    "publishedAt": "2026-10-11T11:47:29.000Z",
    "hn": {
     "id": "50042219",
-    "points": 363,
-    "comments": 186
+    "points": 411,
+    "comments": 197
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -435,8 +713,8 @@
    "publishedAt": "2026-10-11T10:37:55.000Z",
    "hn": {
     "id": "50041682",
-    "points": 413,
-    "comments": 218
+    "points": 469,
+    "comments": 246
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -450,8 +728,8 @@
    "publishedAt": "2026-10-11T10:11:27.000Z",
    "hn": {
     "id": "50041540",
-    "points": 341,
-    "comments": 289
+    "points": 401,
+    "comments": 343
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -463,7 +741,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T12:23:01.029Z",
-   "score": 23,
+   "score": 33,
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
   {
@@ -474,7 +752,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T16:59:58.126Z",
-   "score": 11,
+   "score": 25,
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
   {
@@ -485,7 +763,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T20:36:07.477Z",
-   "score": 23,
+   "score": 106,
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
   {
@@ -520,8 +798,8 @@
    "publishedAt": "2026-10-11T10:27:53.000Z",
    "hn": {
     "id": "50041619",
-    "points": 584,
-    "comments": 235
+    "points": 640,
+    "comments": 253
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -535,8 +813,8 @@
    "publishedAt": "2026-10-11T07:34:45.000Z",
    "hn": {
     "id": "50040547",
-    "points": 542,
-    "comments": 664
+    "points": 612,
+    "comments": 754
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -550,8 +828,8 @@
    "publishedAt": "2026-10-10T22:50:10.000Z",
    "hn": {
     "id": "50037949",
-    "points": 451,
-    "comments": 102
+    "points": 466,
+    "comments": 104
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -565,8 +843,8 @@
    "publishedAt": "2026-10-10T20:31:50.000Z",
    "hn": {
     "id": "50036864",
-    "points": 526,
-    "comments": 181
+    "points": 541,
+    "comments": 193
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -593,7 +871,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T09:37:56.100Z",
-   "score": 47,
+   "score": 56,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -626,7 +904,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T14:44:03.386Z",
-   "score": 84,
+   "score": 176,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -2782,269 +3060,6 @@
    "publishedAt": "2026-10-05T10:27:06.699Z",
    "score": 12,
    "firstSeenAt": "2026-10-06T01:41:45.190Z"
-  },
-  {
-   "id": "a641cc00db60",
-   "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-   "url": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T13:02:25.000Z",
-   "hn": {
-    "id": "49964303",
-    "points": 427,
-    "comments": 302
-   },
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "4c94ef1906d2",
-   "title": "Germany’s RobCo hits $1B valuation",
-   "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T11:13:51.000Z",
-   "hn": {
-    "id": "49963366",
-    "points": 343,
-    "comments": 369
-   },
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "ecc2a8b76eac",
-   "title": "Web Search API",
-   "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T10:47:06.000Z",
-   "hn": {
-    "id": "49963171",
-    "points": 585,
-    "comments": 280
-   },
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "5f0cd900658d",
-   "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-   "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T08:09:36.000Z",
-   "hn": {
-    "id": "49962012",
-    "points": 501,
-    "comments": 350
-   },
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "fb514e83ae1c",
-   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "url": "https://github.com/omlahore/RemoveMacAI",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-04T19:42:25.000Z",
-   "hn": {
-    "id": "49957116",
-    "points": 763,
-    "comments": 535
-   },
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "758d3c86e8ca",
-   "title": "Improper redaction reveals Google Data Center water and electricity usage",
-   "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-04T19:37:05.000Z",
-   "hn": {
-    "id": "49957068",
-    "points": 526,
-    "comments": 693
-   },
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "38463d0c598d",
-   "title": "A browser-native classic Visual Basic VB6 IDE",
-   "url": "https://wieslawsoltes.github.io/VB6/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-04T18:49:17.000Z",
-   "hn": {
-    "id": "49956681",
-    "points": 409,
-    "comments": 134
-   },
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "2d6b4a5218ec",
-   "title": "Flirt is now Open-Source",
-   "url": "https://blog.buenzli.dev/flirt-is-open-source/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T09:34:42.913Z",
-   "score": 46,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "1167debced9f",
-   "title": "Another step towards elm v1",
-   "url": "https://elm-lang.org/news/another-step-towards-elm-v1",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T13:20:47.476Z",
-   "score": 83,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "fa919f7d6aff",
-   "title": "Using docker-compose with Podman rootless",
-   "url": "https://elou.world/en/tutorial/podman-docker-compose",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T09:51:28.692Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "4f85aca7a15f",
-   "title": "Mold 3.0.0 Released",
-   "url": "https://github.com/rui314/mold/releases/tag/v3.0.0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T14:24:26.756Z",
-   "score": 35,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "a6e1894bbf9b",
-   "title": "Refinement E-Graphs",
-   "url": "https://www.philipzucker.com/refinement_egraph/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T02:23:30.392Z",
-   "score": 37,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "812e2e121fda",
-   "title": "Factor Overview",
-   "url": "https://re.factorcode.org/2026/10/factor-overview.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T12:11:57.329Z",
-   "score": 36,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "a1dd108cfb7d",
-   "title": "Claude Says",
-   "url": "https://ohhfishal.net/Posts/claude",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T04:48:18.022Z",
-   "score": 34,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "c540ec3cafcf",
-   "title": "Self-hosted HTTP tunnels with SSH and nginx",
-   "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T19:08:58.378Z",
-   "score": 27,
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "78ad53815846",
-   "title": "Our approach to EU text provenance rules",
-   "url": "https://openai.com/index/eu-text-provenance",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-05T15:00:00.000Z",
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "3cbec84de8bf",
-   "title": "Building advertising for the way people use AI",
-   "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-05T10:00:00.000Z",
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "0456b04488ab",
-   "title": "[$] An update on the Sashiko patch-review system",
-   "url": "https://lwn.net/Articles/1096963/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-05T15:10:37.000Z",
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "d1602119935a",
-   "title": "Everything we launched during Birthday Week 2026",
-   "url": "https://blog.cloudflare.com/birthday-week-2026-wrap-up/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-05T13:00:00.000Z",
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "917bc7059d97",
-   "title": "One year later: the power of 1.1.1.1 interns",
-   "url": "https://blog.cloudflare.com/one-year-later-1111-interns/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-05T13:00:00.000Z",
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "4a09bf8b95f0",
-   "title": "Benchmark In Milliseconds",
-   "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
-   "sources": [
-    "matklad"
-   ],
-   "publishedAt": "2026-10-05T00:00:00.000Z",
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "f6ff5f6917ea",
-   "title": "Fragments: October  4",
-   "url": "https://martinfowler.com/fragments/2026-10-04.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-10-05T04:28:00.000Z",
-   "firstSeenAt": "2026-10-05T18:17:14.559Z"
   }
  ]
 }
