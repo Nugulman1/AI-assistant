@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-11T15:32:27.009Z",
+ "generatedAt": "2026-10-12T00:18:46.754Z",
  "items": [
   {
    "id": "11660db67830",
@@ -20,6 +20,40 @@
    "firstSeenAt": "2026-10-09T16:04:18.953Z"
   },
   {
+   "id": "8525fe1eeeea",
+   "title": "I'm sorry, but you still have to think",
+   "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T14:29:07.000Z",
+   "hn": {
+    "id": "50043689",
+    "points": 315,
+    "comments": 140
+   },
+   "score": 23,
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "f58281014b3c",
+   "title": "LineageOS 24.0 released",
+   "url": "https://lineageos.org/Changelog-32/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T06:18:59.000Z",
+   "score": 35,
+   "firstSeenAt": "2026-10-11T15:32:27.009Z",
+   "hn": {
+    "id": "50040276",
+    "points": 406,
+    "comments": 164
+   }
+  },
+  {
    "id": "41f66d0af92e",
    "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
    "url": "https://lightbulbcomputer.com/",
@@ -28,12 +62,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-10T04:12:26.000Z",
-   "score": 58,
+   "score": 68,
    "firstSeenAt": "2026-10-11T00:09:23.428Z",
    "hn": {
     "id": "50029487",
-    "points": 514,
-    "comments": 80
+    "points": 575,
+    "comments": 94
    }
   },
   {
@@ -317,6 +351,166 @@
    }
   },
   {
+   "id": "36ee60902c3e",
+   "title": "Total Annihilation, rebuilt for modern computers",
+   "url": "https://nanolathe.gg",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T18:04:47.000Z",
+   "hn": {
+    "id": "50045984",
+    "points": 327,
+    "comments": 140
+   },
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "58e7dd8bab20",
+   "title": "NYC's \"Click to Cancel\" rule is now in effect",
+   "url": "https://www.nyc.gov/main/click-to-cancel",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T18:01:16.000Z",
+   "hn": {
+    "id": "50045946",
+    "points": 321,
+    "comments": 152
+   },
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "151c25259fbf",
+   "title": "Documents add to evidence in climate deception case against ExxonMobil",
+   "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T14:28:39.000Z",
+   "hn": {
+    "id": "50043682",
+    "points": 381,
+    "comments": 205
+   },
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "0d8dcb1c8fdb",
+   "title": "Terence Tao: Math 2.0 [pdf]",
+   "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T13:16:45.000Z",
+   "hn": {
+    "id": "50043026",
+    "points": 302,
+    "comments": 357
+   },
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "c6231e302938",
+   "title": "I paid people to try and follow my README",
+   "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T11:47:29.000Z",
+   "hn": {
+    "id": "50042219",
+    "points": 363,
+    "comments": 186
+   },
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "29a713409ba7",
+   "title": "Nitter: Update Oct 10th seeking funding and legal help",
+   "url": "https://nitter.net",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T10:37:55.000Z",
+   "hn": {
+    "id": "50041682",
+    "points": 413,
+    "comments": 218
+   },
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "29ba07e2cb1a",
+   "title": "IRCv3",
+   "url": "https://ircv3.net/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-11T10:11:27.000Z",
+   "hn": {
+    "id": "50041540",
+    "points": 341,
+    "comments": 289
+   },
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "cbcb25b63dc0",
+   "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+   "url": "https://verdagon.dev/blog/valen-group-borrowing",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T12:23:01.029Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "83c499900268",
+   "title": "Arena Allocators in C",
+   "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T16:59:58.126Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "bc2c26be8e0a",
+   "title": "D-Bus Hell",
+   "url": "https://dbushell.com/2026/10/11/d-bus-hell/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T20:36:07.477Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "22016dd971a8",
+   "title": "Consistency is not a localized property",
+   "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-11T00:51:28.569Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
+   "id": "601610967506",
+   "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
+   "url": "https://blog.scientific-python.org/numpy/searchsorted/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-10T23:25:51.517Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+  },
+  {
    "id": "e96b8175ab18",
    "title": "Bot traffic from Yandex",
    "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
@@ -326,8 +520,8 @@
    "publishedAt": "2026-10-11T10:27:53.000Z",
    "hn": {
     "id": "50041619",
-    "points": 456,
-    "comments": 168
+    "points": 584,
+    "comments": 235
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -341,8 +535,8 @@
    "publishedAt": "2026-10-11T07:34:45.000Z",
    "hn": {
     "id": "50040547",
-    "points": 369,
-    "comments": 448
+    "points": 542,
+    "comments": 664
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -356,8 +550,8 @@
    "publishedAt": "2026-10-10T22:50:10.000Z",
    "hn": {
     "id": "50037949",
-    "points": 401,
-    "comments": 93
+    "points": 451,
+    "comments": 102
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -371,8 +565,8 @@
    "publishedAt": "2026-10-10T20:31:50.000Z",
    "hn": {
     "id": "50036864",
-    "points": 438,
-    "comments": 153
+    "points": 526,
+    "comments": 181
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -386,8 +580,8 @@
    "publishedAt": "2026-10-10T10:52:09.000Z",
    "hn": {
     "id": "50031614",
-    "points": 310,
-    "comments": 142
+    "points": 321,
+    "comments": 149
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -399,18 +593,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T09:37:56.100Z",
-   "score": 30,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "f58281014b3c",
-   "title": "LineageOS 24.0 released",
-   "url": "https://lineageos.org/Changelog-32/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T06:21:25.386Z",
-   "score": 27,
+   "score": 47,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -421,7 +604,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T09:25:42.986Z",
-   "score": 17,
+   "score": 26,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -432,7 +615,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T06:16:26.688Z",
-   "score": 15,
+   "score": 20,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -443,7 +626,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T14:44:03.386Z",
-   "score": 11,
+   "score": 84,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -454,7 +637,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T21:28:51.816Z",
-   "score": 17,
+   "score": 21,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -465,7 +648,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T17:55:46.216Z",
-   "score": 18,
+   "score": 20,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -476,7 +659,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T21:06:15.264Z",
-   "score": 14,
+   "score": 19,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -511,8 +694,8 @@
    "publishedAt": "2026-10-10T14:32:50.000Z",
    "hn": {
     "id": "50033407",
-    "points": 388,
-    "comments": 290
+    "points": 394,
+    "comments": 299
    },
    "firstSeenAt": "2026-10-11T00:09:23.428Z"
   },
@@ -526,8 +709,8 @@
    "publishedAt": "2026-10-10T09:51:49.000Z",
    "hn": {
     "id": "50031269",
-    "points": 396,
-    "comments": 204
+    "points": 404,
+    "comments": 215
    },
    "firstSeenAt": "2026-10-11T00:09:23.428Z"
   },
@@ -541,8 +724,8 @@
    "publishedAt": "2026-10-10T03:02:47.000Z",
    "hn": {
     "id": "50029123",
-    "points": 454,
-    "comments": 300
+    "points": 460,
+    "comments": 313
    },
    "firstSeenAt": "2026-10-11T00:09:23.428Z"
   },
@@ -578,8 +761,8 @@
    "publishedAt": "2026-10-10T13:05:58.000Z",
    "hn": {
     "id": "50032556",
-    "points": 498,
-    "comments": 274
+    "points": 512,
+    "comments": 280
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -593,8 +776,8 @@
    "publishedAt": "2026-10-10T00:37:07.000Z",
    "hn": {
     "id": "50028275",
-    "points": 751,
-    "comments": 322
+    "points": 764,
+    "comments": 325
    },
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
@@ -636,7 +819,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-10T05:37:18.608Z",
-   "score": 63,
+   "score": 64,
    "firstSeenAt": "2026-10-10T15:12:31.988Z"
   },
   {
@@ -2862,164 +3045,6 @@
    ],
    "publishedAt": "2026-10-05T04:28:00.000Z",
    "firstSeenAt": "2026-10-05T18:17:14.559Z"
-  },
-  {
-   "id": "bca476fd3463",
-   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "url": "https://github.com/Niko1221/Strata",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-04T12:51:53.000Z",
-   "hn": {
-    "id": "49953495",
-    "points": 911,
-    "comments": 412
-   },
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "549bdd288f9a",
-   "title": "Treachery in the Rodin Museum 3D scan verdict",
-   "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T18:01:27.000Z",
-   "hn": {
-    "id": "49946355",
-    "points": 308,
-    "comments": 185
-   },
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "8b1e323a2293",
-   "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-   "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T17:44:29.000Z",
-   "hn": {
-    "id": "49946228",
-    "points": 383,
-    "comments": 694
-   },
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "2ad697ead091",
-   "title": "Agents don't need memory, they need documentation",
-   "url": "https://liao.gg/blog/agents-dont-need-memory",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-03T17:03:37.000Z",
-   "hn": {
-    "id": "49945933",
-    "points": 342,
-    "comments": 209
-   },
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "e14b7453fd65",
-   "title": "ncdu: NCurses Disk Usage (an updated fork)",
-   "url": "https://github.com/rcalixte/ncdu",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T19:30:36.027Z",
-   "score": 52,
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "76be51b10171",
-   "title": "grubby: static site generator for git repos written in Ruby",
-   "url": "https://git.btxx.org/grubby",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T10:28:57.685Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "60b36e485231",
-   "title": "The complement of true is true, except when it's false",
-   "url": "https://dryperspective.github.io/posts/complement-of-true/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T12:30:26.844Z",
-   "score": 45,
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "657482147780",
-   "title": "Iroh global content discovery",
-   "url": "https://www.iroh.computer/blog/iroh-global-content-discovery",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T19:19:42.619Z",
-   "score": 61,
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "e962f3eded1a",
-   "title": "Hacking the Go compiler to efficiently map IPv4 to IPv6",
-   "url": "https://vincent.bernat.ch/en/blog/2026-go-netip-addrto6",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T18:49:55.122Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "a3906162c866",
-   "title": "Flatpak from the CLI sucks",
-   "url": "https://kowalski7cc.xyz/blog/flatpak-from-the-cli-sucks/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T15:21:34.965Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "ebf7c71e6cc1",
-   "title": "Our RISC-V emulator PasRISCV",
-   "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-04T08:40:38.612Z",
-   "score": 15,
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "5f2beb3b5b73",
-   "title": "Why I recommend Renovate over any other dependency update tools (2024)",
-   "url": "https://www.jvt.me/posts/2024/04/12/use-renovate/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-03T22:54:52.919Z",
-   "score": 11,
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
-  },
-  {
-   "id": "b69f647ed1fd",
-   "title": "Strands Decider: Why Not an Encoder?",
-   "url": "http://brooker.co.za/blog/2026/10/04/encoders.html",
-   "sources": [
-    "Marc Brooker"
-   ],
-   "publishedAt": "2026-10-04T00:00:00.000Z",
-   "firstSeenAt": "2026-10-04T23:52:40.565Z"
   }
  ]
 }
