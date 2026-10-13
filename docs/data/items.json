@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-12T18:53:07.636Z",
+ "generatedAt": "2026-10-13T02:28:45.933Z",
  "items": [
   {
    "id": "11660db67830",
@@ -30,10 +30,10 @@
    "publishedAt": "2026-10-11T22:33:39.000Z",
    "hn": {
     "id": "50048642",
-    "points": 653,
-    "comments": 314
+    "points": 704,
+    "comments": 344
    },
-   "score": 21,
+   "score": 29,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -47,10 +47,10 @@
    "publishedAt": "2026-10-11T14:29:07.000Z",
    "hn": {
     "id": "50043689",
-    "points": 421,
+    "points": 435,
     "comments": 181
    },
-   "score": 89,
+   "score": 94,
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
   {
@@ -66,8 +66,8 @@
    "firstSeenAt": "2026-10-11T15:32:27.009Z",
    "hn": {
     "id": "50040276",
-    "points": 444,
-    "comments": 180
+    "points": 447,
+    "comments": 182
    }
   },
   {
@@ -334,21 +334,131 @@
    "score": 59
   },
   {
-   "id": "800d460c0ed7",
-   "title": "Gleam doesn't compile to Erlang source anymore",
-   "url": "https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/",
+   "id": "6001ee7ed96b",
+   "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+   "url": "https://github.com/openai/codex/issues/48195",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-05T17:29:17.719Z",
-   "score": 130,
-   "firstSeenAt": "2026-10-06T01:41:45.190Z",
+   "publishedAt": "2026-10-12T18:29:04.000Z",
    "hn": {
-    "id": "49975619",
-    "points": 313,
-    "comments": 136
-   }
+    "id": "50060694",
+    "points": 478,
+    "comments": 242
+   },
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
+  },
+  {
+   "id": "048fcb30e5f3",
+   "title": "AI coding agents generate more code, but not more software",
+   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T17:14:01.000Z",
+   "hn": {
+    "id": "50059523",
+    "points": 312,
+    "comments": 275
+   },
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
+  },
+  {
+   "id": "31ba1e7c3abd",
+   "title": "Muse Wonder",
+   "url": "https://research.meta.ai/blog/muse-wonder",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T16:48:01.000Z",
+   "hn": {
+    "id": "50059115",
+    "points": 534,
+    "comments": 298
+   },
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
+  },
+  {
+   "id": "4aaf92f254c0",
+   "title": "A Modern Web App in C",
+   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T16:13:10.000Z",
+   "hn": {
+    "id": "50058528",
+    "points": 409,
+    "comments": 166
+   },
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
+  },
+  {
+   "id": "b6603a0a4aa6",
+   "title": "GLM-Legal",
+   "url": "https://z.ai/blog/glm-legal",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T16:11:45.000Z",
+   "hn": {
+    "id": "50058507",
+    "points": 445,
+    "comments": 250
+   },
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
+  },
+  {
+   "id": "da6fcdba1376",
+   "title": "Why aren't AI companies being charged for hacking?",
+   "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T14:52:37.000Z",
+   "hn": {
+    "id": "50057278",
+    "points": 312,
+    "comments": 333
+   },
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
+  },
+  {
+   "id": "ca43aef1e636",
+   "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+   "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T12:16:42.000Z",
+   "hn": {
+    "id": "50055304",
+    "points": 464,
+    "comments": 671
+   },
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
+  },
+  {
+   "id": "7d9ea7f629fe",
+   "title": "your c is not standard c",
+   "url": "https://sebsite.pw/w/20261012-notstdc.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T17:17:18.829Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
+  },
+  {
+   "id": "46c83b7889a4",
+   "title": "Speeding up the Unreal editor by… not using unnecessarily secure hash methods",
+   "url": "https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T18:37:55.759Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
   {
    "id": "c68c034bd72c",
@@ -360,8 +470,8 @@
    "publishedAt": "2026-10-12T11:22:24.000Z",
    "hn": {
     "id": "50054751",
-    "points": 336,
-    "comments": 372
+    "points": 365,
+    "comments": 398
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -375,8 +485,8 @@
    "publishedAt": "2026-10-12T10:21:27.000Z",
    "hn": {
     "id": "50054207",
-    "points": 556,
-    "comments": 189
+    "points": 587,
+    "comments": 198
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -390,8 +500,8 @@
    "publishedAt": "2026-10-11T22:33:30.000Z",
    "hn": {
     "id": "50048638",
-    "points": 441,
-    "comments": 153
+    "points": 444,
+    "comments": 170
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -405,8 +515,8 @@
    "publishedAt": "2026-10-11T21:59:48.000Z",
    "hn": {
     "id": "50048312",
-    "points": 954,
-    "comments": 500
+    "points": 1027,
+    "comments": 540
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -420,8 +530,8 @@
    "publishedAt": "2026-10-11T20:20:52.000Z",
    "hn": {
     "id": "50047422",
-    "points": 638,
-    "comments": 929
+    "points": 680,
+    "comments": 999
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -435,8 +545,8 @@
    "publishedAt": "2026-10-11T19:46:40.000Z",
    "hn": {
     "id": "50047091",
-    "points": 309,
-    "comments": 63
+    "points": 315,
+    "comments": 66
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -450,8 +560,8 @@
    "publishedAt": "2026-10-11T19:43:32.000Z",
    "hn": {
     "id": "50047055",
-    "points": 368,
-    "comments": 58
+    "points": 370,
+    "comments": 61
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -463,7 +573,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T10:59:26.773Z",
-   "score": 28,
+   "score": 47,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -474,7 +584,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T10:11:29.702Z",
-   "score": 36,
+   "score": 48,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -485,7 +595,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T01:18:09.541Z",
-   "score": 74,
+   "score": 89,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -496,7 +606,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T08:46:10.600Z",
-   "score": 24,
+   "score": 28,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -507,7 +617,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T13:44:38.009Z",
-   "score": 21,
+   "score": 51,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -518,7 +628,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T12:23:52.273Z",
-   "score": 13,
+   "score": 18,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -529,7 +639,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T14:40:35.395Z",
-   "score": 12,
+   "score": 32,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -540,7 +650,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T15:24:45.118Z",
-   "score": 10,
+   "score": 11,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -551,7 +661,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T10:39:10.262Z",
-   "score": 11,
+   "score": 22,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -562,7 +672,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T04:21:09.078Z",
-   "score": 18,
+   "score": 19,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -584,7 +694,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T23:28:36.977Z",
-   "score": 19,
+   "score": 23,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -638,8 +748,8 @@
    "publishedAt": "2026-10-11T18:04:47.000Z",
    "hn": {
     "id": "50045984",
-    "points": 640,
-    "comments": 245
+    "points": 669,
+    "comments": 252
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -653,8 +763,8 @@
    "publishedAt": "2026-10-11T18:01:16.000Z",
    "hn": {
     "id": "50045946",
-    "points": 572,
-    "comments": 305
+    "points": 587,
+    "comments": 318
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -668,7 +778,7 @@
    "publishedAt": "2026-10-11T14:28:39.000Z",
    "hn": {
     "id": "50043682",
-    "points": 401,
+    "points": 402,
     "comments": 219
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
@@ -683,8 +793,8 @@
    "publishedAt": "2026-10-11T13:16:45.000Z",
    "hn": {
     "id": "50043026",
-    "points": 497,
-    "comments": 495
+    "points": 525,
+    "comments": 526
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -698,8 +808,8 @@
    "publishedAt": "2026-10-11T11:47:29.000Z",
    "hn": {
     "id": "50042219",
-    "points": 411,
-    "comments": 197
+    "points": 415,
+    "comments": 203
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -713,8 +823,8 @@
    "publishedAt": "2026-10-11T10:37:55.000Z",
    "hn": {
     "id": "50041682",
-    "points": 469,
-    "comments": 246
+    "points": 470,
+    "comments": 247
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -728,8 +838,8 @@
    "publishedAt": "2026-10-11T10:11:27.000Z",
    "hn": {
     "id": "50041540",
-    "points": 401,
-    "comments": 343
+    "points": 406,
+    "comments": 347
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -752,7 +862,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T16:59:58.126Z",
-   "score": 25,
+   "score": 31,
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
   {
@@ -763,7 +873,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T20:36:07.477Z",
-   "score": 106,
+   "score": 112,
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
   {
@@ -798,8 +908,8 @@
    "publishedAt": "2026-10-11T10:27:53.000Z",
    "hn": {
     "id": "50041619",
-    "points": 640,
-    "comments": 253
+    "points": 647,
+    "comments": 256
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -813,8 +923,8 @@
    "publishedAt": "2026-10-11T07:34:45.000Z",
    "hn": {
     "id": "50040547",
-    "points": 612,
-    "comments": 754
+    "points": 625,
+    "comments": 771
    },
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
@@ -904,7 +1014,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-11T14:44:03.386Z",
-   "score": 176,
+   "score": 183,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
   },
   {
@@ -2986,80 +3096,6 @@
    ],
    "publishedAt": "2026-10-06T15:02:09.000Z",
    "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "7ded5c03aba5",
-   "title": "Beam: Reflection's 501B open-weight model",
-   "url": "https://reflection.ai/blog/introducing-beam",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T19:16:35.000Z",
-   "hn": {
-    "id": "49969183",
-    "points": 549,
-    "comments": 170
-   },
-   "firstSeenAt": "2026-10-06T01:41:45.190Z"
-  },
-  {
-   "id": "489333482e18",
-   "title": "Anthropic reported diary entry to police, woman faces felony charge",
-   "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T05:37:40.000Z",
-   "hn": {
-    "id": "49961057",
-    "points": 808,
-    "comments": 647
-   },
-   "firstSeenAt": "2026-10-06T01:41:45.190Z"
-  },
-  {
-   "id": "6ad4e9be1dfc",
-   "title": "Async Rust: Where does the scheduler live?",
-   "url": "https://herecomesthemoon.net/2026/10/async-rust-where-does-the-scheduler-live/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T18:31:29.400Z",
-   "score": 59,
-   "firstSeenAt": "2026-10-06T01:41:45.190Z"
-  },
-  {
-   "id": "af2dc456cb94",
-   "title": "Making a GTK application in Haskell, part 1",
-   "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T14:22:54.820Z",
-   "score": 30,
-   "firstSeenAt": "2026-10-06T01:41:45.190Z"
-  },
-  {
-   "id": "6abc17ac57a7",
-   "title": "Reverse Engineering Comanche Terrain Maps",
-   "url": "https://pikuma.com/blog/comanche-maps-reverse-engineering",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T10:45:51.812Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-06T01:41:45.190Z"
-  },
-  {
-   "id": "f4180586211d",
-   "title": "We ported the original Doom to SQL",
-   "url": "https://cedardb.com/blog/sqldoom/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T10:27:06.699Z",
-   "score": 12,
-   "firstSeenAt": "2026-10-06T01:41:45.190Z"
   }
  ]
 }
