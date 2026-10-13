@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-13T02:28:45.933Z",
+ "generatedAt": "2026-10-13T16:52:05.727Z",
  "items": [
   {
    "id": "11660db67830",
@@ -30,8 +30,8 @@
    "publishedAt": "2026-10-11T22:33:39.000Z",
    "hn": {
     "id": "50048642",
-    "points": 704,
-    "comments": 344
+    "points": 736,
+    "comments": 358
    },
    "score": 29,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
@@ -322,16 +322,329 @@
    }
   },
   {
-   "id": "ba649422ea9b",
-   "title": "[$] Last rites for Gentoo's Chromium package",
-   "url": "https://lwn.net/Articles/1097760/",
+   "id": "183ae684f51b",
+   "title": "Apple HomeView",
+   "url": "https://www.apple.com/apple-homeview/",
    "sources": [
-    "LWN",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-13T13:02:12.000Z",
+   "hn": {
+    "id": "50071017",
+    "points": 389,
+    "comments": 500
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "b5b621ec9605",
+   "title": "Mozilla Introduces Firefox Enterprise",
+   "url": "https://www.firefox.com/en-US/enterprise/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-13T12:00:42.000Z",
+   "hn": {
+    "id": "50070302",
+    "points": 332,
+    "comments": 154
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "75ff0b04c5a4",
+   "title": "11 year old unsoundness bugs found in Rust borrow checker",
+   "url": "https://github.com/rust-lang/rust/issues/164250",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-13T10:27:00.000Z",
+   "hn": {
+    "id": "50069499",
+    "points": 506,
+    "comments": 289
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "5133e80f2f56",
+   "title": "CFTC Staff Were Told to Retract Analysis of Suspicious Oil Trades",
+   "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-13T10:08:00.000Z",
+   "hn": {
+    "id": "50069329",
+    "points": 367,
+    "comments": 175
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "9202dbf6eedd",
+   "title": "AI is a tool and using it well takes skill",
+   "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T21:40:18.000Z",
+   "hn": {
+    "id": "50063427",
+    "points": 570,
+    "comments": 455
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "951d3209a40d",
+   "title": "Thinking will become a hobby",
+   "url": "https://www.spinellis.gr/blog/20261008/?li261008",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T16:54:08.000Z",
+   "hn": {
+    "id": "50059204",
+    "points": 319,
+    "comments": 453
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "d268e81a3a1d",
+   "title": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+   "url": "https://github.com/h0m3us3r/w1700k-sdr",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T12:41:58.000Z",
+   "hn": {
+    "id": "50055593",
+    "points": 402,
+    "comments": 108
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "a9f16f38cad6",
+   "title": "Citroen revives the 2CV for an electric age",
+   "url": "https://www.bbc.com/news/articles/c620r33plgppo",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T12:09:09.000Z",
+   "hn": {
+    "id": "50055220",
+    "points": 398,
+    "comments": 451
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "6672e99a5764",
+   "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+   "url": "https://github.com/snuri00/ps2-web-recomp",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-12T06:46:53.000Z",
+   "hn": {
+    "id": "50052251",
+    "points": 303,
+    "comments": 156
+   },
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "f605e50c377f",
+   "title": "Who is vfmaddrnd231pd??",
+   "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-06T13:44:50.000Z",
-   "firstSeenAt": "2026-10-06T15:49:39.319Z",
-   "score": 59
+   "publishedAt": "2026-10-13T04:43:34.162Z",
+   "score": 51,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "6829a0847caa",
+   "title": "Where is all the new, good software?",
+   "url": "https://www.natemeyvis.com/where-is-all-the-new-good-software/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-13T09:14:09.562Z",
+   "score": 24,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "34e9d56142b3",
+   "title": "A plea not to use uv-build",
+   "url": "https://blogs.gentoo.org/mgorny/2026/10/12/a-plea-not-to-use-uv-build/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-13T14:36:52.168Z",
+   "score": 20,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "c351ea0bcafc",
+   "title": "Vi Hart's Big Navier-Stokes Post",
+   "url": "https://www.patreon.com/vihart/posts/vi-harts-big-171939430",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-13T01:29:49.487Z",
+   "score": 71,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "5e113e86ceaa",
+   "title": "The reverts will continue until morale improves",
+   "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-13T11:37:06.816Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "bc16cfe380b0",
+   "title": "Did Ente Locker copy my code without attribution?",
+   "url": "https://fairscan.org/blog/did-ente-locker-copy-my-code-without-attribution/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-13T13:44:47.394Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "f603ef7f6898",
+   "title": "Lotus Improv on the NeXT",
+   "url": "https://stonetools.ghost.io/lotusimprov-next/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-13T11:15:09.948Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "b40da0482cc5",
+   "title": "Creusot 0.14.0 release - Contracts for Rust, formally proved",
+   "url": "https://devlog.creusot.rs/v0-14-0/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-13T07:57:16.122Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "d540e3bed880",
+   "title": "A slightly faster slimmer curl",
+   "url": "https://daniel.haxx.se/blog/2026/10/13/a-slightly-faster-slimmer-curl/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-13T06:26:20.077Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "3aa4f1df5174",
+   "title": "What I've been seeing lately (in software)",
+   "url": "https://mei.puppycat.house/w/seeing-261010",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T17:08:00.505Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "8b0463614a7b",
+   "title": "Gemini 4 Argon for Robotics",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-10-13T16:01:58.000Z",
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "316153953adf",
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-10-13T16:01:52.000Z",
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "e3650ff667ef",
+   "title": "[$] Owning C types from Rust code",
+   "url": "https://lwn.net/Articles/1099015/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-13T13:33:13.000Z",
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "209aa195cf46",
+   "title": "Under the hood, off the hot path: how D1 scales to millions of databases",
+   "url": "https://blog.cloudflare.com/d1-control-plane/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-13T16:20:18.000Z",
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "cd5f53816e83",
+   "title": "Rewinding the exponential: How we keep hardware usage down",
+   "url": "https://blog.cloudflare.com/rewinding-the-exponential/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-13T15:51:41.000Z",
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "4f6ea3bc7cf5",
+   "title": "The Craft of Practitioner Voice",
+   "url": "https://martinfowler.com/articles/practitioner-voice.html#TheCraftOfPractitionerVoice",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-10-13T14:06:00.000Z",
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "56f869f0dea0",
+   "title": "Are Harnesses Worth the Cost?",
+   "url": "https://martinfowler.com/articles/are-harnesses-worth-the-cost.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-10-13T13:35:00.000Z",
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
+  },
+  {
+   "id": "837e840d6fae",
+   "title": "Building resilient AI-powered software, and planning for when things go wrong",
+   "url": "https://newsletter.pragmaticengineer.com/p/building-resilient-systems",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-13T16:03:33.000Z",
+   "firstSeenAt": "2026-10-13T16:52:05.727Z"
   },
   {
    "id": "6001ee7ed96b",
@@ -343,8 +656,8 @@
    "publishedAt": "2026-10-12T18:29:04.000Z",
    "hn": {
     "id": "50060694",
-    "points": 478,
-    "comments": 242
+    "points": 590,
+    "comments": 285
    },
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
@@ -358,8 +671,8 @@
    "publishedAt": "2026-10-12T17:14:01.000Z",
    "hn": {
     "id": "50059523",
-    "points": 312,
-    "comments": 275
+    "points": 352,
+    "comments": 293
    },
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
@@ -373,8 +686,8 @@
    "publishedAt": "2026-10-12T16:48:01.000Z",
    "hn": {
     "id": "50059115",
-    "points": 534,
-    "comments": 298
+    "points": 654,
+    "comments": 365
    },
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
@@ -388,8 +701,8 @@
    "publishedAt": "2026-10-12T16:13:10.000Z",
    "hn": {
     "id": "50058528",
-    "points": 409,
-    "comments": 166
+    "points": 672,
+    "comments": 292
    },
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
@@ -403,8 +716,8 @@
    "publishedAt": "2026-10-12T16:11:45.000Z",
    "hn": {
     "id": "50058507",
-    "points": 445,
-    "comments": 250
+    "points": 648,
+    "comments": 352
    },
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
@@ -418,8 +731,8 @@
    "publishedAt": "2026-10-12T14:52:37.000Z",
    "hn": {
     "id": "50057278",
-    "points": 312,
-    "comments": 333
+    "points": 327,
+    "comments": 360
    },
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
@@ -433,8 +746,8 @@
    "publishedAt": "2026-10-12T12:16:42.000Z",
    "hn": {
     "id": "50055304",
-    "points": 464,
-    "comments": 671
+    "points": 842,
+    "comments": 947
    },
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
@@ -446,7 +759,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T17:17:18.829Z",
-   "score": 13,
+   "score": 27,
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
   {
@@ -457,7 +770,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T18:37:55.759Z",
-   "score": 12,
+   "score": 34,
    "firstSeenAt": "2026-10-13T02:28:45.933Z"
   },
   {
@@ -470,8 +783,8 @@
    "publishedAt": "2026-10-12T11:22:24.000Z",
    "hn": {
     "id": "50054751",
-    "points": 365,
-    "comments": 398
+    "points": 381,
+    "comments": 406
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -485,8 +798,8 @@
    "publishedAt": "2026-10-12T10:21:27.000Z",
    "hn": {
     "id": "50054207",
-    "points": 587,
-    "comments": 198
+    "points": 611,
+    "comments": 200
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -500,8 +813,8 @@
    "publishedAt": "2026-10-11T22:33:30.000Z",
    "hn": {
     "id": "50048638",
-    "points": 444,
-    "comments": 170
+    "points": 450,
+    "comments": 171
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -515,8 +828,8 @@
    "publishedAt": "2026-10-11T21:59:48.000Z",
    "hn": {
     "id": "50048312",
-    "points": 1027,
-    "comments": 540
+    "points": 1085,
+    "comments": 559
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -530,8 +843,8 @@
    "publishedAt": "2026-10-11T20:20:52.000Z",
    "hn": {
     "id": "50047422",
-    "points": 680,
-    "comments": 999
+    "points": 712,
+    "comments": 1035
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -545,8 +858,8 @@
    "publishedAt": "2026-10-11T19:46:40.000Z",
    "hn": {
     "id": "50047091",
-    "points": 315,
-    "comments": 66
+    "points": 316,
+    "comments": 68
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -560,8 +873,8 @@
    "publishedAt": "2026-10-11T19:43:32.000Z",
    "hn": {
     "id": "50047055",
-    "points": 370,
-    "comments": 61
+    "points": 377,
+    "comments": 64
    },
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
@@ -573,7 +886,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T10:59:26.773Z",
-   "score": 47,
+   "score": 56,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -584,7 +897,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T10:11:29.702Z",
-   "score": 48,
+   "score": 60,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -595,7 +908,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T01:18:09.541Z",
-   "score": 89,
+   "score": 95,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -617,7 +930,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T13:44:38.009Z",
-   "score": 51,
+   "score": 66,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -628,7 +941,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T12:23:52.273Z",
-   "score": 18,
+   "score": 32,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -639,7 +952,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-12T14:40:35.395Z",
-   "score": 32,
+   "score": 52,
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
   },
   {
@@ -748,8 +1061,8 @@
    "publishedAt": "2026-10-11T18:04:47.000Z",
    "hn": {
     "id": "50045984",
-    "points": 669,
-    "comments": 252
+    "points": 684,
+    "comments": 259
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -763,8 +1076,8 @@
    "publishedAt": "2026-10-11T18:01:16.000Z",
    "hn": {
     "id": "50045946",
-    "points": 587,
-    "comments": 318
+    "points": 606,
+    "comments": 324
    },
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
@@ -2850,252 +3163,6 @@
    ],
    "publishedAt": "2026-10-06T16:25:03.000Z",
    "firstSeenAt": "2026-10-07T00:28:58.851Z"
-  },
-  {
-   "id": "820bd24a41c4",
-   "title": "Mistral Large 4: \"Le Chonk\"",
-   "url": "https://mistral.ai/news/mistral-large-4/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-06T13:15:49.000Z",
-   "hn": {
-    "id": "49977979",
-    "points": 1994,
-    "comments": 1190
-   },
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "5888c276693c",
-   "title": "Mistral Large 4",
-   "url": "https://docs.mistral.ai/models/mistral-large-4-0",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-06T13:15:49.000Z",
-   "hn": {
-    "id": "49977979",
-    "points": 710,
-    "comments": 409
-   },
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "daa1eaa0558a",
-   "title": "JetBrains reported a net financial loss first time in its tracked history",
-   "url": "https://www.helgilibrary.com/companies/jetbrains",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-06T11:45:55.000Z",
-   "hn": {
-    "id": "49977072",
-    "points": 591,
-    "comments": 556
-   },
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "56a896b5e9d6",
-   "title": "Nobel Prize in Physics goes to Francis Halzen",
-   "url": "https://www.nobelprize.org/prizes/physics/2026/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-06T09:48:46.000Z",
-   "hn": {
-    "id": "49976265",
-    "points": 569,
-    "comments": 209
-   },
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "cf509067bcf9",
-   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T22:46:45.000Z",
-   "hn": {
-    "id": "49971846",
-    "points": 551,
-    "comments": 416
-   },
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "ec9915c4fbdd",
-   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T21:00:21.000Z",
-   "hn": {
-    "id": "49970667",
-    "points": 487,
-    "comments": 333
-   },
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "d3a209133190",
-   "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
-   "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T02:31:45.000Z",
-   "hn": {
-    "id": "49960084",
-    "points": 303,
-    "comments": 319
-   },
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "fb7870135df6",
-   "title": "Email Self Hosters - what are you using?",
-   "url": "https://lobste.rs/s/rwloew/email_self_hosters_what_are_you_using",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-06T08:09:53.070Z",
-   "score": 84,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "23b4eff3cde8",
-   "title": "Montray - a tray icon for systemd service health",
-   "url": "https://github.com/dimonomid/montray/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-06T09:07:39.717Z",
-   "score": 33,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "7fd1f66c4b2c",
-   "title": "Open Source as We Know It Is Dead",
-   "url": "https://jross.me/open-source-as-we-know-it-is-dead/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T23:25:52.404Z",
-   "score": 37,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "0d5e0704d98b",
-   "title": "Golang tool to check SPF, DKIM, TLSA, and TLS settings for mailservers",
-   "url": "https://git.sig-io.nl/Sig-IO/mailcheck/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T19:50:52.894Z",
-   "score": 12,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "e8f4a1231648",
-   "title": "What are you doing this week?",
-   "url": "https://lobste.rs/s/nvkrb9/what_are_you_doing_this_week",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T16:07:55.872Z",
-   "score": 15,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "9c51330d9b70",
-   "title": "You don't need an effect system",
-   "url": "https://burningwitness.github.io/blog/posts/against-effect-systems/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-05T18:03:27.608Z",
-   "score": 20,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "befb81c05542",
-   "title": "Optimizing the Optimizer: Language Models Discover Faster Molecular Relaxation",
-   "url": "https://huggingface.co/papers/2610.06577",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-04T20:00:00.000Z",
-   "score": 15,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "d03a8420f2fd",
-   "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points",
-   "url": "https://huggingface.co/papers/2610.06833",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-04T20:00:00.000Z",
-   "score": 13,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "b7a531805854",
-   "title": "Representation-Space MMD for Diffusion Language Models",
-   "url": "https://huggingface.co/papers/2610.06648",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-04T20:00:00.000Z",
-   "score": 12,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "9d9fbe3c9d74",
-   "title": "Certification of Real Images through Calibrated Content Authentication",
-   "url": "https://huggingface.co/papers/2610.05870",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-04T20:00:00.000Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "c171201f8c89",
-   "title": "Noise Out, Bias In: Targeted Bias Injection in Diffusion Language Models via Closed-Loop Activation Steering",
-   "url": "https://huggingface.co/papers/2610.05894",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-04T20:00:00.000Z",
-   "score": 9,
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "ee5a948a7c39",
-   "title": "The Cyber Risk Discourse is Broken",
-   "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-10-06T14:22:41.000Z",
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
-  },
-  {
-   "id": "449f4225e94c",
-   "title": "[$] Python's two modules for random numbers",
-   "url": "https://lwn.net/Articles/1097468/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-06T15:02:09.000Z",
-   "firstSeenAt": "2026-10-06T15:49:39.319Z"
   }
  ]
 }
