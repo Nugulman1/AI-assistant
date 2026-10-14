@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-14T14:27:14.751Z",
+ "generatedAt": "2026-10-14T23:46:24.322Z",
  "items": [
   {
    "id": "11660db67830",
@@ -30,11 +30,28 @@
    "publishedAt": "2026-10-13T15:49:56.000Z",
    "hn": {
     "id": "50073633",
-    "points": 829,
-    "comments": 887
+    "points": 866,
+    "comments": 962
    },
    "firstSeenAt": "2026-10-14T00:12:10.414Z",
-   "score": 27
+   "score": 31
+  },
+  {
+   "id": "80473e5d479b",
+   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-12T10:09:37.000Z",
+   "hn": {
+    "id": "50054092",
+    "points": 385,
+    "comments": 302
+   },
+   "firstSeenAt": "2026-10-14T00:12:10.414Z",
+   "score": 30
   },
   {
    "id": "09279f7dec36",
@@ -285,38 +302,278 @@
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
   },
   {
-   "id": "e36111052c28",
-   "title": "Shipping JPEG XL in Chrome",
-   "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+   "id": "f133305ad14f",
+   "title": "Things to know when you get cancer – 2026 Edition",
+   "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-07T11:25:02.000Z",
-   "hn": {
-    "id": "49991227",
-    "points": 561,
-    "comments": 387
-   },
-   "score": 23,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "874b3c010aa5",
-   "title": "Anti-Patterns in Software Blogging",
-   "url": "https://refactoringenglish.com/blog/anti-patterns-software-blogging/",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-07T13:08:26.000Z",
-   "score": 127,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z",
+   "publishedAt": "2026-10-14T19:26:30.000Z",
    "hn": {
-    "id": "49992257",
-    "points": 320,
-    "comments": 146
-   }
+    "id": "50093568",
+    "points": 619,
+    "comments": 162
+   },
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "1d15ef475cf5",
+   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-14T17:45:23.000Z",
+   "hn": {
+    "id": "50091788",
+    "points": 812,
+    "comments": 436
+   },
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "91731c3dcfc6",
+   "title": "Google is silently linking your phone number across all signed-in accounts",
+   "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-14T16:28:51.000Z",
+   "hn": {
+    "id": "50090349",
+    "points": 341,
+    "comments": 89
+   },
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "e366b32126ed",
+   "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+   "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-14T16:24:11.000Z",
+   "hn": {
+    "id": "50090246",
+    "points": 483,
+    "comments": 286
+   },
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "4c6dccd91871",
+   "title": "Passkeys are not a trap",
+   "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-14T15:15:45.000Z",
+   "hn": {
+    "id": "50088935",
+    "points": 425,
+    "comments": 601
+   },
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "a5c08b97bdcf",
+   "title": "How Amazon pushes up prices all across the Internet",
+   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-14T09:28:17.000Z",
+   "hn": {
+    "id": "50084757",
+    "points": 691,
+    "comments": 585
+   },
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "3c2b3e383ed6",
+   "title": "Recreational Programming",
+   "url": "https://www.cphiri.dev/presentations/recreational-programming",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-13T22:33:33.000Z",
+   "hn": {
+    "id": "50079865",
+    "points": 302,
+    "comments": 150
+   },
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "d91ead6950e7",
+   "title": "Anthropic's Scion is heavily inspired by Mononoke",
+   "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T20:56:59.241Z",
+   "score": 34,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "11184580e621",
+   "title": "What I Self-Host | Aspirational Self Hosting Guide",
+   "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T15:32:48.892Z",
+   "score": 33,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "0f18f4adc968",
+   "title": "Factor 0.102 now available",
+   "url": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T13:42:39.966Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "f4aaef80a28c",
+   "title": "GitLab warns of max severity code execution vulnerability",
+   "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T15:55:52.017Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "0c06589f24b0",
+   "title": "Awesome Gaming on Linux Without Cheating",
+   "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T15:13:26.313Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "1f9db072441b",
+   "title": "Better HTTP/1 connection reuse",
+   "url": "https://go.dev/blog/http-connection-reuse",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T17:42:56.542Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "85ce9ac1d1ce",
+   "title": "My Game's Procedural Dialogue System",
+   "url": "https://www.youtube.com/watch?v=NaW0d7Tghw0",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T10:50:19.584Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "90ae55593438",
+   "title": "A UAF turned RCE",
+   "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T09:44:11.288Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "9a3fda6f691a",
+   "title": "OpenFatigue™ — Open is the new closed",
+   "url": "https://openfatigue.ai/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-14T11:24:24.996Z",
+   "score": 20,
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "c9ddbc2bb893",
+   "title": "Preparing for the 2026 US midterms",
+   "url": "https://www.anthropic.com/news/2026-us-midterms",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-14T00:00:00.000Z",
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "a0e0fec2c2b5",
+   "title": "Amp puts AI agents to work beyond code with OpenAI models",
+   "url": "https://openai.com/index/amp-beyond-coding",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-14T12:00:00.000Z",
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "24cc989c02db",
+   "title": "SentinelOne cuts malware analysis from weeks to hours",
+   "url": "https://openai.com/index/sentinelone",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-14T12:00:00.000Z",
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "e181547094b0",
+   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+   "url": "https://openai.com/index/third-moment-research",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-14T07:00:00.000Z",
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "7d10f0ddfecf",
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "url": "https://openai.com/index/block-ai-powered-security",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-14T07:00:00.000Z",
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "d99ce6561eba",
+   "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
+   "url": "https://blog.cloudflare.com/yandex-outage/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-14T20:24:19.000Z",
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
+  },
+  {
+   "id": "bc6f7d6d13e5",
+   "title": "Uber’s AI infra, from the inside",
+   "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-14T17:06:56.000Z",
+   "firstSeenAt": "2026-10-14T23:46:24.322Z"
   },
   {
    "id": "2f417a4e03ad",
@@ -328,8 +585,8 @@
    "publishedAt": "2026-10-14T08:27:59.000Z",
    "hn": {
     "id": "50084240",
-    "points": 362,
-    "comments": 125
+    "points": 690,
+    "comments": 285
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -343,8 +600,8 @@
    "publishedAt": "2026-10-14T06:18:01.000Z",
    "hn": {
     "id": "50083130",
-    "points": 387,
-    "comments": 184
+    "points": 480,
+    "comments": 234
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -358,8 +615,8 @@
    "publishedAt": "2026-10-13T19:11:48.000Z",
    "hn": {
     "id": "50077020",
-    "points": 502,
-    "comments": 134
+    "points": 551,
+    "comments": 154
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -373,8 +630,8 @@
    "publishedAt": "2026-10-13T15:25:50.000Z",
    "hn": {
     "id": "50073221",
-    "points": 333,
-    "comments": 176
+    "points": 341,
+    "comments": 183
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -388,8 +645,8 @@
    "publishedAt": "2026-10-13T15:12:57.000Z",
    "hn": {
     "id": "50072994",
-    "points": 370,
-    "comments": 587
+    "points": 399,
+    "comments": 696
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -403,8 +660,8 @@
    "publishedAt": "2026-10-13T13:21:35.000Z",
    "hn": {
     "id": "50071310",
-    "points": 338,
-    "comments": 631
+    "points": 344,
+    "comments": 639
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -418,8 +675,8 @@
    "publishedAt": "2026-10-13T07:28:34.000Z",
    "hn": {
     "id": "50068036",
-    "points": 327,
-    "comments": 281
+    "points": 331,
+    "comments": 288
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -431,7 +688,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T11:06:48.863Z",
-   "score": 40,
+   "score": 101,
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
   {
@@ -442,7 +699,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T06:24:41.078Z",
-   "score": 26,
+   "score": 47,
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
   {
@@ -453,7 +710,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T04:18:17.227Z",
-   "score": 19,
+   "score": 28,
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
   {
@@ -464,7 +721,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T11:29:51.369Z",
-   "score": 11,
+   "score": 57,
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
   {
@@ -475,7 +732,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T11:18:09.977Z",
-   "score": 10,
+   "score": 28,
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
   {
@@ -486,7 +743,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T05:34:22.699Z",
-   "score": 11,
+   "score": 15,
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
   {
@@ -497,7 +754,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-13T21:17:07.868Z",
-   "score": 29,
+   "score": 37,
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
   {
@@ -656,8 +913,8 @@
    "publishedAt": "2026-10-13T20:23:55.000Z",
    "hn": {
     "id": "50078141",
-    "points": 613,
-    "comments": 512
+    "points": 641,
+    "comments": 528
    },
    "firstSeenAt": "2026-10-14T00:12:10.414Z"
   },
@@ -671,8 +928,8 @@
    "publishedAt": "2026-10-13T16:03:16.000Z",
    "hn": {
     "id": "50073879",
-    "points": 1370,
-    "comments": 975
+    "points": 1432,
+    "comments": 1026
    },
    "firstSeenAt": "2026-10-14T00:12:10.414Z"
   },
@@ -686,8 +943,8 @@
    "publishedAt": "2026-10-13T15:07:37.000Z",
    "hn": {
     "id": "50072913",
-    "points": 451,
-    "comments": 193
+    "points": 456,
+    "comments": 205
    },
    "firstSeenAt": "2026-10-14T00:12:10.414Z"
   },
@@ -701,7 +958,7 @@
    "publishedAt": "2026-10-13T11:27:14.000Z",
    "hn": {
     "id": "50069971",
-    "points": 420,
+    "points": 425,
     "comments": 94
    },
    "firstSeenAt": "2026-10-14T00:12:10.414Z"
@@ -716,8 +973,8 @@
    "publishedAt": "2026-10-13T06:02:51.000Z",
    "hn": {
     "id": "50067414",
-    "points": 376,
-    "comments": 90
+    "points": 381,
+    "comments": 97
    },
    "firstSeenAt": "2026-10-14T00:12:10.414Z"
   },
@@ -733,21 +990,6 @@
     "id": "50063365",
     "points": 306,
     "comments": 177
-   },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "80473e5d479b",
-   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T10:09:37.000Z",
-   "hn": {
-    "id": "50054092",
-    "points": 385,
-    "comments": 302
    },
    "firstSeenAt": "2026-10-14T00:12:10.414Z"
   },
@@ -792,8 +1034,8 @@
    "publishedAt": "2026-10-13T13:02:12.000Z",
    "hn": {
     "id": "50071017",
-    "points": 740,
-    "comments": 870
+    "points": 750,
+    "comments": 895
    },
    "firstSeenAt": "2026-10-13T16:52:05.727Z"
   },
@@ -807,8 +1049,8 @@
    "publishedAt": "2026-10-13T12:00:42.000Z",
    "hn": {
     "id": "50070302",
-    "points": 729,
-    "comments": 310
+    "points": 753,
+    "comments": 323
    },
    "firstSeenAt": "2026-10-13T16:52:05.727Z"
   },
@@ -822,8 +1064,8 @@
    "publishedAt": "2026-10-13T10:27:00.000Z",
    "hn": {
     "id": "50069499",
-    "points": 727,
-    "comments": 411
+    "points": 741,
+    "comments": 424
    },
    "firstSeenAt": "2026-10-13T16:52:05.727Z"
   },
@@ -837,8 +1079,8 @@
    "publishedAt": "2026-10-13T10:08:00.000Z",
    "hn": {
     "id": "50069329",
-    "points": 455,
-    "comments": 262
+    "points": 461,
+    "comments": 263
    },
    "firstSeenAt": "2026-10-13T16:52:05.727Z"
   },
@@ -947,7 +1189,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-13T14:36:52.168Z",
-   "score": 88,
+   "score": 93,
    "firstSeenAt": "2026-10-13T16:52:05.727Z"
   },
   {
@@ -980,7 +1222,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-13T13:44:47.394Z",
-   "score": 85,
+   "score": 90,
    "firstSeenAt": "2026-10-13T16:52:05.727Z"
   },
   {
@@ -3165,254 +3407,6 @@
    ],
    "publishedAt": "2026-10-07T17:19:58.000Z",
    "firstSeenAt": "2026-10-08T00:49:38.553Z"
-  },
-  {
-   "id": "4e21b25c3f63",
-   "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
-   "url": "https://github.com/boykopovar/AnyPS5",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-06T23:28:08.000Z",
-   "hn": {
-    "id": "49985664",
-    "points": 359,
-    "comments": 304
-   },
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "a585154abde8",
-   "title": "Decisions API is in public beta",
-   "url": "https://developers.openai.com/api/docs/guides/decisions",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-06T20:57:25.000Z",
-   "hn": {
-    "id": "49984025",
-    "points": 387,
-    "comments": 227
-   },
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "0271b9e807ab",
-   "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-   "url": "https://news.ycombinator.com/item?id=49982498",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-06T18:54:01.000Z",
-   "hn": {
-    "id": "49982498",
-    "points": 552,
-    "comments": 339
-   },
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "dabfa79f68b8",
-   "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-   "url": "https://github.com/FeSens/openTPU",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-06T16:23:25.000Z",
-   "hn": {
-    "id": "49980715",
-    "points": 340,
-    "comments": 399
-   },
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "deeb3d35a36b",
-   "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-   "url": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-05T17:53:35.000Z",
-   "hn": {
-    "id": "49968105",
-    "points": 300,
-    "comments": 198
-   },
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "eec87318e575",
-   "title": "Janet on x32: 32-bit Pointers, 64-bit Speed, 25% Less RAM",
-   "url": "https://alexalejandre.com/programming/lisp/janet-for-the-x32-abi/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-06T22:26:46.902Z",
-   "score": 66,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "853f886d81ce",
-   "title": "Reasons to dislike AI coding",
-   "url": "https://www.sicpers.info/2026/10/reasons-to-dislike-ai-coding/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-07T05:34:50.412Z",
-   "score": 24,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "38b96528d9e0",
-   "title": "Is COSMIC DE mogging KDE Plasma?",
-   "url": "https://thelibre.news/is-cosmic-de-mogging-kde-plasma/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-07T00:15:00.506Z",
-   "score": 45,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "19a71b49ba32",
-   "title": "Explaining the Magelight XP glitch in Skyrim",
-   "url": "https://blog.alexbeals.com/posts/explaining-the-magelight-xp-glitch-in-skyrim",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-07T09:08:19.143Z",
-   "score": 28,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "6719dd9b3a14",
-   "title": "A Terminal Protocol for Program Status (OSC 7501)",
-   "url": "https://mitchellh.com/writing/program-status-osc7501",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-06T21:12:46.779Z",
-   "score": 28,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "efa6b0aed9f1",
-   "title": "How fast is Python 3.15?",
-   "url": "https://blog.miguelgrinberg.com/post/how-fast-is-python-3-15",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-07T02:58:16.154Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "f02fc4590b9c",
-   "title": "OpenAI shares mathematics research catalogue",
-   "url": "https://github.com/openai/math",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-07T03:16:26.748Z",
-   "score": 15,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "3c927ee1bc54",
-   "title": "Pared - remove unwanted Apple Intelligence models without disabling SIP",
-   "url": "https://github.com/4evy/pared",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-06T18:27:16.404Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "09142ad66017",
-   "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
-   "url": "https://huggingface.co/papers/2610.08448",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-05T20:00:00.000Z",
-   "score": 151,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "091f58672aae",
-   "title": "TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models",
-   "url": "https://huggingface.co/papers/2610.07767",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-05T20:00:00.000Z",
-   "score": 58,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "a2f57a7bdad8",
-   "title": "From Evidence to Action: How Tool-Using Agents Fail",
-   "url": "https://huggingface.co/papers/2610.07753",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-05T20:00:00.000Z",
-   "score": 33,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "4f2a8de5613b",
-   "title": "UNREAL: Unifying Retrieval and Long-Context with a Single Model",
-   "url": "https://huggingface.co/papers/2610.08463",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-05T20:00:00.000Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "255968087744",
-   "title": "EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation",
-   "url": "https://huggingface.co/papers/2610.07969",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-05T20:00:00.000Z",
-   "score": 11,
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "ad4e14640e35",
-   "title": "Helping teens learn, plan, and shape the future of AI",
-   "url": "https://openai.com/index/teens-learn-and-plan",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-07T12:00:00.000Z",
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "632bf0c84f6a",
-   "title": "[$] Analyzing Rust programs with Charon",
-   "url": "https://lwn.net/Articles/1097198/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-07T15:19:59.000Z",
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
-  },
-  {
-   "id": "61c53b9655de",
-   "title": "[$] Evolving the LAVD scheduler from gaming to servers",
-   "url": "https://lwn.net/Articles/1097209/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-07T13:33:48.000Z",
-   "firstSeenAt": "2026-10-07T16:18:24.085Z"
   }
  ]
 }
