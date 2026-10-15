@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-15T14:05:40.448Z",
+ "generatedAt": "2026-10-15T23:35:08.558Z",
  "items": [
   {
    "id": "11660db67830",
@@ -28,12 +28,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-14T20:30:54.000Z",
-   "score": 108,
+   "score": 137,
    "firstSeenAt": "2026-10-14T23:46:24.322Z",
    "hn": {
     "id": "50094694",
-    "points": 389,
-    "comments": 144
+    "points": 415,
+    "comments": 155
    }
   },
   {
@@ -236,38 +236,287 @@
    }
   },
   {
-   "id": "5c906478c817",
-   "title": "The Mathocalypse",
-   "url": "https://scottaaronson.blog/?p=10169",
+   "id": "34bf133078de",
+   "title": "Muse Spark Open",
+   "url": "https://research.meta.ai/blog/muse-spark-open",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-10-07T19:33:40.000Z",
+   "publishedAt": "2026-10-15T17:47:39.000Z",
    "hn": {
-    "id": "49997718",
-    "points": 392,
-    "comments": 406
+    "id": "50107379",
+    "points": 562,
+    "comments": 321
    },
-   "score": 16,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
   },
   {
-   "id": "4201f3de1d49",
-   "title": "Navier–Stokes Lost in Translation",
-   "url": "https://arxiv.org/abs/2610.08144",
+   "id": "bc34be66cc81",
+   "title": "Neural networks are clean",
+   "url": "https://already-clean.goodfire.com/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-15T16:04:01.000Z",
+   "hn": {
+    "id": "50105647",
+    "points": 455,
+    "comments": 170
+   },
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "6cb5a4950314",
+   "title": "I know why the mathematicians weep",
+   "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-15T13:44:32.000Z",
+   "hn": {
+    "id": "50103630",
+    "points": 328,
+    "comments": 535
+   },
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "8ea001b974fb",
+   "title": "Wayland desktop for Linux with skeuomorphic design",
+   "url": "https://github.com/fyzugx/DEsk",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-15T13:23:44.000Z",
+   "hn": {
+    "id": "50103338",
+    "points": 469,
+    "comments": 185
+   },
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "2a92bb3524a8",
+   "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
+   "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-15T12:58:32.000Z",
+   "hn": {
+    "id": "50103000",
+    "points": 497,
+    "comments": 1
+   },
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "3ce9f7ea5dc3",
+   "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
+   "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-15T10:43:36.000Z",
+   "hn": {
+    "id": "50101813",
+    "points": 357,
+    "comments": 527
+   },
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "ff9286355f7e",
+   "title": "JPEG XL vs AVIF for web use-cases",
+   "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-07T15:24:38.000Z",
-   "hn": {
-    "id": "49994145",
-    "points": 337,
-    "comments": 210
-   },
-   "firstSeenAt": "2026-10-08T16:20:44.528Z",
-   "score": 22
+   "publishedAt": "2026-10-15T14:42:45.240Z",
+   "score": 39,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "000ea8a4778d",
+   "title": "Sunsetting decomp.dev",
+   "url": "https://decomp.dev/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T13:27:41.885Z",
+   "score": 55,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "c36c9c62fa2e",
+   "title": "My C23 Conventions",
+   "url": "https://abner.page/post/c23-conventions-1/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T15:32:15.830Z",
+   "score": 33,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "7e894cae6181",
+   "title": "The Costa GUI",
+   "url": "https://costa.jacobpalm.dk",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T12:06:10.597Z",
+   "score": 37,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "eb71db1ecd13",
+   "title": "Microsoft Defender for Linux",
+   "url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T10:04:47.597Z",
+   "score": 19,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "60c9701dc293",
+   "title": "Forgejo v17.0 is available",
+   "url": "https://forgejo.org/2026-10-release-v17-0/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T19:43:19.853Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "024ccd3019cb",
+   "title": "End-to-end encrypted relays for OCapN",
+   "url": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T14:42:12.236Z",
+   "score": 20,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "f4eaa1e4c01e",
+   "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
+   "url": "https://github.com/glincker/sslx",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T10:02:33.360Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "c593e1cf44fa",
+   "title": "Remote Attestation Should Not Be Tolerated",
+   "url": "https://lumi.codeberg.page/blog/remote-attestation.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T14:02:45.310Z",
+   "score": 26,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "44e4355d7e2b",
+   "title": "Libreboot 26.10 “Ominous Olive” released with full UEFI support",
+   "url": "https://libreboot.org/news/libreboot2610.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T14:03:09.318Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "58046ffe41de",
+   "title": "The geometric model of maintenance",
+   "url": "https://entropicthoughts.com/geometric-model-of-maintenance",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T10:48:58.656Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "b18b0e4e9d19",
+   "title": "Religious Studies In Software Engineering",
+   "url": "https://tombh.co.uk/religious-studies-in-software-engineering",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-15T17:36:38.677Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "284751802377",
+   "title": "Share the Symbol, Not the Vector: Training-Free Fact Communication Across Language Models",
+   "url": "https://huggingface.co/papers/2610.19696",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-14T03:19:43.000Z",
+   "score": 8,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "dc9ed14da7f5",
+   "title": "An update on independent evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-15T00:00:00.000Z",
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "a72d1e4da6b0",
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-15T19:00:00.000Z",
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "44deb5f8e926",
+   "title": "[$] Vendor hooks in the Android kernel",
+   "url": "https://lwn.net/Articles/1098493/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-15T15:09:15.000Z",
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "4c419dd8c4a4",
+   "title": "A fully programmable secure web gateway",
+   "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-15T17:11:12.000Z",
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
+  },
+  {
+   "id": "0e4f8374803f",
+   "title": "The Pulse: OpenAI software engineer accused of spying",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-15T16:55:18.000Z",
+   "firstSeenAt": "2026-10-15T23:35:08.558Z"
   },
   {
    "id": "4eb34acacc71",
@@ -279,8 +528,8 @@
    "publishedAt": "2026-10-14T22:10:08.000Z",
    "hn": {
     "id": "50096142",
-    "points": 546,
-    "comments": 123
+    "points": 656,
+    "comments": 187
    },
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
@@ -294,8 +543,8 @@
    "publishedAt": "2026-10-14T21:11:03.000Z",
    "hn": {
     "id": "50095353",
-    "points": 318,
-    "comments": 109
+    "points": 329,
+    "comments": 116
    },
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
@@ -309,8 +558,8 @@
    "publishedAt": "2026-10-14T20:48:24.000Z",
    "hn": {
     "id": "50094994",
-    "points": 742,
-    "comments": 314
+    "points": 850,
+    "comments": 370
    },
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
@@ -324,8 +573,8 @@
    "publishedAt": "2026-10-14T19:03:58.000Z",
    "hn": {
     "id": "50093180",
-    "points": 445,
-    "comments": 613
+    "points": 505,
+    "comments": 720
    },
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
@@ -339,8 +588,8 @@
    "publishedAt": "2026-10-14T18:37:21.000Z",
    "hn": {
     "id": "50092730",
-    "points": 370,
-    "comments": 257
+    "points": 382,
+    "comments": 281
    },
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
@@ -354,8 +603,8 @@
    "publishedAt": "2026-10-14T18:32:52.000Z",
    "hn": {
     "id": "50092664",
-    "points": 373,
-    "comments": 264
+    "points": 378,
+    "comments": 272
    },
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
@@ -369,8 +618,8 @@
    "publishedAt": "2026-10-14T16:09:00.000Z",
    "hn": {
     "id": "50089921",
-    "points": 483,
-    "comments": 440
+    "points": 561,
+    "comments": 551
    },
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
@@ -384,8 +633,8 @@
    "publishedAt": "2026-10-14T06:02:16.000Z",
    "hn": {
     "id": "50083028",
-    "points": 395,
-    "comments": 389
+    "points": 413,
+    "comments": 443
    },
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
@@ -397,7 +646,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-15T07:58:35.798Z",
-   "score": 24,
+   "score": 45,
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
   {
@@ -408,7 +657,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-15T07:47:41.027Z",
-   "score": 13,
+   "score": 21,
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
   {
@@ -419,7 +668,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T21:04:44.342Z",
-   "score": 13,
+   "score": 21,
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
   {
@@ -430,7 +679,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-15T05:00:23.277Z",
-   "score": 11,
+   "score": 17,
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
   {
@@ -441,7 +690,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T20:08:19.956Z",
-   "score": 17,
+   "score": 25,
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
   },
   {
@@ -559,8 +808,8 @@
    "publishedAt": "2026-10-14T19:26:30.000Z",
    "hn": {
     "id": "50093568",
-    "points": 1663,
-    "comments": 397
+    "points": 1846,
+    "comments": 442
    },
    "firstSeenAt": "2026-10-14T23:46:24.322Z"
   },
@@ -574,8 +823,8 @@
    "publishedAt": "2026-10-14T17:45:23.000Z",
    "hn": {
     "id": "50091788",
-    "points": 926,
-    "comments": 572
+    "points": 938,
+    "comments": 611
    },
    "firstSeenAt": "2026-10-14T23:46:24.322Z"
   },
@@ -589,8 +838,8 @@
    "publishedAt": "2026-10-14T16:28:51.000Z",
    "hn": {
     "id": "50090349",
-    "points": 486,
-    "comments": 138
+    "points": 501,
+    "comments": 145
    },
    "firstSeenAt": "2026-10-14T23:46:24.322Z"
   },
@@ -604,8 +853,8 @@
    "publishedAt": "2026-10-14T16:24:11.000Z",
    "hn": {
     "id": "50090246",
-    "points": 520,
-    "comments": 322
+    "points": 525,
+    "comments": 354
    },
    "firstSeenAt": "2026-10-14T23:46:24.322Z"
   },
@@ -619,8 +868,8 @@
    "publishedAt": "2026-10-14T15:15:45.000Z",
    "hn": {
     "id": "50088935",
-    "points": 622,
-    "comments": 759
+    "points": 645,
+    "comments": 797
    },
    "firstSeenAt": "2026-10-14T23:46:24.322Z"
   },
@@ -634,8 +883,8 @@
    "publishedAt": "2026-10-14T09:28:17.000Z",
    "hn": {
     "id": "50084757",
-    "points": 900,
-    "comments": 686
+    "points": 926,
+    "comments": 728
    },
    "firstSeenAt": "2026-10-14T23:46:24.322Z"
   },
@@ -662,7 +911,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T15:32:48.892Z",
-   "score": 65,
+   "score": 80,
    "firstSeenAt": "2026-10-14T23:46:24.322Z"
   },
   {
@@ -822,8 +1071,8 @@
    "publishedAt": "2026-10-14T08:27:59.000Z",
    "hn": {
     "id": "50084240",
-    "points": 728,
-    "comments": 299
+    "points": 738,
+    "comments": 303
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -837,8 +1086,8 @@
    "publishedAt": "2026-10-14T06:18:01.000Z",
    "hn": {
     "id": "50083130",
-    "points": 496,
-    "comments": 247
+    "points": 501,
+    "comments": 248
    },
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
@@ -925,7 +1174,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-14T11:06:48.863Z",
-   "score": 122,
+   "score": 128,
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
   },
   {
@@ -3251,205 +3500,6 @@
    ],
    "publishedAt": "2026-10-08T16:55:51.000Z",
    "firstSeenAt": "2026-10-09T01:03:02.605Z"
-  },
-  {
-   "id": "133541a06ad0",
-   "title": "OpenAI Withdraws 3 Math Papers",
-   "url": "https://github.com/openai/math/blob/main/history.md",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-08T08:08:37.000Z",
-   "hn": {
-    "id": "50003107",
-    "points": 342,
-    "comments": 3
-   },
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "9366cdf883bc",
-   "title": "“Math 2.0” will need to value mathematical progress more holistically",
-   "url": "https://mathstodon.xyz/@tao/117395269325940185",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-08T05:14:14.000Z",
-   "hn": {
-    "id": "50002008",
-    "points": 608,
-    "comments": 640
-   },
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "a3e9723993ae",
-   "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
-   "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-07T18:49:40.000Z",
-   "hn": {
-    "id": "49997161",
-    "points": 372,
-    "comments": 382
-   },
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "7fc3a23ac879",
-   "title": "Animated ASCII Art for Web Pages",
-   "url": "https://ascii.rest/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-07T15:05:37.000Z",
-   "hn": {
-    "id": "49993857",
-    "points": 449,
-    "comments": 75
-   },
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "249bb3f47288",
-   "title": "The people holding up the internet",
-   "url": "https://sheets.works/data-viz/holding-up-the-internet",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-08T08:18:39.422Z",
-   "score": 91,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "b2a2783dcc98",
-   "title": "I've Been Deindexed by Google",
-   "url": "https://kennyqin.com/deindexed-by-google/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-08T07:59:30.045Z",
-   "score": 60,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "0c621412471a",
-   "title": "jujutsu (jj) 0.46.0",
-   "url": "https://github.com/jj-vcs/jj/releases/tag/v0.46.0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-08T09:02:42.520Z",
-   "score": 47,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "a653a7d62113",
-   "title": "Gentoo infrastructure sponsors wanted",
-   "url": "https://www.gentoo.org/news/2026/10/07/infrastructure-sponsors-wanted.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-08T09:23:49.640Z",
-   "score": 29,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "4fd1e28abed6",
-   "title": "Long-WAM: Scaling the Context of World-Action Models",
-   "url": "https://huggingface.co/papers/2610.10528",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-06T20:00:00.000Z",
-   "score": 84,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "3a78229da39f",
-   "title": "GRACE: Generation-aware latent compression for efficient video generation",
-   "url": "https://huggingface.co/papers/2610.10524",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-06T20:00:00.000Z",
-   "score": 60,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "f0f47f577ce2",
-   "title": "SGF+: Decoupling Gradient Flows for Autoregressive Video Generation",
-   "url": "https://huggingface.co/papers/2610.10429",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-06T20:00:00.000Z",
-   "score": 47,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "daf0b3109772",
-   "title": "UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation",
-   "url": "https://huggingface.co/papers/2610.09823",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-06T20:00:00.000Z",
-   "score": 36,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "2258f0708c52",
-   "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
-   "url": "https://huggingface.co/papers/2610.10539",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-06T20:00:00.000Z",
-   "score": 35,
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "26f5049650b4",
-   "title": "Building on our commitment to American scientific discovery",
-   "url": "https://www.anthropic.com/news/genesis-mission-commitment",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-08T00:00:00.000Z",
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "077dea1e8a7a",
-   "title": "Disrupting AI-enabled “false front” operations",
-   "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-08T00:00:00.000Z",
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "9f4670d83de9",
-   "title": "[$] The [vx]swap showdown",
-   "url": "https://lwn.net/Articles/1098399/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-08T13:43:27.000Z",
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
-  },
-  {
-   "id": "3a1030c05313",
-   "title": "Bridging technical depth and usability: The story behind Radar’s redesign",
-   "url": "https://blog.cloudflare.com/radar-redesign/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-08T13:00:00.000Z",
-   "firstSeenAt": "2026-10-08T16:20:44.528Z"
   }
  ]
 }
