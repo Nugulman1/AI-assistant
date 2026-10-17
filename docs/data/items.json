@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T12:53:19.785Z",
+ "generatedAt": "2026-10-17T22:56:50.655Z",
  "items": [
   {
    "id": "32a34d991661",
@@ -33,6 +33,23 @@
     "id": "50102923",
     "points": 304,
     "comments": 195
+   }
+  },
+  {
+   "id": "ff9286355f7e",
+   "title": "JPEG XL vs AVIF for web use-cases",
+   "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-15T14:42:45.240Z",
+   "score": 106,
+   "firstSeenAt": "2026-10-15T23:35:08.558Z",
+   "hn": {
+    "id": "50120224",
+    "points": 316,
+    "comments": 207
    }
   },
   {
@@ -201,21 +218,133 @@
    }
   },
   {
-   "id": "b4b9b864afdc",
-   "title": "No Man Is an Island",
-   "url": "https://borretti.me/article/no-man-is-an-island",
+   "id": "49b49c1c440e",
+   "title": "OpenCode Hacked: User credentials leaked",
+   "url": "https://twitter.com/opencode/status/2111516673953935833",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-09T20:04:00.000Z",
-   "score": 70,
-   "firstSeenAt": "2026-10-10T15:12:31.988Z",
+   "publishedAt": "2026-10-17T18:01:41.000Z",
    "hn": {
-    "id": "50025935",
-    "points": 320,
-    "comments": 208
-   }
+    "id": "50133401",
+    "points": 645,
+    "comments": 103
+   },
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "dc9eb629f655",
+   "title": "Solar surpasses nuclear power globally for first time",
+   "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T14:01:01.000Z",
+   "hn": {
+    "id": "50131256",
+    "points": 436,
+    "comments": 281
+   },
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "1fd6dd971a81",
+   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T08:37:46.000Z",
+   "hn": {
+    "id": "50129121",
+    "points": 511,
+    "comments": 5
+   },
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "9b13d6a721a0",
+   "title": "DeepSeek-v4.1-Flash-1017",
+   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T08:21:25.000Z",
+   "hn": {
+    "id": "50129045",
+    "points": 639,
+    "comments": 543
+   },
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "8a2456bf6914",
+   "title": "Butlerian Jihad",
+   "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T02:21:08.000Z",
+   "hn": {
+    "id": "50127274",
+    "points": 354,
+    "comments": 243
+   },
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "251ac8d51963",
+   "title": "Intuitive concurrent programming in any language",
+   "url": "https://www.lf-lang.org/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-17T12:17:20.307Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "163b4cf51c2b",
+   "title": "It took me nine years to hack my Xbox 360",
+   "url": "https://kennedn.com/blog/posts/glitching/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-17T16:13:32.076Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "38f454d85c35",
+   "title": "Do you let LLMs write both your tests and your code?",
+   "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-16T23:53:05.634Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "f39dc488c779",
+   "title": "There's never been a better time to go into math",
+   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-16T20:49:12.465Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
+  },
+  {
+   "id": "987754dece67",
+   "title": "Meta shakes up the frontiers, open and closed",
+   "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-10-17T14:06:54.000Z",
+   "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
   {
    "id": "7fd7e06ab2f4",
@@ -227,8 +356,8 @@
    "publishedAt": "2026-10-16T19:04:47.000Z",
    "hn": {
     "id": "50122951",
-    "points": 382,
-    "comments": 352
+    "points": 454,
+    "comments": 444
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -242,8 +371,8 @@
    "publishedAt": "2026-10-16T19:01:17.000Z",
    "hn": {
     "id": "50122878",
-    "points": 336,
-    "comments": 78
+    "points": 474,
+    "comments": 109
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -257,8 +386,8 @@
    "publishedAt": "2026-10-16T18:32:35.000Z",
    "hn": {
     "id": "50122431",
-    "points": 307,
-    "comments": 75
+    "points": 365,
+    "comments": 85
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -272,8 +401,8 @@
    "publishedAt": "2026-10-16T14:44:17.000Z",
    "hn": {
     "id": "50118981",
-    "points": 315,
-    "comments": 416
+    "points": 326,
+    "comments": 436
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -287,8 +416,8 @@
    "publishedAt": "2026-10-16T13:43:48.000Z",
    "hn": {
     "id": "50118320",
-    "points": 329,
-    "comments": 167
+    "points": 359,
+    "comments": 193
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -302,8 +431,8 @@
    "publishedAt": "2026-10-16T12:52:08.000Z",
    "hn": {
     "id": "50117746",
-    "points": 331,
-    "comments": 208
+    "points": 367,
+    "comments": 228
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -315,7 +444,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-17T01:12:09.772Z",
-   "score": 12,
+   "score": 22,
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
   {
@@ -359,8 +488,8 @@
    "publishedAt": "2026-10-16T18:55:59.000Z",
    "hn": {
     "id": "50122800",
-    "points": 912,
-    "comments": 338
+    "points": 1017,
+    "comments": 373
    },
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
@@ -374,8 +503,8 @@
    "publishedAt": "2026-10-16T17:08:38.000Z",
    "hn": {
     "id": "50121179",
-    "points": 534,
-    "comments": 452
+    "points": 592,
+    "comments": 536
    },
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
@@ -402,7 +531,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T20:18:36.306Z",
-   "score": 85,
+   "score": 99,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -413,7 +542,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T16:36:29.493Z",
-   "score": 32,
+   "score": 45,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -424,7 +553,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T11:21:12.937Z",
-   "score": 42,
+   "score": 49,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -435,7 +564,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T12:54:20.978Z",
-   "score": 13,
+   "score": 15,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -446,7 +575,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T15:41:08.721Z",
-   "score": 34,
+   "score": 35,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -457,7 +586,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T18:54:16.019Z",
-   "score": 28,
+   "score": 38,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -468,7 +597,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T18:03:21.252Z",
-   "score": 29,
+   "score": 33,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -479,7 +608,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T18:25:15.354Z",
-   "score": 22,
+   "score": 26,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -555,8 +684,8 @@
    "publishedAt": "2026-10-16T01:32:45.000Z",
    "hn": {
     "id": "50112657",
-    "points": 1479,
-    "comments": 2652
+    "points": 1598,
+    "comments": 2933
    },
    "firstSeenAt": "2026-10-16T13:53:36.495Z"
   },
@@ -570,8 +699,8 @@
    "publishedAt": "2026-10-15T23:37:42.000Z",
    "hn": {
     "id": "50111852",
-    "points": 455,
-    "comments": 167
+    "points": 463,
+    "comments": 169
    },
    "firstSeenAt": "2026-10-16T13:53:36.495Z"
   },
@@ -658,7 +787,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T02:50:33.788Z",
-   "score": 85,
+   "score": 88,
    "firstSeenAt": "2026-10-16T13:53:36.495Z"
   },
   {
@@ -680,7 +809,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T12:02:05.882Z",
-   "score": 56,
+   "score": 63,
    "firstSeenAt": "2026-10-16T13:53:36.495Z"
   },
   {
@@ -702,7 +831,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T05:28:29.452Z",
-   "score": 107,
+   "score": 125,
    "firstSeenAt": "2026-10-16T13:53:36.495Z"
   },
   {
@@ -933,17 +1062,6 @@
     "points": 496,
     "comments": 661
    },
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "ff9286355f7e",
-   "title": "JPEG XL vs AVIF for web use-cases",
-   "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T14:42:45.240Z",
-   "score": 106,
    "firstSeenAt": "2026-10-15T23:35:08.558Z"
   },
   {
@@ -3207,99 +3325,6 @@
    "publishedAt": "2026-10-09T21:44:50.573Z",
    "score": 10,
    "firstSeenAt": "2026-10-11T00:09:23.428Z"
-  },
-  {
-   "id": "532da457651c",
-   "title": "Lobbying Is Corruption",
-   "url": "https://carette.xyz/posts/lobbying_and_corruption/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-10T13:05:58.000Z",
-   "hn": {
-    "id": "50032556",
-    "points": 512,
-    "comments": 280
-   },
-   "firstSeenAt": "2026-10-10T15:12:31.988Z"
-  },
-  {
-   "id": "92fe947eb54a",
-   "title": "REA Reverse – Engineer Anything",
-   "url": "https://rea.tools/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-10T00:37:07.000Z",
-   "hn": {
-    "id": "50028275",
-    "points": 764,
-    "comments": 325
-   },
-   "firstSeenAt": "2026-10-10T15:12:31.988Z"
-  },
-  {
-   "id": "35b14c13d81b",
-   "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-   "url": "https://carrierexplode.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-09T18:10:55.000Z",
-   "hn": {
-    "id": "50024499",
-    "points": 420,
-    "comments": 53
-   },
-   "firstSeenAt": "2026-10-10T15:12:31.988Z"
-  },
-  {
-   "id": "04902b83f5b9",
-   "title": "Typesafe AI raises $870M at $7.5B",
-   "url": "https://typesafe.ai/blog/series-ai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-09T17:02:31.000Z",
-   "hn": {
-    "id": "50023450",
-    "points": 441,
-    "comments": 351
-   },
-   "firstSeenAt": "2026-10-10T15:12:31.988Z"
-  },
-  {
-   "id": "98f1e3070cc1",
-   "title": "oh, apparently it's not possible to portably check for string-to-float conversion errors in standard c",
-   "url": "https://sebsite.pw/w/20261009-strtod.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T05:37:18.608Z",
-   "score": 64,
-   "firstSeenAt": "2026-10-10T15:12:31.988Z"
-  },
-  {
-   "id": "ddbf35e86da2",
-   "title": "There's little that's \"inevitable\" about AI",
-   "url": "https://deadsimpletech.com/blog/llms-arent-inevitable",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T09:08:30.104Z",
-   "score": 30,
-   "firstSeenAt": "2026-10-10T15:12:31.988Z"
-  },
-  {
-   "id": "efb811cdde26",
-   "title": "Branches in branch-free code",
-   "url": "https://00f.net/2026/10/09/llvm-compiles-branch-free-code-into-branches-on-risc-v/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-09T19:31:17.250Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-10T15:12:31.988Z"
   }
  ]
 }
