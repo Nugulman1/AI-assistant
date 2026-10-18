@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-18T13:09:09.528Z",
+ "generatedAt": "2026-10-18T22:52:31.818Z",
  "items": [
   {
    "id": "32a34d991661",
@@ -184,21 +184,173 @@
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
   },
   {
-   "id": "f58281014b3c",
-   "title": "LineageOS 24.0 released",
-   "url": "https://lineageos.org/Changelog-32/",
+   "id": "907596fd16fa",
+   "title": "Namecheap just seized and disabled all my domains",
+   "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-11T06:18:59.000Z",
-   "score": 35,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z",
+   "publishedAt": "2026-10-18T16:56:56.000Z",
    "hn": {
-    "id": "50040276",
-    "points": 447,
-    "comments": 182
-   }
+    "id": "50142866",
+    "points": 341,
+    "comments": 162
+   },
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "643666daab59",
+   "title": "RepRapMicron",
+   "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-18T13:48:48.000Z",
+   "hn": {
+    "id": "50141076",
+    "points": 311,
+    "comments": 48
+   },
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "48479cd7194a",
+   "title": "DeepSeek search and fetch – $0.75 per 1000 successful requests",
+   "url": "https://api-docs.deepseek.com/guides/search/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-18T06:50:36.000Z",
+   "hn": {
+    "id": "50138531",
+    "points": 518,
+    "comments": 249
+   },
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "32b83c7f52bb",
+   "title": "How the Elizabeth Holmes documentary “You Can See Everything” is deceiving",
+   "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-18T03:19:49.000Z",
+   "hn": {
+    "id": "50137620",
+    "points": 346,
+    "comments": 486
+   },
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "c6b9184512a9",
+   "title": "ARP! Tell your network to explain itself",
+   "url": "https://benjcal.space/blog/arp-tell-your-network-to-explain-itself/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T12:48:02.112Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "160998fa7ad9",
+   "title": "A New Way to Think About Borrow Checking (In Reverse)",
+   "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T14:29:16.035Z",
+   "score": 24,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "75dff0a78159",
+   "title": "Men in tech #YesAllMen",
+   "url": "https://media.ccc.de/v/emf2026-240-1-men-in-tech-yesallmen",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T18:35:01.063Z",
+   "score": 42,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "8be9d82a82ff",
+   "title": "High performance policy routed IPsec mesh SD-WAN",
+   "url": "https://ranet3.com/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T14:36:52.682Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "632eb2f33c5d",
+   "title": "Inside the Intel 8087 chip: floating-point addition and subtraction",
+   "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T17:59:21.837Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "e0c73788fe7c",
+   "title": "Outside the Scope of Our Support",
+   "url": "https://fireborn.mataroa.blog/blog/outside-the-scope-of-our-support/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T18:52:01.341Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "2db65f180b8e",
+   "title": "Algorithmic Sound Design with L-Systems and Granular Synthesis",
+   "url": "https://nathanho.me/posts/evograin/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T12:06:05.111Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "b6b280faf644",
+   "title": "Making Hybrid Images (2014)",
+   "url": "https://www.jeremykun.com/2014/09/29/hybrid-images/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T03:13:10.538Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "500318713ba8",
+   "title": "PwnEscape: Guest-to-Host KVM Escape (CVE-2026-99999)",
+   "url": "https://pwn.ai/blog/pwnescape",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-17T18:24:39.593Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
+  },
+  {
+   "id": "4c6c987b6534",
+   "title": "Investing in the public benefit",
+   "url": "https://www.anthropic.com/news/public-benefit-fund",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-18T00:00:00.000Z",
+   "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
   {
    "id": "758072d376d6",
@@ -210,8 +362,8 @@
    "publishedAt": "2026-10-18T01:18:50.000Z",
    "hn": {
     "id": "50136881",
-    "points": 512,
-    "comments": 306
+    "points": 562,
+    "comments": 381
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -225,8 +377,8 @@
    "publishedAt": "2026-10-18T00:14:22.000Z",
    "hn": {
     "id": "50136536",
-    "points": 343,
-    "comments": 135
+    "points": 421,
+    "comments": 192
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -240,8 +392,8 @@
    "publishedAt": "2026-10-17T17:06:07.000Z",
    "hn": {
     "id": "50132870",
-    "points": 359,
-    "comments": 200
+    "points": 402,
+    "comments": 222
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -255,8 +407,8 @@
    "publishedAt": "2026-10-17T15:55:09.000Z",
    "hn": {
     "id": "50132193",
-    "points": 481,
-    "comments": 41
+    "points": 563,
+    "comments": 58
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -270,8 +422,8 @@
    "publishedAt": "2026-10-17T13:55:28.000Z",
    "hn": {
     "id": "50131213",
-    "points": 321,
-    "comments": 83
+    "points": 344,
+    "comments": 86
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -285,7 +437,7 @@
    "publishedAt": "2026-10-17T10:59:31.000Z",
    "hn": {
     "id": "50129947",
-    "points": 310,
+    "points": 322,
     "comments": 50
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
@@ -300,8 +452,8 @@
    "publishedAt": "2026-10-17T04:36:53.000Z",
    "hn": {
     "id": "50127979",
-    "points": 308,
-    "comments": 85
+    "points": 320,
+    "comments": 86
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -315,8 +467,8 @@
    "publishedAt": "2026-10-16T23:47:31.000Z",
    "hn": {
     "id": "50126312",
-    "points": 300,
-    "comments": 76
+    "points": 349,
+    "comments": 89
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -330,8 +482,8 @@
    "publishedAt": "2026-10-16T23:38:27.000Z",
    "hn": {
     "id": "50126253",
-    "points": 485,
-    "comments": 105
+    "points": 539,
+    "comments": 115
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -343,7 +495,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-18T10:35:11.525Z",
-   "score": 71,
+   "score": 227,
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
   {
@@ -354,7 +506,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-18T03:03:36.932Z",
-   "score": 26,
+   "score": 37,
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
   {
@@ -367,8 +519,8 @@
    "publishedAt": "2026-10-17T18:01:41.000Z",
    "hn": {
     "id": "50133401",
-    "points": 883,
-    "comments": 165
+    "points": 940,
+    "comments": 174
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
@@ -382,8 +534,8 @@
    "publishedAt": "2026-10-17T14:01:01.000Z",
    "hn": {
     "id": "50131256",
-    "points": 633,
-    "comments": 402
+    "points": 670,
+    "comments": 431
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
@@ -397,7 +549,7 @@
    "publishedAt": "2026-10-17T08:37:46.000Z",
    "hn": {
     "id": "50129121",
-    "points": 514,
+    "points": 518,
     "comments": 5
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
@@ -412,8 +564,8 @@
    "publishedAt": "2026-10-17T08:21:25.000Z",
    "hn": {
     "id": "50129045",
-    "points": 893,
-    "comments": 671
+    "points": 934,
+    "comments": 704
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
@@ -427,7 +579,7 @@
    "publishedAt": "2026-10-17T02:21:08.000Z",
    "hn": {
     "id": "50127274",
-    "points": 368,
+    "points": 372,
     "comments": 255
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
@@ -440,7 +592,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-17T12:17:20.307Z",
-   "score": 22,
+   "score": 23,
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
   {
@@ -451,7 +603,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-17T16:13:32.076Z",
-   "score": 23,
+   "score": 33,
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
   {
@@ -3224,180 +3376,6 @@
    "publishedAt": "2026-10-10T23:25:51.517Z",
    "score": 10,
    "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "e96b8175ab18",
-   "title": "Bot traffic from Yandex",
-   "url": "https://radar.cloudflare.com/bots/as13238?dateRange=7d",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T10:27:53.000Z",
-   "hn": {
-    "id": "50041619",
-    "points": 647,
-    "comments": 256
-   },
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "17c1930c7030",
-   "title": "3rd Yandex Cloud Data Center Was Hit",
-   "url": "https://status.yandex.cloud/en/incidents/2136",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T07:34:45.000Z",
-   "hn": {
-    "id": "50040547",
-    "points": 625,
-    "comments": 771
-   },
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "83056d7cecd2",
-   "title": "Build your own decision model",
-   "url": "https://nishtahir.com/build-your-own-decision-model/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-10T22:50:10.000Z",
-   "hn": {
-    "id": "50037949",
-    "points": 466,
-    "comments": 104
-   },
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "a819440e24a0",
-   "title": "A city-building game in which the city would prefer you didn't",
-   "url": "https://housing.over.pizza/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-10T20:31:50.000Z",
-   "hn": {
-    "id": "50036864",
-    "points": 541,
-    "comments": 193
-   },
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "6b75dae75d97",
-   "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-   "url": "https://github.com/rociiu/talorys",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-10T10:52:09.000Z",
-   "hn": {
-    "id": "50031614",
-    "points": 321,
-    "comments": 149
-   },
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "306b6f13d8b4",
-   "title": "What's Wrong with GitHub",
-   "url": "https://www.gnu.org/philosophy/whats-wrong-with-github.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T09:37:56.100Z",
-   "score": 56,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "1c7d174bb345",
-   "title": "How big is a Git commit?",
-   "url": "https://ratfactor.com/cards/git-commit-size",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T09:25:42.986Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "9a194e420d02",
-   "title": "How shredding JSON is giving Logfire 1000x query speedups",
-   "url": "https://pydantic.dev/articles/dynamic-shredding-2026-01-26",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T06:16:26.688Z",
-   "score": 20,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "3bb426d94805",
-   "title": "I'm still around.. I'm just not writing here",
-   "url": "https://rachelbythebay.com/w/2026/10/08/idle/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T14:44:03.386Z",
-   "score": 183,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "5507ca425e8d",
-   "title": "Inside a 1980s filter chip that uses switched capacitors",
-   "url": "http://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T21:28:51.816Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "b0bcecc5d2a1",
-   "title": "Kiesel Devlog #15: Release 0.4.0",
-   "url": "https://linus.dev/posts/kiesel-devlog-15/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T17:55:46.216Z",
-   "score": 20,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "812820468dfa",
-   "title": "The 2D physics prototype behind GTA’s vehicles",
-   "url": "https://patkerr.co.uk/2d-vehicles/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T21:06:15.264Z",
-   "score": 19,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "f1176f8be9da",
-   "title": "Why 'externalized' proofs of cyclic trait impls does not work",
-   "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/10/modular-vs-external-proofs/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T16:56:48.129Z",
-   "score": 16,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "5ef62badd275",
-   "title": "SNTPings, draw on a canvas using ICMPv6",
-   "url": "https://pings.utwente.io/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T17:05:41.253Z",
-   "score": 13,
-   "firstSeenAt": "2026-10-11T15:32:27.009Z"
   }
  ]
 }
