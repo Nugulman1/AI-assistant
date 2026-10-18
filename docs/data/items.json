@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-17T22:56:50.655Z",
+ "generatedAt": "2026-10-18T13:09:09.528Z",
  "items": [
   {
    "id": "32a34d991661",
@@ -48,8 +48,8 @@
    "firstSeenAt": "2026-10-15T23:35:08.558Z",
    "hn": {
     "id": "50120224",
-    "points": 316,
-    "comments": 207
+    "points": 323,
+    "comments": 213
    }
   },
   {
@@ -201,21 +201,161 @@
    }
   },
   {
-   "id": "41f66d0af92e",
-   "title": "The Lightbulb Computer: Reimagining Spatial & Ambient Computing with Projectors",
-   "url": "https://lightbulbcomputer.com/",
+   "id": "758072d376d6",
+   "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+   "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-10T04:12:26.000Z",
-   "score": 68,
-   "firstSeenAt": "2026-10-11T00:09:23.428Z",
+   "publishedAt": "2026-10-18T01:18:50.000Z",
    "hn": {
-    "id": "50029487",
-    "points": 575,
-    "comments": 94
-   }
+    "id": "50136881",
+    "points": 512,
+    "comments": 306
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "1b57e911f336",
+   "title": "NY announces game ownership bill requiring ownership rather than licensing",
+   "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-18T00:14:22.000Z",
+   "hn": {
+    "id": "50136536",
+    "points": 343,
+    "comments": 135
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "d8b1ba92a938",
+   "title": "Gold is now the top U.S. export",
+   "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T17:06:07.000Z",
+   "hn": {
+    "id": "50132870",
+    "points": 359,
+    "comments": 200
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "5ce71835625a",
+   "title": "Pele – Mermaid diagrams as themeable SVG",
+   "url": "https://pele.run/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T15:55:09.000Z",
+   "hn": {
+    "id": "50132193",
+    "points": 481,
+    "comments": 41
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "63f0975b0b47",
+   "title": "Making chicken transparent using Dorito dust",
+   "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T13:55:28.000Z",
+   "hn": {
+    "id": "50131213",
+    "points": 321,
+    "comments": 83
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "5168446cc58e",
+   "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
+   "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T10:59:31.000Z",
+   "hn": {
+    "id": "50129947",
+    "points": 310,
+    "comments": 50
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "1557ed18b567",
+   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+   "url": "https://llmspeed.dev/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-17T04:36:53.000Z",
+   "hn": {
+    "id": "50127979",
+    "points": 308,
+    "comments": 85
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "06d2ea4b5b7d",
+   "title": "Dam removals are bringing fish back across the northeastern United States",
+   "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-16T23:47:31.000Z",
+   "hn": {
+    "id": "50126312",
+    "points": 300,
+    "comments": 76
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "f8b040014d2e",
+   "title": "Bleached corals thrive within days when touching healthy neighbour",
+   "url": "https://www.nature.com/articles/d41586-026-03266-x",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-16T23:38:27.000Z",
+   "hn": {
+    "id": "50126253",
+    "points": 485,
+    "comments": 105
+   },
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "843355187353",
+   "title": "It's enough - vibecoding tag crossed from useless to harmful",
+   "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T10:35:11.525Z",
+   "score": 71,
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
+  },
+  {
+   "id": "1123defc000a",
+   "title": "The Brain Sandwich",
+   "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T03:03:36.932Z",
+   "score": 26,
+   "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
   {
    "id": "49b49c1c440e",
@@ -227,8 +367,8 @@
    "publishedAt": "2026-10-17T18:01:41.000Z",
    "hn": {
     "id": "50133401",
-    "points": 645,
-    "comments": 103
+    "points": 883,
+    "comments": 165
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
@@ -242,8 +382,8 @@
    "publishedAt": "2026-10-17T14:01:01.000Z",
    "hn": {
     "id": "50131256",
-    "points": 436,
-    "comments": 281
+    "points": 633,
+    "comments": 402
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
@@ -257,7 +397,7 @@
    "publishedAt": "2026-10-17T08:37:46.000Z",
    "hn": {
     "id": "50129121",
-    "points": 511,
+    "points": 514,
     "comments": 5
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
@@ -272,8 +412,8 @@
    "publishedAt": "2026-10-17T08:21:25.000Z",
    "hn": {
     "id": "50129045",
-    "points": 639,
-    "comments": 543
+    "points": 893,
+    "comments": 671
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
@@ -287,8 +427,8 @@
    "publishedAt": "2026-10-17T02:21:08.000Z",
    "hn": {
     "id": "50127274",
-    "points": 354,
-    "comments": 243
+    "points": 368,
+    "comments": 255
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
@@ -300,7 +440,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-17T12:17:20.307Z",
-   "score": 18,
+   "score": 22,
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
   {
@@ -311,7 +451,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-17T16:13:32.076Z",
-   "score": 11,
+   "score": 23,
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
   {
@@ -322,7 +462,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T23:53:05.634Z",
-   "score": 15,
+   "score": 18,
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
   {
@@ -356,8 +496,8 @@
    "publishedAt": "2026-10-16T19:04:47.000Z",
    "hn": {
     "id": "50122951",
-    "points": 454,
-    "comments": 444
+    "points": 462,
+    "comments": 465
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -371,8 +511,8 @@
    "publishedAt": "2026-10-16T19:01:17.000Z",
    "hn": {
     "id": "50122878",
-    "points": 474,
-    "comments": 109
+    "points": 583,
+    "comments": 131
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -386,7 +526,7 @@
    "publishedAt": "2026-10-16T18:32:35.000Z",
    "hn": {
     "id": "50122431",
-    "points": 365,
+    "points": 368,
     "comments": 85
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
@@ -416,8 +556,8 @@
    "publishedAt": "2026-10-16T13:43:48.000Z",
    "hn": {
     "id": "50118320",
-    "points": 359,
-    "comments": 193
+    "points": 363,
+    "comments": 205
    },
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
@@ -444,7 +584,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-17T01:12:09.772Z",
-   "score": 22,
+   "score": 28,
    "firstSeenAt": "2026-10-17T12:53:19.785Z"
   },
   {
@@ -488,8 +628,8 @@
    "publishedAt": "2026-10-16T18:55:59.000Z",
    "hn": {
     "id": "50122800",
-    "points": 1017,
-    "comments": 373
+    "points": 1041,
+    "comments": 383
    },
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
@@ -503,8 +643,8 @@
    "publishedAt": "2026-10-16T17:08:38.000Z",
    "hn": {
     "id": "50121179",
-    "points": 592,
-    "comments": 536
+    "points": 611,
+    "comments": 554
    },
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
@@ -531,7 +671,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T20:18:36.306Z",
-   "score": 99,
+   "score": 120,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -542,7 +682,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T16:36:29.493Z",
-   "score": 45,
+   "score": 51,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -586,7 +726,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T18:54:16.019Z",
-   "score": 38,
+   "score": 40,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -608,7 +748,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-16T18:25:15.354Z",
-   "score": 26,
+   "score": 28,
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
   },
   {
@@ -3258,73 +3398,6 @@
    "publishedAt": "2026-10-10T17:05:41.253Z",
    "score": 13,
    "firstSeenAt": "2026-10-11T15:32:27.009Z"
-  },
-  {
-   "id": "77a6fe42b025",
-   "title": "Bitwarden Dual License Model",
-   "url": "https://community.bitwarden.com/t/published-version-update-in-app-stores/102750",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-10T14:32:50.000Z",
-   "hn": {
-    "id": "50033407",
-    "points": 394,
-    "comments": 299
-   },
-   "firstSeenAt": "2026-10-11T00:09:23.428Z"
-  },
-  {
-   "id": "3d9270bdc4bb",
-   "title": "`123456' password used in Danish CPR data breach",
-   "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-10T09:51:49.000Z",
-   "hn": {
-    "id": "50031269",
-    "points": 404,
-    "comments": 215
-   },
-   "firstSeenAt": "2026-10-11T00:09:23.428Z"
-  },
-  {
-   "id": "19faa179f05c",
-   "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
-   "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-10T03:02:47.000Z",
-   "hn": {
-    "id": "50029123",
-    "points": 460,
-    "comments": 313
-   },
-   "firstSeenAt": "2026-10-11T00:09:23.428Z"
-  },
-  {
-   "id": "7a975c8b8f8b",
-   "title": "Iframes that finally fit their content",
-   "url": "https://alfy.blog/2026/10/09/iframe-that-finally-fit-their-content.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T12:54:56.199Z",
-   "score": 31,
-   "firstSeenAt": "2026-10-11T00:09:23.428Z"
-  },
-  {
-   "id": "e213041b6c31",
-   "title": "Lifeguard: A static analyzer for Python lazy imports compatibility",
-   "url": "https://github.com/Facebook/lifeguard",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-09T21:44:50.573Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-11T00:09:23.428Z"
   }
  ]
 }
