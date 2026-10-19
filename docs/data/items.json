@@ -1,6 +1,40 @@
 {
- "generatedAt": "2026-10-18T22:52:31.818Z",
+ "generatedAt": "2026-10-19T16:24:02.255Z",
  "items": [
+  {
+   "id": "47822cd9ee46",
+   "title": "Linux 7.3",
+   "url": "https://lwn.net/Articles/1101143/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T07:23:57.000Z",
+   "hn": {
+    "id": "50149392",
+    "points": 502,
+    "comments": 221
+   },
+   "score": 11,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "f39dc488c779",
+   "title": "There's never been a better time to go into math",
+   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-16T20:49:12.465Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-17T22:56:50.655Z",
+   "hn": {
+    "id": "50136150",
+    "points": 492,
+    "comments": 674
+   }
+  },
   {
    "id": "32a34d991661",
    "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
@@ -167,21 +201,241 @@
    "score": 10
   },
   {
-   "id": "8525fe1eeeea",
-   "title": "I'm sorry, but you still have to think",
-   "url": "https://itsallaboutthebit.com/i-am-sorry-but-you-still-have-to-think/",
+   "id": "c187ea7b68bc",
+   "title": "Ousted Savannah police officer gave ICE agent husband access to Flock system",
+   "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T10:45:14.000Z",
+   "hn": {
+    "id": "50150750",
+    "points": 571,
+    "comments": 309
+   },
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "3a11e60ee8cf",
+   "title": "Timestral: Mistral release time-series foundation models",
+   "url": "https://mistral.ai/news/timestral/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T09:59:32.000Z",
+   "hn": {
+    "id": "50150434",
+    "points": 326,
+    "comments": 53
+   },
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "a5bb32320853",
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "url": "https://arxiv.org/abs/2610.18861",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-18T20:48:14.000Z",
+   "hn": {
+    "id": "50145337",
+    "points": 481,
+    "comments": 226
+   },
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "a709c24b2f05",
+   "title": "Someone behind the software",
+   "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-18T16:32:00.000Z",
+   "hn": {
+    "id": "50142573",
+    "points": 522,
+    "comments": 187
+   },
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "66eb35d524c0",
+   "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+   "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-18T01:38:08.000Z",
+   "hn": {
+    "id": "50136979",
+    "points": 319,
+    "comments": 190
+   },
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "b9f4d6937012",
+   "title": "Updates to site guidelines and AI/LLM tags",
+   "url": "https://lobste.rs/s/h0eate/updates_site_guidelines_ai_llm_tags",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-11T14:29:07.000Z",
-   "hn": {
-    "id": "50043689",
-    "points": 435,
-    "comments": 181
-   },
-   "score": 94,
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
+   "publishedAt": "2026-10-19T01:28:53.196Z",
+   "score": 255,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "2c3a12f2d6af",
+   "title": "What are you doing this week?",
+   "url": "https://lobste.rs/s/vyfegx/what_are_you_doing_this_week",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T12:09:29.138Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "419420d460ec",
+   "title": "Wine ported to OpenBSD",
+   "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T14:44:02.928Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "0af1457be31b",
+   "title": "Tor VPN Beta: What we've learned building our own VPN for Android from scratch",
+   "url": "https://blog.torproject.org/tor-vpn-beta/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T08:27:55.648Z",
+   "score": 20,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "a9ea7591b890",
+   "title": "Beginning of the Ende (a community Deno fork)",
+   "url": "https://blog.webb.page/WM-105",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T08:13:12.526Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "22779267013f",
+   "title": "What the heck is /pkg?",
+   "url": "https://anderegg.ca/2026/10/18/what-the-heck-is-pkg",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T03:26:51.597Z",
+   "score": 22,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "69c2af1b3781",
+   "title": "Superoptimizing an FPU emulator",
+   "url": "https://purplesyringa.moe/blog/superoptimizing-an-fpu-emulator/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T23:51:14.119Z",
+   "score": 32,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "24fa58c5607d",
+   "title": "August in Servo: CSS Grid, text selection, and more",
+   "url": "https://servo.org/blog/2026/10/09/august-in-servo/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T23:05:13.839Z",
+   "score": 39,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "cc9ee611b3b8",
+   "title": "What requirements don't you have?",
+   "url": "https://www.seangoedecke.com/what-requirements-dont-you-have/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T02:59:07.957Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "1e17f6e9fd32",
+   "title": "Inline rendering with document.currentScript",
+   "url": "https://leanrada.com/notes/inline-rendering-currentscript/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T01:02:55.682Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "7f1ffc566162",
+   "title": "Programming Language Fundamentals in Agda",
+   "url": "https://plfa.github.io/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T06:12:44.221Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "92316584eec0",
+   "title": "QML for C & Zig",
+   "url": "https://gist.github.com/rcalixte/d2de5c816fc1de3970cc501b5ae9706e",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-18T19:10:04.091Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "9a7560747adb",
+   "title": "[$] Development statistics for the 7.3 kernel",
+   "url": "https://lwn.net/Articles/1100241/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-19T15:45:24.000Z",
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "bde91a39be71",
+   "title": "[$] Cross-crate forward declarations in Rust",
+   "url": "https://lwn.net/Articles/1099596/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-19T13:50:49.000Z",
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
+  },
+  {
+   "id": "ea6bcd3b0215",
+   "title": "Beyond the patch: Protecting your NetScaler gateway against future vulnerabilities",
+   "url": "https://blog.cloudflare.com/protect-your-netscaler-gateway/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-19T13:00:00.000Z",
+   "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
   {
    "id": "907596fd16fa",
@@ -193,8 +447,8 @@
    "publishedAt": "2026-10-18T16:56:56.000Z",
    "hn": {
     "id": "50142866",
-    "points": 341,
-    "comments": 162
+    "points": 633,
+    "comments": 330
    },
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
@@ -208,8 +462,8 @@
    "publishedAt": "2026-10-18T13:48:48.000Z",
    "hn": {
     "id": "50141076",
-    "points": 311,
-    "comments": 48
+    "points": 436,
+    "comments": 69
    },
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
@@ -223,8 +477,8 @@
    "publishedAt": "2026-10-18T06:50:36.000Z",
    "hn": {
     "id": "50138531",
-    "points": 518,
-    "comments": 249
+    "points": 587,
+    "comments": 274
    },
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
@@ -238,8 +492,8 @@
    "publishedAt": "2026-10-18T03:19:49.000Z",
    "hn": {
     "id": "50137620",
-    "points": 346,
-    "comments": 486
+    "points": 397,
+    "comments": 560
    },
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
@@ -251,7 +505,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-18T12:48:02.112Z",
-   "score": 27,
+   "score": 42,
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
   {
@@ -262,7 +516,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-18T14:29:16.035Z",
-   "score": 24,
+   "score": 42,
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
   {
@@ -273,7 +527,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-18T18:35:01.063Z",
-   "score": 42,
+   "score": 148,
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
   {
@@ -306,7 +560,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-18T18:52:01.341Z",
-   "score": 11,
+   "score": 50,
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
   {
@@ -362,8 +616,8 @@
    "publishedAt": "2026-10-18T01:18:50.000Z",
    "hn": {
     "id": "50136881",
-    "points": 562,
-    "comments": 381
+    "points": 591,
+    "comments": 400
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -377,8 +631,8 @@
    "publishedAt": "2026-10-18T00:14:22.000Z",
    "hn": {
     "id": "50136536",
-    "points": 421,
-    "comments": 192
+    "points": 449,
+    "comments": 216
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -392,8 +646,8 @@
    "publishedAt": "2026-10-17T17:06:07.000Z",
    "hn": {
     "id": "50132870",
-    "points": 402,
-    "comments": 222
+    "points": 419,
+    "comments": 232
    },
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
@@ -495,7 +749,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-18T10:35:11.525Z",
-   "score": 227,
+   "score": 311,
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
   },
   {
@@ -519,8 +773,8 @@
    "publishedAt": "2026-10-17T18:01:41.000Z",
    "hn": {
     "id": "50133401",
-    "points": 940,
-    "comments": 174
+    "points": 965,
+    "comments": 175
    },
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
@@ -615,17 +869,6 @@
    ],
    "publishedAt": "2026-10-16T23:53:05.634Z",
    "score": 18,
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "f39dc488c779",
-   "title": "There's never been a better time to go into math",
-   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T20:49:12.465Z",
-   "score": 10,
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
   },
   {
@@ -3216,166 +3459,6 @@
    ],
    "publishedAt": "2026-10-12T14:44:59.000Z",
    "firstSeenAt": "2026-10-12T18:53:07.636Z"
-  },
-  {
-   "id": "36ee60902c3e",
-   "title": "Total Annihilation, rebuilt for modern computers",
-   "url": "https://nanolathe.gg",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T18:04:47.000Z",
-   "hn": {
-    "id": "50045984",
-    "points": 684,
-    "comments": 259
-   },
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "58e7dd8bab20",
-   "title": "NYC's \"Click to Cancel\" rule is now in effect",
-   "url": "https://www.nyc.gov/main/click-to-cancel",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T18:01:16.000Z",
-   "hn": {
-    "id": "50045946",
-    "points": 606,
-    "comments": 324
-   },
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "151c25259fbf",
-   "title": "Documents add to evidence in climate deception case against ExxonMobil",
-   "url": "https://insideclimatenews.org/news/07102026/exxonmobil-climate-deception-new-evidence/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T14:28:39.000Z",
-   "hn": {
-    "id": "50043682",
-    "points": 402,
-    "comments": 219
-   },
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "0d8dcb1c8fdb",
-   "title": "Terence Tao: Math 2.0 [pdf]",
-   "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T13:16:45.000Z",
-   "hn": {
-    "id": "50043026",
-    "points": 525,
-    "comments": 526
-   },
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "c6231e302938",
-   "title": "I paid people to try and follow my README",
-   "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T11:47:29.000Z",
-   "hn": {
-    "id": "50042219",
-    "points": 415,
-    "comments": 203
-   },
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "29a713409ba7",
-   "title": "Nitter: Update Oct 10th seeking funding and legal help",
-   "url": "https://nitter.net",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T10:37:55.000Z",
-   "hn": {
-    "id": "50041682",
-    "points": 470,
-    "comments": 247
-   },
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "29ba07e2cb1a",
-   "title": "IRCv3",
-   "url": "https://ircv3.net/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-11T10:11:27.000Z",
-   "hn": {
-    "id": "50041540",
-    "points": 406,
-    "comments": 347
-   },
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "cbcb25b63dc0",
-   "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-   "url": "https://verdagon.dev/blog/valen-group-borrowing",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T12:23:01.029Z",
-   "score": 33,
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "83c499900268",
-   "title": "Arena Allocators in C",
-   "url": "https://eliasebner.com/blog/guides/arena-allocators-in-c/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T16:59:58.126Z",
-   "score": 31,
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "bc2c26be8e0a",
-   "title": "D-Bus Hell",
-   "url": "https://dbushell.com/2026/10/11/d-bus-hell/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T20:36:07.477Z",
-   "score": 112,
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "22016dd971a8",
-   "title": "Consistency is not a localized property",
-   "url": "https://n-the-loop.com/blog/consistency-is-not-a-localized-property/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-11T00:51:28.569Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
-  },
-  {
-   "id": "601610967506",
-   "title": "Making np.searchsorted up to 25× Faster in NumPy 2.5",
-   "url": "https://blog.scientific-python.org/numpy/searchsorted/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-10T23:25:51.517Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-12T00:18:46.754Z"
   }
  ]
 }
