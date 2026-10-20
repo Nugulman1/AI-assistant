@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-10-20T00:09:00.121Z",
+ "generatedAt": "2026-10-20T14:14:36.670Z",
  "items": [
+  {
+   "id": "8e87036d11b5",
+   "title": "OpenBSD 8.0",
+   "url": "https://www.openbsd.org/80.html",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-20T01:46:00.374Z",
+   "hn": {
+    "id": "50160494",
+    "points": 393,
+    "comments": 124
+   },
+   "score": 75,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
   {
    "id": "47822cd9ee46",
    "title": "Linux 7.3",
@@ -12,10 +29,10 @@
    "publishedAt": "2026-10-19T07:23:57.000Z",
    "hn": {
     "id": "50149392",
-    "points": 581,
-    "comments": 275
+    "points": 622,
+    "comments": 288
    },
-   "score": 16,
+   "score": 24,
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
   {
@@ -27,12 +44,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-19T13:35:34.000Z",
-   "score": 79,
+   "score": 107,
    "firstSeenAt": "2026-10-19T16:24:02.255Z",
    "hn": {
     "id": "50152307",
-    "points": 486,
-    "comments": 162
+    "points": 598,
+    "comments": 199
    }
   },
   {
@@ -172,6 +189,265 @@
    "score": 37
   },
   {
+   "id": "4bdf4f7e67ff",
+   "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+   "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-20T09:35:40.000Z",
+   "hn": {
+    "id": "50163502",
+    "points": 316,
+    "comments": 395
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "79e072c52849",
+   "title": "DeepSeek just open-sourced its inference engine",
+   "url": "https://github.com/deepseek-ai/DeepInfer",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-20T09:08:54.000Z",
+   "hn": {
+    "id": "50163277",
+    "points": 1156,
+    "comments": 403
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "efa8c4c666c6",
+   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T23:22:18.000Z",
+   "hn": {
+    "id": "50159341",
+    "points": 617,
+    "comments": 175
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "238f23650b00",
+   "title": "An ad-free Android TV",
+   "url": "https://cretezy.com/2026/ad-free-android-tv",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T22:32:37.000Z",
+   "hn": {
+    "id": "50158942",
+    "points": 312,
+    "comments": 128
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "76a5f3484167",
+   "title": "Android apps running native on macOS",
+   "url": "https://github.com/kksimp/Mac.apk",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T16:45:30.000Z",
+   "hn": {
+    "id": "50154624",
+    "points": 335,
+    "comments": 180
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "203c0f23de8f",
+   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
+   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T16:16:46.000Z",
+   "hn": {
+    "id": "50154244",
+    "points": 423,
+    "comments": 349
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "5c911fea0014",
+   "title": "Ukraine claims first drone evacuation of wounded soldier",
+   "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T15:31:34.000Z",
+   "hn": {
+    "id": "50153664",
+    "points": 371,
+    "comments": 269
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "e7fd8cf2b322",
+   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+   "url": "https://news.ycombinator.com/item?id=50151036",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T11:24:34.000Z",
+   "hn": {
+    "id": "50151036",
+    "points": 539,
+    "comments": 651
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "f9703d624cd0",
+   "title": "Starcraft: Ashfall",
+   "url": "https://starcraft-shooter-2026.pages.dev/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-19T01:18:02.000Z",
+   "hn": {
+    "id": "50147233",
+    "points": 526,
+    "comments": 162
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "f90a2919f8bd",
+   "title": "Nordwand Mono – A monospace font for coders and adventurers",
+   "url": "https://github.com/tywr/Nordwand-Mono",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-18T14:48:01.000Z",
+   "hn": {
+    "id": "50141581",
+    "points": 417,
+    "comments": 121
+   },
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "b8e65b94e56a",
+   "title": "Setting up SSH keys on macOS with Touch ID",
+   "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-20T10:23:58.813Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "6fa82aa505fc",
+   "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
+   "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-20T13:00:50.760Z",
+   "score": 21,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "9a5e68e078ac",
+   "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
+   "url": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-19T20:10:46.398Z",
+   "score": 48,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "47ce42014542",
+   "title": "A Very Fast IPv4 Parser, in Swift",
+   "url": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-20T04:04:43.855Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "dd65d743e8de",
+   "title": "MemT-1.0: Towards Memory-Native Evolution",
+   "url": "https://huggingface.co/papers/2610.26825",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-18T20:00:00.000Z",
+   "score": 135,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "3757b88936ab",
+   "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
+   "url": "https://huggingface.co/papers/2610.26802",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-18T20:00:00.000Z",
+   "score": 130,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "0193eb7bc315",
+   "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
+   "url": "https://huggingface.co/papers/2610.25736",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-18T20:00:00.000Z",
+   "score": 103,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "fc9bd501158f",
+   "title": "Holi-World: Building Holistic World Intelligence from Human-Ego Experience",
+   "url": "https://huggingface.co/papers/2610.26549",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-18T20:00:00.000Z",
+   "score": 83,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "93039c7ec696",
+   "title": "EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience",
+   "url": "https://huggingface.co/papers/2610.26625",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-18T20:00:00.000Z",
+   "score": 74,
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
+   "id": "5e241867830c",
+   "title": "Introducing tsrs: a Port of TypeScript to Rust",
+   "url": "https://blog.cloudflare.com/typescript-rust-port/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-20T13:00:00.000Z",
+   "firstSeenAt": "2026-10-20T14:14:36.670Z"
+  },
+  {
    "id": "98f4bf4049cf",
    "title": "MiniMax M3.1 Flash",
    "url": "https://www.minimax.io/blog/minimax-m31f",
@@ -181,8 +457,8 @@
    "publishedAt": "2026-10-19T16:39:09.000Z",
    "hn": {
     "id": "50154540",
-    "points": 350,
-    "comments": 152
+    "points": 497,
+    "comments": 209
    },
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
@@ -196,8 +472,8 @@
    "publishedAt": "2026-10-19T16:37:10.000Z",
    "hn": {
     "id": "50154518",
-    "points": 413,
-    "comments": 393
+    "points": 491,
+    "comments": 479
    },
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
@@ -211,8 +487,8 @@
    "publishedAt": "2026-10-19T15:28:24.000Z",
    "hn": {
     "id": "50153630",
-    "points": 312,
-    "comments": 56
+    "points": 351,
+    "comments": 59
    },
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
@@ -226,8 +502,8 @@
    "publishedAt": "2026-10-19T11:10:54.000Z",
    "hn": {
     "id": "50150927",
-    "points": 311,
-    "comments": 93
+    "points": 341,
+    "comments": 109
    },
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
@@ -241,8 +517,8 @@
    "publishedAt": "2026-10-19T09:05:07.000Z",
    "hn": {
     "id": "50150089",
-    "points": 350,
-    "comments": 68
+    "points": 619,
+    "comments": 139
    },
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
@@ -254,7 +530,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T15:47:03.949Z",
-   "score": 39,
+   "score": 56,
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
   {
@@ -265,7 +541,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T13:56:50.438Z",
-   "score": 17,
+   "score": 24,
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
   {
@@ -276,7 +552,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T16:42:07.757Z",
-   "score": 25,
+   "score": 68,
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
   {
@@ -287,7 +563,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T18:25:48.327Z",
-   "score": 13,
+   "score": 29,
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
   {
@@ -298,7 +574,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T17:52:41.834Z",
-   "score": 12,
+   "score": 41,
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
   {
@@ -309,7 +585,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T14:03:08.478Z",
-   "score": 12,
+   "score": 19,
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
   {
@@ -331,7 +607,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T13:26:58.823Z",
-   "score": 11,
+   "score": 21,
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
   {
@@ -342,7 +618,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T13:18:26.803Z",
-   "score": 10,
+   "score": 19,
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
   {
@@ -385,8 +661,8 @@
    "publishedAt": "2026-10-19T10:45:14.000Z",
    "hn": {
     "id": "50150750",
-    "points": 624,
-    "comments": 359
+    "points": 644,
+    "comments": 367
    },
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
@@ -400,8 +676,8 @@
    "publishedAt": "2026-10-19T09:59:32.000Z",
    "hn": {
     "id": "50150434",
-    "points": 531,
-    "comments": 98
+    "points": 596,
+    "comments": 115
    },
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
@@ -415,7 +691,7 @@
    "publishedAt": "2026-10-18T20:48:14.000Z",
    "hn": {
     "id": "50145337",
-    "points": 502,
+    "points": 510,
     "comments": 236
    },
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
@@ -430,8 +706,8 @@
    "publishedAt": "2026-10-18T16:32:00.000Z",
    "hn": {
     "id": "50142573",
-    "points": 541,
-    "comments": 194
+    "points": 546,
+    "comments": 195
    },
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
@@ -458,7 +734,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T01:28:53.196Z",
-   "score": 314,
+   "score": 338,
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
   {
@@ -469,7 +745,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T12:09:29.138Z",
-   "score": 22,
+   "score": 26,
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
   {
@@ -480,7 +756,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T08:27:55.648Z",
-   "score": 29,
+   "score": 38,
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
   {
@@ -491,7 +767,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T08:13:12.526Z",
-   "score": 29,
+   "score": 38,
    "firstSeenAt": "2026-10-19T16:24:02.255Z"
   },
   {
@@ -611,8 +887,8 @@
    "publishedAt": "2026-10-18T16:56:56.000Z",
    "hn": {
     "id": "50142866",
-    "points": 668,
-    "comments": 348
+    "points": 688,
+    "comments": 357
    },
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
   },
@@ -3239,133 +3515,6 @@
    ],
    "publishedAt": "2026-10-13T16:03:33.000Z",
    "firstSeenAt": "2026-10-13T16:52:05.727Z"
-  },
-  {
-   "id": "6001ee7ed96b",
-   "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-   "url": "https://github.com/openai/codex/issues/48195",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T18:29:04.000Z",
-   "hn": {
-    "id": "50060694",
-    "points": 602,
-    "comments": 292
-   },
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
-  },
-  {
-   "id": "048fcb30e5f3",
-   "title": "AI coding agents generate more code, but not more software",
-   "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T17:14:01.000Z",
-   "hn": {
-    "id": "50059523",
-    "points": 363,
-    "comments": 307
-   },
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
-  },
-  {
-   "id": "31ba1e7c3abd",
-   "title": "Muse Wonder",
-   "url": "https://research.meta.ai/blog/muse-wonder",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T16:48:01.000Z",
-   "hn": {
-    "id": "50059115",
-    "points": 665,
-    "comments": 376
-   },
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
-  },
-  {
-   "id": "4aaf92f254c0",
-   "title": "A Modern Web App in C",
-   "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T16:13:10.000Z",
-   "hn": {
-    "id": "50058528",
-    "points": 701,
-    "comments": 318
-   },
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
-  },
-  {
-   "id": "b6603a0a4aa6",
-   "title": "GLM-Legal",
-   "url": "https://z.ai/blog/glm-legal",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T16:11:45.000Z",
-   "hn": {
-    "id": "50058507",
-    "points": 670,
-    "comments": 360
-   },
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
-  },
-  {
-   "id": "da6fcdba1376",
-   "title": "Why aren't AI companies being charged for hacking?",
-   "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T14:52:37.000Z",
-   "hn": {
-    "id": "50057278",
-    "points": 334,
-    "comments": 367
-   },
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
-  },
-  {
-   "id": "ca43aef1e636",
-   "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-   "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T12:16:42.000Z",
-   "hn": {
-    "id": "50055304",
-    "points": 881,
-    "comments": 982
-   },
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
-  },
-  {
-   "id": "7d9ea7f629fe",
-   "title": "your c is not standard c",
-   "url": "https://sebsite.pw/w/20261012-notstdc.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-12T17:17:18.829Z",
-   "score": 27,
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
-  },
-  {
-   "id": "46c83b7889a4",
-   "title": "Speeding up the Unreal editor by… not using unnecessarily secure hash methods",
-   "url": "https://larstofus.com/2026/10/11/speeding-up-the-unreal-editor-by-not-using-unnecessarily-secure-hash-methods/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-12T18:37:55.759Z",
-   "score": 38,
-   "firstSeenAt": "2026-10-13T02:28:45.933Z"
   }
  ]
 }
