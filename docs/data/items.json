@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-21T14:26:32.698Z",
+ "generatedAt": "2026-10-21T23:56:19.984Z",
  "items": [
   {
    "id": "d549b64b708f",
@@ -12,11 +12,28 @@
    "publishedAt": "2026-10-21T01:47:28.000Z",
    "hn": {
     "id": "50175070",
-    "points": 492,
-    "comments": 205
+    "points": 590,
+    "comments": 261
    },
-   "score": 37,
+   "score": 54,
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "14e022775599",
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T09:08:08.000Z",
+   "hn": {
+    "id": "50177916",
+    "points": 821,
+    "comments": 393
+   },
+   "firstSeenAt": "2026-10-21T14:26:32.698Z",
+   "score": 39
   },
   {
    "id": "621250faf996",
@@ -29,11 +46,28 @@
    "publishedAt": "2026-10-20T13:39:24.000Z",
    "hn": {
     "id": "50166257",
-    "points": 378,
-    "comments": 97
+    "points": 394,
+    "comments": 101
    },
-   "score": 51,
+   "score": 61,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
+  },
+  {
+   "id": "a495c873ee90",
+   "title": "Upcoming Critical PHP Security Release",
+   "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-20T20:15:50.000Z",
+   "score": 175,
+   "firstSeenAt": "2026-10-20T23:41:00.524Z",
+   "hn": {
+    "id": "50172041",
+    "points": 1503,
+    "comments": 649
+   }
   },
   {
    "id": "8e87036d11b5",
@@ -46,8 +80,8 @@
    "publishedAt": "2026-10-20T01:46:00.374Z",
    "hn": {
     "id": "50160494",
-    "points": 479,
-    "comments": 155
+    "points": 485,
+    "comments": 157
    },
    "score": 97,
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
@@ -64,8 +98,8 @@
    "firstSeenAt": "2026-10-20T14:14:36.670Z",
    "hn": {
     "id": "50165953",
-    "points": 424,
-    "comments": 206
+    "points": 428,
+    "comments": 209
    }
   },
   {
@@ -171,53 +205,322 @@
    }
   },
   {
-   "id": "d91ead6950e7",
-   "title": "Anthropic's Scion is heavily inspired by Mononoke",
-   "url": "https://sunshowers.io/posts/anthropic-mononoke/",
-   "sources": [
-    "Lobsters",
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T20:30:54.000Z",
-   "score": 146,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z",
-   "hn": {
-    "id": "50094694",
-    "points": 422,
-    "comments": 158
-   }
-  },
-  {
-   "id": "11184580e621",
-   "title": "What I Self-Host | Aspirational Self Hosting Guide",
-   "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-   "sources": [
-    "Lobsters",
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T15:32:48.892Z",
-   "score": 80,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z",
-   "hn": {
-    "id": "50109715",
-    "points": 647,
-    "comments": 424
-   }
-  },
-  {
-   "id": "14e022775599",
-   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-   "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+   "id": "820bd24a41c4",
+   "title": "Mistral Large 4",
+   "url": "https://mistral.ai/news/mistral-large-4/",
    "sources": [
     "Hacker News"
    ],
-   "publishedAt": "2026-10-21T09:08:08.000Z",
+   "publishedAt": "2026-10-21T19:20:55.000Z",
    "hn": {
-    "id": "50177916",
-    "points": 460,
-    "comments": 209
+    "id": "50186129",
+    "points": 315,
+    "comments": 92
    },
-   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "af5d3897eb07",
+   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T17:45:13.000Z",
+   "hn": {
+    "id": "50184820",
+    "points": 313,
+    "comments": 190
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "bbc988e4da29",
+   "title": "EA is shutting down BioWare",
+   "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T17:29:33.000Z",
+   "hn": {
+    "id": "50184586",
+    "points": 481,
+    "comments": 287
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "2ce3f3251873",
+   "title": "Today's PHP security release, and how we're strengthening security",
+   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T15:48:56.000Z",
+   "hn": {
+    "id": "50182987",
+    "points": 639,
+    "comments": 317
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "744c04908177",
+   "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+   "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T14:01:25.000Z",
+   "hn": {
+    "id": "50181137",
+    "points": 488,
+    "comments": 472
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "764a23f0c296",
+   "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+   "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T14:01:22.000Z",
+   "hn": {
+    "id": "50181136",
+    "points": 353,
+    "comments": 43
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "a0e7a23f62c4",
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T14:00:26.000Z",
+   "hn": {
+    "id": "50181114",
+    "points": 412,
+    "comments": 129
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "11e92edf73fb",
+   "title": "PHP 8.2.35",
+   "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T13:45:33.000Z",
+   "hn": {
+    "id": "50180873",
+    "points": 955,
+    "comments": 529
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "d31a18ead424",
+   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+   "url": "https://www.wiz.io/blog/php2shell-php-rce",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T13:43:19.000Z",
+   "hn": {
+    "id": "50180836",
+    "points": 429,
+    "comments": 171
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "add383da2fc0",
+   "title": "Muse exposes users' personal and business secrets when they share conversations",
+   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T00:45:59.000Z",
+   "hn": {
+    "id": "50174687",
+    "points": 380,
+    "comments": 162
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "fcb3a6125264",
+   "title": "Firefox Local Mode",
+   "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T15:47:59.191Z",
+   "score": 63,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "b4eefe4fa1fe",
+   "title": "zls 0.17.0",
+   "url": "https://zigtools.org/zls/releases/0.17.0/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T15:24:05.938Z",
+   "score": 50,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "82c4c420143e",
+   "title": "Passkeys Attestation Trap",
+   "url": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T18:16:22.533Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "69b1f94cc8f8",
+   "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
+   "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T17:40:17.687Z",
+   "score": 22,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "ca78317f24e4",
+   "title": "Google's Rust Style Guide",
+   "url": "https://google.github.io/styleguide/rustguide.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T19:12:02.416Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "2b570c34e0e6",
+   "title": "Flow Typing, A New Lens on Linearity",
+   "url": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T18:54:02.529Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "be30d9fae60d",
+   "title": "Don't throw it all away: Caching an immediate-mode UI",
+   "url": "https://blickeditor.com/blog/caching-an-immediate-mode-ui",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T17:16:47.888Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "e31bf18aa91a",
+   "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
+   "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T15:53:37.372Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "b12d9d8f2012",
+   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-21T00:00:00.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "2ed22a61b2f1",
+   "title": "Broad access through consistent standards",
+   "url": "https://openai.com/index/broad-access-through-consistent-standards",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T21:00:00.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "4ab93569e260",
+   "title": "How AT&T is rethinking in-house legal work with OpenAI",
+   "url": "https://openai.com/index/att-legal",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T17:00:00.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "d3f519557f32",
+   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T07:00:00.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "b2deaf97c98c",
+   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+   "url": "https://openai.com/index/empowering-cyber-defenders",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T00:00:00.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "6f436e206df6",
+   "title": "[$] Hash-based module integrity for reproducible distributions",
+   "url": "https://lwn.net/Articles/1100026/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-21T16:14:55.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "bcf23d80258f",
+   "title": "[$] Understanding Nix flakes",
+   "url": "https://lwn.net/Articles/1094226/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-21T14:33:54.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
+  },
+  {
+   "id": "28a12ec0950e",
+   "title": "The revised rules of engineering management with Will Larson",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-21T16:58:21.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
    "id": "fe7677b565a8",
@@ -229,8 +532,8 @@
    "publishedAt": "2026-10-21T09:07:49.000Z",
    "hn": {
     "id": "50177911",
-    "points": 538,
-    "comments": 612
+    "points": 611,
+    "comments": 745
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -259,8 +562,8 @@
    "publishedAt": "2026-10-20T17:25:07.000Z",
    "hn": {
     "id": "50169707",
-    "points": 445,
-    "comments": 545
+    "points": 470,
+    "comments": 619
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -274,8 +577,8 @@
    "publishedAt": "2026-10-20T16:40:24.000Z",
    "hn": {
     "id": "50169053",
-    "points": 366,
-    "comments": 79
+    "points": 375,
+    "comments": 89
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -289,8 +592,8 @@
    "publishedAt": "2026-10-20T15:59:06.000Z",
    "hn": {
     "id": "50168357",
-    "points": 300,
-    "comments": 170
+    "points": 317,
+    "comments": 187
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -302,7 +605,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T07:51:20.811Z",
-   "score": 26,
+   "score": 56,
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
@@ -313,7 +616,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T01:01:13.638Z",
-   "score": 24,
+   "score": 33,
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
@@ -324,7 +627,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T07:33:04.463Z",
-   "score": 13,
+   "score": 35,
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
@@ -335,7 +638,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T07:13:16.777Z",
-   "score": 10,
+   "score": 20,
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
@@ -504,8 +807,8 @@
    "publishedAt": "2026-10-20T18:29:09.000Z",
    "hn": {
     "id": "50170593",
-    "points": 862,
-    "comments": 393
+    "points": 906,
+    "comments": 408
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -519,8 +822,8 @@
    "publishedAt": "2026-10-20T16:02:07.000Z",
    "hn": {
     "id": "50168396",
-    "points": 734,
-    "comments": 182
+    "points": 757,
+    "comments": 195
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -534,8 +837,8 @@
    "publishedAt": "2026-10-20T15:06:08.000Z",
    "hn": {
     "id": "50167536",
-    "points": 452,
-    "comments": 394
+    "points": 460,
+    "comments": 401
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -549,8 +852,8 @@
    "publishedAt": "2026-10-20T14:30:31.000Z",
    "hn": {
     "id": "50167028",
-    "points": 408,
-    "comments": 346
+    "points": 416,
+    "comments": 403
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -564,8 +867,8 @@
    "publishedAt": "2026-10-20T13:58:33.000Z",
    "hn": {
     "id": "50166579",
-    "points": 1105,
-    "comments": 424
+    "points": 1195,
+    "comments": 472
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -579,8 +882,8 @@
    "publishedAt": "2026-10-20T13:06:22.000Z",
    "hn": {
     "id": "50165801",
-    "points": 350,
-    "comments": 200
+    "points": 362,
+    "comments": 202
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -594,8 +897,8 @@
    "publishedAt": "2026-10-20T12:17:28.000Z",
    "hn": {
     "id": "50165208",
-    "points": 587,
-    "comments": 286
+    "points": 597,
+    "comments": 293
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -609,8 +912,8 @@
    "publishedAt": "2026-10-20T10:26:02.000Z",
    "hn": {
     "id": "50163961",
-    "points": 395,
-    "comments": 201
+    "points": 400,
+    "comments": 203
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -624,8 +927,8 @@
    "publishedAt": "2026-10-20T06:37:07.000Z",
    "hn": {
     "id": "50162177",
-    "points": 414,
-    "comments": 121
+    "points": 421,
+    "comments": 131
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -637,7 +940,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T13:44:53.025Z",
-   "score": 58,
+   "score": 64,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -670,18 +973,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T17:33:54.484Z",
-   "score": 37,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "a495c873ee90",
-   "title": "Upcoming Critical PHP Security Release",
-   "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T22:23:54.452Z",
-   "score": 123,
+   "score": 44,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -692,7 +984,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T19:47:54.578Z",
-   "score": 40,
+   "score": 55,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -807,8 +1099,8 @@
    "publishedAt": "2026-10-20T09:35:40.000Z",
    "hn": {
     "id": "50163502",
-    "points": 382,
-    "comments": 543
+    "points": 383,
+    "comments": 551
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -822,8 +1114,8 @@
    "publishedAt": "2026-10-20T09:08:54.000Z",
    "hn": {
     "id": "50163277",
-    "points": 2274,
-    "comments": 873
+    "points": 2300,
+    "comments": 881
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -955,7 +1247,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T10:23:58.813Z",
-   "score": 62,
+   "score": 66,
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
   {
@@ -966,7 +1258,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T13:00:50.760Z",
-   "score": 156,
+   "score": 167,
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
   {
@@ -3088,586 +3380,6 @@
    ],
    "publishedAt": "2026-10-15T13:25:00.000Z",
    "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "f133305ad14f",
-   "title": "Things to know when you get cancer – 2026 Edition",
-   "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T19:26:30.000Z",
-   "hn": {
-    "id": "50093568",
-    "points": 1904,
-    "comments": 469
-   },
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "1d15ef475cf5",
-   "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-   "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T17:45:23.000Z",
-   "hn": {
-    "id": "50091788",
-    "points": 944,
-    "comments": 616
-   },
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "91731c3dcfc6",
-   "title": "Google is silently linking your phone number across all signed-in accounts",
-   "url": "https://www.androidauthority.com/google-auto-phone-number-verification-android-3723117/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T16:28:51.000Z",
-   "hn": {
-    "id": "50090349",
-    "points": 511,
-    "comments": 148
-   },
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "e366b32126ed",
-   "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-   "url": "https://prospect.org/2026/10/14/ice-planning-nightmare-domestic-spy-program-ero-one/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T16:24:11.000Z",
-   "hn": {
-    "id": "50090246",
-    "points": 529,
-    "comments": 359
-   },
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "4c6dccd91871",
-   "title": "Passkeys are not a trap",
-   "url": "https://scotthelme.co.uk/passkeys-are-not-a-trap/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T15:15:45.000Z",
-   "hn": {
-    "id": "50088935",
-    "points": 659,
-    "comments": 805
-   },
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "a5c08b97bdcf",
-   "title": "How Amazon pushes up prices all across the Internet",
-   "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T09:28:17.000Z",
-   "hn": {
-    "id": "50084757",
-    "points": 926,
-    "comments": 728
-   },
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "3c2b3e383ed6",
-   "title": "Recreational Programming",
-   "url": "https://www.cphiri.dev/presentations/recreational-programming",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T22:33:33.000Z",
-   "hn": {
-    "id": "50079865",
-    "points": 314,
-    "comments": 157
-   },
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "0f18f4adc968",
-   "title": "Factor 0.102 now available",
-   "url": "https://re.factorcode.org/2026/10/factor-0-102-now-available.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T13:42:39.966Z",
-   "score": 33,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "f4aaef80a28c",
-   "title": "GitLab warns of max severity code execution vulnerability",
-   "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-max-severity-rce-flaw-in-regex-compiler-engine/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T15:55:52.017Z",
-   "score": 31,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "0c06589f24b0",
-   "title": "Awesome Gaming on Linux Without Cheating",
-   "url": "https://onlineservices.epicgames.com/news/introducing-easy-anti-cheat-linux-v2",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T15:13:26.313Z",
-   "score": 30,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "1f9db072441b",
-   "title": "Better HTTP/1 connection reuse",
-   "url": "https://go.dev/blog/http-connection-reuse",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T17:42:56.542Z",
-   "score": 31,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "85ce9ac1d1ce",
-   "title": "My Game's Procedural Dialogue System",
-   "url": "https://www.youtube.com/watch?v=NaW0d7Tghw0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T10:50:19.584Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "90ae55593438",
-   "title": "A UAF turned RCE",
-   "url": "https://daniel.haxx.se/blog/2026/10/14/a-uaf-turned-rce/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T09:44:11.288Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "9a3fda6f691a",
-   "title": "OpenFatigue™ — Open is the new closed",
-   "url": "https://openfatigue.ai/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T11:24:24.996Z",
-   "score": 20,
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "c9ddbc2bb893",
-   "title": "Preparing for the 2026 US midterms",
-   "url": "https://www.anthropic.com/news/2026-us-midterms",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-14T00:00:00.000Z",
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "a0e0fec2c2b5",
-   "title": "Amp puts AI agents to work beyond code with OpenAI models",
-   "url": "https://openai.com/index/amp-beyond-coding",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-14T12:00:00.000Z",
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "24cc989c02db",
-   "title": "SentinelOne cuts malware analysis from weeks to hours",
-   "url": "https://openai.com/index/sentinelone",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-14T12:00:00.000Z",
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "e181547094b0",
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "url": "https://openai.com/index/third-moment-research",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-14T07:00:00.000Z",
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "7d10f0ddfecf",
-   "title": "How Block is building AI-powered security with OpenAI technology",
-   "url": "https://openai.com/index/block-ai-powered-security",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-14T07:00:00.000Z",
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "d99ce6561eba",
-   "title": "Yandex outage: Data shows that instead of going dark, malicious bots went on the move",
-   "url": "https://blog.cloudflare.com/yandex-outage/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-14T20:24:19.000Z",
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "bc6f7d6d13e5",
-   "title": "Uber’s AI infra, from the inside",
-   "url": "https://newsletter.pragmaticengineer.com/p/ubers-ai-infra-from-the-inside",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-10-14T17:06:56.000Z",
-   "firstSeenAt": "2026-10-14T23:46:24.322Z"
-  },
-  {
-   "id": "2f417a4e03ad",
-   "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-   "url": "https://typeof.net/Iosevka/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T08:27:59.000Z",
-   "hn": {
-    "id": "50084240",
-    "points": 738,
-    "comments": 303
-   },
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "de04b7d40683",
-   "title": "AOSP Source Releases Are So Late Developers Disassemble Libraries to Report Bugs",
-   "url": "https://github.com/android/ndk/issues/2260",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T06:18:01.000Z",
-   "hn": {
-    "id": "50083130",
-    "points": 501,
-    "comments": 248
-   },
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "6080ac435cc8",
-   "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-   "url": "https://guitoro.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T19:11:48.000Z",
-   "hn": {
-    "id": "50077020",
-    "points": 563,
-    "comments": 160
-   },
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "e130cfd38603",
-   "title": "I posted to HN, and then my website was flooded with AI bot traffic",
-   "url": "https://www.sammystraus.com/#i-posted-to-hn-and-then-my-website-was-flooded-with-ai-bot-traffic",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T15:25:50.000Z",
-   "hn": {
-    "id": "50073221",
-    "points": 345,
-    "comments": 185
-   },
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "ec2d9401b476",
-   "title": "The United Kingdom generates less electricity per person than in the 1970s",
-   "url": "https://ourworldindata.org/data-insights/electricity-generation-per-person-in-the-united-kingdom-has-fallen-by-a-third-from-its-early-2000s-peak",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T15:12:57.000Z",
-   "hn": {
-    "id": "50072994",
-    "points": 408,
-    "comments": 739
-   },
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "93df11ee8e59",
-   "title": "New Apple TV 4K",
-   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T13:21:35.000Z",
-   "hn": {
-    "id": "50071310",
-    "points": 344,
-    "comments": 639
-   },
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "61514929f532",
-   "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-   "url": "https://blog.character.ai/an-update-on-character-ai/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T07:28:34.000Z",
-   "hn": {
-    "id": "50068036",
-    "points": 331,
-    "comments": 288
-   },
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "a68aa42fc763",
-   "title": "Introducing Firefox Enterprise",
-   "url": "https://blog.mozilla.org/en/firefox/introducing-firefox-enterprise/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T11:06:48.863Z",
-   "score": 128,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "5e14a6272e44",
-   "title": "Fancy Curl Sites",
-   "url": "https://nytpu.com/gemlog/2026-03-18",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T06:24:41.078Z",
-   "score": 57,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "10da73d1a9a6",
-   "title": "Apple: Switch to Safari (from Chrome)",
-   "url": "https://www.apple.com/safari/switch/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T04:18:17.227Z",
-   "score": 28,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "2793aa4874d1",
-   "title": "Plasma 6.8 released (KDE's 30th birthday)",
-   "url": "https://kde.org/announcements/plasma/6/6.8.0/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T11:29:51.369Z",
-   "score": 79,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "1f13b0a2db41",
-   "title": "yet another place where a linux man page is inaccurate",
-   "url": "https://sebsite.pw/w/20261014-initstate.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T11:18:09.977Z",
-   "score": 34,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "c008febdf107",
-   "title": "Compiler bootstrapping depends on more than you might think",
-   "url": "https://utcc.utoronto.ca/~cks/space/blog/programming/CompilerBootstrappingVsOSChanges",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T05:34:22.699Z",
-   "score": 15,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "b7b71d9672b0",
-   "title": "Announcing Lix 2.96 “Bingsu”",
-   "url": "https://lix.systems/blog/2026-10-13-lix-2.96-release/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-13T21:17:07.868Z",
-   "score": 37,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "c5ed40569831",
-   "title": "Easylang: A Simple, Browser-Based Programming Language in the Spirit of the Old Home Computer BASIC",
-   "url": "https://easylang.online/ide",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-13T13:37:44.114Z",
-   "score": 15,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "cc12dbe1714c",
-   "title": "VideoJev: System One Model for Video Understanding and Interaction",
-   "url": "https://huggingface.co/papers/2610.18615",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-12T20:00:00.000Z",
-   "score": 156,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "85d228702b94",
-   "title": "Jeva: System One Models from First Principles",
-   "url": "https://huggingface.co/papers/2610.18773",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-12T20:00:00.000Z",
-   "score": 144,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "10f5a11172cb",
-   "title": "Agent-Reflex: Teaching Language Agents to Act Reflectively",
-   "url": "https://huggingface.co/papers/2610.17953",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-12T20:00:00.000Z",
-   "score": 135,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "a3974fce3e8e",
-   "title": "Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes",
-   "url": "https://huggingface.co/papers/2610.18356",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-12T20:00:00.000Z",
-   "score": 109,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "ea04dfab381b",
-   "title": "AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards",
-   "url": "https://huggingface.co/papers/2610.18860",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-12T20:00:00.000Z",
-   "score": 74,
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "87253efedaff",
-   "title": "Anthropic opens Singapore office and signs MOU with the Government of Singapore",
-   "url": "https://www.anthropic.com/news/singapore-office-opening",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-14T00:00:00.000Z",
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "2f3282e48314",
-   "title": "The EU’s next chapter in AI is agentic",
-   "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-14T00:00:00.000Z",
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "5cb1618c1db5",
-   "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-10-14T02:00:14.000Z",
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "25432b6b093a",
-   "title": "Developing Gemini 4 Argon responsibly and safely",
-   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-10-13T19:43:07.000Z",
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "e61e31f62259",
-   "title": "[$] Collaborating with out-of-tree tracers",
-   "url": "https://lwn.net/Articles/1099300/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-14T13:56:50.000Z",
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "8f35af6ee12f",
-   "title": "[$] GCC development with large-language models",
-   "url": "https://lwn.net/Articles/1098672/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-14T13:13:53.000Z",
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "df5005d2e421",
-   "title": "Inside Hyperdrive: How we solved a rare Hyperdrive MySQL caching bug",
-   "url": "https://blog.cloudflare.com/hyperdrive-mysql/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-14T13:00:00.000Z",
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "a6374274cc17",
-   "title": "Build your slide template",
-   "url": "https://martinfowler.com/articles/never-send-slides/build-your-slide-template.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-10-14T14:20:00.000Z",
-   "firstSeenAt": "2026-10-14T14:27:14.751Z"
   }
  ]
 }
