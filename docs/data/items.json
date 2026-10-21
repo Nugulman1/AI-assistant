@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-10-20T23:41:00.524Z",
+ "generatedAt": "2026-10-21T14:26:32.698Z",
  "items": [
+  {
+   "id": "d549b64b708f",
+   "title": "The Future of CSS",
+   "url": "https://www.joshwcomeau.com/css/interop-2027/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T01:47:28.000Z",
+   "hn": {
+    "id": "50175070",
+    "points": 492,
+    "comments": 205
+   },
+   "score": 37,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
   {
    "id": "621250faf996",
    "title": "How I got over 300 Tor exit nodes removed",
@@ -12,10 +29,10 @@
    "publishedAt": "2026-10-20T13:39:24.000Z",
    "hn": {
     "id": "50166257",
-    "points": 303,
-    "comments": 73
+    "points": 378,
+    "comments": 97
    },
-   "score": 26,
+   "score": 51,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -29,10 +46,10 @@
    "publishedAt": "2026-10-20T01:46:00.374Z",
    "hn": {
     "id": "50160494",
-    "points": 465,
-    "comments": 154
+    "points": 479,
+    "comments": 155
    },
-   "score": 96,
+   "score": 97,
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
   {
@@ -47,8 +64,8 @@
    "firstSeenAt": "2026-10-20T14:14:36.670Z",
    "hn": {
     "id": "50165953",
-    "points": 333,
-    "comments": 150
+    "points": 424,
+    "comments": 206
    }
   },
   {
@@ -77,7 +94,7 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-19T13:35:34.000Z",
-   "score": 119,
+   "score": 122,
    "firstSeenAt": "2026-10-19T16:24:02.255Z",
    "hn": {
     "id": "50152307",
@@ -188,38 +205,294 @@
    }
   },
   {
-   "id": "8c17f1f1ac30",
-   "title": "Redesigning source control at Anthropic",
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "id": "14e022775599",
+   "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+   "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-10-13T15:49:56.000Z",
+   "publishedAt": "2026-10-21T09:08:08.000Z",
    "hn": {
-    "id": "50073633",
-    "points": 881,
-    "comments": 992
+    "id": "50177916",
+    "points": 460,
+    "comments": 209
    },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z",
-   "score": 31
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
-   "id": "80473e5d479b",
-   "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-   "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+   "id": "fe7677b565a8",
+   "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+   "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T09:07:49.000Z",
+   "hn": {
+    "id": "50177911",
+    "points": 538,
+    "comments": 612
+   },
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "428d542adc49",
+   "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+   "url": "https://news-web.php.net/php.announce/509",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-20T20:15:50.000Z",
+   "hn": {
+    "id": "50172041",
+    "points": 1369,
+    "comments": 580
+   },
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "c6afd5cf7a3f",
+   "title": "What shall I teach my son?",
+   "url": "https://stevekrouse.com/ends",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-20T17:25:07.000Z",
+   "hn": {
+    "id": "50169707",
+    "points": 445,
+    "comments": 545
+   },
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "2f990e26e9ae",
+   "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+   "url": "https://github.com/google-pytorch/torch_tpu",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-20T16:40:24.000Z",
+   "hn": {
+    "id": "50169053",
+    "points": 366,
+    "comments": 79
+   },
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "b77bcbccfd34",
+   "title": "Sixteen years after Deepwater Horizon, deep sea life shows few signs of recovery",
+   "url": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-20T15:59:06.000Z",
+   "hn": {
+    "id": "50168357",
+    "points": 300,
+    "comments": 170
+   },
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "780597e35c12",
+   "title": "Unikernels in OCaml",
+   "url": "https://uniker.nl/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-12T10:09:37.000Z",
-   "hn": {
-    "id": "50054092",
-    "points": 385,
-    "comments": 302
-   },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z",
-   "score": 37
+   "publishedAt": "2026-10-21T07:51:20.811Z",
+   "score": 26,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "bc09464e4ea7",
+   "title": "Lobsters NYC Meetup on the 28th of October",
+   "url": "https://lobste.rs/s/73ozwc/lobsters_nyc_meetup_on_28th_october",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T01:01:13.638Z",
+   "score": 24,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "81d724ac667d",
+   "title": "Vector Graphics in Lil",
+   "url": "https://beyondloom.com/blog/vectorgraphics.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T07:33:04.463Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "90a585e5db19",
+   "title": "Firefox security patch tests are now private for at least a week",
+   "url": "https://groups.google.com/a/mozilla.org/g/firefox-dev/c/4I1HSPtVyrI/m/giGra4ZzAQAJ",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T07:13:16.777Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "9f5b4cad8e5d",
+   "title": "Genera for the Initiated: Inside Symbolics Lisp Machines",
+   "url": "https://www.youtube.com/watch?v=W2fGKjFoaOg",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-20T18:16:48.235Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "5854192850a6",
+   "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
+   "url": "https://huggingface.co/papers/2610.27999",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-19T20:00:00.000Z",
+   "score": 172,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "8aa655ef69a9",
+   "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking",
+   "url": "https://huggingface.co/papers/2610.27628",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-19T20:00:00.000Z",
+   "score": 146,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "521f0639d354",
+   "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent",
+   "url": "https://huggingface.co/papers/2610.28354",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-19T20:00:00.000Z",
+   "score": 84,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "3d0e5d00fc60",
+   "title": "Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition",
+   "url": "https://huggingface.co/papers/2610.28578",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-19T20:00:00.000Z",
+   "score": 60,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "8959d75a2316",
+   "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+   "url": "https://huggingface.co/papers/2610.28630",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-19T20:00:00.000Z",
+   "score": 42,
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "74fcf21eca7a",
+   "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+   "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T13:00:00.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "61f4d0141ff3",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T12:00:00.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "edef63b51aed",
+   "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+   "url": "https://openai.com/index/building-chatgpt-ad-stack",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T07:00:00.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "1de8e62ff715",
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T04:50:00.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "a84b6a7bee5c",
+   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+   "url": "https://openai.com/index/terminal-x",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-20T07:00:00.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "eb7286d4ac2e",
+   "title": "Introducing full transaction detection for Cloudflare WAF",
+   "url": "https://blog.cloudflare.com/full-transaction-waf/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-21T14:10:42.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "dedbc374478f",
+   "title": "Cloudflare deploys protections against php2shell vulnerability",
+   "url": "https://blog.cloudflare.com/php-vulnerabilities-waf-protection/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-21T13:56:45.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "50afaf72bfb9",
+   "title": "How Commerce.com and Cloudflare are getting storefronts ready for AI agents",
+   "url": "https://blog.cloudflare.com/webmcp-commerce/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-21T13:00:00.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
+  },
+  {
+   "id": "50744548848c",
+   "title": "Fragments: October 21",
+   "url": "https://martinfowler.com/fragments/2026-10-21.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-10-21T10:51:00.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
    "id": "611fba6e9fe5",
@@ -231,8 +504,8 @@
    "publishedAt": "2026-10-20T18:29:09.000Z",
    "hn": {
     "id": "50170593",
-    "points": 462,
-    "comments": 250
+    "points": 862,
+    "comments": 393
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -246,8 +519,8 @@
    "publishedAt": "2026-10-20T16:02:07.000Z",
    "hn": {
     "id": "50168396",
-    "points": 485,
-    "comments": 133
+    "points": 734,
+    "comments": 182
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -261,8 +534,8 @@
    "publishedAt": "2026-10-20T15:06:08.000Z",
    "hn": {
     "id": "50167536",
-    "points": 401,
-    "comments": 363
+    "points": 452,
+    "comments": 394
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -276,8 +549,8 @@
    "publishedAt": "2026-10-20T14:30:31.000Z",
    "hn": {
     "id": "50167028",
-    "points": 306,
-    "comments": 210
+    "points": 408,
+    "comments": 346
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -291,8 +564,8 @@
    "publishedAt": "2026-10-20T13:58:33.000Z",
    "hn": {
     "id": "50166579",
-    "points": 568,
-    "comments": 301
+    "points": 1105,
+    "comments": 424
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -306,8 +579,8 @@
    "publishedAt": "2026-10-20T13:06:22.000Z",
    "hn": {
     "id": "50165801",
-    "points": 313,
-    "comments": 179
+    "points": 350,
+    "comments": 200
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -321,8 +594,8 @@
    "publishedAt": "2026-10-20T12:17:28.000Z",
    "hn": {
     "id": "50165208",
-    "points": 469,
-    "comments": 245
+    "points": 587,
+    "comments": 286
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -336,8 +609,8 @@
    "publishedAt": "2026-10-20T10:26:02.000Z",
    "hn": {
     "id": "50163961",
-    "points": 313,
-    "comments": 164
+    "points": 395,
+    "comments": 201
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -351,8 +624,8 @@
    "publishedAt": "2026-10-20T06:37:07.000Z",
    "hn": {
     "id": "50162177",
-    "points": 376,
-    "comments": 92
+    "points": 414,
+    "comments": 121
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -364,7 +637,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T13:44:53.025Z",
-   "score": 36,
+   "score": 58,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -375,7 +648,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T15:58:18.278Z",
-   "score": 17,
+   "score": 22,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -386,7 +659,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T13:14:54.849Z",
-   "score": 27,
+   "score": 32,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -397,7 +670,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T17:33:54.484Z",
-   "score": 17,
+   "score": 37,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -408,7 +681,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T22:23:54.452Z",
-   "score": 12,
+   "score": 123,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -419,7 +692,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T19:47:54.578Z",
-   "score": 13,
+   "score": 40,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -430,7 +703,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T20:43:00.615Z",
-   "score": 11,
+   "score": 22,
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
   {
@@ -534,8 +807,8 @@
    "publishedAt": "2026-10-20T09:35:40.000Z",
    "hn": {
     "id": "50163502",
-    "points": 366,
-    "comments": 526
+    "points": 382,
+    "comments": 543
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -549,8 +822,8 @@
    "publishedAt": "2026-10-20T09:08:54.000Z",
    "hn": {
     "id": "50163277",
-    "points": 2093,
-    "comments": 815
+    "points": 2274,
+    "comments": 873
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -564,8 +837,8 @@
    "publishedAt": "2026-10-19T23:22:18.000Z",
    "hn": {
     "id": "50159341",
-    "points": 711,
-    "comments": 207
+    "points": 732,
+    "comments": 211
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -579,8 +852,8 @@
    "publishedAt": "2026-10-19T22:32:37.000Z",
    "hn": {
     "id": "50158942",
-    "points": 383,
-    "comments": 163
+    "points": 421,
+    "comments": 182
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -594,8 +867,8 @@
    "publishedAt": "2026-10-19T16:45:30.000Z",
    "hn": {
     "id": "50154624",
-    "points": 341,
-    "comments": 189
+    "points": 343,
+    "comments": 191
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -609,8 +882,8 @@
    "publishedAt": "2026-10-19T16:16:46.000Z",
    "hn": {
     "id": "50154244",
-    "points": 549,
-    "comments": 500
+    "points": 570,
+    "comments": 526
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -624,8 +897,8 @@
    "publishedAt": "2026-10-19T15:31:34.000Z",
    "hn": {
     "id": "50153664",
-    "points": 403,
-    "comments": 317
+    "points": 415,
+    "comments": 326
    },
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
@@ -682,7 +955,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T10:23:58.813Z",
-   "score": 50,
+   "score": 62,
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
   {
@@ -693,7 +966,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-20T13:00:50.760Z",
-   "score": 114,
+   "score": 156,
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
   {
@@ -704,7 +977,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-19T20:10:46.398Z",
-   "score": 64,
+   "score": 79,
    "firstSeenAt": "2026-10-20T14:14:36.670Z"
   },
   {
@@ -783,7 +1056,7 @@
    "publishedAt": "2026-10-19T16:39:09.000Z",
    "hn": {
     "id": "50154540",
-    "points": 510,
+    "points": 514,
     "comments": 218
    },
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
@@ -798,8 +1071,8 @@
    "publishedAt": "2026-10-19T16:37:10.000Z",
    "hn": {
     "id": "50154518",
-    "points": 503,
-    "comments": 496
+    "points": 511,
+    "comments": 508
    },
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
@@ -813,8 +1086,8 @@
    "publishedAt": "2026-10-19T15:28:24.000Z",
    "hn": {
     "id": "50153630",
-    "points": 355,
-    "comments": 60
+    "points": 359,
+    "comments": 61
    },
    "firstSeenAt": "2026-10-20T00:09:00.121Z"
   },
@@ -3395,127 +3668,6 @@
    ],
    "publishedAt": "2026-10-14T14:20:00.000Z",
    "firstSeenAt": "2026-10-14T14:27:14.751Z"
-  },
-  {
-   "id": "a8983c3740ba",
-   "title": "OpenAI engineer arrested in bugging of executive conference room",
-   "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T20:23:55.000Z",
-   "hn": {
-    "id": "50078141",
-    "points": 650,
-    "comments": 539
-   },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "d1f8258ec212",
-   "title": "Gemini 4 Argon",
-   "url": "https://deepmind.google/models/gemini/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T16:03:16.000Z",
-   "hn": {
-    "id": "50073879",
-    "points": 1452,
-    "comments": 1031
-   },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "2f666443dc29",
-   "title": "Thunderbird for iOS",
-   "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T15:07:37.000Z",
-   "hn": {
-    "id": "50072913",
-    "points": 461,
-    "comments": 213
-   },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "994797c2417f",
-   "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-   "url": "https://eg2.haku.sh/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T11:27:14.000Z",
-   "hn": {
-    "id": "50069971",
-    "points": 425,
-    "comments": 94
-   },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "b62aaad55d38",
-   "title": "Hittite royal archive found in Turkey",
-   "url": "https://www.thehistoryblog.com/archives/77107",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-13T06:02:51.000Z",
-   "hn": {
-    "id": "50067414",
-    "points": 381,
-    "comments": 97
-   },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "657a150f08e4",
-   "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-   "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-12T21:35:35.000Z",
-   "hn": {
-    "id": "50063365",
-    "points": 306,
-    "comments": 177
-   },
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "411a156b713b",
-   "title": "Faster Fourier Transforms",
-   "url": "https://www.argmin.net/p/faster-fourier-transforms",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-13T10:01:31.157Z",
-   "score": 11,
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "ffc748cb8d88",
-   "title": "Higgsfield takes AI video from 1 minute to over 10",
-   "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-13T12:00:00.000Z",
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
-  },
-  {
-   "id": "a4d9a872c8b7",
-   "title": "[$] KDE Linux at two",
-   "url": "https://lwn.net/Articles/1099486/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-13T17:21:14.000Z",
-   "firstSeenAt": "2026-10-14T00:12:10.414Z"
   }
  ]
 }
