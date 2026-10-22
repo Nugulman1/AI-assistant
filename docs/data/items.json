@@ -1,6 +1,103 @@
 {
- "generatedAt": "2026-10-21T23:56:19.984Z",
+ "generatedAt": "2026-10-22T14:27:58.878Z",
  "items": [
+  {
+   "id": "49bb51281ca6",
+   "title": "Jailbreaking the Switch 2",
+   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T08:01:52.000Z",
+   "hn": {
+    "id": "50192536",
+    "points": 335,
+    "comments": 120
+   },
+   "score": 15,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "5699ea0146a9",
+   "title": "Security Disclosure",
+   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T21:58:03.000Z",
+   "hn": {
+    "id": "50188228",
+    "points": 532,
+    "comments": 307
+   },
+   "score": 18,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "7cd25ce54ea6",
+   "title": "GitLab critical patch release",
+   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T19:01:12.000Z",
+   "hn": {
+    "id": "50185869",
+    "points": 379,
+    "comments": 87
+   },
+   "score": 15,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "a0e7a23f62c4",
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T14:00:26.000Z",
+   "hn": {
+    "id": "50181114",
+    "points": 563,
+    "comments": 183
+   },
+   "firstSeenAt": "2026-10-21T23:56:19.984Z",
+   "score": 11
+  },
+  {
+   "id": "ca78317f24e4",
+   "title": "Google's Rust Style Guide",
+   "url": "https://google.github.io/styleguide/rustguide.html",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T19:11:57.000Z",
+   "score": 40,
+   "firstSeenAt": "2026-10-21T23:56:19.984Z",
+   "hn": {
+    "id": "50186010",
+    "points": 344,
+    "comments": 204
+   }
+  },
+  {
+   "id": "bcf23d80258f",
+   "title": "[$] Understanding Nix flakes",
+   "url": "https://lwn.net/Articles/1094226/",
+   "sources": [
+    "LWN",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-21T14:33:54.000Z",
+   "firstSeenAt": "2026-10-21T23:56:19.984Z",
+   "score": 21
+  },
   {
    "id": "d549b64b708f",
    "title": "The Future of CSS",
@@ -12,10 +109,10 @@
    "publishedAt": "2026-10-21T01:47:28.000Z",
    "hn": {
     "id": "50175070",
-    "points": 590,
-    "comments": 261
+    "points": 615,
+    "comments": 274
    },
-   "score": 54,
+   "score": 62,
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
@@ -29,11 +126,27 @@
    "publishedAt": "2026-10-21T09:08:08.000Z",
    "hn": {
     "id": "50177916",
-    "points": 821,
-    "comments": 393
+    "points": 900,
+    "comments": 438
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z",
-   "score": 39
+   "score": 64
+  },
+  {
+   "id": "61f4d0141ff3",
+   "title": "OpenAI models are coming to Google Cloud",
+   "url": "https://openai.com/index/openai-models-google-cloud",
+   "sources": [
+    "OpenAI",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T12:00:00.000Z",
+   "firstSeenAt": "2026-10-21T14:26:32.698Z",
+   "hn": {
+    "id": "50180079",
+    "points": 315,
+    "comments": 137
+   }
   },
   {
    "id": "621250faf996",
@@ -61,12 +174,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-20T20:15:50.000Z",
-   "score": 175,
+   "score": 191,
    "firstSeenAt": "2026-10-20T23:41:00.524Z",
    "hn": {
     "id": "50172041",
-    "points": 1503,
-    "comments": 649
+    "points": 1536,
+    "comments": 655
    }
   },
   {
@@ -205,6 +318,255 @@
    }
   },
   {
+   "id": "b532d00ad0fc",
+   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T08:51:31.000Z",
+   "hn": {
+    "id": "50192900",
+    "points": 318,
+    "comments": 105
+   },
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "8802a7899044",
+   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T02:18:41.000Z",
+   "hn": {
+    "id": "50190363",
+    "points": 365,
+    "comments": 114
+   },
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "ad2f63999e9a",
+   "title": "mitmproxy adds --emudhra option",
+   "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T23:51:37.000Z",
+   "hn": {
+    "id": "50189232",
+    "points": 546,
+    "comments": 134
+   },
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "aab263018991",
+   "title": "There isn't an easy exploit for this PHP vulnerability",
+   "url": "https://eliastaylor.com/noexploit/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T23:13:27.000Z",
+   "hn": {
+    "id": "50188948",
+    "points": 578,
+    "comments": 373
+   },
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "5dbb54a00540",
+   "title": "Claude Duet",
+   "url": "https://claude.com/product/claude-duet",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-21T19:14:01.000Z",
+   "hn": {
+    "id": "50186037",
+    "points": 471,
+    "comments": 439
+   },
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "978228b9babb",
+   "title": "PingCap TiDB Leaks",
+   "url": "https://fulcrumsec.vg/pingcap/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-20T22:45:39.000Z",
+   "hn": {
+    "id": "50173716",
+    "points": 390,
+    "comments": 66
+   },
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "7ed53aa09f61",
+   "title": "examining the macOS gcc binary",
+   "url": "https://zoey-on-github.github.io/blog/macgcc.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T06:45:58.884Z",
+   "score": 36,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "835c451e1d04",
+   "title": "Using a lookup-table to correct an approximation",
+   "url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T04:18:37.037Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "6b8ad023603d",
+   "title": "Garmin Revamps and Opens Up Connect Developer API Program",
+   "url": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T08:09:55.509Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "1321330de0aa",
+   "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
+   "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T06:15:07.575Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "cead82cd3e76",
+   "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
+   "url": "https://huggingface.co/papers/2610.29997",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-20T20:00:00.000Z",
+   "score": 99,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "0f7eabbb925d",
+   "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
+   "url": "https://huggingface.co/papers/2610.29989",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-20T20:00:00.000Z",
+   "score": 65,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "5bc547459da2",
+   "title": "Retrieval Augmented Generation Compositionality",
+   "url": "https://huggingface.co/papers/2610.29722",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-20T20:00:00.000Z",
+   "score": 21,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "4c5892041ccf",
+   "title": "Memory-Centric Continual Learning for AI Agents",
+   "url": "https://huggingface.co/papers/2610.29357",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-20T20:00:00.000Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "4daaac9c4523",
+   "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+   "url": "https://huggingface.co/papers/2610.30108",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-20T20:00:00.000Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "63c31ca523f9",
+   "title": "What FDE means at OpenAI",
+   "url": "https://openai.com/index/forward-deployed-engineering-means",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-22T06:00:00.000Z",
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "9201054eeb4c",
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-21T00:00:00.000Z",
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "ced24a2d2b47",
+   "title": "[$] Rust features in the future",
+   "url": "https://lwn.net/Articles/1099606/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-22T13:19:56.000Z",
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "2d88ca7bd0f8",
+   "title": "[$] LWN.net Weekly Edition for October 22, 2026",
+   "url": "https://lwn.net/Articles/1100612/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-22T00:29:22.000Z",
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "8021cc12e6d8",
+   "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
+   "url": "https://blog.cloudflare.com/k-isms/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-22T13:00:00.000Z",
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
+   "id": "c4f0d40ba70c",
+   "title": "The Pulse: Time to rethink software security because of AI?",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-22T14:08:21.000Z",
+   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+  },
+  {
    "id": "820bd24a41c4",
    "title": "Mistral Large 4",
    "url": "https://mistral.ai/news/mistral-large-4/",
@@ -214,8 +576,8 @@
    "publishedAt": "2026-10-21T19:20:55.000Z",
    "hn": {
     "id": "50186129",
-    "points": 315,
-    "comments": 92
+    "points": 322,
+    "comments": 100
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -229,8 +591,8 @@
    "publishedAt": "2026-10-21T17:45:13.000Z",
    "hn": {
     "id": "50184820",
-    "points": 313,
-    "comments": 190
+    "points": 619,
+    "comments": 358
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -244,8 +606,8 @@
    "publishedAt": "2026-10-21T17:29:33.000Z",
    "hn": {
     "id": "50184586",
-    "points": 481,
-    "comments": 287
+    "points": 653,
+    "comments": 431
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -259,8 +621,8 @@
    "publishedAt": "2026-10-21T15:48:56.000Z",
    "hn": {
     "id": "50182987",
-    "points": 639,
-    "comments": 317
+    "points": 768,
+    "comments": 383
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -274,8 +636,8 @@
    "publishedAt": "2026-10-21T14:01:25.000Z",
    "hn": {
     "id": "50181137",
-    "points": 488,
-    "comments": 472
+    "points": 518,
+    "comments": 511
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -289,23 +651,8 @@
    "publishedAt": "2026-10-21T14:01:22.000Z",
    "hn": {
     "id": "50181136",
-    "points": 353,
-    "comments": 43
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "a0e7a23f62c4",
-   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T14:00:26.000Z",
-   "hn": {
-    "id": "50181114",
-    "points": 412,
-    "comments": 129
+    "points": 443,
+    "comments": 61
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -319,8 +666,8 @@
    "publishedAt": "2026-10-21T13:45:33.000Z",
    "hn": {
     "id": "50180873",
-    "points": 955,
-    "comments": 529
+    "points": 1053,
+    "comments": 553
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -334,8 +681,8 @@
    "publishedAt": "2026-10-21T13:43:19.000Z",
    "hn": {
     "id": "50180836",
-    "points": 429,
-    "comments": 171
+    "points": 443,
+    "comments": 183
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -349,8 +696,8 @@
    "publishedAt": "2026-10-21T00:45:59.000Z",
    "hn": {
     "id": "50174687",
-    "points": 380,
-    "comments": 162
+    "points": 400,
+    "comments": 173
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -362,7 +709,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T15:47:59.191Z",
-   "score": 63,
+   "score": 119,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -373,7 +720,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T15:24:05.938Z",
-   "score": 50,
+   "score": 67,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -384,7 +731,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T18:16:22.533Z",
-   "score": 13,
+   "score": 23,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -395,18 +742,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T17:40:17.687Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "ca78317f24e4",
-   "title": "Google's Rust Style Guide",
-   "url": "https://google.github.io/styleguide/rustguide.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T19:12:02.416Z",
-   "score": 16,
+   "score": 39,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -417,7 +753,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T18:54:02.529Z",
-   "score": 15,
+   "score": 25,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -428,7 +764,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T17:16:47.888Z",
-   "score": 15,
+   "score": 32,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -503,16 +839,6 @@
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
-   "id": "bcf23d80258f",
-   "title": "[$] Understanding Nix flakes",
-   "url": "https://lwn.net/Articles/1094226/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-21T14:33:54.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
    "id": "28a12ec0950e",
    "title": "The revised rules of engineering management with Will Larson",
    "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
@@ -532,8 +858,8 @@
    "publishedAt": "2026-10-21T09:07:49.000Z",
    "hn": {
     "id": "50177911",
-    "points": 611,
-    "comments": 745
+    "points": 638,
+    "comments": 793
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -562,8 +888,8 @@
    "publishedAt": "2026-10-20T17:25:07.000Z",
    "hn": {
     "id": "50169707",
-    "points": 470,
-    "comments": 619
+    "points": 480,
+    "comments": 627
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -577,8 +903,8 @@
    "publishedAt": "2026-10-20T16:40:24.000Z",
    "hn": {
     "id": "50169053",
-    "points": 375,
-    "comments": 89
+    "points": 378,
+    "comments": 90
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -592,8 +918,8 @@
    "publishedAt": "2026-10-20T15:59:06.000Z",
    "hn": {
     "id": "50168357",
-    "points": 317,
-    "comments": 187
+    "points": 318,
+    "comments": 192
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -605,7 +931,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T07:51:20.811Z",
-   "score": 56,
+   "score": 61,
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
@@ -718,16 +1044,6 @@
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
   {
-   "id": "61f4d0141ff3",
-   "title": "OpenAI models are coming to Google Cloud",
-   "url": "https://openai.com/index/openai-models-google-cloud",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-21T12:00:00.000Z",
-   "firstSeenAt": "2026-10-21T14:26:32.698Z"
-  },
-  {
    "id": "edef63b51aed",
    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
    "url": "https://openai.com/index/building-chatgpt-ad-stack",
@@ -807,8 +1123,8 @@
    "publishedAt": "2026-10-20T18:29:09.000Z",
    "hn": {
     "id": "50170593",
-    "points": 906,
-    "comments": 408
+    "points": 919,
+    "comments": 416
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -822,8 +1138,8 @@
    "publishedAt": "2026-10-20T16:02:07.000Z",
    "hn": {
     "id": "50168396",
-    "points": 757,
-    "comments": 195
+    "points": 765,
+    "comments": 199
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -837,7 +1153,7 @@
    "publishedAt": "2026-10-20T15:06:08.000Z",
    "hn": {
     "id": "50167536",
-    "points": 460,
+    "points": 465,
     "comments": 401
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
@@ -852,8 +1168,8 @@
    "publishedAt": "2026-10-20T14:30:31.000Z",
    "hn": {
     "id": "50167028",
-    "points": 416,
-    "comments": 403
+    "points": 418,
+    "comments": 439
    },
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
   },
@@ -3100,286 +3416,6 @@
    ],
    "publishedAt": "2026-10-15T16:55:18.000Z",
    "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "4eb34acacc71",
-   "title": "Tiny Little Office",
-   "url": "https://tinylittleoffice.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T22:10:08.000Z",
-   "hn": {
-    "id": "50096142",
-    "points": 676,
-    "comments": 197
-   },
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "33ee12614553",
-   "title": "We’re releasing Jev 1.14.0 along with experimental features for dreamers",
-   "url": "https://typesafe.ai/blog/jev-1-14",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T21:11:03.000Z",
-   "hn": {
-    "id": "50095353",
-    "points": 330,
-    "comments": 119
-   },
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "7db63d362d92",
-   "title": "OpenCode 2.0",
-   "url": "https://anoma.ly/notes/opencode-2-0/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T20:48:24.000Z",
-   "hn": {
-    "id": "50094994",
-    "points": 868,
-    "comments": 381
-   },
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "bfc7560c5325",
-   "title": "Suicide rates highest ever among middle-aged men",
-   "url": "https://www.telegraph.co.uk/news/2026/10/13/suicide-rates-highest-ever-among-middle-aged-men/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T19:03:58.000Z",
-   "hn": {
-    "id": "50093180",
-    "points": 538,
-    "comments": 763
-   },
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "9a1be9fc3d43",
-   "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-   "url": "https://dpa-international.com/politics/urn:newsml:dpa.com:20090101:261014-930-839530/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T18:37:21.000Z",
-   "hn": {
-    "id": "50092730",
-    "points": 385,
-    "comments": 292
-   },
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "f6cba501345f",
-   "title": "Banks are now trying to offload the AI data center debt they just underwrote",
-   "url": "https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T18:32:52.000Z",
-   "hn": {
-    "id": "50092664",
-    "points": 380,
-    "comments": 276
-   },
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "0fff9d0e9cb3",
-   "title": "Americans' social activity has steeply declined in the past 30 years",
-   "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T16:09:00.000Z",
-   "hn": {
-    "id": "50089921",
-    "points": 571,
-    "comments": 563
-   },
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "247e11116e0f",
-   "title": "Why is every rationalist blog post way too long?",
-   "url": "https://alexwennerberg.com/blog/2026-10-13-long.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-14T06:02:16.000Z",
-   "hn": {
-    "id": "50083028",
-    "points": 413,
-    "comments": 443
-   },
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "8ccb57fa1c99",
-   "title": "Haxy on Haxy",
-   "url": "https://try.haxy.net/haxy:haxy",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T07:58:35.798Z",
-   "score": 51,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "d88827f67227",
-   "title": "Haxy.net is live! — HAXY (git forge) devlog",
-   "url": "https://youtu.be/89yAiqYEwKg",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T07:47:41.027Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "cc198104ac4b",
-   "title": "Fixing C Strings With String Views",
-   "url": "https://eliasebner.com/blog/guides/fixing-strings-in-c/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T21:04:44.342Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "460023e07915",
-   "title": "Furifont: furigana built into the font",
-   "url": "https://furifont.antfu.me/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T05:00:23.277Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "b3858004b1db",
-   "title": "We found a Tencent agent fleet",
-   "url": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-14T20:08:19.956Z",
-   "score": 25,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "69f890d37562",
-   "title": "Player-1: Learning to Play from Synthetic Experience",
-   "url": "https://huggingface.co/papers/2610.20584",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-13T20:00:00.000Z",
-   "score": 144,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "b66e042db7cf",
-   "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
-   "url": "https://huggingface.co/papers/2610.20344",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-13T20:00:00.000Z",
-   "score": 86,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "8df939ac951e",
-   "title": "Cortex: Consolidating Context into Parametric Memory",
-   "url": "https://huggingface.co/papers/2610.20399",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-13T20:00:00.000Z",
-   "score": 57,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "c591fa196b64",
-   "title": "RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios",
-   "url": "https://huggingface.co/papers/2610.19698",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-13T20:00:00.000Z",
-   "score": 55,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "93a8d6f3d933",
-   "title": "ActionOPD: Distilling Decisions, Not Tokens",
-   "url": "https://huggingface.co/papers/2610.19820",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-13T20:00:00.000Z",
-   "score": 46,
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "fa14b8f7db46",
-   "title": "Teaching students to think and learn through questions",
-   "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-15T13:00:00.000Z",
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "40601f57a438",
-   "title": "[$] LWN.net Weekly Edition for October 15, 2026",
-   "url": "https://lwn.net/Articles/1099247/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-15T00:04:00.000Z",
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "a83fbbf7416f",
-   "title": "Deploy with Void",
-   "url": "https://blog.cloudflare.com/deploy-with-void/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-15T14:00:00.000Z",
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "5dbfd745016d",
-   "title": "Cloudflare and OpenAI: making AI discovery better for everyone",
-   "url": "https://blog.cloudflare.com/cloudflare-openai-discovery-agentic-web/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-15T13:00:00.000Z",
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
-  },
-  {
-   "id": "b774389cd364",
-   "title": "When Software Meets Hardware",
-   "url": "https://martinfowler.com/articles/software-meets-hardware.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-10-15T13:25:00.000Z",
-   "firstSeenAt": "2026-10-15T14:05:40.448Z"
   }
  ]
 }
