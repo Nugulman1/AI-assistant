@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-10-22T14:27:58.878Z",
+ "generatedAt": "2026-10-22T23:55:11.271Z",
  "items": [
+  {
+   "id": "d2f362921d45",
+   "title": "Quad9 (DNS Resolver) to Exit France",
+   "url": "https://quad9.net/news/blog/au-revoir-france/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T14:32:38.000Z",
+   "hn": {
+    "id": "50195959",
+    "points": 947,
+    "comments": 343
+   },
+   "score": 23,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
   {
    "id": "49bb51281ca6",
    "title": "Jailbreaking the Switch 2",
@@ -12,10 +29,10 @@
    "publishedAt": "2026-10-22T08:01:52.000Z",
    "hn": {
     "id": "50192536",
-    "points": 335,
-    "comments": 120
+    "points": 691,
+    "comments": 241
    },
-   "score": 15,
+   "score": 39,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -29,10 +46,10 @@
    "publishedAt": "2026-10-21T21:58:03.000Z",
    "hn": {
     "id": "50188228",
-    "points": 532,
-    "comments": 307
+    "points": 586,
+    "comments": 330
    },
-   "score": 18,
+   "score": 24,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -46,8 +63,8 @@
    "publishedAt": "2026-10-21T19:01:12.000Z",
    "hn": {
     "id": "50185869",
-    "points": 379,
-    "comments": 87
+    "points": 404,
+    "comments": 91
    },
    "score": 15,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
@@ -63,8 +80,8 @@
    "publishedAt": "2026-10-21T14:00:26.000Z",
    "hn": {
     "id": "50181114",
-    "points": 563,
-    "comments": 183
+    "points": 587,
+    "comments": 191
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z",
    "score": 11
@@ -78,12 +95,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-21T19:11:57.000Z",
-   "score": 40,
+   "score": 47,
    "firstSeenAt": "2026-10-21T23:56:19.984Z",
    "hn": {
     "id": "50186010",
-    "points": 344,
-    "comments": 204
+    "points": 376,
+    "comments": 247
    }
   },
   {
@@ -96,7 +113,7 @@
    ],
    "publishedAt": "2026-10-21T14:33:54.000Z",
    "firstSeenAt": "2026-10-21T23:56:19.984Z",
-   "score": 21
+   "score": 31
   },
   {
    "id": "d549b64b708f",
@@ -109,8 +126,8 @@
    "publishedAt": "2026-10-21T01:47:28.000Z",
    "hn": {
     "id": "50175070",
-    "points": 615,
-    "comments": 274
+    "points": 617,
+    "comments": 275
    },
    "score": 62,
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
@@ -126,11 +143,11 @@
    "publishedAt": "2026-10-21T09:08:08.000Z",
    "hn": {
     "id": "50177916",
-    "points": 900,
-    "comments": 438
+    "points": 924,
+    "comments": 454
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z",
-   "score": 64
+   "score": 75
   },
   {
    "id": "61f4d0141ff3",
@@ -144,8 +161,8 @@
    "firstSeenAt": "2026-10-21T14:26:32.698Z",
    "hn": {
     "id": "50180079",
-    "points": 315,
-    "comments": 137
+    "points": 322,
+    "comments": 144
    }
   },
   {
@@ -284,38 +301,246 @@
    "score": 14
   },
   {
-   "id": "44e4355d7e2b",
-   "title": "Libreboot 26.10 “Ominous Olive” released with full UEFI support",
-   "url": "https://libreboot.org/news/libreboot2610.html",
+   "id": "a88674578082",
+   "title": "Google cleared 300 hectares of Finnish forest",
+   "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-15T12:52:16.000Z",
-   "score": 11,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z",
+   "publishedAt": "2026-10-22T15:32:46.000Z",
    "hn": {
-    "id": "50102923",
-    "points": 304,
-    "comments": 195
-   }
+    "id": "50196837",
+    "points": 316,
+    "comments": 230
+   },
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
-   "id": "ff9286355f7e",
-   "title": "JPEG XL vs AVIF for web use-cases",
-   "url": "https://jakearchibald.com/2026/jpeg-xl-vs-avif/",
+   "id": "340d69bec786",
+   "title": "Run full iOS 16.5 firmware on Android Devices",
+   "url": "https://github.com/oosexgang/hackios-xnu-kernel",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-15T14:42:45.240Z",
-   "score": 106,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z",
+   "publishedAt": "2026-10-22T15:26:22.000Z",
    "hn": {
-    "id": "50120224",
-    "points": 323,
-    "comments": 213
-   }
+    "id": "50196718",
+    "points": 304,
+    "comments": 117
+   },
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "119838ced547",
+   "title": "What’s getting pwned right now",
+   "url": "https://pwn.watch/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T14:08:12.000Z",
+   "hn": {
+    "id": "50195543",
+    "points": 328,
+    "comments": 152
+   },
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "c857d00b04e6",
+   "title": "eMudhra to exit global SSL/TLS certificate business",
+   "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T13:33:39.000Z",
+   "hn": {
+    "id": "50195110",
+    "points": 905,
+    "comments": 617
+   },
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "183ea55e7b29",
+   "title": "Woman faces six years in prison over Cash App account she never opened",
+   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T13:11:00.000Z",
+   "hn": {
+    "id": "50194833",
+    "points": 433,
+    "comments": 432
+   },
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "f0a7e0798313",
+   "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
+   "url": "https://news.ycombinator.com/item?id=50193416",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T10:11:44.000Z",
+   "hn": {
+    "id": "50193416",
+    "points": 336,
+    "comments": 137
+   },
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "4f2612832168",
+   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T02:30:52.000Z",
+   "hn": {
+    "id": "50190455",
+    "points": 300,
+    "comments": 279
+   },
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "46a214f27141",
+   "title": "Docker is weird",
+   "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T20:09:22.732Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "1fa0e3dfbc85",
+   "title": "Expose only share links of a private service with caddy",
+   "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T16:30:14.409Z",
+   "score": 19,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "1522a8240eb8",
+   "title": "Tell your network to explain itself and then some",
+   "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T12:53:26.774Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "93ca6bf0d823",
+   "title": "Objects, attributes, maps, oh my",
+   "url": "https://bernsteinbear.com/blog/object-shapes/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T17:35:52.914Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "0b0c16219a7d",
+   "title": "I built a garbage collector for Rust (2023)",
+   "url": "https://claytonwramsey.com/blog/dumpster/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T14:49:22.131Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "2ec4480dc247",
+   "title": "Script dependencies with Nix",
+   "url": "https://entropicthoughts.com/python-dependencies-with-nix",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T14:14:04.653Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "60d9e775359b",
+   "title": "What is your opinion on submission quality since the `vibecoding` tag was removed?",
+   "url": "https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T17:56:51.498Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "98d45c75b11c",
+   "title": "Open call for guest investigators in the life sciences",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-22T00:00:00.000Z",
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "86405d6d1e9f",
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-22T00:00:00.000Z",
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "27825e300358",
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-22T19:00:00.000Z",
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "ba6fa07d677a",
+   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-22T00:00:00.000Z",
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "655df0fb22ac",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-10-22T14:30:24.000Z",
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "78c0c159eddc",
+   "title": "[$] The end of __get_user() and __put_user()",
+   "url": "https://lwn.net/Articles/1102061/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-22T16:25:50.000Z",
+   "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
    "id": "b532d00ad0fc",
@@ -327,8 +552,8 @@
    "publishedAt": "2026-10-22T08:51:31.000Z",
    "hn": {
     "id": "50192900",
-    "points": 318,
-    "comments": 105
+    "points": 332,
+    "comments": 118
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -342,8 +567,8 @@
    "publishedAt": "2026-10-22T02:18:41.000Z",
    "hn": {
     "id": "50190363",
-    "points": 365,
-    "comments": 114
+    "points": 493,
+    "comments": 156
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -357,8 +582,8 @@
    "publishedAt": "2026-10-21T23:51:37.000Z",
    "hn": {
     "id": "50189232",
-    "points": 546,
-    "comments": 134
+    "points": 587,
+    "comments": 140
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -372,8 +597,8 @@
    "publishedAt": "2026-10-21T23:13:27.000Z",
    "hn": {
     "id": "50188948",
-    "points": 578,
-    "comments": 373
+    "points": 608,
+    "comments": 439
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -387,8 +612,8 @@
    "publishedAt": "2026-10-21T19:14:01.000Z",
    "hn": {
     "id": "50186037",
-    "points": 471,
-    "comments": 439
+    "points": 545,
+    "comments": 510
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -415,7 +640,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T06:45:58.884Z",
-   "score": 36,
+   "score": 54,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -426,7 +651,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T04:18:37.037Z",
-   "score": 23,
+   "score": 31,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -437,7 +662,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T08:09:55.509Z",
-   "score": 10,
+   "score": 15,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -448,7 +673,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T06:15:07.575Z",
-   "score": 13,
+   "score": 23,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -591,8 +816,8 @@
    "publishedAt": "2026-10-21T17:45:13.000Z",
    "hn": {
     "id": "50184820",
-    "points": 619,
-    "comments": 358
+    "points": 675,
+    "comments": 414
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -606,8 +831,8 @@
    "publishedAt": "2026-10-21T17:29:33.000Z",
    "hn": {
     "id": "50184586",
-    "points": 653,
-    "comments": 431
+    "points": 680,
+    "comments": 458
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -621,8 +846,8 @@
    "publishedAt": "2026-10-21T15:48:56.000Z",
    "hn": {
     "id": "50182987",
-    "points": 768,
-    "comments": 383
+    "points": 797,
+    "comments": 393
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -636,8 +861,8 @@
    "publishedAt": "2026-10-21T14:01:25.000Z",
    "hn": {
     "id": "50181137",
-    "points": 518,
-    "comments": 511
+    "points": 525,
+    "comments": 524
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -651,8 +876,8 @@
    "publishedAt": "2026-10-21T14:01:22.000Z",
    "hn": {
     "id": "50181136",
-    "points": 443,
-    "comments": 61
+    "points": 454,
+    "comments": 62
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -666,8 +891,8 @@
    "publishedAt": "2026-10-21T13:45:33.000Z",
    "hn": {
     "id": "50180873",
-    "points": 1053,
-    "comments": 553
+    "points": 1076,
+    "comments": 558
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -681,8 +906,8 @@
    "publishedAt": "2026-10-21T13:43:19.000Z",
    "hn": {
     "id": "50180836",
-    "points": 443,
-    "comments": 183
+    "points": 446,
+    "comments": 184
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -696,8 +921,8 @@
    "publishedAt": "2026-10-21T00:45:59.000Z",
    "hn": {
     "id": "50174687",
-    "points": 400,
-    "comments": 173
+    "points": 402,
+    "comments": 174
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -709,7 +934,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T15:47:59.191Z",
-   "score": 119,
+   "score": 140,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -720,7 +945,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T15:24:05.938Z",
-   "score": 67,
+   "score": 70,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -731,7 +956,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T18:16:22.533Z",
-   "score": 23,
+   "score": 29,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -742,7 +967,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T17:40:17.687Z",
-   "score": 39,
+   "score": 50,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -858,8 +1083,8 @@
    "publishedAt": "2026-10-21T09:07:49.000Z",
    "hn": {
     "id": "50177911",
-    "points": 638,
-    "comments": 793
+    "points": 646,
+    "comments": 806
    },
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
   },
@@ -3155,267 +3380,6 @@
    ],
    "publishedAt": "2026-10-16T13:00:00.000Z",
    "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "34bf133078de",
-   "title": "Muse Spark Open",
-   "url": "https://research.meta.ai/blog/muse-spark-open",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T17:47:39.000Z",
-   "hn": {
-    "id": "50107379",
-    "points": 910,
-    "comments": 469
-   },
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "bc34be66cc81",
-   "title": "Neural networks are clean",
-   "url": "https://already-clean.goodfire.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T16:04:01.000Z",
-   "hn": {
-    "id": "50105647",
-    "points": 805,
-    "comments": 329
-   },
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "6cb5a4950314",
-   "title": "I know why the mathematicians weep",
-   "url": "https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T13:44:32.000Z",
-   "hn": {
-    "id": "50103630",
-    "points": 390,
-    "comments": 665
-   },
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "8ea001b974fb",
-   "title": "Wayland desktop for Linux with skeuomorphic design",
-   "url": "https://github.com/fyzugx/DEsk",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T13:23:44.000Z",
-   "hn": {
-    "id": "50103338",
-    "points": 686,
-    "comments": 279
-   },
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "2a92bb3524a8",
-   "title": "Online ads weaponised to deliver ‘zero-click’ spyware, researchers say",
-   "url": "https://www.theguardian.com/technology/2026/oct/15/israeli-firm-digital-ads-enabling-installation-of-zero-click-spyware-researchers-say",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T12:58:32.000Z",
-   "hn": {
-    "id": "50103000",
-    "points": 514,
-    "comments": 1
-   },
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "3ce9f7ea5dc3",
-   "title": "AdFection: Targeted ads turned into a pipeline for zero-click mercenary spyware",
-   "url": "https://citizenlab.ca/research/how-discover-tech-turned-targeted-ads-into-a-pipeline-for-spyware/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T10:43:36.000Z",
-   "hn": {
-    "id": "50101813",
-    "points": 496,
-    "comments": 661
-   },
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "000ea8a4778d",
-   "title": "Sunsetting decomp.dev",
-   "url": "https://decomp.dev/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T13:27:41.885Z",
-   "score": 74,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "c36c9c62fa2e",
-   "title": "My C23 Conventions",
-   "url": "https://abner.page/post/c23-conventions-1/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T15:32:15.830Z",
-   "score": 65,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "7e894cae6181",
-   "title": "The Costa GUI",
-   "url": "https://costa.jacobpalm.dk",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T12:06:10.597Z",
-   "score": 47,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "eb71db1ecd13",
-   "title": "Microsoft Defender for Linux",
-   "url": "https://techcommunity.microsoft.com/blog/microsoftdefenderatpblog/secure-linux-desktops-with-microsoft-defender/4560822",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T10:04:47.597Z",
-   "score": 19,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "60c9701dc293",
-   "title": "Forgejo v17.0 is available",
-   "url": "https://forgejo.org/2026-10-release-v17-0/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T19:43:19.853Z",
-   "score": 55,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "024ccd3019cb",
-   "title": "End-to-end encrypted relays for OCapN",
-   "url": "https://spritely.institute/news/end-to-end-encrypted-relays-for-ocapn.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T14:42:12.236Z",
-   "score": 28,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "f4eaa1e4c01e",
-   "title": "sslx: A fast, modern alternative to OpenSSL's CLI",
-   "url": "https://github.com/glincker/sslx",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T10:02:33.360Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "c593e1cf44fa",
-   "title": "Remote Attestation Should Not Be Tolerated",
-   "url": "https://lumi.codeberg.page/blog/remote-attestation.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T14:02:45.310Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "58046ffe41de",
-   "title": "The geometric model of maintenance",
-   "url": "https://entropicthoughts.com/geometric-model-of-maintenance",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T10:48:58.656Z",
-   "score": 16,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "b18b0e4e9d19",
-   "title": "Religious Studies In Software Engineering",
-   "url": "https://tombh.co.uk/religious-studies-in-software-engineering",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T17:36:38.677Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "284751802377",
-   "title": "Share the Symbol, Not the Vector: Training-Free Fact Communication Across Language Models",
-   "url": "https://huggingface.co/papers/2610.19696",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-14T03:19:43.000Z",
-   "score": 8,
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "dc9ed14da7f5",
-   "title": "An update on independent evaluators",
-   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-15T00:00:00.000Z",
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "a72d1e4da6b0",
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-15T19:00:00.000Z",
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "44deb5f8e926",
-   "title": "[$] Vendor hooks in the Android kernel",
-   "url": "https://lwn.net/Articles/1098493/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-15T15:09:15.000Z",
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "4c419dd8c4a4",
-   "title": "A fully programmable secure web gateway",
-   "url": "https://blog.cloudflare.com/programmable-gateway-dlp/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-15T17:11:12.000Z",
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
-  },
-  {
-   "id": "0e4f8374803f",
-   "title": "The Pulse: OpenAI software engineer accused of spying",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-openai-software-engineer",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-10-15T16:55:18.000Z",
-   "firstSeenAt": "2026-10-15T23:35:08.558Z"
   }
  ]
 }
