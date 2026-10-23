@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-22T23:55:11.271Z",
+ "generatedAt": "2026-10-23T14:11:13.491Z",
  "items": [
   {
    "id": "d2f362921d45",
@@ -12,11 +12,28 @@
    "publishedAt": "2026-10-22T14:32:38.000Z",
    "hn": {
     "id": "50195959",
-    "points": 947,
-    "comments": 343
+    "points": 1282,
+    "comments": 441
    },
-   "score": 23,
+   "score": 85,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
+  },
+  {
+   "id": "46a214f27141",
+   "title": "Docker is weird",
+   "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T20:09:22.732Z",
+   "score": 63,
+   "firstSeenAt": "2026-10-22T23:55:11.271Z",
+   "hn": {
+    "id": "50202681",
+    "points": 630,
+    "comments": 265
+   }
   },
   {
    "id": "49bb51281ca6",
@@ -29,8 +46,8 @@
    "publishedAt": "2026-10-22T08:01:52.000Z",
    "hn": {
     "id": "50192536",
-    "points": 691,
-    "comments": 241
+    "points": 788,
+    "comments": 286
    },
    "score": 39,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
@@ -46,8 +63,8 @@
    "publishedAt": "2026-10-21T21:58:03.000Z",
    "hn": {
     "id": "50188228",
-    "points": 586,
-    "comments": 330
+    "points": 596,
+    "comments": 337
    },
    "score": 24,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
@@ -95,12 +112,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-21T19:11:57.000Z",
-   "score": 47,
+   "score": 51,
    "firstSeenAt": "2026-10-21T23:56:19.984Z",
    "hn": {
     "id": "50186010",
-    "points": 376,
-    "comments": 247
+    "points": 383,
+    "comments": 252
    }
   },
   {
@@ -284,21 +301,266 @@
    }
   },
   {
-   "id": "32a34d991661",
-   "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-   "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+   "id": "9498ce0d340b",
+   "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+   "url": "https://edjefferson.com/localwiki/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T23:01:18.000Z",
+   "hn": {
+    "id": "50202285",
+    "points": 711,
+    "comments": 148
+   },
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "1360bd8eb5a8",
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T22:54:43.000Z",
+   "hn": {
+    "id": "50202217",
+    "points": 383,
+    "comments": 236
+   },
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "afd83717337b",
+   "title": "Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions",
+   "url": "https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T21:24:41.000Z",
+   "hn": {
+    "id": "50201259",
+    "points": 457,
+    "comments": 183
+   },
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "4dcdb9557827",
+   "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+   "url": "https://github.com/NVIDIA/OpenShell",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T17:44:06.000Z",
+   "hn": {
+    "id": "50198675",
+    "points": 442,
+    "comments": 201
+   },
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "a816b657efa8",
+   "title": "Getting ready to operate GNU Taler in Germany",
+   "url": "https://www.taler.net/en/news/2026-13.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T16:14:31.000Z",
+   "hn": {
+    "id": "50197404",
+    "points": 334,
+    "comments": 151
+   },
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "36b89264973f",
+   "title": "Every AI model has the same \"controversial\" take on humans",
+   "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T16:08:00.000Z",
+   "hn": {
+    "id": "50197313",
+    "points": 521,
+    "comments": 516
+   },
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "672b6dc09108",
+   "title": "Woman charged with computer fraud due to scam CashApp account being in her name",
+   "url": "https://www.404media.co/amanda-smith-opened-a-cashapp-in-her-name-she-faces-years-in-prison-cashapp-fraud/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T13:11:00.000Z",
+   "hn": {
+    "id": "50194833",
+    "points": 647,
+    "comments": 659
+   },
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "72a8cd99f947",
+   "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you bought",
+   "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T11:42:03.000Z",
+   "hn": {
+    "id": "50194009",
+    "points": 343,
+    "comments": 308
+   },
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "530d412031fe",
+   "title": "UUIDv7 doesn't have the properties you think it does",
+   "url": "https://alexsci.com/blog/uuidv7-is-weird/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-15T19:21:38.000Z",
-   "hn": {
-    "id": "50108872",
-    "points": 416,
-    "comments": 207
-   },
-   "firstSeenAt": "2026-10-16T13:53:36.495Z",
-   "score": 14
+   "publishedAt": "2026-10-23T01:22:17.339Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "a67de5bed261",
+   "title": "Please don't mess with links",
+   "url": "https://maurycyz.com/misc/real_links/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-23T00:37:10.703Z",
+   "score": 53,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "ebcd89988ff6",
+   "title": "a hacky fucked up way to portably access errno from outside of c",
+   "url": "https://sebsite.pw/w/20260925-errno.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T21:42:04.534Z",
+   "score": 26,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "8048a9a5599d",
+   "title": "Debunking \"Faster than Rust\": Malicious Benchmarks in Tov",
+   "url": "https://blog.fyralabs.com/debunking-faster-than-rust-malicious-benchmarks-in-tov/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-23T07:44:09.224Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "937563ab7080",
+   "title": "How close can pure FP get to C?",
+   "url": "https://rtfeldman.com/fp-vs-c",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-23T11:37:22.171Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "536166bc9f6a",
+   "title": "We have Traits at Home",
+   "url": "https://www.axelmagn.com/blog/202610-zig-traits/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-22T21:52:10.094Z",
+   "score": 28,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "84ddf7326c49",
+   "title": "The Many Many Missed Opportunities of Sonic 06",
+   "url": "https://isaacmarovitz.com/posts/sonic-06/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-23T04:30:10.674Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "e0ece036cc7a",
+   "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
+   "url": "https://huggingface.co/papers/2610.31329",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-21T20:00:00.000Z",
+   "score": 212,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "aabb50f6607f",
+   "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation",
+   "url": "https://huggingface.co/papers/2610.30926",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-22T04:43:48.000Z",
+   "score": 161,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "f680fcbe625c",
+   "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
+   "url": "https://huggingface.co/papers/2610.30949",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-21T20:00:00.000Z",
+   "score": 49,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "45f855ed6fb9",
+   "title": "Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports",
+   "url": "https://huggingface.co/papers/2610.31158",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-21T20:00:00.000Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "fe7e5994cd69",
+   "title": "Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation",
+   "url": "https://huggingface.co/papers/2610.31305",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-21T20:00:00.000Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
+  },
+  {
+   "id": "15c1f8ef7a58",
+   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+   "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-23T00:00:00.000Z",
+   "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
    "id": "a88674578082",
@@ -310,8 +572,8 @@
    "publishedAt": "2026-10-22T15:32:46.000Z",
    "hn": {
     "id": "50196837",
-    "points": 316,
-    "comments": 230
+    "points": 322,
+    "comments": 242
    },
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
@@ -325,8 +587,8 @@
    "publishedAt": "2026-10-22T15:26:22.000Z",
    "hn": {
     "id": "50196718",
-    "points": 304,
-    "comments": 117
+    "points": 473,
+    "comments": 174
    },
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
@@ -340,8 +602,8 @@
    "publishedAt": "2026-10-22T14:08:12.000Z",
    "hn": {
     "id": "50195543",
-    "points": 328,
-    "comments": 152
+    "points": 371,
+    "comments": 169
    },
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
@@ -355,8 +617,8 @@
    "publishedAt": "2026-10-22T13:33:39.000Z",
    "hn": {
     "id": "50195110",
-    "points": 905,
-    "comments": 617
+    "points": 1102,
+    "comments": 710
    },
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
@@ -385,8 +647,8 @@
    "publishedAt": "2026-10-22T10:11:44.000Z",
    "hn": {
     "id": "50193416",
-    "points": 336,
-    "comments": 137
+    "points": 636,
+    "comments": 236
    },
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
@@ -400,20 +662,9 @@
    "publishedAt": "2026-10-22T02:30:52.000Z",
    "hn": {
     "id": "50190455",
-    "points": 300,
-    "comments": 279
+    "points": 309,
+    "comments": 292
    },
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "46a214f27141",
-   "title": "Docker is weird",
-   "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T20:09:22.732Z",
-   "score": 15,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
@@ -424,7 +675,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T16:30:14.409Z",
-   "score": 19,
+   "score": 32,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
@@ -435,7 +686,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T12:53:26.774Z",
-   "score": 18,
+   "score": 23,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
@@ -446,7 +697,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T17:35:52.914Z",
-   "score": 15,
+   "score": 26,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
@@ -457,7 +708,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T14:49:22.131Z",
-   "score": 14,
+   "score": 18,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
@@ -468,7 +719,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T14:14:04.653Z",
-   "score": 15,
+   "score": 21,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
@@ -479,7 +730,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T17:56:51.498Z",
-   "score": 10,
+   "score": 17,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
@@ -552,8 +803,8 @@
    "publishedAt": "2026-10-22T08:51:31.000Z",
    "hn": {
     "id": "50192900",
-    "points": 332,
-    "comments": 118
+    "points": 333,
+    "comments": 122
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -567,8 +818,8 @@
    "publishedAt": "2026-10-22T02:18:41.000Z",
    "hn": {
     "id": "50190363",
-    "points": 493,
-    "comments": 156
+    "points": 570,
+    "comments": 176
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -582,8 +833,8 @@
    "publishedAt": "2026-10-21T23:51:37.000Z",
    "hn": {
     "id": "50189232",
-    "points": 587,
-    "comments": 140
+    "points": 607,
+    "comments": 143
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -597,8 +848,8 @@
    "publishedAt": "2026-10-21T23:13:27.000Z",
    "hn": {
     "id": "50188948",
-    "points": 608,
-    "comments": 439
+    "points": 618,
+    "comments": 459
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -612,8 +863,8 @@
    "publishedAt": "2026-10-21T19:14:01.000Z",
    "hn": {
     "id": "50186037",
-    "points": 545,
-    "comments": 510
+    "points": 551,
+    "comments": 522
    },
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
@@ -640,7 +891,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T06:45:58.884Z",
-   "score": 54,
+   "score": 59,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -651,7 +902,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T04:18:37.037Z",
-   "score": 31,
+   "score": 37,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -673,7 +924,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T06:15:07.575Z",
-   "score": 23,
+   "score": 32,
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
@@ -801,8 +1052,8 @@
    "publishedAt": "2026-10-21T19:20:55.000Z",
    "hn": {
     "id": "50186129",
-    "points": 322,
-    "comments": 100
+    "points": 326,
+    "comments": 104
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -816,8 +1067,8 @@
    "publishedAt": "2026-10-21T17:45:13.000Z",
    "hn": {
     "id": "50184820",
-    "points": 675,
-    "comments": 414
+    "points": 689,
+    "comments": 423
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -831,8 +1082,8 @@
    "publishedAt": "2026-10-21T17:29:33.000Z",
    "hn": {
     "id": "50184586",
-    "points": 680,
-    "comments": 458
+    "points": 695,
+    "comments": 471
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -846,8 +1097,8 @@
    "publishedAt": "2026-10-21T15:48:56.000Z",
    "hn": {
     "id": "50182987",
-    "points": 797,
-    "comments": 393
+    "points": 806,
+    "comments": 396
    },
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
@@ -934,7 +1185,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-21T15:47:59.191Z",
-   "score": 140,
+   "score": 145,
    "firstSeenAt": "2026-10-21T23:56:19.984Z"
   },
   {
@@ -3080,306 +3331,6 @@
    ],
    "publishedAt": "2026-10-16T14:26:57.000Z",
    "firstSeenAt": "2026-10-16T23:20:09.480Z"
-  },
-  {
-   "id": "51fcdd9a49b7",
-   "title": "Tesla Roadster",
-   "url": "https://www.tesla.com/roadster",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T01:32:45.000Z",
-   "hn": {
-    "id": "50112657",
-    "points": 1598,
-    "comments": 2933
-   },
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "90719f950872",
-   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
-   "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T23:37:42.000Z",
-   "hn": {
-    "id": "50111852",
-    "points": 463,
-    "comments": 169
-   },
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "6327bf4d2077",
-   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-   "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T19:55:49.000Z",
-   "hn": {
-    "id": "50109375",
-    "points": 398,
-    "comments": 281
-   },
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "4e7c826575cc",
-   "title": "Jev meets the Trolley Problem",
-   "url": "https://zachlandes.com/trolley-problem/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T16:24:52.000Z",
-   "hn": {
-    "id": "50106023",
-    "points": 634,
-    "comments": 250
-   },
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "a0d58fa52c7a",
-   "title": "Krea 3 – An image model built for editing at scale",
-   "url": "https://www.krea.ai/krea-3",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T16:04:05.000Z",
-   "hn": {
-    "id": "50105648",
-    "points": 345,
-    "comments": 108
-   },
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "730e8d4b8d5b",
-   "title": "Steam Client is now faster than Epic's new vibe coded launcher",
-   "url": "https://respawnfirst.com/steam-client-is-now-faster-than-epics-new-vibe-coded-launcher/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T16:03:19.000Z",
-   "hn": {
-    "id": "50105635",
-    "points": 341,
-    "comments": 352
-   },
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "f913b05303e9",
-   "title": "Show HN: Unfenced – Land for sale that borders public land",
-   "url": "https://unfenced.land/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-15T11:38:57.000Z",
-   "hn": {
-    "id": "50102247",
-    "points": 310,
-    "comments": 196
-   },
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "277a812ca7cd",
-   "title": "Linus Torvalds on AI-assisted kernel contributions",
-   "url": "https://lore.kernel.org/lkml/CAHk-=whTs09_ozN+e09GU68N1wPP56MUzDjrg9rnKxQUa0A_4Q@mail.gmail.com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T02:50:33.788Z",
-   "score": 88,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "9e2c57e3ceab",
-   "title": "Epic's EAC2 v2 seems fairly easily bypassable",
-   "url": "https://codon.org.uk/~mjg59/blog/p/epics-eac2-v2-seems-fairly-easily-bypassable/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T22:48:19.614Z",
-   "score": 37,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "c35439afc440",
-   "title": "The road to iroh 1.0",
-   "url": "https://www.iroh.computer/blog/the-road-to-iroh-1-0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T12:02:05.882Z",
-   "score": 63,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "9b1c2a5338a2",
-   "title": "Announcing Rust 1.99.1",
-   "url": "https://blog.rust-lang.org/2026/10/15/Rust-1.99.1/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T23:03:00.345Z",
-   "score": 30,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "40d45d0671be",
-   "title": "Why are we even doing all this?",
-   "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T05:28:29.452Z",
-   "score": 125,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "b73972b8648a",
-   "title": "My self-hosted infrastructure with Incus OS",
-   "url": "https://dataswamp.org/~solene/2026-10-15-selfhosting-infrastructure-incus-os.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T03:25:49.491Z",
-   "score": 27,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "2ca9145b991a",
-   "title": "On the technical actions needed to ensure the continuity of UTC",
-   "url": "https://www.bipm.org/en/cgpm-2026/resolution-5",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T20:22:14.682Z",
-   "score": 44,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "eca88ee61d89",
-   "title": "Where did WIN32_LEAN_AND_MEAN come from? (2009)",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20091130-00/?p=15863/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T02:28:13.828Z",
-   "score": 29,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "b5f60424ff25",
-   "title": "Gleam case exhaustiveness, as a fan",
-   "url": "https://oyster.pckt.blog/gleam-case-exhaustiveness-as-a-fan-fd4whyp",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-15T19:33:19.767Z",
-   "score": 23,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "86c298c0ef8b",
-   "title": "Matt Mullenweg Orders Accessibility Revert",
-   "url": "https://www.therepository.email/matt-mullenweg-orders-accessibility-revert-tells-core-committer-to-contribute-your-talents-to-another-project",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T06:22:46.367Z",
-   "score": 13,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "dd5f2cb6ec69",
-   "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
-   "url": "https://huggingface.co/papers/2610.21601",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-14T20:00:00.000Z",
-   "score": 200,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "3adc556ab3f7",
-   "title": "FDE-Gym: The Last Mile of AI Delivery",
-   "url": "https://huggingface.co/papers/2610.22350",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-14T20:00:00.000Z",
-   "score": 133,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "ad0b6a5550eb",
-   "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
-   "url": "https://huggingface.co/papers/2610.22276",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-14T20:00:00.000Z",
-   "score": 126,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "7c3a547ab422",
-   "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
-   "url": "https://huggingface.co/papers/2610.22200",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-14T20:00:00.000Z",
-   "score": 108,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "f09ee7ca5e3b",
-   "title": "Mosaic: Multi-Session Agentic Reinforcement Learning",
-   "url": "https://huggingface.co/papers/2610.22174",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-14T20:00:00.000Z",
-   "score": 46,
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "dd00c04c9b95",
-   "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-   "url": "https://openai.com/index/sullivan-cromwell",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-15T00:00:00.000Z",
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "1d4cff712a9a",
-   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-10-15T16:08:03.000Z",
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
-  },
-  {
-   "id": "dbfb9a2e3c4b",
-   "title": "Continuous accountability for Verified bots",
-   "url": "https://blog.cloudflare.com/verified-bots-accountability/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-16T13:00:00.000Z",
-   "firstSeenAt": "2026-10-16T13:53:36.495Z"
   }
  ]
 }
