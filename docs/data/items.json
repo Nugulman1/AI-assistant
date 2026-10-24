@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T23:46:56.256Z",
+ "generatedAt": "2026-10-24T13:13:53.768Z",
  "items": [
   {
    "id": "d2f362921d45",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-10-22T14:32:38.000Z",
    "hn": {
     "id": "50195959",
-    "points": 1335,
-    "comments": 467
+    "points": 1360,
+    "comments": 474
    },
-   "score": 105,
+   "score": 112,
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
   {
@@ -27,12 +27,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-22T20:09:22.732Z",
-   "score": 94,
+   "score": 99,
    "firstSeenAt": "2026-10-22T23:55:11.271Z",
    "hn": {
     "id": "50202681",
-    "points": 817,
-    "comments": 343
+    "points": 847,
+    "comments": 360
    }
   },
   {
@@ -301,6 +301,121 @@
    }
   },
   {
+   "id": "55f38e2b0de9",
+   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-23T19:34:15.000Z",
+   "hn": {
+    "id": "50214218",
+    "points": 360,
+    "comments": 180
+   },
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
+   "id": "2ca67924f9fc",
+   "title": "Dessa: Conversation Model trained only on speech",
+   "url": "https://block.xyz/dessa",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-23T19:09:54.000Z",
+   "hn": {
+    "id": "50213925",
+    "points": 417,
+    "comments": 156
+   },
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
+   "id": "7385a735d0bf",
+   "title": "Dutch government had hacked into Jared Kushner's phone",
+   "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-23T10:41:32.000Z",
+   "hn": {
+    "id": "50206914",
+    "points": 303,
+    "comments": 193
+   },
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
+   "id": "22abd3e4334d",
+   "title": "Canadians are running out of time to oppose Bill C-22",
+   "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-22T22:43:19.000Z",
+   "hn": {
+    "id": "50202114",
+    "points": 438,
+    "comments": 231
+   },
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
+   "id": "b1d8e0305cdb",
+   "title": "I want my Wednesday back",
+   "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T10:09:28.059Z",
+   "score": 44,
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
+   "id": "3ce1b900090f",
+   "title": "Indian government sites are serving revoked eMudhra certificates",
+   "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T04:06:06.412Z",
+   "score": 31,
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
+   "id": "8d8f6af8b2aa",
+   "title": "Be Aware of What's in Your Logs",
+   "url": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T10:42:05.453Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
+   "id": "ad41857cca54",
+   "title": "Incremental Computation Graphs",
+   "url": "https://dziban.net/posts/incremental-computation-graph/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-23T21:35:45.952Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
+   "id": "286f92fd01fb",
+   "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
+   "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-23T17:00:36.459Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-24T13:13:53.768Z"
+  },
+  {
    "id": "1fd8476b4493",
    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
@@ -310,8 +425,8 @@
    "publishedAt": "2026-10-23T16:59:08.000Z",
    "hn": {
     "id": "50212065",
-    "points": 654,
-    "comments": 416
+    "points": 958,
+    "comments": 576
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -325,8 +440,8 @@
    "publishedAt": "2026-10-23T16:21:50.000Z",
    "hn": {
     "id": "50211474",
-    "points": 703,
-    "comments": 462
+    "points": 939,
+    "comments": 608
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -340,8 +455,8 @@
    "publishedAt": "2026-10-23T13:41:10.000Z",
    "hn": {
     "id": "50208837",
-    "points": 520,
-    "comments": 378
+    "points": 544,
+    "comments": 391
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -355,8 +470,8 @@
    "publishedAt": "2026-10-23T13:19:42.000Z",
    "hn": {
     "id": "50208558",
-    "points": 479,
-    "comments": 329
+    "points": 509,
+    "comments": 355
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -370,8 +485,8 @@
    "publishedAt": "2026-10-23T12:28:47.000Z",
    "hn": {
     "id": "50207910",
-    "points": 510,
-    "comments": 174
+    "points": 810,
+    "comments": 244
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -385,8 +500,8 @@
    "publishedAt": "2026-10-23T11:39:54.000Z",
    "hn": {
     "id": "50207405",
-    "points": 314,
-    "comments": 115
+    "points": 321,
+    "comments": 119
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -400,8 +515,8 @@
    "publishedAt": "2026-10-23T08:21:29.000Z",
    "hn": {
     "id": "50205934",
-    "points": 410,
-    "comments": 432
+    "points": 436,
+    "comments": 449
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -415,8 +530,8 @@
    "publishedAt": "2026-10-23T00:52:01.000Z",
    "hn": {
     "id": "50203161",
-    "points": 357,
-    "comments": 242
+    "points": 372,
+    "comments": 259
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -430,8 +545,8 @@
    "publishedAt": "2026-10-22T21:03:55.000Z",
    "hn": {
     "id": "50200997",
-    "points": 590,
-    "comments": 653
+    "points": 625,
+    "comments": 702
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -443,7 +558,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T14:30:57.041Z",
-   "score": 39,
+   "score": 55,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -454,7 +569,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T12:58:10.897Z",
-   "score": 33,
+   "score": 48,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -465,7 +580,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T20:47:58.255Z",
-   "score": 11,
+   "score": 48,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -476,7 +591,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T08:43:10.855Z",
-   "score": 18,
+   "score": 20,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -487,7 +602,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T17:12:35.281Z",
-   "score": 11,
+   "score": 14,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -498,7 +613,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T13:40:30.984Z",
-   "score": 14,
+   "score": 23,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -614,8 +729,8 @@
    "publishedAt": "2026-10-22T23:01:18.000Z",
    "hn": {
     "id": "50202285",
-    "points": 1196,
-    "comments": 223
+    "points": 1424,
+    "comments": 237
    },
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
@@ -629,8 +744,8 @@
    "publishedAt": "2026-10-22T22:54:43.000Z",
    "hn": {
     "id": "50202217",
-    "points": 437,
-    "comments": 281
+    "points": 453,
+    "comments": 295
    },
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
@@ -644,8 +759,8 @@
    "publishedAt": "2026-10-22T21:24:41.000Z",
    "hn": {
     "id": "50201259",
-    "points": 520,
-    "comments": 215
+    "points": 542,
+    "comments": 224
    },
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
@@ -659,8 +774,8 @@
    "publishedAt": "2026-10-22T17:44:06.000Z",
    "hn": {
     "id": "50198675",
-    "points": 489,
-    "comments": 213
+    "points": 495,
+    "comments": 217
    },
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
@@ -674,8 +789,8 @@
    "publishedAt": "2026-10-22T16:14:31.000Z",
    "hn": {
     "id": "50197404",
-    "points": 355,
-    "comments": 171
+    "points": 357,
+    "comments": 173
    },
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
@@ -689,8 +804,8 @@
    "publishedAt": "2026-10-22T16:08:00.000Z",
    "hn": {
     "id": "50197313",
-    "points": 613,
-    "comments": 593
+    "points": 638,
+    "comments": 615
    },
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
@@ -732,7 +847,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T01:22:17.339Z",
-   "score": 41,
+   "score": 43,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -743,7 +858,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T00:37:10.703Z",
-   "score": 87,
+   "score": 98,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -754,7 +869,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-22T21:42:04.534Z",
-   "score": 29,
+   "score": 30,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -765,7 +880,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T07:44:09.224Z",
-   "score": 33,
+   "score": 40,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -776,7 +891,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T11:37:22.171Z",
-   "score": 35,
+   "score": 41,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -891,8 +1006,8 @@
    "publishedAt": "2026-10-22T15:26:22.000Z",
    "hn": {
     "id": "50196718",
-    "points": 515,
-    "comments": 192
+    "points": 523,
+    "comments": 194
    },
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
@@ -921,8 +1036,8 @@
    "publishedAt": "2026-10-22T13:33:39.000Z",
    "hn": {
     "id": "50195110",
-    "points": 1134,
-    "comments": 737
+    "points": 1147,
+    "comments": 739
    },
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
   },
@@ -3307,138 +3422,6 @@
    ],
    "publishedAt": "2026-10-17T14:06:54.000Z",
    "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "7fd7e06ab2f4",
-   "title": "How the Claude Code team does code review",
-   "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T19:04:47.000Z",
-   "hn": {
-    "id": "50122951",
-    "points": 462,
-    "comments": 465
-   },
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "c19e7ef010f7",
-   "title": "You could have invented transformers from memory",
-   "url": "https://alexwang.ai/posts/associative-memory/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T19:01:17.000Z",
-   "hn": {
-    "id": "50122878",
-    "points": 583,
-    "comments": 131
-   },
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "0342f39befa1",
-   "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-   "url": "https://github.com/cobanov/PS5LM",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T18:32:35.000Z",
-   "hn": {
-    "id": "50122431",
-    "points": 368,
-    "comments": 85
-   },
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "f6042d12a62b",
-   "title": "Waymo in Toronto",
-   "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T14:44:17.000Z",
-   "hn": {
-    "id": "50118981",
-    "points": 326,
-    "comments": 436
-   },
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "98e6a11f87f3",
-   "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-   "url": "https://machinelearning.apple.com/research/mlx-distributed-inference",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T13:43:48.000Z",
-   "hn": {
-    "id": "50118320",
-    "points": 363,
-    "comments": 205
-   },
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "845232958184",
-   "title": "I love software rendering",
-   "url": "https://www.jamesfmackenzie.com/2026/10/13/i-love-software-rendering/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T12:52:08.000Z",
-   "hn": {
-    "id": "50117746",
-    "points": 367,
-    "comments": 228
-   },
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "66b01ef31145",
-   "title": "Interactive refactoring in gopls",
-   "url": "https://go.dev/blog/interactive-refactoring",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-17T01:12:09.772Z",
-   "score": 28,
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "a08eff16d6e5",
-   "title": "Ubuntu 26.10 (Stonking Stingray) released",
-   "url": "https://lists.ubuntu.com/archives/ubuntu-announce/2026-October/000330.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T18:01:39.664Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "65442e708214",
-   "title": "How Itaú is building generative AI for its entire customer base",
-   "url": "https://openai.com/index/itau-generative-ai",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-16T19:00:00.000Z",
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
-  },
-  {
-   "id": "4a2f3ca18eb9",
-   "title": "Benefit Street Partners answers questions faster with Codex",
-   "url": "https://openai.com/index/benefit-street-partners",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-16T00:00:00.000Z",
-   "firstSeenAt": "2026-10-17T12:53:19.785Z"
   }
  ]
 }
