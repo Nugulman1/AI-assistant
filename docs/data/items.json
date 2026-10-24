@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-10-24T13:13:53.768Z",
+ "generatedAt": "2026-10-24T22:59:31.888Z",
  "items": [
+  {
+   "id": "f80c4bbdb8d6",
+   "title": "Twelve years of distributed SQLite",
+   "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T01:16:58.000Z",
+   "hn": {
+    "id": "50217500",
+    "points": 354,
+    "comments": 61
+   },
+   "score": 12,
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
   {
    "id": "d2f362921d45",
    "title": "Quad9 (DNS Resolver) to Exit France",
@@ -31,8 +48,8 @@
    "firstSeenAt": "2026-10-22T23:55:11.271Z",
    "hn": {
     "id": "50202681",
-    "points": 847,
-    "comments": 360
+    "points": 861,
+    "comments": 367
    }
   },
   {
@@ -284,21 +301,145 @@
    }
   },
   {
-   "id": "f39dc488c779",
-   "title": "There's never been a better time to go into math",
-   "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+   "id": "074b7d5e1602",
+   "title": "No signs of AI payoff outside the tech sector",
+   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-16T20:49:12.465Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-17T22:56:50.655Z",
+   "publishedAt": "2026-10-24T19:47:19.000Z",
    "hn": {
-    "id": "50136150",
-    "points": 492,
-    "comments": 674
-   }
+    "id": "50224463",
+    "points": 403,
+    "comments": 374
+   },
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "44115490bcb6",
+   "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+   "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T13:09:28.000Z",
+   "hn": {
+    "id": "50220913",
+    "points": 409,
+    "comments": 434
+   },
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "30e2978fb647",
+   "title": "Root shell on Samsung TV",
+   "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T05:49:57.000Z",
+   "hn": {
+    "id": "50218633",
+    "points": 479,
+    "comments": 193
+   },
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "f244da1f1890",
+   "title": "OBS Studio 33",
+   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T04:49:58.000Z",
+   "hn": {
+    "id": "50218430",
+    "points": 436,
+    "comments": 156
+   },
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "68b2e868f8ae",
+   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
+   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T01:15:14.000Z",
+   "hn": {
+    "id": "50217495",
+    "points": 608,
+    "comments": 278
+   },
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "364ba491c2a3",
+   "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
+   "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T18:00:36.212Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "935936a124b2",
+   "title": "Bringing uv and ty together",
+   "url": "https://astral.sh/blog/uv-ty-integration",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T15:27:34.811Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "d5523e9d9fef",
+   "title": "Wild version 0.11.0 released",
+   "url": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T10:11:35.679Z",
+   "score": 24,
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "cd0cfb7d9672",
+   "title": "Emacs finally folds to my liking",
+   "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T08:45:01.682Z",
+   "score": 24,
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "93fc448c0fc1",
+   "title": "What's wrong with AI?",
+   "url": "https://homepage.farm/ai.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T12:09:40.853Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+  },
+  {
+   "id": "4a3ed2fcea1f",
+   "title": "Memory is slow, Disk is fast",
+   "url": "https://www.bitflux.ai/blog/memory-is-slow-part3/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-23T20:44:07.681Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
   {
    "id": "55f38e2b0de9",
@@ -310,8 +451,8 @@
    "publishedAt": "2026-10-23T19:34:15.000Z",
    "hn": {
     "id": "50214218",
-    "points": 360,
-    "comments": 180
+    "points": 374,
+    "comments": 193
    },
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
@@ -325,8 +466,8 @@
    "publishedAt": "2026-10-23T19:09:54.000Z",
    "hn": {
     "id": "50213925",
-    "points": 417,
-    "comments": 156
+    "points": 498,
+    "comments": 191
    },
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
@@ -340,8 +481,8 @@
    "publishedAt": "2026-10-23T10:41:32.000Z",
    "hn": {
     "id": "50206914",
-    "points": 303,
-    "comments": 193
+    "points": 307,
+    "comments": 204
    },
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
@@ -368,7 +509,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T10:09:28.059Z",
-   "score": 44,
+   "score": 93,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
   {
@@ -379,7 +520,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T04:06:06.412Z",
-   "score": 31,
+   "score": 57,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
   {
@@ -390,7 +531,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T10:42:05.453Z",
-   "score": 15,
+   "score": 28,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
   {
@@ -401,7 +542,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T21:35:45.952Z",
-   "score": 10,
+   "score": 11,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
   {
@@ -425,8 +566,8 @@
    "publishedAt": "2026-10-23T16:59:08.000Z",
    "hn": {
     "id": "50212065",
-    "points": 958,
-    "comments": 576
+    "points": 1057,
+    "comments": 648
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -440,8 +581,8 @@
    "publishedAt": "2026-10-23T16:21:50.000Z",
    "hn": {
     "id": "50211474",
-    "points": 939,
-    "comments": 608
+    "points": 1069,
+    "comments": 669
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -455,8 +596,8 @@
    "publishedAt": "2026-10-23T13:41:10.000Z",
    "hn": {
     "id": "50208837",
-    "points": 544,
-    "comments": 391
+    "points": 550,
+    "comments": 394
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -470,8 +611,8 @@
    "publishedAt": "2026-10-23T13:19:42.000Z",
    "hn": {
     "id": "50208558",
-    "points": 509,
-    "comments": 355
+    "points": 526,
+    "comments": 370
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -485,8 +626,8 @@
    "publishedAt": "2026-10-23T12:28:47.000Z",
    "hn": {
     "id": "50207910",
-    "points": 810,
-    "comments": 244
+    "points": 911,
+    "comments": 266
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -500,8 +641,8 @@
    "publishedAt": "2026-10-23T11:39:54.000Z",
    "hn": {
     "id": "50207405",
-    "points": 321,
-    "comments": 119
+    "points": 322,
+    "comments": 120
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -515,8 +656,8 @@
    "publishedAt": "2026-10-23T08:21:29.000Z",
    "hn": {
     "id": "50205934",
-    "points": 436,
-    "comments": 449
+    "points": 440,
+    "comments": 451
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -530,8 +671,8 @@
    "publishedAt": "2026-10-23T00:52:01.000Z",
    "hn": {
     "id": "50203161",
-    "points": 372,
-    "comments": 259
+    "points": 377,
+    "comments": 266
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -558,7 +699,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T14:30:57.041Z",
-   "score": 55,
+   "score": 61,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -569,7 +710,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T12:58:10.897Z",
-   "score": 48,
+   "score": 51,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -580,7 +721,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T20:47:58.255Z",
-   "score": 48,
+   "score": 66,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -613,7 +754,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T13:40:30.984Z",
-   "score": 23,
+   "score": 31,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -729,8 +870,8 @@
    "publishedAt": "2026-10-22T23:01:18.000Z",
    "hn": {
     "id": "50202285",
-    "points": 1424,
-    "comments": 237
+    "points": 1532,
+    "comments": 242
    },
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
@@ -847,7 +988,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T01:22:17.339Z",
-   "score": 43,
+   "score": 44,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -858,7 +999,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T00:37:10.703Z",
-   "score": 98,
+   "score": 107,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -880,7 +1021,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T07:44:09.224Z",
-   "score": 40,
+   "score": 42,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -891,7 +1032,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T11:37:22.171Z",
-   "score": 41,
+   "score": 48,
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
   },
   {
@@ -3304,124 +3445,6 @@
    "publishedAt": "2026-10-18T03:03:36.932Z",
    "score": 37,
    "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "49b49c1c440e",
-   "title": "OpenCode Hacked: User credentials leaked",
-   "url": "https://twitter.com/opencode/status/2111516673953935833",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T18:01:41.000Z",
-   "hn": {
-    "id": "50133401",
-    "points": 965,
-    "comments": 175
-   },
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "dc9eb629f655",
-   "title": "Solar surpasses nuclear power globally for first time",
-   "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T14:01:01.000Z",
-   "hn": {
-    "id": "50131256",
-    "points": 670,
-    "comments": 431
-   },
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "1fd6dd971a81",
-   "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-   "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T08:37:46.000Z",
-   "hn": {
-    "id": "50129121",
-    "points": 518,
-    "comments": 5
-   },
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "9b13d6a721a0",
-   "title": "DeepSeek-v4.1-Flash-1017",
-   "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T08:21:25.000Z",
-   "hn": {
-    "id": "50129045",
-    "points": 934,
-    "comments": 704
-   },
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "8a2456bf6914",
-   "title": "Butlerian Jihad",
-   "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T02:21:08.000Z",
-   "hn": {
-    "id": "50127274",
-    "points": 372,
-    "comments": 255
-   },
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "251ac8d51963",
-   "title": "Intuitive concurrent programming in any language",
-   "url": "https://www.lf-lang.org/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-17T12:17:20.307Z",
-   "score": 23,
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "163b4cf51c2b",
-   "title": "It took me nine years to hack my Xbox 360",
-   "url": "https://kennedn.com/blog/posts/glitching/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-17T16:13:32.076Z",
-   "score": 33,
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "38f454d85c35",
-   "title": "Do you let LLMs write both your tests and your code?",
-   "url": "https://lobste.rs/s/miwcai/do_you_let_llms_write_both_your_tests_your",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-16T23:53:05.634Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
-  },
-  {
-   "id": "987754dece67",
-   "title": "Meta shakes up the frontiers, open and closed",
-   "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-10-17T14:06:54.000Z",
-   "firstSeenAt": "2026-10-17T22:56:50.655Z"
   }
  ]
 }
