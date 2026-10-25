@@ -1,6 +1,40 @@
 {
- "generatedAt": "2026-10-24T22:59:31.888Z",
+ "generatedAt": "2026-10-25T13:39:42.729Z",
  "items": [
+  {
+   "id": "13b5d33bcba3",
+   "title": "We should be more ambitious with the software we build",
+   "url": "https://danluu.com/ambitious/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T21:47:31.000Z",
+   "hn": {
+    "id": "50225695",
+    "points": 523,
+    "comments": 466
+   },
+   "score": 12,
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "69696c78864a",
+   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T08:06:39.000Z",
+   "hn": {
+    "id": "50219177",
+    "points": 343,
+    "comments": 166
+   },
+   "score": 12,
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
   {
    "id": "f80c4bbdb8d6",
    "title": "Twelve years of distributed SQLite",
@@ -12,10 +46,10 @@
    "publishedAt": "2026-10-24T01:16:58.000Z",
    "hn": {
     "id": "50217500",
-    "points": 354,
-    "comments": 61
+    "points": 375,
+    "comments": 65
    },
-   "score": 12,
+   "score": 17,
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
   {
@@ -301,6 +335,128 @@
    }
   },
   {
+   "id": "f0796ab74553",
+   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-25T09:00:40.000Z",
+   "hn": {
+    "id": "50229587",
+    "points": 391,
+    "comments": 237
+   },
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "8f5707e9a13c",
+   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T23:11:54.000Z",
+   "hn": {
+    "id": "50226419",
+    "points": 405,
+    "comments": 425
+   },
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "5a08291251a2",
+   "title": "Show HN: Steal My Bitcoin",
+   "url": "https://stealmybitcoin.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T20:30:31.000Z",
+   "hn": {
+    "id": "50224916",
+    "points": 531,
+    "comments": 326
+   },
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "84c9b463e77e",
+   "title": "The Goose Programming Language",
+   "url": "https://aardappel.github.io/goose/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T19:06:55.000Z",
+   "hn": {
+    "id": "50224100",
+    "points": 466,
+    "comments": 280
+   },
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "0f87ed6dd026",
+   "title": "FreeDNS",
+   "url": "https://freedns.afraid.org/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T15:20:01.000Z",
+   "hn": {
+    "id": "50222133",
+    "points": 315,
+    "comments": 83
+   },
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "6252a2c19dbe",
+   "title": "I don't understand quantum physics (2018)",
+   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-24T09:53:26.000Z",
+   "hn": {
+    "id": "50219666",
+    "points": 336,
+    "comments": 260
+   },
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "6755ba9f87dc",
+   "title": "How to run a city builder on 16 MHz",
+   "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T14:18:48.714Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "8d60bb027465",
+   "title": "An Incremental Approach to JIT Construction",
+   "url": "https://dl.acm.org/doi/pdf/10.1145/3830440.3832304",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-24T02:10:41.765Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
+   "id": "cb0e6541c41d",
+   "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
+   "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-10-25T11:49:00.000Z",
+   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+  },
+  {
    "id": "074b7d5e1602",
    "title": "No signs of AI payoff outside the tech sector",
    "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
@@ -310,8 +466,8 @@
    "publishedAt": "2026-10-24T19:47:19.000Z",
    "hn": {
     "id": "50224463",
-    "points": 403,
-    "comments": 374
+    "points": 574,
+    "comments": 604
    },
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
@@ -325,8 +481,8 @@
    "publishedAt": "2026-10-24T13:09:28.000Z",
    "hn": {
     "id": "50220913",
-    "points": 409,
-    "comments": 434
+    "points": 456,
+    "comments": 479
    },
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
@@ -340,8 +496,8 @@
    "publishedAt": "2026-10-24T05:49:57.000Z",
    "hn": {
     "id": "50218633",
-    "points": 479,
-    "comments": 193
+    "points": 513,
+    "comments": 215
    },
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
@@ -355,8 +511,8 @@
    "publishedAt": "2026-10-24T04:49:58.000Z",
    "hn": {
     "id": "50218430",
-    "points": 436,
-    "comments": 156
+    "points": 453,
+    "comments": 173
    },
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
@@ -370,8 +526,8 @@
    "publishedAt": "2026-10-24T01:15:14.000Z",
    "hn": {
     "id": "50217495",
-    "points": 608,
-    "comments": 278
+    "points": 655,
+    "comments": 315
    },
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
@@ -383,7 +539,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T18:00:36.212Z",
-   "score": 16,
+   "score": 42,
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
   {
@@ -394,7 +550,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T15:27:34.811Z",
-   "score": 25,
+   "score": 38,
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
   {
@@ -405,7 +561,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T10:11:35.679Z",
-   "score": 24,
+   "score": 36,
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
   {
@@ -451,8 +607,8 @@
    "publishedAt": "2026-10-23T19:34:15.000Z",
    "hn": {
     "id": "50214218",
-    "points": 374,
-    "comments": 193
+    "points": 386,
+    "comments": 199
    },
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
@@ -466,7 +622,7 @@
    "publishedAt": "2026-10-23T19:09:54.000Z",
    "hn": {
     "id": "50213925",
-    "points": 498,
+    "points": 513,
     "comments": 191
    },
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
@@ -509,7 +665,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T10:09:28.059Z",
-   "score": 93,
+   "score": 111,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
   {
@@ -520,7 +676,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T04:06:06.412Z",
-   "score": 57,
+   "score": 66,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
   {
@@ -531,7 +687,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-24T10:42:05.453Z",
-   "score": 28,
+   "score": 35,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
   {
@@ -542,7 +698,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T21:35:45.952Z",
-   "score": 11,
+   "score": 13,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
   },
   {
@@ -566,8 +722,8 @@
    "publishedAt": "2026-10-23T16:59:08.000Z",
    "hn": {
     "id": "50212065",
-    "points": 1057,
-    "comments": 648
+    "points": 1067,
+    "comments": 665
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -581,8 +737,8 @@
    "publishedAt": "2026-10-23T16:21:50.000Z",
    "hn": {
     "id": "50211474",
-    "points": 1069,
-    "comments": 669
+    "points": 1084,
+    "comments": 703
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -596,8 +752,8 @@
    "publishedAt": "2026-10-23T13:41:10.000Z",
    "hn": {
     "id": "50208837",
-    "points": 550,
-    "comments": 394
+    "points": 555,
+    "comments": 398
    },
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
@@ -699,7 +855,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T14:30:57.041Z",
-   "score": 61,
+   "score": 62,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -721,7 +877,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-23T20:47:58.255Z",
-   "score": 66,
+   "score": 74,
    "firstSeenAt": "2026-10-23T23:46:56.256Z"
   },
   {
@@ -3288,163 +3444,6 @@
    ],
    "publishedAt": "2026-10-18T00:00:00.000Z",
    "firstSeenAt": "2026-10-18T22:52:31.818Z"
-  },
-  {
-   "id": "758072d376d6",
-   "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-   "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-18T01:18:50.000Z",
-   "hn": {
-    "id": "50136881",
-    "points": 596,
-    "comments": 407
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "1b57e911f336",
-   "title": "NY announces game ownership bill requiring ownership rather than licensing",
-   "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-18T00:14:22.000Z",
-   "hn": {
-    "id": "50136536",
-    "points": 454,
-    "comments": 218
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "d8b1ba92a938",
-   "title": "Gold is now the top U.S. export",
-   "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T17:06:07.000Z",
-   "hn": {
-    "id": "50132870",
-    "points": 419,
-    "comments": 232
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "5ce71835625a",
-   "title": "Pele – Mermaid diagrams as themeable SVG",
-   "url": "https://pele.run/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T15:55:09.000Z",
-   "hn": {
-    "id": "50132193",
-    "points": 563,
-    "comments": 58
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "63f0975b0b47",
-   "title": "Making chicken transparent using Dorito dust",
-   "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T13:55:28.000Z",
-   "hn": {
-    "id": "50131213",
-    "points": 344,
-    "comments": 86
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "5168446cc58e",
-   "title": "MapQuest will now show you where Flock cameras are in your neighborhood",
-   "url": "https://www.engadget.com/2288729/mapquest-will-now-show-you-where-flock-cameras-are-in-your-neighborhood/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T10:59:31.000Z",
-   "hn": {
-    "id": "50129947",
-    "points": 322,
-    "comments": 50
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "1557ed18b567",
-   "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-   "url": "https://llmspeed.dev/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-17T04:36:53.000Z",
-   "hn": {
-    "id": "50127979",
-    "points": 320,
-    "comments": 86
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "06d2ea4b5b7d",
-   "title": "Dam removals are bringing fish back across the northeastern United States",
-   "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T23:47:31.000Z",
-   "hn": {
-    "id": "50126312",
-    "points": 349,
-    "comments": 89
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "f8b040014d2e",
-   "title": "Bleached corals thrive within days when touching healthy neighbour",
-   "url": "https://www.nature.com/articles/d41586-026-03266-x",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-16T23:38:27.000Z",
-   "hn": {
-    "id": "50126253",
-    "points": 539,
-    "comments": 115
-   },
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "843355187353",
-   "title": "It's enough - vibecoding tag crossed from useless to harmful",
-   "url": "https://lobste.rs/s/ggpwfi/it_s_enough_vibecoding_tag_crossed_from",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-18T10:35:11.525Z",
-   "score": 325,
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
-  },
-  {
-   "id": "1123defc000a",
-   "title": "The Brain Sandwich",
-   "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-18T03:03:36.932Z",
-   "score": 37,
-   "firstSeenAt": "2026-10-18T13:09:09.528Z"
   }
  ]
 }
