@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-25T23:05:09.445Z",
+ "generatedAt": "2026-10-26T16:03:08.638Z",
  "items": [
   {
    "id": "13b5d33bcba3",
@@ -12,8 +12,8 @@
    "publishedAt": "2026-10-24T21:47:31.000Z",
    "hn": {
     "id": "50225695",
-    "points": 731,
-    "comments": 672
+    "points": 859,
+    "comments": 752
    },
    "score": 12,
    "firstSeenAt": "2026-10-25T13:39:42.729Z"
@@ -335,6 +335,266 @@
    }
   },
   {
+   "id": "d7b6b5fce56b",
+   "title": "Anthropic S-1",
+   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T13:04:50.000Z",
+   "hn": {
+    "id": "50242939",
+    "points": 758,
+    "comments": 690
+   },
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "e4a60b3d07f5",
+   "title": "Switzerland. Block by block. At 1:1 scale",
+   "url": "https://blocks.manifold3d.ch/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T08:46:09.000Z",
+   "hn": {
+    "id": "50240922",
+    "points": 366,
+    "comments": 170
+   },
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "9fc551b1dcde",
+   "title": "Show HN: TitleArt – Make text like it's 1997",
+   "url": "https://titleart.dvy.io/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T03:23:57.000Z",
+   "hn": {
+    "id": "50238708",
+    "points": 338,
+    "comments": 63
+   },
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "0fe639e32194",
+   "title": "IBM CEO says open weight models are now good and cheap on-prem",
+   "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T01:47:46.000Z",
+   "hn": {
+    "id": "50238088",
+    "points": 381,
+    "comments": 287
+   },
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "f230424bd050",
+   "title": "Lula wins election after final votes tallied",
+   "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T00:31:07.000Z",
+   "hn": {
+    "id": "50237485",
+    "points": 470,
+    "comments": 527
+   },
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "c45c68dc9fe2",
+   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-25T21:11:31.000Z",
+   "hn": {
+    "id": "50236102",
+    "points": 390,
+    "comments": 395
+   },
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "ae2ca87a8fe4",
+   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-25T21:08:28.000Z",
+   "hn": {
+    "id": "50236081",
+    "points": 313,
+    "comments": 172
+   },
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "f1239af4c5bc",
+   "title": "Dolly Parton's Imagination Library",
+   "url": "https://imaginationlibrary.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-25T18:23:54.000Z",
+   "hn": {
+    "id": "50234474",
+    "points": 629,
+    "comments": 105
+   },
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "f32074034d76",
+   "title": "Websites Should Be Printable",
+   "url": "https://brennenputh.me/blog/printable-websites/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T12:02:58.798Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "6725fa290add",
+   "title": "Why is it so expensive to send an email?",
+   "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T13:25:41.253Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "f4fda354a20e",
+   "title": "Simple NetBSD webserver",
+   "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-25T23:13:40.605Z",
+   "score": 43,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "efc9440cd0fa",
+   "title": "About the compromised eMudhra intermediate CAs",
+   "url": "https://support.apple.com/en-us/149555",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T09:58:55.217Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "bf138b1722c9",
+   "title": "“AI Skills” are worthless in 2026",
+   "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T00:23:42.695Z",
+   "score": 31,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "12eed72519ca",
+   "title": "writing about pratt parsing so I remember it",
+   "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T03:06:36.927Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "ceb78450425f",
+   "title": "Gram 3.4.0 released",
+   "url": "https://gram-editor.com/posts/release-3.4.0/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T11:47:25.669Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "e3dbe5050f2f",
+   "title": "OpenLDK: Bringing the Java World into Common Lisp",
+   "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T06:15:19.854Z",
+   "score": 14,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "9f35c9d8bd4a",
+   "title": "The Small Web Is Huge",
+   "url": "https://archive.org/download/small_web/11787-48384.mp4",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T11:34:43.215Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "d0bd59eb6378",
+   "title": "Building Java ME Apps with Modern Tooling",
+   "url": "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-25T21:33:19.325Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "edf59637f599",
+   "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+   "url": "https://www.anthropic.com/news/s1-sec",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-26T00:00:00.000Z",
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "eb7708c5f537",
+   "title": "How Fanatics and OpenAI streamline the fan experience",
+   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-26T07:00:00.000Z",
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
+   "id": "83d5cf45a1dd",
+   "title": "[$] Python's experimental JIT to be removed",
+   "url": "https://lwn.net/Articles/1102102/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-26T15:45:58.000Z",
+   "firstSeenAt": "2026-10-26T16:03:08.638Z"
+  },
+  {
    "id": "ba8662066c89",
    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
@@ -344,8 +604,8 @@
    "publishedAt": "2026-10-25T18:04:11.000Z",
    "hn": {
     "id": "50234232",
-    "points": 320,
-    "comments": 81
+    "points": 494,
+    "comments": 134
    },
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
@@ -359,8 +619,8 @@
    "publishedAt": "2026-10-25T17:30:55.000Z",
    "hn": {
     "id": "50233929",
-    "points": 342,
-    "comments": 170
+    "points": 528,
+    "comments": 261
    },
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
@@ -374,8 +634,8 @@
    "publishedAt": "2026-10-25T17:15:38.000Z",
    "hn": {
     "id": "50233779",
-    "points": 359,
-    "comments": 180
+    "points": 634,
+    "comments": 263
    },
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
@@ -389,8 +649,8 @@
    "publishedAt": "2026-10-25T01:33:49.000Z",
    "hn": {
     "id": "50227356",
-    "points": 344,
-    "comments": 127
+    "points": 362,
+    "comments": 139
    },
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
@@ -404,8 +664,8 @@
    "publishedAt": "2026-10-24T16:06:26.000Z",
    "hn": {
     "id": "50222622",
-    "points": 305,
-    "comments": 214
+    "points": 308,
+    "comments": 220
    },
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
@@ -447,7 +707,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-25T15:09:29.815Z",
-   "score": 43,
+   "score": 80,
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
   {
@@ -458,7 +718,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-25T13:43:11.758Z",
-   "score": 76,
+   "score": 120,
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
   {
@@ -469,7 +729,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-25T15:05:45.735Z",
-   "score": 45,
+   "score": 69,
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
   {
@@ -480,7 +740,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-25T14:18:21.661Z",
-   "score": 27,
+   "score": 61,
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
   {
@@ -491,7 +751,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-25T15:03:10.879Z",
-   "score": 10,
+   "score": 14,
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
   {
@@ -502,7 +762,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-25T15:34:21.618Z",
-   "score": 10,
+   "score": 22,
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
   {
@@ -526,8 +786,8 @@
    "publishedAt": "2026-10-25T09:00:40.000Z",
    "hn": {
     "id": "50229587",
-    "points": 466,
-    "comments": 323
+    "points": 490,
+    "comments": 336
    },
    "firstSeenAt": "2026-10-25T13:39:42.729Z"
   },
@@ -541,8 +801,8 @@
    "publishedAt": "2026-10-24T23:11:54.000Z",
    "hn": {
     "id": "50226419",
-    "points": 497,
-    "comments": 532
+    "points": 537,
+    "comments": 569
    },
    "firstSeenAt": "2026-10-25T13:39:42.729Z"
   },
@@ -556,8 +816,8 @@
    "publishedAt": "2026-10-24T20:30:31.000Z",
    "hn": {
     "id": "50224916",
-    "points": 580,
-    "comments": 416
+    "points": 611,
+    "comments": 444
    },
    "firstSeenAt": "2026-10-25T13:39:42.729Z"
   },
@@ -571,8 +831,8 @@
    "publishedAt": "2026-10-24T19:06:55.000Z",
    "hn": {
     "id": "50224100",
-    "points": 561,
-    "comments": 347
+    "points": 585,
+    "comments": 364
    },
    "firstSeenAt": "2026-10-25T13:39:42.729Z"
   },
@@ -648,8 +908,8 @@
    "publishedAt": "2026-10-24T19:47:19.000Z",
    "hn": {
     "id": "50224463",
-    "points": 608,
-    "comments": 645
+    "points": 635,
+    "comments": 662
    },
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
