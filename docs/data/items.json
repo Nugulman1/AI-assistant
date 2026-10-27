@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-10-27T00:16:31.009Z",
+ "generatedAt": "2026-10-27T15:16:49.716Z",
  "items": [
+  {
+   "id": "820116fa460f",
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T21:59:15.000Z",
+   "hn": {
+    "id": "50251661",
+    "points": 726,
+    "comments": 257
+   },
+   "score": 38,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
   {
    "id": "1758535ac6be",
    "title": "GPT-6.1 Terra",
@@ -12,8 +29,8 @@
    "publishedAt": "2026-10-26T00:00:00.000Z",
    "hn": {
     "id": "50248124",
-    "points": 475,
-    "comments": 300
+    "points": 609,
+    "comments": 388
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -28,11 +45,73 @@
    "publishedAt": "2026-10-26T15:51:23.000Z",
    "hn": {
     "id": "50245831",
-    "points": 367,
-    "comments": 86
+    "points": 526,
+    "comments": 109
    },
-   "score": 42,
+   "score": 86,
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
+  },
+  {
+   "id": "04d9c86d757a",
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T17:56:55.000Z",
+   "score": 53,
+   "firstSeenAt": "2026-10-27T00:16:31.009Z",
+   "hn": {
+    "id": "50248055",
+    "points": 496,
+    "comments": 293
+   }
+  },
+  {
+   "id": "f16aefe89a6e",
+   "title": "Working with academic communities to build scientific understanding",
+   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "sources": [
+    "OpenAI",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T14:30:00.000Z",
+   "firstSeenAt": "2026-10-27T00:16:31.009Z",
+   "hn": {
+    "id": "50251344",
+    "points": 1046,
+    "comments": 582
+   }
+  },
+  {
+   "id": "f32074034d76",
+   "title": "Websites Should Be Printable",
+   "url": "https://brennenputh.me/blog/printable-websites/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T10:32:14.000Z",
+   "score": 77,
+   "firstSeenAt": "2026-10-26T16:03:08.638Z",
+   "hn": {
+    "id": "50241664",
+    "points": 386,
+    "comments": 209
+   }
+  },
+  {
+   "id": "83d5cf45a1dd",
+   "title": "[$] Python's experimental JIT to be removed",
+   "url": "https://lwn.net/Articles/1102102/",
+   "sources": [
+    "LWN",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T15:45:58.000Z",
+   "firstSeenAt": "2026-10-26T16:03:08.638Z",
+   "score": 49
   },
   {
    "id": "13b5d33bcba3",
@@ -301,37 +380,223 @@
    }
   },
   {
-   "id": "8e87036d11b5",
-   "title": "OpenBSD 8.0",
-   "url": "https://www.openbsd.org/80.html",
+   "id": "c61ee1a62651",
+   "title": "AI promised less work. I've never worked more",
+   "url": "https://oioannou.com/blog/ai-promised-less-work/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T01:46:00.374Z",
-   "hn": {
-    "id": "50160494",
-    "points": 485,
-    "comments": 157
-   },
-   "score": 97,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "5e241867830c",
-   "title": "Introducing tsrs: a Port of TypeScript to Rust",
-   "url": "https://blog.cloudflare.com/typescript-rust-port/",
-   "sources": [
-    "Cloudflare",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-20T13:00:00.000Z",
-   "firstSeenAt": "2026-10-20T14:14:36.670Z",
+   "publishedAt": "2026-10-27T11:08:14.000Z",
    "hn": {
-    "id": "50165953",
-    "points": 428,
-    "comments": 209
-   }
+    "id": "50257325",
+    "points": 382,
+    "comments": 338
+   },
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "5964c0b19d95",
+   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
+   "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T10:27:50.000Z",
+   "hn": {
+    "id": "50256985",
+    "points": 370,
+    "comments": 220
+   },
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "eb967c2830c0",
+   "title": "The Mythical Man-Month in the Age of AI",
+   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T06:25:37.000Z",
+   "hn": {
+    "id": "50255298",
+    "points": 316,
+    "comments": 201
+   },
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "24063c118384",
+   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+   "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T17:54:00.000Z",
+   "hn": {
+    "id": "50248005",
+    "points": 304,
+    "comments": 186
+   },
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "ce5ce5fc43fb",
+   "title": "Concerning behavior from a popular open-weight AI model",
+   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T16:35:44.000Z",
+   "hn": {
+    "id": "50246658",
+    "points": 314,
+    "comments": 123
+   },
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "3c6c80c845d8",
+   "title": "Solar power is becoming bigger than nuclear",
+   "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T15:26:17.000Z",
+   "hn": {
+    "id": "50245385",
+    "points": 459,
+    "comments": 647
+   },
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "3ed1f73610e0",
+   "title": "Shitty Screenshare",
+   "url": "http://shittyscreenshare.com",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T00:12:16.704Z",
+   "score": 54,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "b19d44d93223",
+   "title": "Our Response To The eMudhra Key Disclosure Incident",
+   "url": "https://go.dev/blog/emudhra-incident",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T00:31:44.980Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "5e268aca966b",
+   "title": "What are you doing this week?",
+   "url": "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T11:35:18.042Z",
+   "score": 19,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "a9787644b06e",
+   "title": "Heavenly delights of hashing numbers under EQUALP",
+   "url": "https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-26T15:40:59.802Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "f98823f24716",
+   "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+   "url": "https://huggingface.co/papers/2610.34662",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-25T20:00:00.000Z",
+   "score": 231,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "28198522dcb7",
+   "title": "Work Agents: Systems, Capabilities, and Optimization",
+   "url": "https://huggingface.co/papers/2610.35845",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-25T20:00:00.000Z",
+   "score": 91,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "843d007a5379",
+   "title": "Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges",
+   "url": "https://huggingface.co/papers/2610.35193",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-25T20:00:00.000Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "18bddb5f2f25",
+   "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
+   "url": "https://huggingface.co/papers/2610.35518",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-25T20:00:00.000Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "7d30838ffd4e",
+   "title": "EmbodiedLab: Benchmarking Embodied Agents That Act to Know",
+   "url": "https://huggingface.co/papers/2610.35385",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-10-25T20:00:00.000Z",
+   "score": 9,
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "0b3125572ad0",
+   "title": "[$] Guidelines for panics in kernel code",
+   "url": "https://lwn.net/Articles/1100873/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-27T13:56:24.000Z",
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "73905398b90a",
+   "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
+   "url": "https://blog.cloudflare.com/php-ctf/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-27T13:00:00.000Z",
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+  },
+  {
+   "id": "008876f8cd1c",
+   "title": "What took the Internet offline in Q3 2026",
+   "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-27T13:00:00.000Z",
+   "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
   {
    "id": "29d6ce4e361d",
@@ -343,8 +608,8 @@
    "publishedAt": "2026-10-26T17:57:29.000Z",
    "hn": {
     "id": "50248061",
-    "points": 302,
-    "comments": 136
+    "points": 323,
+    "comments": 149
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -358,8 +623,8 @@
    "publishedAt": "2026-10-26T15:35:12.000Z",
    "hn": {
     "id": "50245524",
-    "points": 707,
-    "comments": 624
+    "points": 997,
+    "comments": 1015
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -373,8 +638,8 @@
    "publishedAt": "2026-10-26T15:11:59.000Z",
    "hn": {
     "id": "50245138",
-    "points": 526,
-    "comments": 79
+    "points": 788,
+    "comments": 105
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -388,8 +653,8 @@
    "publishedAt": "2026-10-25T19:11:31.000Z",
    "hn": {
     "id": "50235017",
-    "points": 313,
-    "comments": 99
+    "points": 319,
+    "comments": 104
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -401,18 +666,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T18:44:53.194Z",
-   "score": 19,
-   "firstSeenAt": "2026-10-27T00:16:31.009Z"
-  },
-  {
-   "id": "04d9c86d757a",
-   "title": "Oldest GUI application that still runs on Windows 11",
-   "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T19:49:43.492Z",
-   "score": 24,
+   "score": 37,
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
   {
@@ -423,7 +677,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T16:28:12.452Z",
-   "score": 24,
+   "score": 37,
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
   {
@@ -434,7 +688,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T17:47:50.928Z",
-   "score": 14,
+   "score": 23,
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
   {
@@ -467,16 +721,6 @@
     "OpenAI"
    ],
    "publishedAt": "2026-10-26T22:00:00.000Z",
-   "firstSeenAt": "2026-10-27T00:16:31.009Z"
-  },
-  {
-   "id": "f16aefe89a6e",
-   "title": "Working with academic communities to build scientific understanding",
-   "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-26T14:30:00.000Z",
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
   {
@@ -529,8 +773,8 @@
    "publishedAt": "2026-10-26T13:04:50.000Z",
    "hn": {
     "id": "50242939",
-    "points": 1443,
-    "comments": 1410
+    "points": 1668,
+    "comments": 1607
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -544,8 +788,8 @@
    "publishedAt": "2026-10-26T08:46:09.000Z",
    "hn": {
     "id": "50240922",
-    "points": 455,
-    "comments": 214
+    "points": 469,
+    "comments": 218
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -559,8 +803,8 @@
    "publishedAt": "2026-10-26T03:23:57.000Z",
    "hn": {
     "id": "50238708",
-    "points": 388,
-    "comments": 75
+    "points": 395,
+    "comments": 79
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -574,8 +818,8 @@
    "publishedAt": "2026-10-26T01:47:46.000Z",
    "hn": {
     "id": "50238088",
-    "points": 412,
-    "comments": 324
+    "points": 422,
+    "comments": 331
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -589,8 +833,8 @@
    "publishedAt": "2026-10-26T00:31:07.000Z",
    "hn": {
     "id": "50237485",
-    "points": 500,
-    "comments": 615
+    "points": 508,
+    "comments": 640
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -604,8 +848,8 @@
    "publishedAt": "2026-10-25T21:11:31.000Z",
    "hn": {
     "id": "50236102",
-    "points": 413,
-    "comments": 420
+    "points": 428,
+    "comments": 430
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -619,8 +863,8 @@
    "publishedAt": "2026-10-25T21:08:28.000Z",
    "hn": {
     "id": "50236081",
-    "points": 322,
-    "comments": 177
+    "points": 326,
+    "comments": 178
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -634,20 +878,9 @@
    "publishedAt": "2026-10-25T18:23:54.000Z",
    "hn": {
     "id": "50234474",
-    "points": 672,
-    "comments": 108
+    "points": 679,
+    "comments": 109
    },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "f32074034d76",
-   "title": "Websites Should Be Printable",
-   "url": "https://brennenputh.me/blog/printable-websites/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T12:02:58.798Z",
-   "score": 63,
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
   {
@@ -658,7 +891,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T13:25:41.253Z",
-   "score": 43,
+   "score": 60,
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
   {
@@ -669,7 +902,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-25T23:13:40.605Z",
-   "score": 51,
+   "score": 57,
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
   {
@@ -680,7 +913,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T09:58:55.217Z",
-   "score": 44,
+   "score": 56,
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
   {
@@ -713,7 +946,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T11:47:25.669Z",
-   "score": 50,
+   "score": 67,
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
   {
@@ -770,16 +1003,6 @@
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
   {
-   "id": "83d5cf45a1dd",
-   "title": "[$] Python's experimental JIT to be removed",
-   "url": "https://lwn.net/Articles/1102102/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-26T15:45:58.000Z",
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
    "id": "ba8662066c89",
    "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
    "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
@@ -789,8 +1012,8 @@
    "publishedAt": "2026-10-25T18:04:11.000Z",
    "hn": {
     "id": "50234232",
-    "points": 510,
-    "comments": 147
+    "points": 519,
+    "comments": 152
    },
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
@@ -804,8 +1027,8 @@
    "publishedAt": "2026-10-25T17:30:55.000Z",
    "hn": {
     "id": "50233929",
-    "points": 540,
-    "comments": 269
+    "points": 544,
+    "comments": 276
    },
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
@@ -819,8 +1042,8 @@
    "publishedAt": "2026-10-25T17:15:38.000Z",
    "hn": {
     "id": "50233779",
-    "points": 652,
-    "comments": 269
+    "points": 661,
+    "comments": 271
    },
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
   },
@@ -3223,255 +3446,6 @@
    ],
    "publishedAt": "2026-10-20T17:34:18.000Z",
    "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "4bdf4f7e67ff",
-   "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
-   "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T09:35:40.000Z",
-   "hn": {
-    "id": "50163502",
-    "points": 383,
-    "comments": 551
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "79e072c52849",
-   "title": "DeepSeek just open-sourced its inference engine",
-   "url": "https://github.com/deepseek-ai/DeepInfer",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T09:08:54.000Z",
-   "hn": {
-    "id": "50163277",
-    "points": 2300,
-    "comments": 881
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "efa8c4c666c6",
-   "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-19T23:22:18.000Z",
-   "hn": {
-    "id": "50159341",
-    "points": 732,
-    "comments": 211
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "238f23650b00",
-   "title": "An ad-free Android TV",
-   "url": "https://cretezy.com/2026/ad-free-android-tv",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-19T22:32:37.000Z",
-   "hn": {
-    "id": "50158942",
-    "points": 421,
-    "comments": 182
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "76a5f3484167",
-   "title": "Android apps running native on macOS",
-   "url": "https://github.com/kksimp/Mac.apk",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-19T16:45:30.000Z",
-   "hn": {
-    "id": "50154624",
-    "points": 343,
-    "comments": 191
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "203c0f23de8f",
-   "title": "DeepSeek banned from U.S. federal civilian agencies under new DHS order",
-   "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-19T16:16:46.000Z",
-   "hn": {
-    "id": "50154244",
-    "points": 570,
-    "comments": 526
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "5c911fea0014",
-   "title": "Ukraine claims first drone evacuation of wounded soldier",
-   "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-19T15:31:34.000Z",
-   "hn": {
-    "id": "50153664",
-    "points": 415,
-    "comments": 326
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "e7fd8cf2b322",
-   "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-   "url": "https://news.ycombinator.com/item?id=50151036",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-19T11:24:34.000Z",
-   "hn": {
-    "id": "50151036",
-    "points": 586,
-    "comments": 688
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "f9703d624cd0",
-   "title": "Starcraft: Ashfall",
-   "url": "https://starcraft-shooter-2026.pages.dev/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-19T01:18:02.000Z",
-   "hn": {
-    "id": "50147233",
-    "points": 561,
-    "comments": 190
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "f90a2919f8bd",
-   "title": "Nordwand Mono – A monospace font for coders and adventurers",
-   "url": "https://github.com/tywr/Nordwand-Mono",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-18T14:48:01.000Z",
-   "hn": {
-    "id": "50141581",
-    "points": 417,
-    "comments": 121
-   },
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "b8e65b94e56a",
-   "title": "Setting up SSH keys on macOS with Touch ID",
-   "url": "https://nmattia.com/posts/2026-10-19-setting-up-ssh-keys-touch-id/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T10:23:58.813Z",
-   "score": 66,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "6fa82aa505fc",
-   "title": "Protecting Firefox users following the compromise of eMudhra intermediate certificates",
-   "url": "https://blog.mozilla.org/security/2026/10/20/protecting-firefox-users-following-the-compromise-of-emudhra-intermediate-certificates/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T13:00:50.760Z",
-   "score": 167,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "9a5e68e078ac",
-   "title": "The Netherlands is building its own Linux OS to break free from Microsoft",
-   "url": "https://www.techspot.com/news/114018-netherlands-building-own-linux-os-break-free-microsoft.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-19T20:10:46.398Z",
-   "score": 79,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "47ce42014542",
-   "title": "A Very Fast IPv4 Parser, in Swift",
-   "url": "https://blog.mahdibm.com/posts/a-very-fast-ipv4-parser-in-swift/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T04:04:43.855Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "dd65d743e8de",
-   "title": "MemT-1.0: Towards Memory-Native Evolution",
-   "url": "https://huggingface.co/papers/2610.26825",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-18T20:00:00.000Z",
-   "score": 135,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "3757b88936ab",
-   "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
-   "url": "https://huggingface.co/papers/2610.26802",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-18T20:00:00.000Z",
-   "score": 130,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "0193eb7bc315",
-   "title": "Learning from Fleet Experience: A Collective Learning Paradigm for Robots",
-   "url": "https://huggingface.co/papers/2610.25736",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-18T20:00:00.000Z",
-   "score": 103,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "fc9bd501158f",
-   "title": "Holi-World: Building Holistic World Intelligence from Human-Ego Experience",
-   "url": "https://huggingface.co/papers/2610.26549",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-18T20:00:00.000Z",
-   "score": 83,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
-  },
-  {
-   "id": "93039c7ec696",
-   "title": "EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience",
-   "url": "https://huggingface.co/papers/2610.26625",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-18T20:00:00.000Z",
-   "score": 74,
-   "firstSeenAt": "2026-10-20T14:14:36.670Z"
   }
  ]
 }
