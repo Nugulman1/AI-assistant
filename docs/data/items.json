@@ -1,6 +1,41 @@
 {
- "generatedAt": "2026-10-27T15:16:49.716Z",
+ "generatedAt": "2026-10-28T00:19:11.315Z",
  "items": [
+  {
+   "id": "83d5cf45a1dd",
+   "title": "[$] Python's experimental JIT to be removed",
+   "url": "https://lwn.net/Articles/1102102/",
+   "sources": [
+    "LWN",
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T15:45:58.000Z",
+   "firstSeenAt": "2026-10-26T16:03:08.638Z",
+   "score": 86,
+   "hn": {
+    "id": "50257419",
+    "points": 433,
+    "comments": 228
+   }
+  },
+  {
+   "id": "068ca2c5cfac",
+   "title": "Ghostty 1.4",
+   "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T16:51:22.000Z",
+   "hn": {
+    "id": "50261998",
+    "points": 692,
+    "comments": 214
+   },
+   "score": 10,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
   {
    "id": "820116fa460f",
    "title": "The Exponential Time Hypothesis Is False [pdf]",
@@ -12,10 +47,10 @@
    "publishedAt": "2026-10-26T21:59:15.000Z",
    "hn": {
     "id": "50251661",
-    "points": 726,
-    "comments": 257
+    "points": 775,
+    "comments": 280
    },
-   "score": 38,
+   "score": 51,
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
   {
@@ -29,8 +64,8 @@
    "publishedAt": "2026-10-26T00:00:00.000Z",
    "hn": {
     "id": "50248124",
-    "points": 609,
-    "comments": 388
+    "points": 623,
+    "comments": 417
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -45,10 +80,10 @@
    "publishedAt": "2026-10-26T15:51:23.000Z",
    "hn": {
     "id": "50245831",
-    "points": 526,
-    "comments": 109
+    "points": 542,
+    "comments": 113
    },
-   "score": 86,
+   "score": 107,
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
   {
@@ -60,12 +95,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-26T17:56:55.000Z",
-   "score": 53,
+   "score": 68,
    "firstSeenAt": "2026-10-27T00:16:31.009Z",
    "hn": {
     "id": "50248055",
-    "points": 496,
-    "comments": 293
+    "points": 524,
+    "comments": 319
    }
   },
   {
@@ -80,8 +115,8 @@
    "firstSeenAt": "2026-10-27T00:16:31.009Z",
    "hn": {
     "id": "50251344",
-    "points": 1046,
-    "comments": 582
+    "points": 1125,
+    "comments": 655
    }
   },
   {
@@ -93,25 +128,13 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-26T10:32:14.000Z",
-   "score": 77,
+   "score": 83,
    "firstSeenAt": "2026-10-26T16:03:08.638Z",
    "hn": {
     "id": "50241664",
-    "points": 386,
-    "comments": 209
+    "points": 393,
+    "comments": 211
    }
-  },
-  {
-   "id": "83d5cf45a1dd",
-   "title": "[$] Python's experimental JIT to be removed",
-   "url": "https://lwn.net/Articles/1102102/",
-   "sources": [
-    "LWN",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T15:45:58.000Z",
-   "firstSeenAt": "2026-10-26T16:03:08.638Z",
-   "score": 49
   },
   {
    "id": "13b5d33bcba3",
@@ -346,38 +369,268 @@
    }
   },
   {
-   "id": "621250faf996",
-   "title": "How I got over 300 Tor exit nodes removed",
-   "url": "https://kaba.cx/posts/20261020_Tor/",
+   "id": "099c4912233a",
+   "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+   "url": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T13:39:24.000Z",
-   "hn": {
-    "id": "50166257",
-    "points": 394,
-    "comments": 101
-   },
-   "score": 61,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "a495c873ee90",
-   "title": "Upcoming Critical PHP Security Release",
-   "url": "https://www.php.net/archive/2026.php#2026-10-20-1",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-20T20:15:50.000Z",
-   "score": 191,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z",
+   "publishedAt": "2026-10-27T16:40:15.000Z",
    "hn": {
-    "id": "50172041",
-    "points": 1536,
-    "comments": 655
-   }
+    "id": "50261819",
+    "points": 333,
+    "comments": 263
+   },
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "5ef94984dce4",
+   "title": "Genie 4",
+   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T16:06:01.000Z",
+   "hn": {
+    "id": "50261319",
+    "points": 681,
+    "comments": 412
+   },
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "a4c44e96b0a9",
+   "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+   "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T15:28:26.000Z",
+   "hn": {
+    "id": "50260814",
+    "points": 434,
+    "comments": 249
+   },
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "6a47fd58787b",
+   "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+   "url": "https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T14:06:42.000Z",
+   "hn": {
+    "id": "50259604",
+    "points": 752,
+    "comments": 271
+   },
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "d9d30c9aed94",
+   "title": "New iMac with M6",
+   "url": "https://www.apple.com/imac/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T13:02:02.000Z",
+   "hn": {
+    "id": "50258538",
+    "points": 300,
+    "comments": 361
+   },
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "acb3a24ef951",
+   "title": "Wikipedia's Cleanup of AI-Generated Content",
+   "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T11:08:15.000Z",
+   "hn": {
+    "id": "50257326",
+    "points": 435,
+    "comments": 200
+   },
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "ebeec3c55686",
+   "title": "The EPA Is Quietly Killing Its Web Archive",
+   "url": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-26T19:05:41.000Z",
+   "hn": {
+    "id": "50249275",
+    "points": 304,
+    "comments": 56
+   },
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "a9d9a43c154d",
+   "title": "A fast and secure tar parser for the Rust ecosystem",
+   "url": "https://astral.sh/blog/tar-codec",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T16:59:30.534Z",
+   "score": 42,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "184179dd0a7d",
+   "title": "Four Months of Zig",
+   "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T18:46:09.491Z",
+   "score": 30,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "c3356224ae2c",
+   "title": "1,447 emoji? We'll do it live",
+   "url": "https://planetpeanut.studio/post/2026/10/27/pidgin-emoji-twitch",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T18:28:06.115Z",
+   "score": 28,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "7ac808d5adeb",
+   "title": "Compile-Time Dependent Types",
+   "url": "https://thenumb.at/Syl-Intro/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T14:40:12.552Z",
+   "score": 22,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "3d768712d44f",
+   "title": "A stackless floodfill automation (2023)",
+   "url": "https://t3x.org/files/floodfill.pdf",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T14:56:00.214Z",
+   "score": 21,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "843f0669e299",
+   "title": "Fuzzers vs. AI: Comparing Fuzzilli and BigSleep on JavaScript Engines",
+   "url": "https://projectzero.google/2026/10/fuzzing-v-AI.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T19:08:23.211Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "740e82faab86",
+   "title": "Filian, Fil-C binaries on Debian",
+   "url": "https://cr.yp.to/2025/fil-c.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T16:42:17.342Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "de828194c13f",
+   "title": "Finding panics with Call Graph Analyzer",
+   "url": "https://tweedegolf.nl/en/blog/242/finding-panics-with-call-graph-analyzer/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T16:45:26.466Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "f7bda96a6682",
+   "title": "Full Haskell-like Type Class resolution in Java",
+   "url": "https://garciat.com/posts/java-type-classes/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-27T10:11:53.368Z",
+   "score": 11,
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "fdf27bf9960b",
+   "title": "Early progress on accelerating drug development with Claude",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-27T00:00:00.000Z",
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "16faca12f964",
+   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-27T00:00:00.000Z",
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "d42fb1eb3362",
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "url": "https://openai.com/index/retell-ai",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-27T15:00:00.000Z",
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "a3a879144b29",
+   "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+   "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-27T07:00:00.000Z",
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "8cb333260a17",
+   "title": "How Check Point accelerates vulnerability research with Daybreak",
+   "url": "https://openai.com/index/check-point-daybreak",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-27T00:00:00.000Z",
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "3bd3315ede2e",
+   "title": "AI SRE: what is it, how could it change on-call – and does it work?",
+   "url": "https://newsletter.pragmaticengineer.com/p/ai-sre",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-27T16:19:22.000Z",
+   "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
   {
    "id": "c61ee1a62651",
@@ -389,8 +642,8 @@
    "publishedAt": "2026-10-27T11:08:14.000Z",
    "hn": {
     "id": "50257325",
-    "points": 382,
-    "comments": 338
+    "points": 613,
+    "comments": 609
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -404,8 +657,8 @@
    "publishedAt": "2026-10-27T10:27:50.000Z",
    "hn": {
     "id": "50256985",
-    "points": 370,
-    "comments": 220
+    "points": 455,
+    "comments": 267
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -419,8 +672,8 @@
    "publishedAt": "2026-10-27T06:25:37.000Z",
    "hn": {
     "id": "50255298",
-    "points": 316,
-    "comments": 201
+    "points": 426,
+    "comments": 301
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -434,8 +687,8 @@
    "publishedAt": "2026-10-26T17:54:00.000Z",
    "hn": {
     "id": "50248005",
-    "points": 304,
-    "comments": 186
+    "points": 314,
+    "comments": 203
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -449,8 +702,8 @@
    "publishedAt": "2026-10-26T16:35:44.000Z",
    "hn": {
     "id": "50246658",
-    "points": 314,
-    "comments": 123
+    "points": 324,
+    "comments": 124
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -464,8 +717,8 @@
    "publishedAt": "2026-10-26T15:26:17.000Z",
    "hn": {
     "id": "50245385",
-    "points": 459,
-    "comments": 647
+    "points": 512,
+    "comments": 736
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -477,7 +730,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-27T00:12:16.704Z",
-   "score": 54,
+   "score": 74,
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
   {
@@ -488,7 +741,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-27T00:31:44.980Z",
-   "score": 16,
+   "score": 19,
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
   {
@@ -608,8 +861,8 @@
    "publishedAt": "2026-10-26T17:57:29.000Z",
    "hn": {
     "id": "50248061",
-    "points": 323,
-    "comments": 149
+    "points": 327,
+    "comments": 157
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -623,8 +876,8 @@
    "publishedAt": "2026-10-26T15:35:12.000Z",
    "hn": {
     "id": "50245524",
-    "points": 997,
-    "comments": 1015
+    "points": 1043,
+    "comments": 1095
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -638,8 +891,8 @@
    "publishedAt": "2026-10-26T15:11:59.000Z",
    "hn": {
     "id": "50245138",
-    "points": 788,
-    "comments": 105
+    "points": 822,
+    "comments": 109
    },
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
@@ -666,7 +919,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T18:44:53.194Z",
-   "score": 37,
+   "score": 45,
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
   {
@@ -677,7 +930,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T16:28:12.452Z",
-   "score": 37,
+   "score": 39,
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
   },
   {
@@ -773,8 +1026,8 @@
    "publishedAt": "2026-10-26T13:04:50.000Z",
    "hn": {
     "id": "50242939",
-    "points": 1668,
-    "comments": 1607
+    "points": 1688,
+    "comments": 1646
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -788,8 +1041,8 @@
    "publishedAt": "2026-10-26T08:46:09.000Z",
    "hn": {
     "id": "50240922",
-    "points": 469,
-    "comments": 218
+    "points": 474,
+    "comments": 220
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -803,8 +1056,8 @@
    "publishedAt": "2026-10-26T03:23:57.000Z",
    "hn": {
     "id": "50238708",
-    "points": 395,
-    "comments": 79
+    "points": 396,
+    "comments": 81
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -818,8 +1071,8 @@
    "publishedAt": "2026-10-26T01:47:46.000Z",
    "hn": {
     "id": "50238088",
-    "points": 422,
-    "comments": 331
+    "points": 423,
+    "comments": 334
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -833,8 +1086,8 @@
    "publishedAt": "2026-10-26T00:31:07.000Z",
    "hn": {
     "id": "50237485",
-    "points": 508,
-    "comments": 640
+    "points": 510,
+    "comments": 651
    },
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
@@ -891,7 +1144,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T13:25:41.253Z",
-   "score": 60,
+   "score": 65,
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
   {
@@ -946,7 +1199,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-26T11:47:25.669Z",
-   "score": 67,
+   "score": 72,
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
   },
   {
@@ -3154,298 +3407,6 @@
    ],
    "publishedAt": "2026-10-21T10:51:00.000Z",
    "firstSeenAt": "2026-10-21T14:26:32.698Z"
-  },
-  {
-   "id": "611fba6e9fe5",
-   "title": "SimCity, but with Permits",
-   "url": "https://permit.petercai.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T18:29:09.000Z",
-   "hn": {
-    "id": "50170593",
-    "points": 919,
-    "comments": 416
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "afe5d96a9d46",
-   "title": "Voxtral 3",
-   "url": "https://mistral.ai/news/voxtral-3/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T16:02:07.000Z",
-   "hn": {
-    "id": "50168396",
-    "points": 765,
-    "comments": 199
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "485bd8b965fc",
-   "title": "Facebook Pages require paid subscription to post more than two links per month",
-   "url": "https://mastodon.gamedev.place/@AshleyGullen/117473851565913919",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T15:06:08.000Z",
-   "hn": {
-    "id": "50167536",
-    "points": 465,
-    "comments": 401
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "e236ed9f729d",
-   "title": "Ofcom concedes defeat in 4chan case",
-   "url": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T14:30:31.000Z",
-   "hn": {
-    "id": "50167028",
-    "points": 418,
-    "comments": 439
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "9636bb4edcb6",
-   "title": "EMudhra Intermediate CA Compromise",
-   "url": "https://emudhra.we-have-a-problem.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T13:58:33.000Z",
-   "hn": {
-    "id": "50166579",
-    "points": 1195,
-    "comments": 472
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "6a01ce2d8f26",
-   "title": "Publish fake stats, get cited in LLMs",
-   "url": "https://peec.ai/blog/publish-stats-get-cited-the-tactic-that-put-my-data-all-over-the-web",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T13:06:22.000Z",
-   "hn": {
-    "id": "50165801",
-    "points": 362,
-    "comments": 202
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "bfb6da0751ad",
-   "title": "Apple broke an essential presentation feature of iPads",
-   "url": "https://teddysvoronos.com/2026-10-19-apple-broke-an-essential-presentation-feature-of-ipads/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T12:17:28.000Z",
-   "hn": {
-    "id": "50165208",
-    "points": 597,
-    "comments": 293
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "0c0643e13635",
-   "title": "Google Cloud outage affects almost all banking and other operations in Europe",
-   "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T10:26:02.000Z",
-   "hn": {
-    "id": "50163961",
-    "points": 400,
-    "comments": 203
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "9128766f1662",
-   "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-   "url": "https://github.com/microg/GmsCore/wiki",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T06:37:07.000Z",
-   "hn": {
-    "id": "50162177",
-    "points": 421,
-    "comments": 131
-   },
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "8cc2a1ffa53b",
-   "title": "NixOS is making me less afraid",
-   "url": "https://entropicthoughts.com/nixos-is-making-me-less-afraid",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T13:44:53.025Z",
-   "score": 64,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "8954464df019",
-   "title": "Making a VGA Driver in SystemVerilog",
-   "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T15:58:18.278Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "6718ea3c33f5",
-   "title": "Jepsen: Orkes Conductor 5.3.2",
-   "url": "https://jepsen.io/analyses/orkes-conductor-5.3.2",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T13:14:54.849Z",
-   "score": 32,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "d6ea4698a80d",
-   "title": "Mastodon 5.0: A closer look",
-   "url": "https://blog.joinmastodon.org/2026/10/5.0-a-closer-look/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T17:33:54.484Z",
-   "score": 44,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "4f9033b0de81",
-   "title": "Do minor curl vulnerabilities in the open",
-   "url": "https://daniel.haxx.se/blog/2026/10/20/do-minor-curl-vulnerabilities-in-the-open/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T19:47:54.578Z",
-   "score": 55,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "25afb00f1da5",
-   "title": "Why do we need ud2 when int 6 is right there?",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20261019-00/?p=112781/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T20:43:00.615Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "06d61680b3f5",
-   "title": "The Annotated VT100 Firmware (2022)",
-   "url": "https://vt100.net/dec/vt100/rom/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-20T09:12:23.208Z",
-   "score": 13,
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "b3fcb2e42d32",
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "url": "https://openai.com/index/ted-taylor-restaurant",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-20T10:00:00.000Z",
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "dbaa90254253",
-   "title": "OpenAI acquires Orchestra Bio",
-   "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-20T00:00:00.000Z",
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "4dc8a56e0373",
-   "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
-   "url": "https://simonwillison.net/2026/Oct/20/battledrones/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-10-20T19:34:19.000Z",
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "34b84ef907f5",
-   "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
-   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-10-20T17:04:21.000Z",
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "f0d466a7f367",
-   "title": "[$] SUSE's efforts to disable setuid system-wide",
-   "url": "https://lwn.net/Articles/1100257/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-20T18:36:10.000Z",
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "2ed29ef8b35f",
-   "title": "[$] Discussing a rewrite of XArray",
-   "url": "https://lwn.net/Articles/1100520/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-20T15:46:37.000Z",
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "018e492dbb3d",
-   "title": "8 eMudhra certificates are compromised. Here's what you need to know",
-   "url": "https://blog.cloudflare.com/emudhra-certificate-compromise/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-20T22:20:16.000Z",
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
-  },
-  {
-   "id": "536d96aeb1a6",
-   "title": "What’s the ROI of software engineers’ spending on AI?",
-   "url": "https://newsletter.pragmaticengineer.com/p/whats-the-roi-of-software-engineers",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-10-20T17:34:18.000Z",
-   "firstSeenAt": "2026-10-20T23:41:00.524Z"
   }
  ]
 }
