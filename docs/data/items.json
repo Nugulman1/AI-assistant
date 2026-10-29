@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T00:40:16.100Z",
+ "generatedAt": "2026-10-29T15:59:38.717Z",
  "items": [
   {
    "id": "83d5cf45a1dd",
@@ -20,6 +20,23 @@
    }
   },
   {
+   "id": "44e3e5f137f8",
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "url": "https://divagr.com/blog/qwenputer",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T00:25:45.000Z",
+   "hn": {
+    "id": "50282838",
+    "points": 635,
+    "comments": 133
+   },
+   "score": 18,
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
    "id": "2365cd15a328",
    "title": "Why is this fingerprinting script creating bioweapons?",
    "url": "https://nullpt.rs/fingerprinting-bioweapons",
@@ -30,11 +47,28 @@
    "publishedAt": "2026-10-28T17:13:29.000Z",
    "hn": {
     "id": "50276998",
-    "points": 778,
-    "comments": 176
+    "points": 1471,
+    "comments": 273
    },
-   "score": 15,
+   "score": 92,
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "6527866099b3",
+   "title": "Emacs Turns 50",
+   "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T13:25:11.000Z",
+   "hn": {
+    "id": "50273171",
+    "points": 503,
+    "comments": 219
+   },
+   "firstSeenAt": "2026-10-29T00:40:16.100Z",
+   "score": 61
   },
   {
    "id": "c1abda2ec708",
@@ -47,10 +81,10 @@
    "publishedAt": "2026-10-28T11:03:40.000Z",
    "hn": {
     "id": "50271640",
-    "points": 1030,
-    "comments": 376
+    "points": 1166,
+    "comments": 401
    },
-   "score": 85,
+   "score": 108,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -62,12 +96,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-27T20:35:09.000Z",
-   "score": 25,
+   "score": 33,
    "firstSeenAt": "2026-10-28T15:53:52.657Z",
    "hn": {
     "id": "50265393",
-    "points": 303,
-    "comments": 220
+    "points": 312,
+    "comments": 242
    }
   },
   {
@@ -81,8 +115,8 @@
    "publishedAt": "2026-10-27T16:51:22.000Z",
    "hn": {
     "id": "50261998",
-    "points": 1294,
-    "comments": 412
+    "points": 1334,
+    "comments": 424
    },
    "score": 78,
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
@@ -98,8 +132,8 @@
    "publishedAt": "2026-10-27T16:01:38.000Z",
    "hn": {
     "id": "50261319",
-    "points": 1020,
-    "comments": 576
+    "points": 1036,
+    "comments": 585
    },
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
@@ -115,8 +149,8 @@
    "firstSeenAt": "2026-10-28T00:19:11.315Z",
    "hn": {
     "id": "50265609",
-    "points": 321,
-    "comments": 331
+    "points": 328,
+    "comments": 337
    }
   },
   {
@@ -305,55 +339,220 @@
    }
   },
   {
-   "id": "49bb51281ca6",
-   "title": "Jailbreaking the Switch 2",
-   "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+   "id": "8ccea7e89b70",
+   "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-10-22T08:01:52.000Z",
+   "publishedAt": "2026-10-29T14:13:21.000Z",
    "hn": {
-    "id": "50192536",
-    "points": 814,
-    "comments": 296
+    "id": "50289418",
+    "points": 408,
+    "comments": 97
    },
-   "score": 39,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
-   "id": "5699ea0146a9",
-   "title": "Security Disclosure",
-   "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "id": "132f6324df25",
+   "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+   "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-10-21T21:58:03.000Z",
+   "publishedAt": "2026-10-29T13:40:04.000Z",
    "hn": {
-    "id": "50188228",
-    "points": 596,
-    "comments": 337
+    "id": "50288867",
+    "points": 312,
+    "comments": 197
    },
-   "score": 24,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
-   "id": "7cd25ce54ea6",
-   "title": "GitLab critical patch release",
-   "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+   "id": "271134257c4a",
+   "title": "Claude Code regularly sends each background agent’s transcript to its model",
+   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T03:33:42.000Z",
+   "hn": {
+    "id": "50284255",
+    "points": 522,
+    "comments": 210
+   },
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "34bccb07b60f",
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-28T23:35:02.000Z",
+   "hn": {
+    "id": "50282454",
+    "points": 679,
+    "comments": 576
+   },
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "efddadad9dd2",
+   "title": "A Health Update",
+   "url": "https://furbo.org/2026/10/28/a-health-update/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-28T21:13:21.000Z",
+   "hn": {
+    "id": "50280974",
+    "points": 331,
+    "comments": 52
+   },
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "3f3e82c4e209",
+   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-28T21:03:24.000Z",
+   "hn": {
+    "id": "50280864",
+    "points": 354,
+    "comments": 212
+   },
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "c756110afcd2",
+   "title": "What the fox say?",
+   "url": "https://entropicthoughts.com/what-the-fox-say",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-21T19:01:12.000Z",
-   "hn": {
-    "id": "50185869",
-    "points": 404,
-    "comments": 91
-   },
-   "score": 15,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
+   "publishedAt": "2026-10-29T06:42:40.796Z",
+   "score": 35,
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "f059dcc02bfe",
+   "title": "NetBSD adds a new Emacs-like text editor called atto",
+   "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T11:58:00.549Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "c6d25904346f",
+   "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
+   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T23:01:26.314Z",
+   "score": 40,
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "5aad679eab5d",
+   "title": "The Future Trait Has A Missing State",
+   "url": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T04:24:28.224Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "743771232c40",
+   "title": "The case of the 9 bit AES key",
+   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T02:13:24.028Z",
+   "score": 29,
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "82fe7f922f75",
+   "title": "Redox Ring Buffers Project Summary",
+   "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T02:04:00.893Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "5bb1b87db247",
+   "title": "[$] Containers as a recognized kernel object",
+   "url": "https://lwn.net/Articles/1102593/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-29T14:02:30.000Z",
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "efe72c6018e6",
+   "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
+   "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-29T12:55:00.000Z",
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "9690f6dbc3ae",
+   "title": "NYC",
+   "url": "http://notes.eatonphil.com/2026-10-29-nyc.html",
+   "sources": [
+    "Phil Eaton"
+   ],
+   "publishedAt": "2026-10-29T00:00:00.000Z",
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "739e0b5535e3",
+   "title": "Bliki: LLM Voice",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-10-29T14:28:00.000Z",
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "e73b1e188559",
+   "title": "Why are good developers so wary of agentic development?",
+   "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-10-29T13:50:00.000Z",
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "22a42169ff91",
+   "title": "Software engineering at Google & CS education with Titus Winters",
+   "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-29T13:37:13.000Z",
+   "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
    "id": "d76d59f8ae2e",
@@ -365,8 +564,8 @@
    "publishedAt": "2026-10-28T17:10:37.000Z",
    "hn": {
     "id": "50276940",
-    "points": 489,
-    "comments": 837
+    "points": 604,
+    "comments": 1039
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -380,8 +579,8 @@
    "publishedAt": "2026-10-28T17:01:23.000Z",
    "hn": {
     "id": "50276792",
-    "points": 781,
-    "comments": 640
+    "points": 985,
+    "comments": 785
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -395,8 +594,8 @@
    "publishedAt": "2026-10-28T14:38:22.000Z",
    "hn": {
     "id": "50274409",
-    "points": 393,
-    "comments": 115
+    "points": 511,
+    "comments": 140
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -410,23 +609,8 @@
    "publishedAt": "2026-10-28T13:41:30.000Z",
    "hn": {
     "id": "50273396",
-    "points": 420,
-    "comments": 466
-   },
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "6527866099b3",
-   "title": "Emacs Turns 50",
-   "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T13:25:11.000Z",
-   "hn": {
-    "id": "50273171",
-    "points": 404,
-    "comments": 173
+    "points": 477,
+    "comments": 512
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -440,8 +624,8 @@
    "publishedAt": "2026-10-28T08:48:21.000Z",
    "hn": {
     "id": "50270764",
-    "points": 326,
-    "comments": 399
+    "points": 338,
+    "comments": 429
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -453,7 +637,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T16:07:18.151Z",
-   "score": 29,
+   "score": 41,
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
@@ -464,7 +648,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T16:47:10.029Z",
-   "score": 27,
+   "score": 41,
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
@@ -486,7 +670,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T13:39:42.162Z",
-   "score": 13,
+   "score": 17,
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
@@ -497,7 +681,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T13:34:06.200Z",
-   "score": 15,
+   "score": 31,
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
@@ -593,8 +777,8 @@
    "publishedAt": "2026-10-28T12:49:45.000Z",
    "hn": {
     "id": "50272749",
-    "points": 1094,
-    "comments": 901
+    "points": 1164,
+    "comments": 981
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -608,8 +792,8 @@
    "publishedAt": "2026-10-28T01:47:50.000Z",
    "hn": {
     "id": "50268380",
-    "points": 427,
-    "comments": 252
+    "points": 444,
+    "comments": 265
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -623,8 +807,8 @@
    "publishedAt": "2026-10-27T19:55:21.000Z",
    "hn": {
     "id": "50264857",
-    "points": 378,
-    "comments": 189
+    "points": 389,
+    "comments": 196
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -638,8 +822,8 @@
    "publishedAt": "2026-10-27T19:55:06.000Z",
    "hn": {
     "id": "50264853",
-    "points": 516,
-    "comments": 194
+    "points": 533,
+    "comments": 198
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -653,8 +837,8 @@
    "publishedAt": "2026-10-27T18:44:17.000Z",
    "hn": {
     "id": "50263854",
-    "points": 325,
-    "comments": 204
+    "points": 331,
+    "comments": 209
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -668,8 +852,8 @@
    "publishedAt": "2026-10-27T16:25:30.000Z",
    "hn": {
     "id": "50261589",
-    "points": 367,
-    "comments": 283
+    "points": 379,
+    "comments": 290
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -683,8 +867,8 @@
    "publishedAt": "2026-10-27T16:08:32.000Z",
    "hn": {
     "id": "50261352",
-    "points": 421,
-    "comments": 603
+    "points": 435,
+    "comments": 616
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -711,7 +895,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T03:56:49.155Z",
-   "score": 114,
+   "score": 141,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -722,7 +906,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T10:34:55.669Z",
-   "score": 61,
+   "score": 76,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -884,8 +1068,8 @@
    "publishedAt": "2026-10-27T16:40:15.000Z",
    "hn": {
     "id": "50261819",
-    "points": 392,
-    "comments": 308
+    "points": 397,
+    "comments": 312
    },
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
@@ -972,7 +1156,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-27T16:59:30.534Z",
-   "score": 81,
+   "score": 89,
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
   {
@@ -3092,255 +3276,6 @@
    ],
    "publishedAt": "2026-10-22T16:25:50.000Z",
    "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "b532d00ad0fc",
-   "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-   "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T08:51:31.000Z",
-   "hn": {
-    "id": "50192900",
-    "points": 336,
-    "comments": 123
-   },
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "8802a7899044",
-   "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-   "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T02:18:41.000Z",
-   "hn": {
-    "id": "50190363",
-    "points": 608,
-    "comments": 182
-   },
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "ad2f63999e9a",
-   "title": "mitmproxy adds --emudhra option",
-   "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T23:51:37.000Z",
-   "hn": {
-    "id": "50189232",
-    "points": 614,
-    "comments": 146
-   },
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "aab263018991",
-   "title": "There isn't an easy exploit for this PHP vulnerability",
-   "url": "https://eliastaylor.com/noexploit/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T23:13:27.000Z",
-   "hn": {
-    "id": "50188948",
-    "points": 618,
-    "comments": 459
-   },
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "5dbb54a00540",
-   "title": "Claude Duet",
-   "url": "https://claude.com/product/claude-duet",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T19:14:01.000Z",
-   "hn": {
-    "id": "50186037",
-    "points": 551,
-    "comments": 522
-   },
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "978228b9babb",
-   "title": "PingCap TiDB Leaks",
-   "url": "https://fulcrumsec.vg/pingcap/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-20T22:45:39.000Z",
-   "hn": {
-    "id": "50173716",
-    "points": 390,
-    "comments": 66
-   },
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "7ed53aa09f61",
-   "title": "examining the macOS gcc binary",
-   "url": "https://zoey-on-github.github.io/blog/macgcc.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T06:45:58.884Z",
-   "score": 61,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "835c451e1d04",
-   "title": "Using a lookup-table to correct an approximation",
-   "url": "https://www.corsix.org/content/using-a-lookup-table-to-correct-an-approximation",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T04:18:37.037Z",
-   "score": 37,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "6b8ad023603d",
-   "title": "Garmin Revamps and Opens Up Connect Developer API Program",
-   "url": "https://www.dcrainmaker.com/2026/10/garmin-connect-api-revamps-connect-developer.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T08:09:55.509Z",
-   "score": 15,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "1321330de0aa",
-   "title": "Announcing DuckDB 2.0.0 LTS “Cinnamon Teal”",
-   "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T06:15:07.575Z",
-   "score": 32,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "cead82cd3e76",
-   "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
-   "url": "https://huggingface.co/papers/2610.29997",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-20T20:00:00.000Z",
-   "score": 99,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "0f7eabbb925d",
-   "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
-   "url": "https://huggingface.co/papers/2610.29989",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-20T20:00:00.000Z",
-   "score": 65,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "5bc547459da2",
-   "title": "Retrieval Augmented Generation Compositionality",
-   "url": "https://huggingface.co/papers/2610.29722",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-20T20:00:00.000Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "4c5892041ccf",
-   "title": "Memory-Centric Continual Learning for AI Agents",
-   "url": "https://huggingface.co/papers/2610.29357",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-20T20:00:00.000Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "4daaac9c4523",
-   "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
-   "url": "https://huggingface.co/papers/2610.30108",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-20T20:00:00.000Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "63c31ca523f9",
-   "title": "What FDE means at OpenAI",
-   "url": "https://openai.com/index/forward-deployed-engineering-means",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-22T06:00:00.000Z",
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "9201054eeb4c",
-   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "url": "https://openai.com/index/cloudflare-cyber",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-21T00:00:00.000Z",
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "ced24a2d2b47",
-   "title": "[$] Rust features in the future",
-   "url": "https://lwn.net/Articles/1099606/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-22T13:19:56.000Z",
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "2d88ca7bd0f8",
-   "title": "[$] LWN.net Weekly Edition for October 22, 2026",
-   "url": "https://lwn.net/Articles/1100612/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-22T00:29:22.000Z",
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "8021cc12e6d8",
-   "title": "Localizing compliance at scale: achieving South Korea’s ISMS certification",
-   "url": "https://blog.cloudflare.com/k-isms/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-22T13:00:00.000Z",
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "c4f0d40ba70c",
-   "title": "The Pulse: Time to rethink software security because of AI?",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-do-we-need-to-rethink-software",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-10-22T14:08:21.000Z",
-   "firstSeenAt": "2026-10-22T14:27:58.878Z"
   }
  ]
 }
