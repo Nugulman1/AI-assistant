@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-28T15:53:52.657Z",
+ "generatedAt": "2026-10-29T00:40:16.100Z",
  "items": [
   {
    "id": "83d5cf45a1dd",
@@ -15,9 +15,26 @@
    "score": 95,
    "hn": {
     "id": "50257419",
-    "points": 552,
-    "comments": 299
+    "points": 562,
+    "comments": 326
    }
+  },
+  {
+   "id": "2365cd15a328",
+   "title": "Why is this fingerprinting script creating bioweapons?",
+   "url": "https://nullpt.rs/fingerprinting-bioweapons",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T17:13:29.000Z",
+   "hn": {
+    "id": "50276998",
+    "points": 778,
+    "comments": 176
+   },
+   "score": 15,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
    "id": "c1abda2ec708",
@@ -30,11 +47,28 @@
    "publishedAt": "2026-10-28T11:03:40.000Z",
    "hn": {
     "id": "50271640",
-    "points": 611,
-    "comments": 231
+    "points": 1030,
+    "comments": 376
    },
-   "score": 49,
+   "score": 85,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
+  },
+  {
+   "id": "9d02bbba005f",
+   "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+   "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T20:35:09.000Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-28T15:53:52.657Z",
+   "hn": {
+    "id": "50265393",
+    "points": 303,
+    "comments": 220
+   }
   },
   {
    "id": "068ca2c5cfac",
@@ -47,10 +81,10 @@
    "publishedAt": "2026-10-27T16:51:22.000Z",
    "hn": {
     "id": "50261998",
-    "points": 1208,
-    "comments": 386
+    "points": 1294,
+    "comments": 412
    },
-   "score": 66,
+   "score": 78,
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
   {
@@ -64,10 +98,26 @@
    "publishedAt": "2026-10-27T16:01:38.000Z",
    "hn": {
     "id": "50261319",
-    "points": 986,
-    "comments": 562
+    "points": 1020,
+    "comments": 576
    },
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
+  },
+  {
+   "id": "fdf27bf9960b",
+   "title": "Early progress on accelerating drug development with Claude",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "sources": [
+    "Anthropic",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-27T00:00:00.000Z",
+   "firstSeenAt": "2026-10-28T00:19:11.315Z",
+   "hn": {
+    "id": "50265609",
+    "points": 321,
+    "comments": 331
+   }
   },
   {
    "id": "820116fa460f",
@@ -306,50 +356,232 @@
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
   },
   {
-   "id": "a0e7a23f62c4",
-   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-   "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "id": "d76d59f8ae2e",
+   "title": "MacBook Pro with PROLED XDR Display and Touch",
+   "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T14:00:26.000Z",
-   "hn": {
-    "id": "50181114",
-    "points": 587,
-    "comments": 191
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z",
-   "score": 11
-  },
-  {
-   "id": "ca78317f24e4",
-   "title": "Google's Rust Style Guide",
-   "url": "https://google.github.io/styleguide/rustguide.html",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-21T19:11:57.000Z",
-   "score": 51,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z",
+   "publishedAt": "2026-10-28T17:10:37.000Z",
    "hn": {
-    "id": "50186010",
-    "points": 383,
-    "comments": 252
-   }
+    "id": "50276940",
+    "points": 489,
+    "comments": 837
+   },
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
-   "id": "bcf23d80258f",
-   "title": "[$] Understanding Nix flakes",
-   "url": "https://lwn.net/Articles/1094226/",
+   "id": "6318bf62f2c5",
+   "title": "Gemini 4 Carbon",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
    "sources": [
-    "LWN",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-28T17:01:23.000Z",
+   "hn": {
+    "id": "50276792",
+    "points": 781,
+    "comments": 640
+   },
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "dc6480c52959",
+   "title": "CNC Stone Carving",
+   "url": "https://carmelitegothic.com/cnc-stone-carving/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-28T14:38:22.000Z",
+   "hn": {
+    "id": "50274409",
+    "points": 393,
+    "comments": 115
+   },
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "31ebe027e441",
+   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+   "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-28T13:41:30.000Z",
+   "hn": {
+    "id": "50273396",
+    "points": 420,
+    "comments": 466
+   },
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "6527866099b3",
+   "title": "Emacs Turns 50",
+   "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-28T13:25:11.000Z",
+   "hn": {
+    "id": "50273171",
+    "points": 404,
+    "comments": 173
+   },
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "e8d17d64fa09",
+   "title": "Wealth Inequality in America drawn to scale",
+   "url": "https://dreamagainusa.org/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-28T08:48:21.000Z",
+   "hn": {
+    "id": "50270764",
+    "points": 326,
+    "comments": 399
+   },
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "b086f4401bd8",
+   "title": "GOTO Considered Totally Sick (for error handling in C)",
+   "url": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-21T14:33:54.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z",
-   "score": 31
+   "publishedAt": "2026-10-28T16:07:18.151Z",
+   "score": 29,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "fb6977cb610e",
+   "title": "Hoot 0.10.0 released",
+   "url": "https://spritely.institute/news/hoot-0-10-0-released.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T16:47:10.029Z",
+   "score": 27,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "833ed5ac2f99",
+   "title": "Start Doing Graph Theory",
+   "url": "https://vertex.degree/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T10:12:59.688Z",
+   "score": 31,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "1cdc2a43b76e",
+   "title": "Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?",
+   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T13:39:42.162Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "68f7c17af787",
+   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T13:34:06.200Z",
+   "score": 15,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "7a667d418166",
+   "title": "The Benchmarking Crisis",
+   "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T08:32:09.482Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "6d680748f9b6",
+   "title": "Pair-coding Lobste.rs feat",
+   "url": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T15:53:34.963Z",
+   "score": 19,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "2385b6df5551",
+   "title": "Who’s 0xabadbabe and why? (2011)",
+   "url": "https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-28T07:57:21.752Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "ad10900db6cd",
+   "title": "AI for Science expands to foundations and research institutions",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-10-28T00:00:00.000Z",
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "75e2017ed4c5",
+   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-28T13:15:00.000Z",
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "0dc3cf0b7c98",
+   "title": "The future of the firm",
+   "url": "https://openai.com/index/the-future-of-the-firm",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-28T10:00:00.000Z",
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "34b0bf3f94c3",
+   "title": "Gemini 4 Carbon: Our next frontier model",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-10-28T17:00:58.000Z",
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+  },
+  {
+   "id": "26b87cf6f617",
+   "title": "[$] LWN.net Weekly Edition for October 29, 2026",
+   "url": "https://lwn.net/Articles/1102136/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-29T00:19:08.000Z",
+   "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
    "id": "a4bbf0966a74",
@@ -361,8 +593,8 @@
    "publishedAt": "2026-10-28T12:49:45.000Z",
    "hn": {
     "id": "50272749",
-    "points": 716,
-    "comments": 510
+    "points": 1094,
+    "comments": 901
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -376,8 +608,8 @@
    "publishedAt": "2026-10-28T01:47:50.000Z",
    "hn": {
     "id": "50268380",
-    "points": 371,
-    "comments": 190
+    "points": 427,
+    "comments": 252
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -391,8 +623,8 @@
    "publishedAt": "2026-10-27T19:55:21.000Z",
    "hn": {
     "id": "50264857",
-    "points": 335,
-    "comments": 176
+    "points": 378,
+    "comments": 189
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -406,8 +638,8 @@
    "publishedAt": "2026-10-27T19:55:06.000Z",
    "hn": {
     "id": "50264853",
-    "points": 452,
-    "comments": 170
+    "points": 516,
+    "comments": 194
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -421,8 +653,8 @@
    "publishedAt": "2026-10-27T18:44:17.000Z",
    "hn": {
     "id": "50263854",
-    "points": 316,
-    "comments": 189
+    "points": 325,
+    "comments": 204
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -436,8 +668,8 @@
    "publishedAt": "2026-10-27T16:25:30.000Z",
    "hn": {
     "id": "50261589",
-    "points": 345,
-    "comments": 265
+    "points": 367,
+    "comments": 283
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -451,8 +683,8 @@
    "publishedAt": "2026-10-27T16:08:32.000Z",
    "hn": {
     "id": "50261352",
-    "points": 403,
-    "comments": 556
+    "points": 421,
+    "comments": 603
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -466,8 +698,8 @@
    "publishedAt": "2026-10-27T11:30:35.000Z",
    "hn": {
     "id": "50257548",
-    "points": 333,
-    "comments": 337
+    "points": 337,
+    "comments": 342
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -479,7 +711,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T03:56:49.155Z",
-   "score": 82,
+   "score": 114,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -490,18 +722,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T10:34:55.669Z",
-   "score": 45,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "9d02bbba005f",
-   "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-   "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T09:18:31.981Z",
-   "score": 15,
+   "score": 61,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -512,7 +733,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T09:47:41.873Z",
-   "score": 12,
+   "score": 22,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -523,7 +744,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T07:26:03.185Z",
-   "score": 13,
+   "score": 14,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -534,7 +755,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T01:27:50.204Z",
-   "score": 24,
+   "score": 31,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -663,8 +884,8 @@
    "publishedAt": "2026-10-27T16:40:15.000Z",
    "hn": {
     "id": "50261819",
-    "points": 382,
-    "comments": 303
+    "points": 392,
+    "comments": 308
    },
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
@@ -678,8 +899,8 @@
    "publishedAt": "2026-10-27T15:28:26.000Z",
    "hn": {
     "id": "50260814",
-    "points": 550,
-    "comments": 282
+    "points": 569,
+    "comments": 288
    },
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
@@ -693,8 +914,8 @@
    "publishedAt": "2026-10-27T14:06:42.000Z",
    "hn": {
     "id": "50259604",
-    "points": 1035,
-    "comments": 412
+    "points": 1070,
+    "comments": 429
    },
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
@@ -708,8 +929,8 @@
    "publishedAt": "2026-10-27T13:02:02.000Z",
    "hn": {
     "id": "50258538",
-    "points": 362,
-    "comments": 463
+    "points": 371,
+    "comments": 481
    },
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
@@ -723,8 +944,8 @@
    "publishedAt": "2026-10-27T11:08:15.000Z",
    "hn": {
     "id": "50257326",
-    "points": 490,
-    "comments": 223
+    "points": 497,
+    "comments": 235
    },
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
@@ -751,7 +972,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-27T16:59:30.534Z",
-   "score": 76,
+   "score": 81,
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
   {
@@ -762,7 +983,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-27T18:46:09.491Z",
-   "score": 64,
+   "score": 69,
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
   {
@@ -773,7 +994,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-27T18:28:06.115Z",
-   "score": 43,
+   "score": 48,
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
   {
@@ -843,16 +1064,6 @@
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
   },
   {
-   "id": "fdf27bf9960b",
-   "title": "Early progress on accelerating drug development with Claude",
-   "url": "https://www.anthropic.com/research/early-progress-drug-development",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-27T00:00:00.000Z",
-   "firstSeenAt": "2026-10-28T00:19:11.315Z"
-  },
-  {
    "id": "16faca12f964",
    "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
    "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
@@ -912,8 +1123,8 @@
    "publishedAt": "2026-10-27T11:08:14.000Z",
    "hn": {
     "id": "50257325",
-    "points": 652,
-    "comments": 647
+    "points": 664,
+    "comments": 654
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -927,8 +1138,8 @@
    "publishedAt": "2026-10-27T10:27:50.000Z",
    "hn": {
     "id": "50256985",
-    "points": 477,
-    "comments": 271
+    "points": 479,
+    "comments": 274
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -942,8 +1153,8 @@
    "publishedAt": "2026-10-27T06:25:37.000Z",
    "hn": {
     "id": "50255298",
-    "points": 466,
-    "comments": 340
+    "points": 475,
+    "comments": 352
    },
    "firstSeenAt": "2026-10-27T15:16:49.716Z"
   },
@@ -3130,288 +3341,6 @@
    ],
    "publishedAt": "2026-10-22T14:08:21.000Z",
    "firstSeenAt": "2026-10-22T14:27:58.878Z"
-  },
-  {
-   "id": "820bd24a41c4",
-   "title": "Mistral Large 4",
-   "url": "https://mistral.ai/news/mistral-large-4/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T19:20:55.000Z",
-   "hn": {
-    "id": "50186129",
-    "points": 326,
-    "comments": 104
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "af5d3897eb07",
-   "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
-   "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T17:45:13.000Z",
-   "hn": {
-    "id": "50184820",
-    "points": 689,
-    "comments": 423
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "bbc988e4da29",
-   "title": "EA is shutting down BioWare",
-   "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T17:29:33.000Z",
-   "hn": {
-    "id": "50184586",
-    "points": 695,
-    "comments": 471
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "2ce3f3251873",
-   "title": "Today's PHP security release, and how we're strengthening security",
-   "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T15:48:56.000Z",
-   "hn": {
-    "id": "50182987",
-    "points": 806,
-    "comments": 396
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "744c04908177",
-   "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
-   "url": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T14:01:25.000Z",
-   "hn": {
-    "id": "50181137",
-    "points": 525,
-    "comments": 524
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "764a23f0c296",
-   "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
-   "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T14:01:22.000Z",
-   "hn": {
-    "id": "50181136",
-    "points": 454,
-    "comments": 62
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "11e92edf73fb",
-   "title": "PHP 8.2.35",
-   "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T13:45:33.000Z",
-   "hn": {
-    "id": "50180873",
-    "points": 1076,
-    "comments": 558
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "d31a18ead424",
-   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-   "url": "https://www.wiz.io/blog/php2shell-php-rce",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T13:43:19.000Z",
-   "hn": {
-    "id": "50180836",
-    "points": 446,
-    "comments": 184
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "add383da2fc0",
-   "title": "Muse exposes users' personal and business secrets when they share conversations",
-   "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-21T00:45:59.000Z",
-   "hn": {
-    "id": "50174687",
-    "points": 402,
-    "comments": 174
-   },
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "fcb3a6125264",
-   "title": "Firefox Local Mode",
-   "url": "https://firefox-source-docs.mozilla.org/devtools-user/local_mode/index.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T15:47:59.191Z",
-   "score": 145,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "b4eefe4fa1fe",
-   "title": "zls 0.17.0",
-   "url": "https://zigtools.org/zls/releases/0.17.0/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T15:24:05.938Z",
-   "score": 70,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "82c4c420143e",
-   "title": "Passkeys Attestation Trap",
-   "url": "https://mjtsai.com/blog/2026/10/15/passkeys-attestation-trap/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T18:16:22.533Z",
-   "score": 29,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "69b1f94cc8f8",
-   "title": "CVE-2026-107891: musl libc: multiple integer overflow in regcomp, possibly leading to incorrect allocation sizes and out-of-bounds heap writes",
-   "url": "https://www.openwall.com/lists/oss-security/2026/10/21/18",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T17:40:17.687Z",
-   "score": 50,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "2b570c34e0e6",
-   "title": "Flow Typing, A New Lens on Linearity",
-   "url": "https://jaredforsyth.com/posts/papers-we-love-lens-on-linearity/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T18:54:02.529Z",
-   "score": 25,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "be30d9fae60d",
-   "title": "Don't throw it all away: Caching an immediate-mode UI",
-   "url": "https://blickeditor.com/blog/caching-an-immediate-mode-ui",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T17:16:47.888Z",
-   "score": 32,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "e31bf18aa91a",
-   "title": "Node.js — Wednesday, October 21, 2026 Security Releases",
-   "url": "https://nodejs.org/en/blog/vulnerability/october-2026-security-releases",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-21T15:53:37.372Z",
-   "score": 12,
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "b12d9d8f2012",
-   "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
-   "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-21T00:00:00.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "2ed22a61b2f1",
-   "title": "Broad access through consistent standards",
-   "url": "https://openai.com/index/broad-access-through-consistent-standards",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-21T21:00:00.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "4ab93569e260",
-   "title": "How AT&T is rethinking in-house legal work with OpenAI",
-   "url": "https://openai.com/index/att-legal",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-21T17:00:00.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "d3f519557f32",
-   "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-   "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-21T07:00:00.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "b2deaf97c98c",
-   "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-   "url": "https://openai.com/index/empowering-cyber-defenders",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-21T00:00:00.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "6f436e206df6",
-   "title": "[$] Hash-based module integrity for reproducible distributions",
-   "url": "https://lwn.net/Articles/1100026/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-21T16:14:55.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
-  },
-  {
-   "id": "28a12ec0950e",
-   "title": "The revised rules of engineering management with Will Larson",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-revised-rules-of-engineering",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-10-21T16:58:21.000Z",
-   "firstSeenAt": "2026-10-21T23:56:19.984Z"
   }
  ]
 }
