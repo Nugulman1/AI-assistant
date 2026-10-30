@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-29T15:59:38.717Z",
+ "generatedAt": "2026-10-30T00:40:58.483Z",
  "items": [
   {
    "id": "83d5cf45a1dd",
@@ -30,11 +30,27 @@
    "publishedAt": "2026-10-29T00:25:45.000Z",
    "hn": {
     "id": "50282838",
-    "points": 635,
-    "comments": 133
+    "points": 679,
+    "comments": 143
    },
-   "score": 18,
+   "score": 40,
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
+  },
+  {
+   "id": "739e0b5535e3",
+   "title": "Bliki: LLM Voice",
+   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "sources": [
+    "Martin Fowler",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T14:28:00.000Z",
+   "firstSeenAt": "2026-10-29T15:59:38.717Z",
+   "hn": {
+    "id": "50290177",
+    "points": 325,
+    "comments": 168
+   }
   },
   {
    "id": "2365cd15a328",
@@ -47,10 +63,10 @@
    "publishedAt": "2026-10-28T17:13:29.000Z",
    "hn": {
     "id": "50276998",
-    "points": 1471,
-    "comments": 273
+    "points": 1537,
+    "comments": 291
    },
-   "score": 92,
+   "score": 108,
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
@@ -64,11 +80,11 @@
    "publishedAt": "2026-10-28T13:25:11.000Z",
    "hn": {
     "id": "50273171",
-    "points": 503,
-    "comments": 219
+    "points": 511,
+    "comments": 236
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z",
-   "score": 61
+   "score": 74
   },
   {
    "id": "c1abda2ec708",
@@ -81,10 +97,10 @@
    "publishedAt": "2026-10-28T11:03:40.000Z",
    "hn": {
     "id": "50271640",
-    "points": 1166,
-    "comments": 401
+    "points": 1185,
+    "comments": 408
    },
-   "score": 108,
+   "score": 118,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -305,38 +321,230 @@
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
   {
-   "id": "d2f362921d45",
-   "title": "Quad9 (DNS Resolver) to Exit France",
-   "url": "https://quad9.net/news/blog/au-revoir-france/",
+   "id": "4c4b30fd3641",
+   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+   "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T14:32:38.000Z",
-   "hn": {
-    "id": "50195959",
-    "points": 1360,
-    "comments": 474
-   },
-   "score": 112,
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "46a214f27141",
-   "title": "Docker is weird",
-   "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-22T20:09:22.732Z",
-   "score": 99,
-   "firstSeenAt": "2026-10-22T23:55:11.271Z",
+   "publishedAt": "2026-10-29T21:38:59.000Z",
    "hn": {
-    "id": "50202681",
-    "points": 861,
-    "comments": 367
-   }
+    "id": "50296470",
+    "points": 578,
+    "comments": 349
+   },
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "1ffd1f6b6f1e",
+   "title": "Patrick Stewart has died",
+   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T19:41:39.000Z",
+   "hn": {
+    "id": "50294702",
+    "points": 2230,
+    "comments": 460
+   },
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "53a5e7318375",
+   "title": "Google Search is now less than half of Alphabet’s revenue",
+   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T16:42:17.000Z",
+   "hn": {
+    "id": "50291945",
+    "points": 386,
+    "comments": 327
+   },
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "72c27fdbb2d3",
+   "title": "H.264 Is Magic (2016)",
+   "url": "https://sidbala.com/h-264-is-magic/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T15:53:03.000Z",
+   "hn": {
+    "id": "50291054",
+    "points": 311,
+    "comments": 118
+   },
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "5105c2e67b42",
+   "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
+   "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T13:40:04.000Z",
+   "hn": {
+    "id": "50288867",
+    "points": 405,
+    "comments": 377
+   },
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "eebb63f2228b",
+   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T12:41:56.000Z",
+   "hn": {
+    "id": "50288019",
+    "points": 328,
+    "comments": 240
+   },
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "7d7fff6eeb19",
+   "title": "DoorDash to acquire Instacart",
+   "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T12:33:05.000Z",
+   "hn": {
+    "id": "50287919",
+    "points": 407,
+    "comments": 590
+   },
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "200c1f79f693",
+   "title": "Zero click, silent, remote Android DoS",
+   "url": "https://smsofdeath.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T07:08:50.000Z",
+   "hn": {
+    "id": "50285452",
+    "points": 314,
+    "comments": 174
+   },
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "f7aafc8a3091",
+   "title": "London meetup",
+   "url": "https://lobste.rs/s/dsrruj/london_meetup",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T20:56:43.483Z",
+   "score": 16,
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "612a4e4b4ddb",
+   "title": "Shared password manager for families?",
+   "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T14:39:51.453Z",
+   "score": 25,
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "e72de5499951",
+   "title": "My favourite PowerMac is a Nintendo Wii",
+   "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T16:32:18.607Z",
+   "score": 30,
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "caa0bffb4e41",
+   "title": "Phorge",
+   "url": "https://www.phorge.it/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T16:08:47.184Z",
+   "score": 12,
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "fc9a9243a7e5",
+   "title": "Will Open Firmware Become the Next Big Trend in Electronic Music Gear?",
+   "url": "https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T14:37:32.398Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "4ac0691c5069",
+   "title": "Nim version 2.4.0 released",
+   "url": "https://nim-lang.org/blog/2026/10/28/nim-240.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T12:07:26.400Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "7bf0065ceb16",
+   "title": "An updated Model Spec for more capable and beneficial AI",
+   "url": "https://openai.com/index/updated-model-spec",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-29T17:00:00.000Z",
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "d28967fce9c6",
+   "title": "How we detect frontier model misalignment",
+   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-29T09:00:00.000Z",
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "2d9928289658",
+   "title": "How Ropes & Gray is developing AI for transactional diligence",
+   "url": "https://openai.com/index/ropes-gray-ai-diligence",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-29T07:00:00.000Z",
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
+  },
+  {
+   "id": "d6a3cd5b839e",
+   "title": "Avoid Public Functions Calling Other Public Functions",
+   "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+   "sources": [
+    "matklad"
+   ],
+   "publishedAt": "2026-10-29T00:00:00.000Z",
+   "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
   {
    "id": "8ccea7e89b70",
@@ -348,8 +556,8 @@
    "publishedAt": "2026-10-29T14:13:21.000Z",
    "hn": {
     "id": "50289418",
-    "points": 408,
-    "comments": 97
+    "points": 1156,
+    "comments": 330
    },
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
@@ -378,8 +586,8 @@
    "publishedAt": "2026-10-29T03:33:42.000Z",
    "hn": {
     "id": "50284255",
-    "points": 522,
-    "comments": 210
+    "points": 558,
+    "comments": 224
    },
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
@@ -393,8 +601,8 @@
    "publishedAt": "2026-10-28T23:35:02.000Z",
    "hn": {
     "id": "50282454",
-    "points": 679,
-    "comments": 576
+    "points": 763,
+    "comments": 686
    },
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
@@ -408,8 +616,8 @@
    "publishedAt": "2026-10-28T21:13:21.000Z",
    "hn": {
     "id": "50280974",
-    "points": 331,
-    "comments": 52
+    "points": 341,
+    "comments": 61
    },
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
@@ -423,8 +631,8 @@
    "publishedAt": "2026-10-28T21:03:24.000Z",
    "hn": {
     "id": "50280864",
-    "points": 354,
-    "comments": 212
+    "points": 408,
+    "comments": 255
    },
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
@@ -436,7 +644,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-29T06:42:40.796Z",
-   "score": 35,
+   "score": 58,
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
@@ -447,7 +655,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-29T11:58:00.549Z",
-   "score": 16,
+   "score": 42,
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
@@ -458,7 +666,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T23:01:26.314Z",
-   "score": 40,
+   "score": 42,
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
@@ -469,7 +677,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-29T04:24:28.224Z",
-   "score": 16,
+   "score": 21,
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
@@ -480,7 +688,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-29T02:13:24.028Z",
-   "score": 29,
+   "score": 38,
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
@@ -491,7 +699,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-29T02:04:00.893Z",
-   "score": 16,
+   "score": 22,
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
@@ -525,16 +733,6 @@
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
   {
-   "id": "739e0b5535e3",
-   "title": "Bliki: LLM Voice",
-   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-10-29T14:28:00.000Z",
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
    "id": "e73b1e188559",
    "title": "Why are good developers so wary of agentic development?",
    "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
@@ -564,8 +762,8 @@
    "publishedAt": "2026-10-28T17:10:37.000Z",
    "hn": {
     "id": "50276940",
-    "points": 604,
-    "comments": 1039
+    "points": 615,
+    "comments": 1067
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -579,8 +777,8 @@
    "publishedAt": "2026-10-28T17:01:23.000Z",
    "hn": {
     "id": "50276792",
-    "points": 985,
-    "comments": 785
+    "points": 1001,
+    "comments": 795
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -594,8 +792,8 @@
    "publishedAt": "2026-10-28T14:38:22.000Z",
    "hn": {
     "id": "50274409",
-    "points": 511,
-    "comments": 140
+    "points": 522,
+    "comments": 142
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -609,8 +807,8 @@
    "publishedAt": "2026-10-28T13:41:30.000Z",
    "hn": {
     "id": "50273396",
-    "points": 477,
-    "comments": 512
+    "points": 482,
+    "comments": 520
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -624,8 +822,8 @@
    "publishedAt": "2026-10-28T08:48:21.000Z",
    "hn": {
     "id": "50270764",
-    "points": 338,
-    "comments": 429
+    "points": 345,
+    "comments": 432
    },
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
@@ -637,7 +835,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T16:07:18.151Z",
-   "score": 41,
+   "score": 44,
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
   },
   {
@@ -777,8 +975,8 @@
    "publishedAt": "2026-10-28T12:49:45.000Z",
    "hn": {
     "id": "50272749",
-    "points": 1164,
-    "comments": 981
+    "points": 1178,
+    "comments": 996
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -792,8 +990,8 @@
    "publishedAt": "2026-10-28T01:47:50.000Z",
    "hn": {
     "id": "50268380",
-    "points": 444,
-    "comments": 265
+    "points": 447,
+    "comments": 266
    },
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
@@ -895,7 +1093,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T03:56:49.155Z",
-   "score": 141,
+   "score": 148,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -906,7 +1104,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-28T10:34:55.669Z",
-   "score": 76,
+   "score": 79,
    "firstSeenAt": "2026-10-28T15:53:52.657Z"
   },
   {
@@ -3045,237 +3243,6 @@
    ],
    "publishedAt": "2026-10-23T00:00:00.000Z",
    "firstSeenAt": "2026-10-23T14:11:13.491Z"
-  },
-  {
-   "id": "a88674578082",
-   "title": "Google cleared 300 hectares of Finnish forest",
-   "url": "https://www.techspot.com/news/114100-google-cleared-300-hectares-finnish-forest-data-center.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T15:32:46.000Z",
-   "hn": {
-    "id": "50196837",
-    "points": 326,
-    "comments": 244
-   },
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "340d69bec786",
-   "title": "Run full iOS 16.5 firmware on Android Devices",
-   "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T15:26:22.000Z",
-   "hn": {
-    "id": "50196718",
-    "points": 523,
-    "comments": 194
-   },
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "119838ced547",
-   "title": "What’s getting pwned right now",
-   "url": "https://pwn.watch/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T14:08:12.000Z",
-   "hn": {
-    "id": "50195543",
-    "points": 375,
-    "comments": 169
-   },
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "c857d00b04e6",
-   "title": "eMudhra to exit global SSL/TLS certificate business",
-   "url": "https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T13:33:39.000Z",
-   "hn": {
-    "id": "50195110",
-    "points": 1147,
-    "comments": 739
-   },
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "183ea55e7b29",
-   "title": "Woman faces six years in prison over Cash App account she never opened",
-   "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T13:11:00.000Z",
-   "hn": {
-    "id": "50194833",
-    "points": 433,
-    "comments": 432
-   },
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "f0a7e0798313",
-   "title": "Tell HN: I unknowingly broke the PHP RCE embargo. I am sorry.",
-   "url": "https://news.ycombinator.com/item?id=50193416",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T10:11:44.000Z",
-   "hn": {
-    "id": "50193416",
-    "points": 709,
-    "comments": 252
-   },
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "4f2612832168",
-   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
-   "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T02:30:52.000Z",
-   "hn": {
-    "id": "50190455",
-    "points": 311,
-    "comments": 300
-   },
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "1fa0e3dfbc85",
-   "title": "Expose only share links of a private service with caddy",
-   "url": "https://dataswamp.org/~solene/2026-10-21-caddy-forward-auth-public-share-links.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T16:30:14.409Z",
-   "score": 38,
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "1522a8240eb8",
-   "title": "Tell your network to explain itself and then some",
-   "url": "https://unixdigest.com/tutorials/tell-your-network-to-explain-itself-and-then-some.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T12:53:26.774Z",
-   "score": 23,
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "93ca6bf0d823",
-   "title": "Objects, attributes, maps, oh my",
-   "url": "https://bernsteinbear.com/blog/object-shapes/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T17:35:52.914Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "0b0c16219a7d",
-   "title": "I built a garbage collector for Rust (2023)",
-   "url": "https://claytonwramsey.com/blog/dumpster/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T14:49:22.131Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "2ec4480dc247",
-   "title": "Script dependencies with Nix",
-   "url": "https://entropicthoughts.com/python-dependencies-with-nix",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T14:14:04.653Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "60d9e775359b",
-   "title": "What is your opinion on submission quality since the `vibecoding` tag was removed?",
-   "url": "https://lobste.rs/s/nmurnh/what_is_your_opinion_on_submission",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-22T17:56:51.498Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "98d45c75b11c",
-   "title": "Open call for guest investigators in the life sciences",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-22T00:00:00.000Z",
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "86405d6d1e9f",
-   "title": "Donating Agent Skills to the Agentic AI Foundation",
-   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-22T00:00:00.000Z",
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "27825e300358",
-   "title": "Build more responsive apps with the Decisions API",
-   "url": "https://openai.com/index/decisions-api",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-22T19:00:00.000Z",
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "ba6fa07d677a",
-   "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-   "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-22T00:00:00.000Z",
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "655df0fb22ac",
-   "title": "Beyond tree cover: mapping the world’s forest types",
-   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-10-22T14:30:24.000Z",
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
-  },
-  {
-   "id": "78c0c159eddc",
-   "title": "[$] The end of __get_user() and __put_user()",
-   "url": "https://lwn.net/Articles/1102061/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-22T16:25:50.000Z",
-   "firstSeenAt": "2026-10-22T23:55:11.271Z"
   }
  ]
 }
