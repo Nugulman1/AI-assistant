@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-30T15:46:12.497Z",
+ "generatedAt": "2026-10-31T00:33:43.655Z",
  "items": [
   {
    "id": "83d5cf45a1dd",
@@ -30,7 +30,7 @@
    "publishedAt": "2026-10-30T11:04:55.168Z",
    "hn": {
     "id": "50302334",
-    "points": 641,
+    "points": 652,
     "comments": 17
    },
    "score": 86,
@@ -65,8 +65,8 @@
    "firstSeenAt": "2026-10-29T15:59:38.717Z",
    "hn": {
     "id": "50290177",
-    "points": 548,
-    "comments": 294
+    "points": 588,
+    "comments": 323
    }
   },
   {
@@ -338,6 +338,136 @@
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
   {
+   "id": "9e37c40a85b3",
+   "title": "AI isn't replacing SREs, it's deskilling them",
+   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T15:52:18.000Z",
+   "hn": {
+    "id": "50305693",
+    "points": 489,
+    "comments": 362
+   },
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "0e232296f4e5",
+   "title": "Northflank Breached",
+   "url": "https://status.northflank.com",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T15:10:31.000Z",
+   "hn": {
+    "id": "50305025",
+    "points": 347,
+    "comments": 269
+   },
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "1c161a9657c3",
+   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
+   "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T12:50:01.000Z",
+   "hn": {
+    "id": "50303172",
+    "points": 300,
+    "comments": 208
+   },
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "bf5aaab63512",
+   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T07:09:12.000Z",
+   "hn": {
+    "id": "50300683",
+    "points": 747,
+    "comments": 469
+   },
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "25cc4c9bb2e3",
+   "title": "Making it easier for websites to express AI training preferences",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-30T09:30:00.000Z",
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "c7606af40dbb",
+   "title": "Community safety report and new protections for teens",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-30T09:00:00.000Z",
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "d2282bcce162",
+   "title": "Fair use benefits everyone",
+   "url": "https://openai.com/index/fair-use-benefits-everyone",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-10-30T00:00:00.000Z",
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "77b8021d805e",
+   "title": "Was I wrong about open models & cyber risks?",
+   "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-10-30T17:36:56.000Z",
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "ae7973e4c561",
+   "title": "[$] Removing binder.c",
+   "url": "https://lwn.net/Articles/1102982/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-10-30T17:46:46.000Z",
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "16ec2c40ac77",
+   "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+   "url": "https://blog.cloudflare.com/emudhra-patching/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-10-30T17:38:50.000Z",
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
+   "id": "8492851df22e",
+   "title": "The Pulse: Anthropic kills the coding interview",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-10-30T16:37:51.000Z",
+   "firstSeenAt": "2026-10-31T00:33:43.655Z"
+  },
+  {
    "id": "7d2228b2ec48",
    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
    "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
@@ -347,8 +477,8 @@
    "publishedAt": "2026-10-30T12:08:00.000Z",
    "hn": {
     "id": "50302814",
-    "points": 378,
-    "comments": 251
+    "points": 620,
+    "comments": 469
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -362,7 +492,7 @@
    "publishedAt": "2026-10-30T10:22:51.000Z",
    "hn": {
     "id": "50301983",
-    "points": 393,
+    "points": 398,
     "comments": 1
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
@@ -377,8 +507,8 @@
    "publishedAt": "2026-10-30T09:14:34.000Z",
    "hn": {
     "id": "50301462",
-    "points": 455,
-    "comments": 117
+    "points": 531,
+    "comments": 149
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -392,8 +522,8 @@
    "publishedAt": "2026-10-30T00:42:41.000Z",
    "hn": {
     "id": "50298436",
-    "points": 300,
-    "comments": 196
+    "points": 346,
+    "comments": 239
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -407,8 +537,8 @@
    "publishedAt": "2026-10-29T21:40:28.000Z",
    "hn": {
     "id": "50296486",
-    "points": 361,
-    "comments": 145
+    "points": 395,
+    "comments": 163
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -422,8 +552,8 @@
    "publishedAt": "2026-10-29T17:43:48.000Z",
    "hn": {
     "id": "50293047",
-    "points": 344,
-    "comments": 229
+    "points": 353,
+    "comments": 234
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -437,8 +567,8 @@
    "publishedAt": "2026-10-29T15:30:22.000Z",
    "hn": {
     "id": "50290668",
-    "points": 314,
-    "comments": 368
+    "points": 320,
+    "comments": 385
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -452,8 +582,8 @@
    "publishedAt": "2026-10-29T12:19:00.000Z",
    "hn": {
     "id": "50287775",
-    "points": 314,
-    "comments": 443
+    "points": 320,
+    "comments": 478
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -467,8 +597,8 @@
    "publishedAt": "2026-10-29T10:42:41.000Z",
    "hn": {
     "id": "50286987",
-    "points": 318,
-    "comments": 159
+    "points": 321,
+    "comments": 163
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -656,8 +786,8 @@
    "publishedAt": "2026-10-29T21:38:59.000Z",
    "hn": {
     "id": "50296470",
-    "points": 1642,
-    "comments": 1107
+    "points": 1723,
+    "comments": 1212
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -671,8 +801,8 @@
    "publishedAt": "2026-10-29T19:41:39.000Z",
    "hn": {
     "id": "50294702",
-    "points": 3167,
-    "comments": 695
+    "points": 3243,
+    "comments": 740
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -686,8 +816,8 @@
    "publishedAt": "2026-10-29T16:42:17.000Z",
    "hn": {
     "id": "50291945",
-    "points": 422,
-    "comments": 352
+    "points": 427,
+    "comments": 355
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -701,8 +831,8 @@
    "publishedAt": "2026-10-29T15:53:03.000Z",
    "hn": {
     "id": "50291054",
-    "points": 485,
-    "comments": 159
+    "points": 505,
+    "comments": 166
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -716,8 +846,8 @@
    "publishedAt": "2026-10-29T13:40:04.000Z",
    "hn": {
     "id": "50288867",
-    "points": 431,
-    "comments": 418
+    "points": 435,
+    "comments": 435
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -746,8 +876,8 @@
    "publishedAt": "2026-10-29T12:33:05.000Z",
    "hn": {
     "id": "50287919",
-    "points": 476,
-    "comments": 639
+    "points": 481,
+    "comments": 646
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -761,8 +891,8 @@
    "publishedAt": "2026-10-29T07:08:50.000Z",
    "hn": {
     "id": "50285452",
-    "points": 324,
-    "comments": 185
+    "points": 325,
+    "comments": 186
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -882,8 +1012,8 @@
    "publishedAt": "2026-10-29T14:13:21.000Z",
    "hn": {
     "id": "50289418",
-    "points": 1625,
-    "comments": 425
+    "points": 1675,
+    "comments": 435
    },
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
@@ -912,8 +1042,8 @@
    "publishedAt": "2026-10-29T03:33:42.000Z",
    "hn": {
     "id": "50284255",
-    "points": 572,
-    "comments": 232
+    "points": 580,
+    "comments": 235
    },
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
   },
@@ -3003,310 +3133,6 @@
    "publishedAt": "2026-10-23T17:00:36.459Z",
    "score": 16,
    "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "1fd8476b4493",
-   "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-   "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T16:59:08.000Z",
-   "hn": {
-    "id": "50212065",
-    "points": 1067,
-    "comments": 665
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "46834880ed25",
-   "title": "Today, we hacked what we'd set out to hack: the iPhone",
-   "url": "https://blog.calif.io/p/iphone",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T16:21:50.000Z",
-   "hn": {
-    "id": "50211474",
-    "points": 1084,
-    "comments": 703
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "c94c980716b6",
-   "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-   "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T13:41:10.000Z",
-   "hn": {
-    "id": "50208837",
-    "points": 555,
-    "comments": 398
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "f1017e15b34f",
-   "title": "Your Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
-   "url": "https://keepandroidopen.org/?",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T13:19:42.000Z",
-   "hn": {
-    "id": "50208558",
-    "points": 526,
-    "comments": 370
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "adb9608fdcbc",
-   "title": "Apple Music 404 Not Found",
-   "url": "https://music.apple.com/this-url-doesnt-exist",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T12:28:47.000Z",
-   "hn": {
-    "id": "50207910",
-    "points": 911,
-    "comments": 266
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "1f9eddacbb7d",
-   "title": "Swedish government offices to ban ChatGPT and Claude",
-   "url": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T11:39:54.000Z",
-   "hn": {
-    "id": "50207405",
-    "points": 322,
-    "comments": 120
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "739788d7a944",
-   "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-   "url": "https://www.tvfandomlounge.com/disney-plus-price-hike-ads-premium-tier-nielsen-emmys-2026/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T08:21:29.000Z",
-   "hn": {
-    "id": "50205934",
-    "points": 440,
-    "comments": 451
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "562092bac9df",
-   "title": "The foolishness of \"natural language programming\" (1978)",
-   "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T00:52:01.000Z",
-   "hn": {
-    "id": "50203161",
-    "points": 377,
-    "comments": 266
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "ce7fed74f496",
-   "title": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?",
-   "url": "https://news.ycombinator.com/item?id=50200997",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T21:03:55.000Z",
-   "hn": {
-    "id": "50200997",
-    "points": 625,
-    "comments": 702
-   },
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "adfcce5fda17",
-   "title": "The glorious @xkcdRandom Zig builtin",
-   "url": "https://ochagavia.nl/blog/the-glorious-@xkcdrandom-zig-builtin/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T14:30:57.041Z",
-   "score": 62,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "553e139fa520",
-   "title": "Software is slow because of bad design, not slow languages",
-   "url": "https://www.seangoedecke.com/software-is-slow-because-of-bad-design-not-slow-languages/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T12:58:10.897Z",
-   "score": 51,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "739e44a944e9",
-   "title": "Attention people who think UB is fine",
-   "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T20:47:58.255Z",
-   "score": 74,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "0b3b00d01b1d",
-   "title": "What are you doing this weekend?",
-   "url": "https://lobste.rs/s/crqz1g/what_are_you_doing_this_weekend",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T08:43:10.855Z",
-   "score": 20,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "471d1b991116",
-   "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-   "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T17:12:35.281Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "1d9168aa694d",
-   "title": "a neat trick i found for reusing physical memory",
-   "url": "https://sebsite.pw/w/20260728-cow.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T13:40:30.984Z",
-   "score": 31,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "2b6092ca93d3",
-   "title": "The Hibernate Origin Story (Outsider Edition)",
-   "url": "https://fishbowl.pastiche.org/2026/10/23/hibernate-origin-story",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T04:21:32.645Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "7ffe866b6370",
-   "title": "Rethinking Sequence Compression with Test-time Regression",
-   "url": "https://huggingface.co/papers/2610.31574",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-22T13:14:38.000Z",
-   "score": 12,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "937adf28ebf8",
-   "title": "Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models",
-   "url": "https://huggingface.co/papers/2610.30882",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-22T04:03:07.000Z",
-   "score": 6,
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "298c8de07d18",
-   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-23T17:00:00.000Z",
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "48e2274fdf2b",
-   "title": "Securing our frontier model training environment",
-   "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-23T10:00:00.000Z",
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "2c14d9477163",
-   "title": "[$] The first part of the 7.4 merge window",
-   "url": "https://lwn.net/Articles/1101211/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-23T18:54:33.000Z",
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "7a2ad2dcd8c8",
-   "title": "[$] Seeking smaller kernel stacks",
-   "url": "https://lwn.net/Articles/1100271/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-23T14:59:24.000Z",
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "20d42f488708",
-   "title": "Origin Range Requests: Serving large files without range-request tuning",
-   "url": "https://blog.cloudflare.com/origin-range-requests/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-23T18:22:59.000Z",
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "5d93986f3f76",
-   "title": "Bringing post-quantum cryptography to geographically fenced key management",
-   "url": "https://blog.cloudflare.com/post-quantum-geo-key-manager/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-23T18:06:56.000Z",
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
-  },
-  {
-   "id": "419e476cce63",
-   "title": "Animations for System Builders: Metastability and Lost Writes",
-   "url": "http://brooker.co.za/blog/2026/10/23/animations.html",
-   "sources": [
-    "Marc Brooker"
-   ],
-   "publishedAt": "2026-10-23T00:00:00.000Z",
-   "firstSeenAt": "2026-10-23T23:46:56.256Z"
   }
  ]
 }
