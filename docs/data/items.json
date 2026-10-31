@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T00:33:43.655Z",
+ "generatedAt": "2026-10-31T15:14:31.761Z",
  "items": [
   {
    "id": "83d5cf45a1dd",
@@ -30,11 +30,28 @@
    "publishedAt": "2026-10-30T11:04:55.168Z",
    "hn": {
     "id": "50302334",
-    "points": 652,
+    "points": 655,
     "comments": 17
    },
    "score": 86,
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
+  },
+  {
+   "id": "e72de5499951",
+   "title": "My favourite PowerMac is a Nintendo Wii",
+   "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-29T16:32:18.607Z",
+   "score": 48,
+   "firstSeenAt": "2026-10-30T00:40:58.483Z",
+   "hn": {
+    "id": "50307190",
+    "points": 342,
+    "comments": 104
+   }
   },
   {
    "id": "44e3e5f137f8",
@@ -338,6 +355,96 @@
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
   },
   {
+   "id": "0cc0a6009edf",
+   "title": "Serbia just elected the world's brainiest parliament",
+   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T10:21:30.000Z",
+   "hn": {
+    "id": "50314654",
+    "points": 518,
+    "comments": 313
+   },
+   "firstSeenAt": "2026-10-31T15:14:31.761Z"
+  },
+  {
+   "id": "2638e7ac2619",
+   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+   "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T20:23:30.000Z",
+   "hn": {
+    "id": "50309647",
+    "points": 344,
+    "comments": 206
+   },
+   "firstSeenAt": "2026-10-31T15:14:31.761Z"
+  },
+  {
+   "id": "7b402e9b6da8",
+   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T17:27:25.000Z",
+   "hn": {
+    "id": "50307219",
+    "points": 312,
+    "comments": 266
+   },
+   "firstSeenAt": "2026-10-31T15:14:31.761Z"
+  },
+  {
+   "id": "0ff9069790ce",
+   "title": "Florilegium: Procedural Flowers in LaTeX",
+   "url": "https://github.com/kevinraymond/florilegium",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T15:48:12.000Z",
+   "hn": {
+    "id": "50305637",
+    "points": 337,
+    "comments": 50
+   },
+   "firstSeenAt": "2026-10-31T15:14:31.761Z"
+  },
+  {
+   "id": "92d1bce2e693",
+   "title": "The federated code forge",
+   "url": "https://tangled.org/blog/forge/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T15:44:29.000Z",
+   "hn": {
+    "id": "50305573",
+    "points": 309,
+    "comments": 90
+   },
+   "firstSeenAt": "2026-10-31T15:14:31.761Z"
+  },
+  {
+   "id": "b804da29a44d",
+   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
+   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T10:06:15.000Z",
+   "hn": {
+    "id": "50301854",
+    "points": 325,
+    "comments": 59
+   },
+   "firstSeenAt": "2026-10-31T15:14:31.761Z"
+  },
+  {
    "id": "9e37c40a85b3",
    "title": "AI isn't replacing SREs, it's deskilling them",
    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
@@ -347,8 +454,8 @@
    "publishedAt": "2026-10-30T15:52:18.000Z",
    "hn": {
     "id": "50305693",
-    "points": 489,
-    "comments": 362
+    "points": 619,
+    "comments": 462
    },
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
   },
@@ -362,8 +469,8 @@
    "publishedAt": "2026-10-30T15:10:31.000Z",
    "hn": {
     "id": "50305025",
-    "points": 347,
-    "comments": 269
+    "points": 460,
+    "comments": 334
    },
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
   },
@@ -377,8 +484,8 @@
    "publishedAt": "2026-10-30T12:50:01.000Z",
    "hn": {
     "id": "50303172",
-    "points": 300,
-    "comments": 208
+    "points": 522,
+    "comments": 365
    },
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
   },
@@ -392,8 +499,8 @@
    "publishedAt": "2026-10-30T07:09:12.000Z",
    "hn": {
     "id": "50300683",
-    "points": 747,
-    "comments": 469
+    "points": 933,
+    "comments": 537
    },
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
   },
@@ -477,8 +584,8 @@
    "publishedAt": "2026-10-30T12:08:00.000Z",
    "hn": {
     "id": "50302814",
-    "points": 620,
-    "comments": 469
+    "points": 651,
+    "comments": 511
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -492,7 +599,7 @@
    "publishedAt": "2026-10-30T10:22:51.000Z",
    "hn": {
     "id": "50301983",
-    "points": 398,
+    "points": 399,
     "comments": 1
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
@@ -507,8 +614,8 @@
    "publishedAt": "2026-10-30T09:14:34.000Z",
    "hn": {
     "id": "50301462",
-    "points": 531,
-    "comments": 149
+    "points": 548,
+    "comments": 154
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -522,8 +629,8 @@
    "publishedAt": "2026-10-30T00:42:41.000Z",
    "hn": {
     "id": "50298436",
-    "points": 346,
-    "comments": 239
+    "points": 357,
+    "comments": 252
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -537,8 +644,8 @@
    "publishedAt": "2026-10-29T21:40:28.000Z",
    "hn": {
     "id": "50296486",
-    "points": 395,
-    "comments": 163
+    "points": 407,
+    "comments": 167
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -552,8 +659,8 @@
    "publishedAt": "2026-10-29T17:43:48.000Z",
    "hn": {
     "id": "50293047",
-    "points": 353,
-    "comments": 234
+    "points": 356,
+    "comments": 237
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -567,8 +674,8 @@
    "publishedAt": "2026-10-29T15:30:22.000Z",
    "hn": {
     "id": "50290668",
-    "points": 320,
-    "comments": 385
+    "points": 324,
+    "comments": 388
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -786,8 +893,8 @@
    "publishedAt": "2026-10-29T21:38:59.000Z",
    "hn": {
     "id": "50296470",
-    "points": 1723,
-    "comments": 1212
+    "points": 1745,
+    "comments": 1237
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -801,8 +908,8 @@
    "publishedAt": "2026-10-29T19:41:39.000Z",
    "hn": {
     "id": "50294702",
-    "points": 3243,
-    "comments": 740
+    "points": 3274,
+    "comments": 751
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -816,7 +923,7 @@
    "publishedAt": "2026-10-29T16:42:17.000Z",
    "hn": {
     "id": "50291945",
-    "points": 427,
+    "points": 430,
     "comments": 355
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
@@ -831,8 +938,8 @@
    "publishedAt": "2026-10-29T15:53:03.000Z",
    "hn": {
     "id": "50291054",
-    "points": 505,
-    "comments": 166
+    "points": 514,
+    "comments": 167
    },
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
@@ -916,17 +1023,6 @@
    ],
    "publishedAt": "2026-10-29T14:39:51.453Z",
    "score": 45,
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "e72de5499951",
-   "title": "My favourite PowerMac is a Nintendo Wii",
-   "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T16:32:18.607Z",
-   "score": 48,
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
   {
@@ -3018,121 +3114,6 @@
    "publishedAt": "2026-10-23T20:44:07.681Z",
    "score": 10,
    "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "55f38e2b0de9",
-   "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-   "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T19:34:15.000Z",
-   "hn": {
-    "id": "50214218",
-    "points": 386,
-    "comments": 199
-   },
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "2ca67924f9fc",
-   "title": "Dessa: Conversation Model trained only on speech",
-   "url": "https://block.xyz/dessa",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T19:09:54.000Z",
-   "hn": {
-    "id": "50213925",
-    "points": 513,
-    "comments": 191
-   },
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "7385a735d0bf",
-   "title": "Dutch government had hacked into Jared Kushner's phone",
-   "url": "https://twitter.com/jaredkushner/status/2113376217415958767",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-23T10:41:32.000Z",
-   "hn": {
-    "id": "50206914",
-    "points": 307,
-    "comments": 204
-   },
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "22abd3e4334d",
-   "title": "Canadians are running out of time to oppose Bill C-22",
-   "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-22T22:43:19.000Z",
-   "hn": {
-    "id": "50202114",
-    "points": 438,
-    "comments": 231
-   },
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "b1d8e0305cdb",
-   "title": "I want my Wednesday back",
-   "url": "https://blog.luitjes.it/posts/i-want-my-wednesday-back/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T10:09:28.059Z",
-   "score": 114,
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "3ce1b900090f",
-   "title": "Indian government sites are serving revoked eMudhra certificates",
-   "url": "https://captnemo.in/blog/2026/10/23/emsign-revoked-gov-in/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T04:06:06.412Z",
-   "score": 70,
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "8d8f6af8b2aa",
-   "title": "Be Aware of What's in Your Logs",
-   "url": "https://fireborn.mataroa.blog/blog/be-aware-of-whats-in-your-logs/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T10:42:05.453Z",
-   "score": 39,
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "ad41857cca54",
-   "title": "Incremental Computation Graphs",
-   "url": "https://dziban.net/posts/incremental-computation-graph/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T21:35:45.952Z",
-   "score": 13,
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
-  },
-  {
-   "id": "286f92fd01fb",
-   "title": "No Source Code? No Problem! What if you have to port a program, but all you have is a binary? (2003)",
-   "url": "https://queue.acm.org/doi/10.1145/945131.945155",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T17:00:36.459Z",
-   "score": 16,
-   "firstSeenAt": "2026-10-24T13:13:53.768Z"
   }
  ]
 }
