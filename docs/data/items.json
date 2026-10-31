@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T15:14:31.761Z",
+ "generatedAt": "2026-10-31T23:58:23.699Z",
  "items": [
   {
    "id": "83d5cf45a1dd",
@@ -20,6 +20,23 @@
    }
   },
   {
+   "id": "92d1bce2e693",
+   "title": "The federated code forge",
+   "url": "https://tangled.org/blog/forge/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-30T15:44:29.000Z",
+   "hn": {
+    "id": "50305573",
+    "points": 324,
+    "comments": 94
+   },
+   "firstSeenAt": "2026-10-31T15:14:31.761Z",
+   "score": 43
+  },
+  {
    "id": "7e2aaf184ac3",
    "title": "Backdoors in official Claude Code extensions",
    "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
@@ -33,7 +50,7 @@
     "points": 655,
     "comments": 17
    },
-   "score": 86,
+   "score": 167,
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
   {
@@ -49,9 +66,21 @@
    "firstSeenAt": "2026-10-30T00:40:58.483Z",
    "hn": {
     "id": "50307190",
-    "points": 342,
-    "comments": 104
+    "points": 371,
+    "comments": 109
    }
+  },
+  {
+   "id": "d6a3cd5b839e",
+   "title": "Avoid Public Functions Calling Other Public Functions",
+   "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+   "sources": [
+    "matklad",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-29T00:00:00.000Z",
+   "firstSeenAt": "2026-10-30T00:40:58.483Z",
+   "score": 34
   },
   {
    "id": "44e3e5f137f8",
@@ -338,21 +367,211 @@
    "firstSeenAt": "2026-10-25T13:39:42.729Z"
   },
   {
-   "id": "f80c4bbdb8d6",
-   "title": "Twelve years of distributed SQLite",
-   "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+   "id": "a7e11bfba6b1",
+   "title": "HackerTube: YouTube built from videos recommended by HN",
+   "url": "https://karpathy.bearblog.dev/hacker-tube/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T19:56:53.000Z",
+   "hn": {
+    "id": "50319510",
+    "points": 526,
+    "comments": 194
+   },
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "73acf00ea168",
+   "title": "Digital minimalism",
+   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T06:16:36.000Z",
+   "hn": {
+    "id": "50313661",
+    "points": 302,
+    "comments": 223
+   },
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "c80cb208774f",
+   "title": "Tell HN: Scribd Breached",
+   "url": "https://news.ycombinator.com/item?id=50312756",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T02:46:36.000Z",
+   "hn": {
+    "id": "50312756",
+    "points": 334,
+    "comments": 120
+   },
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "aacc9b832572",
+   "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+   "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T14:27:44.000Z",
+   "hn": {
+    "id": "50304419",
+    "points": 302,
+    "comments": 281
+   },
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "32c78f8a2d41",
+   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-30T14:08:20.000Z",
+   "hn": {
+    "id": "50304122",
+    "points": 301,
+    "comments": 368
+   },
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "810faf01d516",
+   "title": "Jepsen: ParticleDB 1.1.4",
+   "url": "https://jepsen.io/analyses/particledb-1.1.4",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-24T01:16:58.000Z",
-   "hn": {
-    "id": "50217500",
-    "points": 382,
-    "comments": 66
-   },
-   "score": 20,
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
+   "publishedAt": "2026-10-31T13:39:52.161Z",
+   "score": 75,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "e44a20a0708e",
+   "title": "The Kluever Maneuver",
+   "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T15:05:04.540Z",
+   "score": 31,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "8be567a5acd8",
+   "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+   "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T19:50:11.806Z",
+   "score": 18,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "fcbc1ef3c91f",
+   "title": "The support case of a customer who said that all they could see was a black screen",
+   "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T01:01:21.760Z",
+   "score": 59,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "da85974fc59d",
+   "title": "How hard is it to check for whitespace?",
+   "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-30T22:25:49.818Z",
+   "score": 43,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "ba7f8170af72",
+   "title": "Enlightenment 0.28.0 Release",
+   "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T18:02:18.321Z",
+   "score": 10,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "a1f4a9909c40",
+   "title": "No, npm, “estee” is not a typo of “testem”",
+   "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-30T15:01:56.550Z",
+   "score": 41,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "9bf076c88894",
+   "title": "Tangled, hire a front-end accessibility expert",
+   "url": "https://dbushell.com/2026/11/01/tangled-accessibility/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T16:29:45.020Z",
+   "score": 17,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "d37dbc58918e",
+   "title": "Clojure/Conj 2026",
+   "url": "http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T06:25:34.478Z",
+   "score": 23,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "703293e3c51b",
+   "title": "Infinite Mac: BeOS",
+   "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-30T16:06:56.125Z",
+   "score": 42,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "a2dd8ba86336",
+   "title": "Switch lowering in GCC",
+   "url": "https://xoranth.net/gcc-switch/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-30T20:00:34.085Z",
+   "score": 28,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
+  },
+  {
+   "id": "c5cf2c8e7a8c",
+   "title": "Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port",
+   "url": "https://www.frag-net.com/project_tacticalretreat.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T02:32:10.473Z",
+   "score": 13,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
    "id": "0cc0a6009edf",
@@ -364,8 +583,8 @@
    "publishedAt": "2026-10-31T10:21:30.000Z",
    "hn": {
     "id": "50314654",
-    "points": 518,
-    "comments": 313
+    "points": 794,
+    "comments": 459
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -379,8 +598,8 @@
    "publishedAt": "2026-10-30T20:23:30.000Z",
    "hn": {
     "id": "50309647",
-    "points": 344,
-    "comments": 206
+    "points": 373,
+    "comments": 220
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -394,8 +613,8 @@
    "publishedAt": "2026-10-30T17:27:25.000Z",
    "hn": {
     "id": "50307219",
-    "points": 312,
-    "comments": 266
+    "points": 322,
+    "comments": 284
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -409,23 +628,8 @@
    "publishedAt": "2026-10-30T15:48:12.000Z",
    "hn": {
     "id": "50305637",
-    "points": 337,
-    "comments": 50
-   },
-   "firstSeenAt": "2026-10-31T15:14:31.761Z"
-  },
-  {
-   "id": "92d1bce2e693",
-   "title": "The federated code forge",
-   "url": "https://tangled.org/blog/forge/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T15:44:29.000Z",
-   "hn": {
-    "id": "50305573",
-    "points": 309,
-    "comments": 90
+    "points": 371,
+    "comments": 54
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -439,8 +643,8 @@
    "publishedAt": "2026-10-30T10:06:15.000Z",
    "hn": {
     "id": "50301854",
-    "points": 325,
-    "comments": 59
+    "points": 333,
+    "comments": 60
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -454,8 +658,8 @@
    "publishedAt": "2026-10-30T15:52:18.000Z",
    "hn": {
     "id": "50305693",
-    "points": 619,
-    "comments": 462
+    "points": 646,
+    "comments": 473
    },
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
   },
@@ -469,8 +673,8 @@
    "publishedAt": "2026-10-30T15:10:31.000Z",
    "hn": {
     "id": "50305025",
-    "points": 460,
-    "comments": 334
+    "points": 471,
+    "comments": 354
    },
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
   },
@@ -484,8 +688,8 @@
    "publishedAt": "2026-10-30T12:50:01.000Z",
    "hn": {
     "id": "50303172",
-    "points": 522,
-    "comments": 365
+    "points": 568,
+    "comments": 413
    },
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
   },
@@ -499,8 +703,8 @@
    "publishedAt": "2026-10-30T07:09:12.000Z",
    "hn": {
     "id": "50300683",
-    "points": 933,
-    "comments": 537
+    "points": 966,
+    "comments": 547
    },
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
   },
@@ -584,8 +788,8 @@
    "publishedAt": "2026-10-30T12:08:00.000Z",
    "hn": {
     "id": "50302814",
-    "points": 651,
-    "comments": 511
+    "points": 657,
+    "comments": 519
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -614,7 +818,7 @@
    "publishedAt": "2026-10-30T09:14:34.000Z",
    "hn": {
     "id": "50301462",
-    "points": 548,
+    "points": 552,
     "comments": 154
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
@@ -629,8 +833,8 @@
    "publishedAt": "2026-10-30T00:42:41.000Z",
    "hn": {
     "id": "50298436",
-    "points": 357,
-    "comments": 252
+    "points": 359,
+    "comments": 257
    },
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
@@ -717,7 +921,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-30T11:22:43.498Z",
-   "score": 36,
+   "score": 93,
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
   {
@@ -728,7 +932,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-30T07:24:01.170Z",
-   "score": 37,
+   "score": 80,
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
   },
   {
@@ -1086,16 +1290,6 @@
     "OpenAI"
    ],
    "publishedAt": "2026-10-29T07:00:00.000Z",
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "d6a3cd5b839e",
-   "title": "Avoid Public Functions Calling Other Public Functions",
-   "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
-   "sources": [
-    "matklad"
-   ],
-   "publishedAt": "2026-10-29T00:00:00.000Z",
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
   },
   {
@@ -2973,147 +3167,6 @@
    ],
    "publishedAt": "2026-10-25T11:49:00.000Z",
    "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "074b7d5e1602",
-   "title": "No signs of AI payoff outside the tech sector",
-   "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T19:47:19.000Z",
-   "hn": {
-    "id": "50224463",
-    "points": 635,
-    "comments": 662
-   },
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "44115490bcb6",
-   "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
-   "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T13:09:28.000Z",
-   "hn": {
-    "id": "50220913",
-    "points": 466,
-    "comments": 493
-   },
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "30e2978fb647",
-   "title": "Root shell on Samsung TV",
-   "url": "https://twitter.com/log4j/status/2113014142600953868?s=46",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T05:49:57.000Z",
-   "hn": {
-    "id": "50218633",
-    "points": 738,
-    "comments": 561
-   },
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "f244da1f1890",
-   "title": "OBS Studio 33",
-   "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T04:49:58.000Z",
-   "hn": {
-    "id": "50218430",
-    "points": 465,
-    "comments": 177
-   },
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "68b2e868f8ae",
-   "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-   "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T01:15:14.000Z",
-   "hn": {
-    "id": "50217495",
-    "points": 673,
-    "comments": 329
-   },
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "364ba491c2a3",
-   "title": "Balloting has completed for C++26. Unfortunately it was Disapproved",
-   "url": "https://www.linkedin.com/posts/robertseacord_balloting-has-completed-for-c26-unfortunately-activity-7519795140887035918-5PWL",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T18:00:36.212Z",
-   "score": 49,
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "935936a124b2",
-   "title": "Bringing uv and ty together",
-   "url": "https://astral.sh/blog/uv-ty-integration",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T15:27:34.811Z",
-   "score": 54,
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "d5523e9d9fef",
-   "title": "Wild version 0.11.0 released",
-   "url": "https://github.com/wild-linker/wild/releases/tag/0.11.0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T10:11:35.679Z",
-   "score": 36,
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "cd0cfb7d9672",
-   "title": "Emacs finally folds to my liking",
-   "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-folding-kirigami/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T08:45:01.682Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "93fc448c0fc1",
-   "title": "What's wrong with AI?",
-   "url": "https://homepage.farm/ai.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T12:09:40.853Z",
-   "score": 18,
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
-  },
-  {
-   "id": "4a3ed2fcea1f",
-   "title": "Memory is slow, Disk is fast",
-   "url": "https://www.bitflux.ai/blog/memory-is-slow-part3/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-23T20:44:07.681Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-24T22:59:31.888Z"
   }
  ]
 }
