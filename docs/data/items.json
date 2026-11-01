@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-31T23:58:23.699Z",
+ "generatedAt": "2026-11-01T15:56:21.013Z",
  "items": [
   {
    "id": "83d5cf45a1dd",
@@ -17,6 +17,40 @@
     "id": "50257419",
     "points": 562,
     "comments": 326
+   }
+  },
+  {
+   "id": "73acf00ea168",
+   "title": "Digital minimalism",
+   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T06:16:36.000Z",
+   "hn": {
+    "id": "50313661",
+    "points": 334,
+    "comments": 252
+   },
+   "firstSeenAt": "2026-10-31T23:58:23.699Z",
+   "score": 12
+  },
+  {
+   "id": "810faf01d516",
+   "title": "Jepsen: ParticleDB 1.1.4",
+   "url": "https://jepsen.io/analyses/particledb-1.1.4",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T13:39:52.000Z",
+   "score": 122,
+   "firstSeenAt": "2026-10-31T23:58:23.699Z",
+   "hn": {
+    "id": "50316100",
+    "points": 303,
+    "comments": 167
    }
   },
   {
@@ -66,8 +100,8 @@
    "firstSeenAt": "2026-10-30T00:40:58.483Z",
    "hn": {
     "id": "50307190",
-    "points": 371,
-    "comments": 109
+    "points": 377,
+    "comments": 110
    }
   },
   {
@@ -80,7 +114,7 @@
    ],
    "publishedAt": "2026-10-29T00:00:00.000Z",
    "firstSeenAt": "2026-10-30T00:40:58.483Z",
-   "score": 34
+   "score": 73
   },
   {
    "id": "44e3e5f137f8",
@@ -333,38 +367,164 @@
    }
   },
   {
-   "id": "13b5d33bcba3",
-   "title": "We should be more ambitious with the software we build",
-   "url": "https://danluu.com/ambitious/",
+   "id": "d6e3252c8f31",
+   "title": "Restrooms along the Norwegian Scenic Routes",
+   "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-10-24T21:47:31.000Z",
+   "publishedAt": "2026-11-01T10:47:58.000Z",
    "hn": {
-    "id": "50225695",
-    "points": 859,
-    "comments": 752
+    "id": "50324388",
+    "points": 596,
+    "comments": 340
    },
-   "score": 12,
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
   {
-   "id": "69696c78864a",
-   "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-   "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+   "id": "f9b8a9efbf26",
+   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+   "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-10-24T08:06:39.000Z",
+   "publishedAt": "2026-10-31T22:46:12.000Z",
    "hn": {
-    "id": "50219177",
-    "points": 343,
+    "id": "50320995",
+    "points": 340,
     "comments": 166
    },
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "a5cafb824bf7",
+   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+   "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T22:41:06.000Z",
+   "hn": {
+    "id": "50320963",
+    "points": 605,
+    "comments": 173
+   },
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "e07ec5d69c95",
+   "title": "Anthropic blocks users for anything touching training larger models",
+   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T19:39:19.000Z",
+   "hn": {
+    "id": "50319358",
+    "points": 421,
+    "comments": 234
+   },
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "6bd209feefbe",
+   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+   "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T19:16:30.000Z",
+   "hn": {
+    "id": "50319143",
+    "points": 587,
+    "comments": 288
+   },
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "381223935ae3",
+   "title": "Do the math: How we took over ChatGPT accounts",
+   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T10:30:11.000Z",
+   "hn": {
+    "id": "50314699",
+    "points": 354,
+    "comments": 173
+   },
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "ec5c571f059e",
+   "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+   "url": "https://piefed.world/post/1503394",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-10-31T10:23:41.000Z",
+   "hn": {
+    "id": "50314666",
+    "points": 326,
+    "comments": 187
+   },
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "2169d721729c",
+   "title": "Introducing Kwi, a new KDE terminal emulator",
+   "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T02:56:29.237Z",
+   "score": 59,
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "8bdbd06d6a95",
+   "title": "XKCD and Fourier",
+   "url": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T10:50:56.504Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "7f0049f66117",
+   "title": "Novellas with groff",
+   "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T20:31:13.297Z",
+   "score": 26,
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "bdefd1c57354",
+   "title": "An LC-3 Disassembler in Haskell",
+   "url": "https://abhinavsarkar.net/posts/lc3-disassembler/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T16:08:42.898Z",
    "score": 13,
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
+  },
+  {
+   "id": "01ee4bd34dad",
+   "title": "Let’s Build a Brain",
+   "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-10-31T15:09:27.573Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
   {
    "id": "a7e11bfba6b1",
@@ -376,23 +536,8 @@
    "publishedAt": "2026-10-31T19:56:53.000Z",
    "hn": {
     "id": "50319510",
-    "points": 526,
-    "comments": 194
-   },
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "73acf00ea168",
-   "title": "Digital minimalism",
-   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T06:16:36.000Z",
-   "hn": {
-    "id": "50313661",
-    "points": 302,
-    "comments": 223
+    "points": 1690,
+    "comments": 446
    },
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
@@ -406,8 +551,8 @@
    "publishedAt": "2026-10-31T02:46:36.000Z",
    "hn": {
     "id": "50312756",
-    "points": 334,
-    "comments": 120
+    "points": 346,
+    "comments": 122
    },
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
@@ -442,17 +587,6 @@
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
-   "id": "810faf01d516",
-   "title": "Jepsen: ParticleDB 1.1.4",
-   "url": "https://jepsen.io/analyses/particledb-1.1.4",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T13:39:52.161Z",
-   "score": 75,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
    "id": "e44a20a0708e",
    "title": "The Kluever Maneuver",
    "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
@@ -460,7 +594,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T15:05:04.540Z",
-   "score": 31,
+   "score": 50,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -471,7 +605,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T19:50:11.806Z",
-   "score": 18,
+   "score": 56,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -482,7 +616,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T01:01:21.760Z",
-   "score": 59,
+   "score": 72,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -493,7 +627,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-30T22:25:49.818Z",
-   "score": 43,
+   "score": 47,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -504,7 +638,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T18:02:18.321Z",
-   "score": 10,
+   "score": 18,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -526,7 +660,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T16:29:45.020Z",
-   "score": 17,
+   "score": 36,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -537,7 +671,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T06:25:34.478Z",
-   "score": 23,
+   "score": 28,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -583,8 +717,8 @@
    "publishedAt": "2026-10-31T10:21:30.000Z",
    "hn": {
     "id": "50314654",
-    "points": 794,
-    "comments": 459
+    "points": 876,
+    "comments": 488
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -598,8 +732,8 @@
    "publishedAt": "2026-10-30T20:23:30.000Z",
    "hn": {
     "id": "50309647",
-    "points": 373,
-    "comments": 220
+    "points": 383,
+    "comments": 229
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -613,8 +747,8 @@
    "publishedAt": "2026-10-30T17:27:25.000Z",
    "hn": {
     "id": "50307219",
-    "points": 322,
-    "comments": 284
+    "points": 323,
+    "comments": 290
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -3045,128 +3179,6 @@
    "publishedAt": "2026-10-25T01:22:45.850Z",
    "score": 14,
    "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "f0796ab74553",
-   "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-   "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-25T09:00:40.000Z",
-   "hn": {
-    "id": "50229587",
-    "points": 493,
-    "comments": 338
-   },
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "8f5707e9a13c",
-   "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-   "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T23:11:54.000Z",
-   "hn": {
-    "id": "50226419",
-    "points": 537,
-    "comments": 569
-   },
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "5a08291251a2",
-   "title": "Show HN: Steal My Bitcoin",
-   "url": "https://stealmybitcoin.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T20:30:31.000Z",
-   "hn": {
-    "id": "50224916",
-    "points": 611,
-    "comments": 444
-   },
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "84c9b463e77e",
-   "title": "The Goose Programming Language",
-   "url": "https://aardappel.github.io/goose/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T19:06:55.000Z",
-   "hn": {
-    "id": "50224100",
-    "points": 585,
-    "comments": 364
-   },
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "0f87ed6dd026",
-   "title": "FreeDNS",
-   "url": "https://freedns.afraid.org/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T15:20:01.000Z",
-   "hn": {
-    "id": "50222133",
-    "points": 351,
-    "comments": 90
-   },
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "6252a2c19dbe",
-   "title": "I don't understand quantum physics (2018)",
-   "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T09:53:26.000Z",
-   "hn": {
-    "id": "50219666",
-    "points": 374,
-    "comments": 305
-   },
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "6755ba9f87dc",
-   "title": "How to run a city builder on 16 MHz",
-   "url": "https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T14:18:48.714Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "8d60bb027465",
-   "title": "An Incremental Approach to JIT Construction",
-   "url": "https://dl.acm.org/doi/pdf/10.1145/3830440.3832304",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-24T02:10:41.765Z",
-   "score": 15,
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
-  },
-  {
-   "id": "cb0e6541c41d",
-   "title": "Podcast: Kimi K3.1 Pro, the new cyber reality, and Muse musings",
-   "url": "https://www.interconnects.ai/p/podcast-kimi-k31-pro-the-new-cyber",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-10-25T11:49:00.000Z",
-   "firstSeenAt": "2026-10-25T13:39:42.729Z"
   }
  ]
 }
