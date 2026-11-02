@@ -1,24 +1,6 @@
 {
- "generatedAt": "2026-11-02T00:24:45.954Z",
+ "generatedAt": "2026-11-02T19:24:07.207Z",
  "items": [
-  {
-   "id": "83d5cf45a1dd",
-   "title": "[$] Python's experimental JIT to be removed",
-   "url": "https://lwn.net/Articles/1102102/",
-   "sources": [
-    "LWN",
-    "Lobsters",
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T15:45:58.000Z",
-   "firstSeenAt": "2026-10-26T16:03:08.638Z",
-   "score": 95,
-   "hn": {
-    "id": "50257419",
-    "points": 562,
-    "comments": 326
-   }
-  },
   {
    "id": "73acf00ea168",
    "title": "Digital minimalism",
@@ -350,21 +332,271 @@
    }
   },
   {
-   "id": "f32074034d76",
-   "title": "Websites Should Be Printable",
-   "url": "https://brennenputh.me/blog/printable-websites/",
+   "id": "0e6629be9749",
+   "title": "WTF Ubuntu?",
+   "url": "https://chalmovsky.com/posts/wtf-ubuntu",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-26T10:32:14.000Z",
-   "score": 83,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z",
+   "publishedAt": "2026-11-02T14:52:00.000Z",
    "hn": {
-    "id": "50241664",
-    "points": 393,
-    "comments": 211
-   }
+    "id": "50337608",
+    "points": 940,
+    "comments": 469
+   },
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "5bbad0fbe174",
+   "title": "Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN",
+   "url": "https://wikihack.netlify.app",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-02T05:06:30.000Z",
+   "hn": {
+    "id": "50333339",
+    "points": 324,
+    "comments": 100
+   },
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "dac07b0a1cf4",
+   "title": "OccupySaaS",
+   "url": "https://occupysaas.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-02T00:17:27.000Z",
+   "hn": {
+    "id": "50331402",
+    "points": 474,
+    "comments": 292
+   },
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "7407a696f56a",
+   "title": "U.S. workers took home their smallest share of capital since at least 1947",
+   "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T23:20:31.000Z",
+   "hn": {
+    "id": "50330939",
+    "points": 333,
+    "comments": 202
+   },
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "242d15603b74",
+   "title": "Ask HN: Which TV do you recommend for privacy?",
+   "url": "https://news.ycombinator.com/item?id=50328896",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T19:35:27.000Z",
+   "hn": {
+    "id": "50328896",
+    "points": 660,
+    "comments": 786
+   },
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "280630936cfd",
+   "title": "Mathematics has changed. Let's act like it",
+   "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T18:28:42.000Z",
+   "hn": {
+    "id": "50328251",
+    "points": 371,
+    "comments": 485
+   },
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "89307f734cfd",
+   "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+   "url": "https://github.com/ivankovic/omnidiff",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T13:02:30.000Z",
+   "hn": {
+    "id": "50325253",
+    "points": 301,
+    "comments": 94
+   },
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "761e5e0baaa4",
+   "title": "The AI cost of JavaScript frameworks",
+   "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T06:06:19.000Z",
+   "hn": {
+    "id": "50323088",
+    "points": 458,
+    "comments": 368
+   },
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "1d0799c05bb0",
+   "title": "Jailbreaking my car's navigation system just so I can change the time",
+   "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T16:30:58.517Z",
+   "score": 27,
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "bb0036b97413",
+   "title": "Postgres 19 is late, and it's AI's fault",
+   "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T02:19:02.905Z",
+   "score": 40,
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "ec5e2342ef6f",
+   "title": "My reflex of assuming our servers need ever-growing amounts of RAM",
+   "url": "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ServerRAMGrowthReflex",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T10:33:02.386Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "e06637a3e858",
+   "title": "Polyend releases the Tracker firmware source code",
+   "url": "https://backstage.polyend.com/t/tracker-the-biggest-update-yet/25120",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T15:22:16.630Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "b3f9cd86ea22",
+   "title": "A400000 Winners",
+   "url": "https://oeis.org/wiki/A400K_Winners",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T03:25:15.689Z",
+   "score": 32,
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "37c6b9eb8edd",
+   "title": "the lost malloc()",
+   "url": "https://napcakes.nekoweb.org/posts/malloc/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T08:46:48.752Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "110851565c3a",
+   "title": "The Beginning of BSD Unix",
+   "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T03:05:24.929Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "19244c7aa206",
+   "title": "Introducing the Grid Protectors Program",
+   "url": "https://openai.com/index/grid-protectors-program",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-02T15:00:00.000Z",
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "ed4b58253682",
+   "title": "LifeVal",
+   "url": "https://openai.com/index/lifeval",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-02T09:00:00.000Z",
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "598c6194c0d3",
+   "title": "Qodo builds context into AI code review with Codex",
+   "url": "https://openai.com/index/qodo-codex-plugin",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-02T00:00:00.000Z",
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "efcf00e7bea3",
+   "title": "The U.S. Census Bureau and “Super Intelligence”",
+   "url": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-11-02T13:31:26.000Z",
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "c723e57bb94b",
+   "title": "[$] The second part of the 7.4 merge window",
+   "url": "https://lwn.net/Articles/1102739/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-02T17:51:48.000Z",
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "fdbeaff4cbb8",
+   "title": "[$] Managing the kernel CVE flood",
+   "url": "https://lwn.net/Articles/1100894/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-02T14:28:39.000Z",
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
+  },
+  {
+   "id": "0a490515f796",
+   "title": "How we halved DNS build delay and cut memory use by 85%",
+   "url": "https://blog.cloudflare.com/dns-targeted-zone-builds/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-02T14:00:00.000Z",
+   "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
   {
    "id": "dbe709a7c6a9",
@@ -376,8 +608,8 @@
    "publishedAt": "2026-11-01T17:28:16.000Z",
    "hn": {
     "id": "50327650",
-    "points": 351,
-    "comments": 247
+    "points": 449,
+    "comments": 333
    },
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
@@ -391,8 +623,8 @@
    "publishedAt": "2026-11-01T15:58:28.000Z",
    "hn": {
     "id": "50326821",
-    "points": 849,
-    "comments": 168
+    "points": 1787,
+    "comments": 297
    },
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
@@ -406,8 +638,8 @@
    "publishedAt": "2026-11-01T14:36:13.000Z",
    "hn": {
     "id": "50326118",
-    "points": 411,
-    "comments": 145
+    "points": 463,
+    "comments": 158
    },
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
@@ -421,8 +653,8 @@
    "publishedAt": "2026-11-01T14:34:43.000Z",
    "hn": {
     "id": "50326099",
-    "points": 379,
-    "comments": 134
+    "points": 551,
+    "comments": 174
    },
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
@@ -436,8 +668,8 @@
    "publishedAt": "2026-11-01T02:19:53.000Z",
    "hn": {
     "id": "50322173",
-    "points": 314,
-    "comments": 198
+    "points": 336,
+    "comments": 214
    },
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
@@ -449,7 +681,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-01T15:22:36.441Z",
-   "score": 48,
+   "score": 122,
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
   {
@@ -460,7 +692,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-01T17:41:53.312Z",
-   "score": 24,
+   "score": 39,
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
   {
@@ -471,7 +703,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-01T18:47:10.632Z",
-   "score": 19,
+   "score": 45,
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
   {
@@ -482,7 +714,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-01T20:13:29.256Z",
-   "score": 18,
+   "score": 80,
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
   {
@@ -528,8 +760,8 @@
    "publishedAt": "2026-11-01T10:47:58.000Z",
    "hn": {
     "id": "50324388",
-    "points": 671,
-    "comments": 392
+    "points": 710,
+    "comments": 430
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -543,8 +775,8 @@
    "publishedAt": "2026-10-31T22:46:12.000Z",
    "hn": {
     "id": "50320995",
-    "points": 420,
-    "comments": 205
+    "points": 452,
+    "comments": 226
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -558,8 +790,8 @@
    "publishedAt": "2026-10-31T22:41:06.000Z",
    "hn": {
     "id": "50320963",
-    "points": 764,
-    "comments": 197
+    "points": 854,
+    "comments": 222
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -573,8 +805,8 @@
    "publishedAt": "2026-10-31T19:39:19.000Z",
    "hn": {
     "id": "50319358",
-    "points": 454,
-    "comments": 252
+    "points": 487,
+    "comments": 264
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -631,7 +863,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-01T02:56:29.237Z",
-   "score": 99,
+   "score": 139,
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
   {
@@ -688,8 +920,8 @@
    "publishedAt": "2026-10-31T19:56:53.000Z",
    "hn": {
     "id": "50319510",
-    "points": 2237,
-    "comments": 537
+    "points": 2790,
+    "comments": 622
    },
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
@@ -2910,245 +3142,6 @@
    ],
    "publishedAt": "2026-10-26T22:01:23.000Z",
    "firstSeenAt": "2026-10-27T00:16:31.009Z"
-  },
-  {
-   "id": "d7b6b5fce56b",
-   "title": "Anthropic S-1",
-   "url": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T13:04:50.000Z",
-   "hn": {
-    "id": "50242939",
-    "points": 1688,
-    "comments": 1646
-   },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "e4a60b3d07f5",
-   "title": "Switzerland. Block by block. At 1:1 scale",
-   "url": "https://blocks.manifold3d.ch/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T08:46:09.000Z",
-   "hn": {
-    "id": "50240922",
-    "points": 474,
-    "comments": 220
-   },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "9fc551b1dcde",
-   "title": "Show HN: TitleArt – Make text like it's 1997",
-   "url": "https://titleart.dvy.io/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T03:23:57.000Z",
-   "hn": {
-    "id": "50238708",
-    "points": 396,
-    "comments": 81
-   },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "0fe639e32194",
-   "title": "IBM CEO says open weight models are now good and cheap on-prem",
-   "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T01:47:46.000Z",
-   "hn": {
-    "id": "50238088",
-    "points": 423,
-    "comments": 334
-   },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "f230424bd050",
-   "title": "Lula wins election after final votes tallied",
-   "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T00:31:07.000Z",
-   "hn": {
-    "id": "50237485",
-    "points": 510,
-    "comments": 651
-   },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "c45c68dc9fe2",
-   "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "url": "https://minimaxir.com/2026/10/cheap-llms/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-25T21:11:31.000Z",
-   "hn": {
-    "id": "50236102",
-    "points": 428,
-    "comments": 430
-   },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "ae2ca87a8fe4",
-   "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
-   "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-25T21:08:28.000Z",
-   "hn": {
-    "id": "50236081",
-    "points": 326,
-    "comments": 178
-   },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "f1239af4c5bc",
-   "title": "Dolly Parton's Imagination Library",
-   "url": "https://imaginationlibrary.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-25T18:23:54.000Z",
-   "hn": {
-    "id": "50234474",
-    "points": 679,
-    "comments": 109
-   },
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "6725fa290add",
-   "title": "Why is it so expensive to send an email?",
-   "url": "https://evancz.dev/why-is-it-so-expensive-to-send-an-email",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T13:25:41.253Z",
-   "score": 65,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "f4fda354a20e",
-   "title": "Simple NetBSD webserver",
-   "url": "https://bsandro.tech/posts/simple-netbsd-webserver/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T23:13:40.605Z",
-   "score": 57,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "efc9440cd0fa",
-   "title": "About the compromised eMudhra intermediate CAs",
-   "url": "https://support.apple.com/en-us/149555",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T09:58:55.217Z",
-   "score": 56,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "bf138b1722c9",
-   "title": "“AI Skills” are worthless in 2026",
-   "url": "https://fishbowl.pastiche.org/2026/10/26/ai-skills",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T00:23:42.695Z",
-   "score": 39,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "12eed72519ca",
-   "title": "writing about pratt parsing so I remember it",
-   "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T03:06:36.927Z",
-   "score": 27,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "ceb78450425f",
-   "title": "Gram 3.4.0 released",
-   "url": "https://gram-editor.com/posts/release-3.4.0/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T11:47:25.669Z",
-   "score": 72,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "e3dbe5050f2f",
-   "title": "OpenLDK: Bringing the Java World into Common Lisp",
-   "url": "https://atgreen.github.io/repl-yell/posts/openldk-java-in-common-lisp/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T06:15:19.854Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "9f35c9d8bd4a",
-   "title": "The Small Web Is Huge",
-   "url": "https://archive.org/download/small_web/11787-48384.mp4",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T11:34:43.215Z",
-   "score": 26,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "d0bd59eb6378",
-   "title": "Building Java ME Apps with Modern Tooling",
-   "url": "https://voxelmanip.se/2026/10/24/building-java-me-apps-with-modern-tooling/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T21:33:19.325Z",
-   "score": 16,
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "edf59637f599",
-   "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-   "url": "https://www.anthropic.com/news/s1-sec",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-26T00:00:00.000Z",
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "eb7708c5f537",
-   "title": "How Fanatics and OpenAI streamline the fan experience",
-   "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-26T07:00:00.000Z",
-   "firstSeenAt": "2026-10-26T16:03:08.638Z"
   }
  ]
 }
