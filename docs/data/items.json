@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-01T15:56:21.013Z",
+ "generatedAt": "2026-11-02T00:24:45.954Z",
  "items": [
   {
    "id": "83d5cf45a1dd",
@@ -30,8 +30,8 @@
    "publishedAt": "2026-10-31T06:16:36.000Z",
    "hn": {
     "id": "50313661",
-    "points": 334,
-    "comments": 252
+    "points": 342,
+    "comments": 266
    },
    "firstSeenAt": "2026-10-31T23:58:23.699Z",
    "score": 12
@@ -45,12 +45,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-10-31T13:39:52.000Z",
-   "score": 122,
+   "score": 141,
    "firstSeenAt": "2026-10-31T23:58:23.699Z",
    "hn": {
     "id": "50316100",
-    "points": 303,
-    "comments": 167
+    "points": 335,
+    "comments": 188
    }
   },
   {
@@ -114,7 +114,7 @@
    ],
    "publishedAt": "2026-10-29T00:00:00.000Z",
    "firstSeenAt": "2026-10-30T00:40:58.483Z",
-   "score": 73
+   "score": 87
   },
   {
    "id": "44e3e5f137f8",
@@ -367,6 +367,158 @@
    }
   },
   {
+   "id": "dbe709a7c6a9",
+   "title": "Patrick Stewart taught us what good men do with power",
+   "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T17:28:16.000Z",
+   "hn": {
+    "id": "50327650",
+    "points": 351,
+    "comments": 247
+   },
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "664224e893fc",
+   "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+   "url": "https://hackerbooks.org",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T15:58:28.000Z",
+   "hn": {
+    "id": "50326821",
+    "points": 849,
+    "comments": 168
+   },
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "8b5e6b4a8355",
+   "title": "Police chief unplugs cameras after Flock ignores contract cancellation",
+   "url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T14:36:13.000Z",
+   "hn": {
+    "id": "50326118",
+    "points": 411,
+    "comments": 145
+   },
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "8cb5e1eef3d6",
+   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+   "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T14:34:43.000Z",
+   "hn": {
+    "id": "50326099",
+    "points": 379,
+    "comments": 134
+   },
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "2a10a176a3e7",
+   "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+   "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-01T02:19:53.000Z",
+   "hn": {
+    "id": "50322173",
+    "points": 314,
+    "comments": 198
+   },
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "cbc558c8813c",
+   "title": "An outsider's perspective on Scion and Mononoke",
+   "url": "https://typesanitizer.com/blog/scion.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T15:22:36.441Z",
+   "score": 48,
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "55ad78933df4",
+   "title": "Pratt parsing is a black box",
+   "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T17:41:53.312Z",
+   "score": 24,
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "5eceb785a776",
+   "title": "London Meetup - Nov 2026",
+   "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T18:47:10.632Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "84b5a66917ad",
+   "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
+   "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T20:13:29.256Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "bcdf1947b217",
+   "title": "Introduction to Programming in ATS",
+   "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T17:59:00.324Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "a0a2802ac399",
+   "title": "groff/troff macros: ms, mm, me or mom",
+   "url": "https://www.stephenlindholm.com/groff_macros.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T14:09:09.013Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
+   "id": "291da20277dc",
+   "title": "Zig: From Beginner to Slightly Less Beginner",
+   "url": "https://www.youtube.com/watch?v=jWCQXBVIyrY",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-01T17:19:19.220Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-02T00:24:45.954Z"
+  },
+  {
    "id": "d6e3252c8f31",
    "title": "Restrooms along the Norwegian Scenic Routes",
    "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
@@ -376,8 +528,8 @@
    "publishedAt": "2026-11-01T10:47:58.000Z",
    "hn": {
     "id": "50324388",
-    "points": 596,
-    "comments": 340
+    "points": 671,
+    "comments": 392
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -391,8 +543,8 @@
    "publishedAt": "2026-10-31T22:46:12.000Z",
    "hn": {
     "id": "50320995",
-    "points": 340,
-    "comments": 166
+    "points": 420,
+    "comments": 205
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -406,8 +558,8 @@
    "publishedAt": "2026-10-31T22:41:06.000Z",
    "hn": {
     "id": "50320963",
-    "points": 605,
-    "comments": 173
+    "points": 764,
+    "comments": 197
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -421,8 +573,8 @@
    "publishedAt": "2026-10-31T19:39:19.000Z",
    "hn": {
     "id": "50319358",
-    "points": 421,
-    "comments": 234
+    "points": 454,
+    "comments": 252
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -436,8 +588,8 @@
    "publishedAt": "2026-10-31T19:16:30.000Z",
    "hn": {
     "id": "50319143",
-    "points": 587,
-    "comments": 288
+    "points": 699,
+    "comments": 324
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -451,8 +603,8 @@
    "publishedAt": "2026-10-31T10:30:11.000Z",
    "hn": {
     "id": "50314699",
-    "points": 354,
-    "comments": 173
+    "points": 357,
+    "comments": 176
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -466,8 +618,8 @@
    "publishedAt": "2026-10-31T10:23:41.000Z",
    "hn": {
     "id": "50314666",
-    "points": 326,
-    "comments": 187
+    "points": 331,
+    "comments": 190
    },
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
@@ -479,7 +631,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-01T02:56:29.237Z",
-   "score": 59,
+   "score": 99,
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
   {
@@ -490,7 +642,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-01T10:50:56.504Z",
-   "score": 14,
+   "score": 27,
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
   {
@@ -501,7 +653,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T20:31:13.297Z",
-   "score": 26,
+   "score": 38,
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
   {
@@ -512,7 +664,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T16:08:42.898Z",
-   "score": 13,
+   "score": 15,
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
   },
   {
@@ -536,8 +688,8 @@
    "publishedAt": "2026-10-31T19:56:53.000Z",
    "hn": {
     "id": "50319510",
-    "points": 1690,
-    "comments": 446
+    "points": 2237,
+    "comments": 537
    },
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
@@ -551,7 +703,7 @@
    "publishedAt": "2026-10-31T02:46:36.000Z",
    "hn": {
     "id": "50312756",
-    "points": 346,
+    "points": 351,
     "comments": 122
    },
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
@@ -594,7 +746,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T15:05:04.540Z",
-   "score": 50,
+   "score": 53,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -605,7 +757,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T19:50:11.806Z",
-   "score": 56,
+   "score": 68,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -616,7 +768,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T01:01:21.760Z",
-   "score": 72,
+   "score": 76,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -638,7 +790,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T18:02:18.321Z",
-   "score": 18,
+   "score": 25,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -660,7 +812,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-10-31T16:29:45.020Z",
-   "score": 36,
+   "score": 46,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
   },
   {
@@ -717,8 +869,8 @@
    "publishedAt": "2026-10-31T10:21:30.000Z",
    "hn": {
     "id": "50314654",
-    "points": 876,
-    "comments": 488
+    "points": 896,
+    "comments": 498
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
   },
@@ -2997,188 +3149,6 @@
    ],
    "publishedAt": "2026-10-26T07:00:00.000Z",
    "firstSeenAt": "2026-10-26T16:03:08.638Z"
-  },
-  {
-   "id": "ba8662066c89",
-   "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-   "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-25T18:04:11.000Z",
-   "hn": {
-    "id": "50234232",
-    "points": 519,
-    "comments": 152
-   },
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "a800da311759",
-   "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-   "url": "https://talkweb.eu/openweb/4558/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-25T17:30:55.000Z",
-   "hn": {
-    "id": "50233929",
-    "points": 544,
-    "comments": 276
-   },
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "1dc75a32fc6a",
-   "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-   "url": "https://lynchlab.net/llm-skin-cancer",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-25T17:15:38.000Z",
-   "hn": {
-    "id": "50233779",
-    "points": 661,
-    "comments": 271
-   },
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "2325af3360e0",
-   "title": "Cerebras Deploys Trillion-Parameter AI Models",
-   "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-25T01:33:49.000Z",
-   "hn": {
-    "id": "50227356",
-    "points": 364,
-    "comments": 141
-   },
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "f686687fa50f",
-   "title": "Roku developer repositories moved from GitHub to GitLab",
-   "url": "https://blog.roku.com/developer/gitlab-move",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T16:06:26.000Z",
-   "hn": {
-    "id": "50222622",
-    "points": 308,
-    "comments": 220
-   },
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "8acda1e9f09f",
-   "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-   "url": "https://github.com/Zagitta/gpu-unlock",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T09:58:27.000Z",
-   "hn": {
-    "id": "50219700",
-    "points": 334,
-    "comments": 78
-   },
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "3228cdb834e1",
-   "title": "Broccoli2Shell: Brotli decoder RCE in Node.js, Python and more",
-   "url": "https://broccoli2shell.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-24T08:06:39.000Z",
-   "hn": {
-    "id": "50219177",
-    "points": 391,
-    "comments": 209
-   },
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "3a9bd1b28b9f",
-   "title": "POSIX wordexp(3) is dangerous",
-   "url": "https://yossarian.net/til/post/posix-wordexp-3-is-dangerous/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T15:09:29.815Z",
-   "score": 84,
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "6bca69513e69",
-   "title": "The Slurptop: A home-built luggable that runs on power tool batteries",
-   "url": "https://slurpburgers.com/slurpbuilds/the-slurptop/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T13:43:11.758Z",
-   "score": 128,
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "c0563b0e6388",
-   "title": "Vim Classic",
-   "url": "https://vim-classic.org/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T15:05:45.735Z",
-   "score": 77,
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "d0de783404b9",
-   "title": "Partial Order Precedence",
-   "url": "https://ziglang.org/devlog/2026/#2026-10-24",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T14:18:21.661Z",
-   "score": 65,
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "354a1f88649b",
-   "title": "A vision for a next-generation timeline",
-   "url": "https://media.ccc.de/v/matrix-conference-2026-99070-a-vision-for-a-next-generation-timeline",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T15:03:10.879Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "40d84bcad338",
-   "title": "When a glibc update accidentally breaks Chromium's audio (2021)",
-   "url": "https://refi64.dev/posts/chromium-audio-break.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T15:34:21.618Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
-  },
-  {
-   "id": "658c985a33dd",
-   "title": "MacOS Extensions pack for the Apple Network Server v1.0",
-   "url": "http://oldvcr.blogspot.com/2026/10/macos-extensions-pack-for-apple-network.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-25T01:22:45.850Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-25T23:05:09.445Z"
   }
  ]
 }
