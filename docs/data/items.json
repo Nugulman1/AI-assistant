@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-11-03T02:48:22.336Z",
+ "generatedAt": "2026-11-03T16:57:17.383Z",
  "items": [
+  {
+   "id": "38c41eb0ed98",
+   "title": "Astra can read and write weights to improve Qwen",
+   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T18:21:28.000Z",
+   "hn": {
+    "id": "50341174",
+    "points": 2894,
+    "comments": 872
+   },
+   "firstSeenAt": "2026-11-03T02:48:22.336Z",
+   "score": 38
+  },
   {
    "id": "73acf00ea168",
    "title": "Digital minimalism",
@@ -82,8 +99,8 @@
    "firstSeenAt": "2026-10-30T15:46:12.497Z",
    "hn": {
     "id": "50336518",
-    "points": 420,
-    "comments": 96
+    "points": 636,
+    "comments": 148
    }
   },
   {
@@ -266,21 +283,268 @@
    }
   },
   {
-   "id": "820116fa460f",
-   "title": "The Exponential Time Hypothesis Is False [pdf]",
-   "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "id": "435a4449f912",
+   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+   "url": "https://honnibal.dev/blog/astra-read-write-misleading",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-03T12:21:17.000Z",
+   "hn": {
+    "id": "50351111",
+    "points": 633,
+    "comments": 143
+   },
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "9343ec5f832e",
+   "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+   "url": "https://hackertimes.ca/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-03T01:53:34.000Z",
+   "hn": {
+    "id": "50346981",
+    "points": 426,
+    "comments": 130
+   },
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "6eaa64434e8d",
+   "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-03T01:33:43.000Z",
+   "hn": {
+    "id": "50346849",
+    "points": 326,
+    "comments": 73
+   },
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "b9a70981a2e5",
+   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-02T22:30:47.000Z",
+   "hn": {
+    "id": "50344919",
+    "points": 384,
+    "comments": 301
+   },
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "50f64d3e7875",
+   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
+   "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-02T17:47:40.000Z",
+   "hn": {
+    "id": "50340619",
+    "points": 312,
+    "comments": 86
+   },
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "b997047b8551",
+   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-02T16:40:29.000Z",
+   "hn": {
+    "id": "50339494",
+    "points": 341,
+    "comments": 265
+   },
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "c47f7ae7240d",
+   "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
+   "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-02T16:25:26.000Z",
+   "hn": {
+    "id": "50339221",
+    "points": 310,
+    "comments": 51
+   },
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "26788261ab0a",
+   "title": "Death comes for XSLT",
+   "url": "https://dbushell.com/2026/11/03/xslt-rip/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-26T21:59:15.000Z",
-   "hn": {
-    "id": "50251661",
-    "points": 790,
-    "comments": 295
-   },
-   "score": 51,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
+   "publishedAt": "2026-11-03T15:19:50.214Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "139176b6fc76",
+   "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+   "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-03T15:23:21.757Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "aee6050141e8",
+   "title": "Why did you choose the nix you nix?",
+   "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-03T03:58:06.895Z",
+   "score": 34,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "a325c9781242",
+   "title": "An Introduction to Bε-trees and Write-Optimization",
+   "url": "https://www.usenix.org/publications/login/oct15/bender",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-02T20:26:38.846Z",
+   "score": 23,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "eed1f589970e",
+   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+   "url": "https://huggingface.co/papers/2611.03126",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-02T08:41:14.000Z",
+   "score": 90,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "9978900b6441",
+   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+   "url": "https://huggingface.co/papers/2611.03178",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-02T09:15:11.000Z",
+   "score": 85,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "c13c96e83c9e",
+   "title": "PhotoGuider: Composition-Aware Cropping and 360^{circ} View Framing with Explainable Photographic Assessments",
+   "url": "https://huggingface.co/papers/2611.02897",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-01T19:00:00.000Z",
+   "score": 26,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "23bc9b8bbdaa",
+   "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
+   "url": "https://huggingface.co/papers/2611.03602",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-02T13:41:14.000Z",
+   "score": 24,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "06d047e6b83a",
+   "title": "Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents",
+   "url": "https://huggingface.co/papers/2611.03092",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-01T19:00:00.000Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "08b710f1e780",
+   "title": "Heimstaden is changing residential real estate management with AI",
+   "url": "https://openai.com/index/heimstaden",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-03T08:00:00.000Z",
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "262cfa35f430",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-02T18:00:00.000Z",
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "6fd6ad7938fa",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-02T18:00:00.000Z",
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "9b0f1b3870f8",
+   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-11-03T16:29:48.000Z",
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "4561cb353672",
+   "title": "[$] LLM reviews for Debian's new queue spark debate",
+   "url": "https://lwn.net/Articles/1103674/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-03T16:28:40.000Z",
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
+  },
+  {
+   "id": "5101d1a486d6",
+   "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
+   "url": "https://blog.cloudflare.com/zero-wire/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-03T14:00:00.000Z",
+   "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
   {
    "id": "0d7890576a84",
@@ -292,23 +556,8 @@
    "publishedAt": "2026-11-02T18:39:38.000Z",
    "hn": {
     "id": "50341462",
-    "points": 357,
-    "comments": 87
-   },
-   "firstSeenAt": "2026-11-03T02:48:22.336Z"
-  },
-  {
-   "id": "38c41eb0ed98",
-   "title": "Astra can read and write weights to improve Qwen",
-   "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-02T18:21:28.000Z",
-   "hn": {
-    "id": "50341174",
-    "points": 2031,
-    "comments": 660
+    "points": 581,
+    "comments": 177
    },
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
@@ -322,8 +571,8 @@
    "publishedAt": "2026-11-02T17:16:17.000Z",
    "hn": {
     "id": "50340088",
-    "points": 573,
-    "comments": 311
+    "points": 793,
+    "comments": 369
    },
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
@@ -337,8 +586,8 @@
    "publishedAt": "2026-11-02T16:34:36.000Z",
    "hn": {
     "id": "50339397",
-    "points": 304,
-    "comments": 318
+    "points": 463,
+    "comments": 441
    },
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
@@ -352,8 +601,8 @@
    "publishedAt": "2026-11-02T11:50:13.000Z",
    "hn": {
     "id": "50335615",
-    "points": 373,
-    "comments": 417
+    "points": 406,
+    "comments": 455
    },
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
@@ -367,8 +616,8 @@
    "publishedAt": "2026-11-02T01:31:07.000Z",
    "hn": {
     "id": "50331957",
-    "points": 320,
-    "comments": 129
+    "points": 332,
+    "comments": 134
    },
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
@@ -380,7 +629,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T21:23:24.764Z",
-   "score": 25,
+   "score": 88,
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
   {
@@ -391,7 +640,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T19:22:32.608Z",
-   "score": 25,
+   "score": 57,
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
   {
@@ -402,7 +651,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T19:48:40.520Z",
-   "score": 16,
+   "score": 38,
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
   {
@@ -413,7 +662,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T19:42:32.458Z",
-   "score": 16,
+   "score": 70,
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
   {
@@ -424,7 +673,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T14:43:13.576Z",
-   "score": 10,
+   "score": 14,
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
   {
@@ -490,8 +739,8 @@
    "publishedAt": "2026-11-02T14:52:00.000Z",
    "hn": {
     "id": "50337608",
-    "points": 1348,
-    "comments": 587
+    "points": 1584,
+    "comments": 659
    },
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
@@ -505,7 +754,7 @@
    "publishedAt": "2026-11-02T05:06:30.000Z",
    "hn": {
     "id": "50333339",
-    "points": 333,
+    "points": 339,
     "comments": 103
    },
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
@@ -520,8 +769,8 @@
    "publishedAt": "2026-11-02T00:17:27.000Z",
    "hn": {
     "id": "50331402",
-    "points": 494,
-    "comments": 308
+    "points": 517,
+    "comments": 314
    },
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
@@ -535,8 +784,8 @@
    "publishedAt": "2026-11-01T23:20:31.000Z",
    "hn": {
     "id": "50330939",
-    "points": 345,
-    "comments": 208
+    "points": 349,
+    "comments": 214
    },
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
@@ -550,8 +799,8 @@
    "publishedAt": "2026-11-01T19:35:27.000Z",
    "hn": {
     "id": "50328896",
-    "points": 688,
-    "comments": 832
+    "points": 716,
+    "comments": 856
    },
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
@@ -565,8 +814,8 @@
    "publishedAt": "2026-11-01T18:28:42.000Z",
    "hn": {
     "id": "50328251",
-    "points": 379,
-    "comments": 491
+    "points": 388,
+    "comments": 500
    },
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
@@ -608,7 +857,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T16:30:58.517Z",
-   "score": 77,
+   "score": 143,
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
   {
@@ -619,7 +868,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T02:19:02.905Z",
-   "score": 45,
+   "score": 51,
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
   {
@@ -630,7 +879,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T10:33:02.386Z",
-   "score": 22,
+   "score": 24,
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
   {
@@ -641,7 +890,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T15:22:16.630Z",
-   "score": 23,
+   "score": 31,
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
   {
@@ -663,7 +912,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T08:46:48.752Z",
-   "score": 26,
+   "score": 34,
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
   },
   {
@@ -757,8 +1006,8 @@
    "publishedAt": "2026-11-01T17:28:16.000Z",
    "hn": {
     "id": "50327650",
-    "points": 460,
-    "comments": 344
+    "points": 461,
+    "comments": 356
    },
    "firstSeenAt": "2026-11-02T00:24:45.954Z"
   },
@@ -2896,225 +3145,6 @@
    ],
    "publishedAt": "2026-10-27T16:19:22.000Z",
    "firstSeenAt": "2026-10-28T00:19:11.315Z"
-  },
-  {
-   "id": "c61ee1a62651",
-   "title": "AI promised less work. I've never worked more",
-   "url": "https://oioannou.com/blog/ai-promised-less-work/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T11:08:14.000Z",
-   "hn": {
-    "id": "50257325",
-    "points": 664,
-    "comments": 654
-   },
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "5964c0b19d95",
-   "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-   "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T10:27:50.000Z",
-   "hn": {
-    "id": "50256985",
-    "points": 479,
-    "comments": 274
-   },
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "eb967c2830c0",
-   "title": "The Mythical Man-Month in the Age of AI",
-   "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T06:25:37.000Z",
-   "hn": {
-    "id": "50255298",
-    "points": 475,
-    "comments": 352
-   },
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "24063c118384",
-   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-   "url": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T17:54:00.000Z",
-   "hn": {
-    "id": "50248005",
-    "points": 317,
-    "comments": 206
-   },
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "ce5ce5fc43fb",
-   "title": "Concerning behavior from a popular open-weight AI model",
-   "url": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T16:35:44.000Z",
-   "hn": {
-    "id": "50246658",
-    "points": 328,
-    "comments": 129
-   },
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "3c6c80c845d8",
-   "title": "Solar power is becoming bigger than nuclear",
-   "url": "https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-26T15:26:17.000Z",
-   "hn": {
-    "id": "50245385",
-    "points": 512,
-    "comments": 736
-   },
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "3ed1f73610e0",
-   "title": "Shitty Screenshare",
-   "url": "http://shittyscreenshare.com",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-27T00:12:16.704Z",
-   "score": 76,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "b19d44d93223",
-   "title": "Our Response To The eMudhra Key Disclosure Incident",
-   "url": "https://go.dev/blog/emudhra-incident",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-27T00:31:44.980Z",
-   "score": 19,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "5e268aca966b",
-   "title": "What are you doing this week?",
-   "url": "https://lobste.rs/s/xxdda9/what_are_you_doing_this_week",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T11:35:18.042Z",
-   "score": 19,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "a9787644b06e",
-   "title": "Heavenly delights of hashing numbers under EQUALP",
-   "url": "https://turtleware.eu/posts/Heavenly-delights-of-hashing-numbers-under-EQUALP.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-26T15:40:59.802Z",
-   "score": 12,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "f98823f24716",
-   "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
-   "url": "https://huggingface.co/papers/2610.34662",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-25T20:00:00.000Z",
-   "score": 231,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "28198522dcb7",
-   "title": "Work Agents: Systems, Capabilities, and Optimization",
-   "url": "https://huggingface.co/papers/2610.35845",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-25T20:00:00.000Z",
-   "score": 91,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "843d007a5379",
-   "title": "Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges",
-   "url": "https://huggingface.co/papers/2610.35193",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-25T20:00:00.000Z",
-   "score": 16,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "18bddb5f2f25",
-   "title": "S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning",
-   "url": "https://huggingface.co/papers/2610.35518",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-25T20:00:00.000Z",
-   "score": 11,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "7d30838ffd4e",
-   "title": "EmbodiedLab: Benchmarking Embodied Agents That Act to Know",
-   "url": "https://huggingface.co/papers/2610.35385",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-25T20:00:00.000Z",
-   "score": 9,
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "0b3125572ad0",
-   "title": "[$] Guidelines for panics in kernel code",
-   "url": "https://lwn.net/Articles/1100873/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-27T13:56:24.000Z",
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "73905398b90a",
-   "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
-   "url": "https://blog.cloudflare.com/php-ctf/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-27T13:00:00.000Z",
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
-  },
-  {
-   "id": "008876f8cd1c",
-   "title": "What took the Internet offline in Q3 2026",
-   "url": "https://blog.cloudflare.com/q3-2026-internet-disruption-summary/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-27T13:00:00.000Z",
-   "firstSeenAt": "2026-10-27T15:16:49.716Z"
   }
  ]
 }
