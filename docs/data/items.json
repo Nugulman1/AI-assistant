@@ -1,6 +1,40 @@
 {
- "generatedAt": "2026-11-04T01:07:07.648Z",
+ "generatedAt": "2026-11-04T17:01:42.202Z",
  "items": [
+  {
+   "id": "a04a448906e4",
+   "title": "C++26 Disapproved",
+   "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T00:33:22.000Z",
+   "hn": {
+    "id": "50360164",
+    "points": 385,
+    "comments": 295
+   },
+   "score": 18,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "7da3b08fd70d",
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-03T21:39:05.000Z",
+   "hn": {
+    "id": "50358562",
+    "points": 487,
+    "comments": 251
+   },
+   "score": 14,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
   {
    "id": "0b48a22c90c1",
    "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
@@ -12,10 +46,10 @@
    "publishedAt": "2026-11-03T07:56:21.000Z",
    "hn": {
     "id": "50349276",
-    "points": 443,
-    "comments": 210
+    "points": 481,
+    "comments": 235
    },
-   "score": 32,
+   "score": 54,
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
   {
@@ -30,8 +64,8 @@
    "firstSeenAt": "2026-11-03T16:57:17.383Z",
    "hn": {
     "id": "50355251",
-    "points": 478,
-    "comments": 151
+    "points": 698,
+    "comments": 203
    }
   },
   {
@@ -45,8 +79,8 @@
    "publishedAt": "2026-11-02T18:21:28.000Z",
    "hn": {
     "id": "50341174",
-    "points": 2922,
-    "comments": 879
+    "points": 2934,
+    "comments": 889
    },
    "firstSeenAt": "2026-11-03T02:48:22.336Z",
    "score": 50
@@ -250,38 +284,338 @@
    "score": 84
   },
   {
-   "id": "c1abda2ec708",
-   "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-   "url": "https://emudhra.we-have-a-problem.com/apple.html",
+   "id": "68c44263a0af",
+   "title": "AI is forcing us to pay off 40 years of technical debt",
+   "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T11:03:40.000Z",
-   "hn": {
-    "id": "50271640",
-    "points": 1185,
-    "comments": 408
-   },
-   "score": 118,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "9d02bbba005f",
-   "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
-   "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-27T20:35:09.000Z",
-   "score": 33,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z",
+   "publishedAt": "2026-11-04T11:52:17.000Z",
    "hn": {
-    "id": "50265393",
-    "points": 312,
-    "comments": 242
-   }
+    "id": "50364336",
+    "points": 604,
+    "comments": 393
+   },
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "150a39b9eb9a",
+   "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+   "url": "https://news.ycombinator.com/item?id=50363461",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T10:10:27.000Z",
+   "hn": {
+    "id": "50363461",
+    "points": 419,
+    "comments": 117
+   },
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "88c23216a431",
+   "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+   "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T08:46:29.000Z",
+   "hn": {
+    "id": "50362905",
+    "points": 416,
+    "comments": 192
+   },
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "5ded7db5c84b",
+   "title": "Jelly Sheet",
+   "url": "https://mrdoob.github.io/codevember-2026/01/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T03:40:50.000Z",
+   "hn": {
+    "id": "50361268",
+    "points": 382,
+    "comments": 100
+   },
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "67bf24197a0c",
+   "title": "The Internals of PostgreSQL",
+   "url": "https://www.interdb.jp/pg/index.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-03T21:51:06.000Z",
+   "hn": {
+    "id": "50358702",
+    "points": 339,
+    "comments": 24
+   },
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "edbf4ed1a954",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "url": "https://arxiv.org/abs/2605.29713",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-03T21:40:53.000Z",
+   "hn": {
+    "id": "50358582",
+    "points": 369,
+    "comments": 58
+   },
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "f3900be82c6f",
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-03T21:26:44.000Z",
+   "hn": {
+    "id": "50358422",
+    "points": 394,
+    "comments": 159
+   },
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "2fc1e68caf2a",
+   "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+   "url": "https://hackertv.org",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-03T01:18:09.000Z",
+   "hn": {
+    "id": "50346755",
+    "points": 414,
+    "comments": 78
+   },
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "645da223a841",
+   "title": "So my ISP was hijacking my DNS",
+   "url": "https://karthihegde.dev/posts/dns_tampering",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T12:06:23.618Z",
+   "score": 47,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "f6dd5bea3eff",
+   "title": "Observations from Running stealmybitcoin.com",
+   "url": "https://pavursec.com/blog/stealmybitcoin/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-03T23:45:21.591Z",
+   "score": 94,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "b53a7bae9b3f",
+   "title": "Zig 0.17.1 Released",
+   "url": "https://ziglang.org/news/0.17.1-released/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T10:57:35.661Z",
+   "score": 23,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "3ccf7704cdf4",
+   "title": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+   "url": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T15:23:09.155Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "71f73b5b8ea9",
+   "title": "Your Cryptography Conspiracy Theory Is Wrong",
+   "url": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T14:58:11.018Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "a7a9c63910c0",
+   "title": "Man-in-the-middle arbitrary code execution in Debian’s apt",
+   "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T13:36:43.067Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "2fb4e1b7c9be",
+   "title": "How to speed up the Rust compiler in November 2026",
+   "url": "https://nnethercote.github.io/2026/11/04/how-to-speed-up-the-rust-compiler-in-november-2026.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T14:05:16.766Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "bb04e6f34634",
+   "title": "Your terminal manipulation/navigation setups",
+   "url": "https://lobste.rs/s/r3gton/your_terminal_manipulation_navigation",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-03T18:54:55.545Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "fbb2f0faed9f",
+   "title": "Gist of Go: Concurrency",
+   "url": "https://antonz.org/go-concurrency/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-03T23:05:03.142Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "63973ddb0548",
+   "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+   "url": "https://huggingface.co/papers/2611.05275",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-02T19:00:00.000Z",
+   "score": 93,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "c183e075f0bc",
+   "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+   "url": "https://huggingface.co/papers/2611.04814",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-02T19:00:00.000Z",
+   "score": 63,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "685e8104a6fb",
+   "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+   "url": "https://huggingface.co/papers/2611.04916",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-02T19:00:00.000Z",
+   "score": 48,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "807d8e9928de",
+   "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+   "url": "https://huggingface.co/papers/2611.05377",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-02T19:00:00.000Z",
+   "score": 46,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "25bdd6e9b6c3",
+   "title": "Factorized MLLM Embeddings for Composed Image Retrieval",
+   "url": "https://huggingface.co/papers/2611.05193",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-02T19:00:00.000Z",
+   "score": 40,
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "3a06f84c0f51",
+   "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+   "url": "https://openai.com/index/openai-to-acquire-pierre",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-04T14:30:00.000Z",
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "75679f5aa60b",
+   "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+   "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-04T07:00:00.000Z",
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "c85e9d7dd64e",
+   "title": "How well can we measure open model inference share?",
+   "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-11-04T16:35:44.000Z",
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "e36550726bdd",
+   "title": "[$] Plasma X11 session removal surprises some Fedora users",
+   "url": "https://lwn.net/Articles/1105130/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-04T16:33:11.000Z",
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "3bbc16e0bfc6",
+   "title": "[$] Portable Python scripts with dependencies",
+   "url": "https://lwn.net/Articles/1104646/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-04T14:45:02.000Z",
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
+  },
+  {
+   "id": "19361844fc32",
+   "title": "See the agents, set the terms: new visibility and control for personal agents",
+   "url": "https://blog.cloudflare.com/personal-agents-visibility-control/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-04T14:00:00.000Z",
+   "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
    "id": "da9a5824109f",
@@ -293,8 +627,8 @@
    "publishedAt": "2026-11-03T17:22:37.000Z",
    "hn": {
     "id": "50354960",
-    "points": 1005,
-    "comments": 336
+    "points": 1441,
+    "comments": 470
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -308,8 +642,8 @@
    "publishedAt": "2026-11-03T16:47:29.000Z",
    "hn": {
     "id": "50354358",
-    "points": 359,
-    "comments": 137
+    "points": 729,
+    "comments": 226
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -323,8 +657,8 @@
    "publishedAt": "2026-11-03T15:29:15.000Z",
    "hn": {
     "id": "50353229",
-    "points": 442,
-    "comments": 390
+    "points": 491,
+    "comments": 481
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -338,8 +672,8 @@
    "publishedAt": "2026-11-03T15:25:47.000Z",
    "hn": {
     "id": "50353192",
-    "points": 554,
-    "comments": 399
+    "points": 649,
+    "comments": 451
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -353,8 +687,8 @@
    "publishedAt": "2026-11-03T14:53:42.000Z",
    "hn": {
     "id": "50352758",
-    "points": 311,
-    "comments": 175
+    "points": 401,
+    "comments": 220
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -368,8 +702,8 @@
    "publishedAt": "2026-11-03T14:53:41.000Z",
    "hn": {
     "id": "50352757",
-    "points": 432,
-    "comments": 134
+    "points": 509,
+    "comments": 150
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -396,7 +730,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T22:00:17.275Z",
-   "score": 15,
+   "score": 41,
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
   {
@@ -407,7 +741,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T20:03:16.449Z",
-   "score": 10,
+   "score": 33,
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
   {
@@ -418,7 +752,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T17:43:09.945Z",
-   "score": 16,
+   "score": 45,
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
   {
@@ -514,8 +848,8 @@
    "publishedAt": "2026-11-03T12:21:17.000Z",
    "hn": {
     "id": "50351111",
-    "points": 889,
-    "comments": 190
+    "points": 1007,
+    "comments": 205
    },
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
@@ -529,8 +863,8 @@
    "publishedAt": "2026-11-03T01:53:34.000Z",
    "hn": {
     "id": "50346981",
-    "points": 451,
-    "comments": 143
+    "points": 463,
+    "comments": 147
    },
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
@@ -544,7 +878,7 @@
    "publishedAt": "2026-11-03T01:33:43.000Z",
    "hn": {
     "id": "50346849",
-    "points": 342,
+    "points": 355,
     "comments": 77
    },
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
@@ -559,8 +893,8 @@
    "publishedAt": "2026-11-02T22:30:47.000Z",
    "hn": {
     "id": "50344919",
-    "points": 397,
-    "comments": 313
+    "points": 401,
+    "comments": 319
    },
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
@@ -574,8 +908,8 @@
    "publishedAt": "2026-11-02T17:47:40.000Z",
    "hn": {
     "id": "50340619",
-    "points": 321,
-    "comments": 90
+    "points": 332,
+    "comments": 94
    },
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
@@ -617,7 +951,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T15:19:50.214Z",
-   "score": 61,
+   "score": 96,
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
   {
@@ -628,7 +962,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T15:23:21.757Z",
-   "score": 48,
+   "score": 72,
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
   {
@@ -768,8 +1102,8 @@
    "publishedAt": "2026-11-02T18:39:38.000Z",
    "hn": {
     "id": "50341462",
-    "points": 606,
-    "comments": 195
+    "points": 620,
+    "comments": 208
    },
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
@@ -783,8 +1117,8 @@
    "publishedAt": "2026-11-02T17:16:17.000Z",
    "hn": {
     "id": "50340088",
-    "points": 811,
-    "comments": 381
+    "points": 826,
+    "comments": 388
    },
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
@@ -841,7 +1175,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-02T21:23:24.764Z",
-   "score": 103,
+   "score": 114,
    "firstSeenAt": "2026-11-03T02:48:22.336Z"
   },
   {
@@ -2816,297 +3150,6 @@
    ],
    "publishedAt": "2026-10-29T00:19:08.000Z",
    "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "a4bbf0966a74",
-   "title": "ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History",
-   "url": "https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T12:49:45.000Z",
-   "hn": {
-    "id": "50272749",
-    "points": 1178,
-    "comments": 996
-   },
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "ec58d21b88c5",
-   "title": "Git for the US Code",
-   "url": "https://lexifina.com/blog/git-for-the-us-code",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T01:47:50.000Z",
-   "hn": {
-    "id": "50268380",
-    "points": 447,
-    "comments": 266
-   },
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "2fb0f351f384",
-   "title": "Tailscale SSH: Investigation and remediation update",
-   "url": "https://tailscale.com/ssh-investigation-update",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T19:55:21.000Z",
-   "hn": {
-    "id": "50264857",
-    "points": 389,
-    "comments": 196
-   },
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "62b1fcdba263",
-   "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-   "url": "https://www.brangus.io/survival-llm",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T19:55:06.000Z",
-   "hn": {
-    "id": "50264853",
-    "points": 533,
-    "comments": 198
-   },
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "4b0c52a0ad80",
-   "title": "Discord will soon let anyone find public server messages through Google",
-   "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T18:44:17.000Z",
-   "hn": {
-    "id": "50263854",
-    "points": 331,
-    "comments": 209
-   },
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "a044912b52ff",
-   "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
-   "url": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T16:25:30.000Z",
-   "hn": {
-    "id": "50261589",
-    "points": 379,
-    "comments": 290
-   },
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "9739cf69c4dc",
-   "title": "New 14‑inch MacBook Pro with M6",
-   "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T16:08:32.000Z",
-   "hn": {
-    "id": "50261352",
-    "points": 435,
-    "comments": 616
-   },
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "3da424e52d40",
-   "title": "Software may be getting worse, but it used to be horrible",
-   "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-27T11:30:35.000Z",
-   "hn": {
-    "id": "50257548",
-    "points": 337,
-    "comments": 342
-   },
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "8731a2087876",
-   "title": "This is not sustainable",
-   "url": "https://www.netmeister.org/blog/defense-ddos.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T03:56:49.155Z",
-   "score": 148,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "4b1fa572a181",
-   "title": "AlpineBSD",
-   "url": "https://wiki.alpinebsd.org/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T10:34:55.669Z",
-   "score": 79,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "bc5166248033",
-   "title": "Billion-query-per-second lookup tables in C++",
-   "url": "https://lemire.me/blog/2026/10/26/billion-query-per-second-lookup-tables-in-c/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T09:47:41.873Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "696ee508e20b",
-   "title": "Scalable Vector Grief",
-   "url": "https://portswigger.net/research/scalable-vector-grief",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T07:26:03.185Z",
-   "score": 14,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "3181b4bb3cab",
-   "title": "Reminder: Lobsters NYC Meetup Tomorrow 5:30 at Walker's",
-   "url": "https://lobste.rs/s/87iesc/reminder_lobsters_nyc_meetup_tomorrow_5",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T01:27:50.204Z",
-   "score": 31,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "5aed4d3af4a9",
-   "title": "The next circle of security hell",
-   "url": "https://blogs.gentoo.org/mgorny/2026/10/27/the-next-circle-of-security-hell/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-27T20:10:56.188Z",
-   "score": 16,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "d4e4fc64e706",
-   "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
-   "url": "https://huggingface.co/papers/2610.37381",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-26T20:00:00.000Z",
-   "score": 138,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "247a373bfcdb",
-   "title": "Hy-Nomas: Towards Free-form Interactive World Generation",
-   "url": "https://huggingface.co/papers/2610.36729",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-26T20:00:00.000Z",
-   "score": 103,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "d47afb54fd8c",
-   "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
-   "url": "https://huggingface.co/papers/2610.35864",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-26T20:00:00.000Z",
-   "score": 91,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "d451aa6926fd",
-   "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
-   "url": "https://huggingface.co/papers/2610.37662",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-26T20:00:00.000Z",
-   "score": 83,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "28bd24cde23e",
-   "title": "CodeCap-Bench: Can Code Serve as a Good Video Caption?",
-   "url": "https://huggingface.co/papers/2610.37341",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-26T20:00:00.000Z",
-   "score": 49,
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "2fc8e689e413",
-   "title": "Legora is building the agentic operating system for legal work",
-   "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-28T09:30:00.000Z",
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "d63165261460",
-   "title": "The October inflection point for vibe game development",
-   "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-10-28T13:55:15.000Z",
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "45f878f3f6da",
-   "title": "Artificial Analysis v5 and the benchmarker's dilemma",
-   "url": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-10-28T12:58:39.000Z",
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "cf7263c76277",
-   "title": "[$] The campaign to push Northstar into Linux distributions",
-   "url": "https://lwn.net/Articles/1102738/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-28T14:26:59.000Z",
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
-  },
-  {
-   "id": "c9ff3900c5bd",
-   "title": "Fragments: October 28",
-   "url": "https://martinfowler.com/fragments/2026-10-28.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-10-28T12:55:00.000Z",
-   "firstSeenAt": "2026-10-28T15:53:52.657Z"
   }
  ]
 }
