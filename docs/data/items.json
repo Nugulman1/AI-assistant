@@ -1,6 +1,89 @@
 {
- "generatedAt": "2026-11-05T01:22:47.348Z",
+ "generatedAt": "2026-11-05T17:16:47.011Z",
  "items": [
+  {
+   "id": "8d1473191036",
+   "title": "sshole",
+   "url": "https://sshhole.com",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T12:19:02.000Z",
+   "hn": {
+    "id": "50378228",
+    "points": 1314,
+    "comments": 363
+   },
+   "score": 85,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "ecbe88ccc357",
+   "title": "Residential proxies detected on White House network",
+   "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T20:45:18.000Z",
+   "hn": {
+    "id": "50371246",
+    "points": 1224,
+    "comments": 413
+   },
+   "firstSeenAt": "2026-11-05T01:22:47.348Z",
+   "score": 19
+  },
+  {
+   "id": "aed4d9c60c01",
+   "title": "A new Go API for JSON",
+   "url": "https://go.dev/blog/jsonv2",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T17:52:11.000Z",
+   "score": 36,
+   "firstSeenAt": "2026-11-05T01:22:47.348Z",
+   "hn": {
+    "id": "50369106",
+    "points": 377,
+    "comments": 190
+   }
+  },
+  {
+   "id": "a4f4c423c542",
+   "title": "A thousand fewer paths to root",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "sources": [
+    "OpenAI",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T08:00:00.000Z",
+   "firstSeenAt": "2026-11-05T01:22:47.348Z",
+   "hn": {
+    "id": "50372929",
+    "points": 457,
+    "comments": 334
+   }
+  },
+  {
+   "id": "0a437d67f2ef",
+   "title": "Introducing Images 2.6",
+   "url": "https://openai.com/index/introducing-images-2-6",
+   "sources": [
+    "OpenAI",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T00:00:00.000Z",
+   "firstSeenAt": "2026-11-05T01:22:47.348Z",
+   "hn": {
+    "id": "50372945",
+    "points": 370,
+    "comments": 223
+   }
+  },
   {
    "id": "a04a448906e4",
    "title": "C++26 Disapproved",
@@ -12,10 +95,10 @@
    "publishedAt": "2026-11-04T00:33:22.000Z",
    "hn": {
     "id": "50360164",
-    "points": 404,
-    "comments": 340
+    "points": 409,
+    "comments": 353
    },
-   "score": 30,
+   "score": 38,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -29,10 +112,10 @@
    "publishedAt": "2026-11-03T21:39:05.000Z",
    "hn": {
     "id": "50358562",
-    "points": 500,
-    "comments": 259
+    "points": 509,
+    "comments": 261
    },
-   "score": 33,
+   "score": 44,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -82,8 +165,8 @@
    "firstSeenAt": "2026-11-04T01:07:07.648Z",
    "hn": {
     "id": "50362980",
-    "points": 359,
-    "comments": 228
+    "points": 381,
+    "comments": 241
    }
   },
   {
@@ -98,8 +181,8 @@
    "firstSeenAt": "2026-11-03T16:57:17.383Z",
    "hn": {
     "id": "50355251",
-    "points": 717,
-    "comments": 208
+    "points": 731,
+    "comments": 213
    }
   },
   {
@@ -251,52 +334,253 @@
    "score": 87
   },
   {
-   "id": "44e3e5f137f8",
-   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-   "url": "https://divagr.com/blog/qwenputer",
+   "id": "a0c225aed9f5",
+   "title": "Lemmings CSS Animation",
+   "url": "https://markblah.github.io/lemmings/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T04:54:10.000Z",
+   "hn": {
+    "id": "50375354",
+    "points": 344,
+    "comments": 69
+   },
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "1e823a0b82c2",
+   "title": "Insects don't swarm at LED lights",
+   "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T19:50:23.000Z",
+   "hn": {
+    "id": "50370610",
+    "points": 300,
+    "comments": 154
+   },
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "0f35e299c97c",
+   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+   "url": "https://www.ricursive.com/ripple",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T18:53:29.000Z",
+   "hn": {
+    "id": "50369925",
+    "points": 328,
+    "comments": 118
+   },
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "fef31214013a",
+   "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+   "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T15:01:44.000Z",
+   "hn": {
+    "id": "50366522",
+    "points": 329,
+    "comments": 257
+   },
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "793baf0e5454",
+   "title": "Ask HN: What's your current AI agentic setup?",
+   "url": "https://news.ycombinator.com/item?id=50366117",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T14:37:22.000Z",
+   "hn": {
+    "id": "50366117",
+    "points": 479,
+    "comments": 578
+   },
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "d9931a8b95de",
+   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T10:23:34.000Z",
+   "hn": {
+    "id": "50363554",
+    "points": 316,
+    "comments": 311
+   },
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "b06b054a8080",
+   "title": "Declarative Dragging",
+   "url": "https://declarative-dragging.github.io/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-29T00:25:45.000Z",
-   "hn": {
-    "id": "50282838",
-    "points": 690,
-    "comments": 145
-   },
-   "score": 42,
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
+   "publishedAt": "2026-11-05T00:35:09.470Z",
+   "score": 93,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
-   "id": "739e0b5535e3",
-   "title": "Bliki: LLM Voice",
-   "url": "https://martinfowler.com/bliki/LLM-Voice.html",
+   "id": "7737a93a3e2a",
+   "title": "September in Servo: progress, rounded rectangles, and more",
+   "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
    "sources": [
-    "Martin Fowler",
-    "Hacker News"
+    "Lobsters"
    ],
-   "publishedAt": "2026-10-29T14:28:00.000Z",
-   "firstSeenAt": "2026-10-29T15:59:38.717Z",
-   "hn": {
-    "id": "50290177",
-    "points": 588,
-    "comments": 323
-   }
+   "publishedAt": "2026-11-05T13:47:56.831Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
-   "id": "ecbe88ccc357",
-   "title": "Residential proxies detected on White House network",
-   "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+   "id": "9b1495187bfa",
+   "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
+   "url": "https://wiredream.com/anagram-fun/",
    "sources": [
-    "Hacker News"
+    "Lobsters"
    ],
-   "publishedAt": "2026-11-04T20:45:18.000Z",
-   "hn": {
-    "id": "50371246",
-    "points": 608,
-    "comments": 196
-   },
-   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+   "publishedAt": "2026-11-05T07:37:35.059Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "9918a86b6525",
+   "title": "Why is there an Anubis gate in front of Search for logged-in users?",
+   "url": "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T09:29:01.102Z",
+   "score": 21,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "c997aee47d8b",
+   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+   "url": "https://huggingface.co/papers/2611.06728",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-03T19:00:00.000Z",
+   "score": 101,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "3701202fe75e",
+   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+   "url": "https://huggingface.co/papers/2611.06918",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T13:59:58.000Z",
+   "score": 55,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "9dbadbfd4502",
+   "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+   "url": "https://huggingface.co/papers/2611.06910",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-03T19:00:00.000Z",
+   "score": 33,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "4c33fbdd0dc4",
+   "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+   "url": "https://huggingface.co/papers/2611.06483",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T08:24:54.000Z",
+   "score": 28,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "83ae48ed8791",
+   "title": "EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL",
+   "url": "https://huggingface.co/papers/2611.06518",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-03T19:00:00.000Z",
+   "score": 21,
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "f93567576105",
+   "title": "Setting a new standard for responsible AI infrastructure",
+   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-05T02:00:00.000Z",
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "003a6dd08e36",
+   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-05T17:05:16.000Z",
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "ea0c3a2be45c",
+   "title": "[$] User namespaces + file capabilities = trouble",
+   "url": "https://lwn.net/Articles/1103429/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-05T14:33:59.000Z",
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "65bf7a9e9f17",
+   "title": "Agents aren’t humans (but they kinda are)",
+   "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-05T17:03:04.000Z",
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "4d44cd91cc18",
+   "title": "The Data Product Platform Navigator",
+   "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-11-05T14:11:00.000Z",
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+  },
+  {
+   "id": "7fb652c9ef37",
+   "title": "Scaling Slack and GitHub with Maude Lemaire",
+   "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-11-05T15:58:00.000Z",
+   "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
    "id": "5b592f80e93a",
@@ -308,8 +592,8 @@
    "publishedAt": "2026-11-04T15:38:34.000Z",
    "hn": {
     "id": "50367125",
-    "points": 459,
-    "comments": 169
+    "points": 567,
+    "comments": 209
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
@@ -323,8 +607,8 @@
    "publishedAt": "2026-11-04T15:30:30.000Z",
    "hn": {
     "id": "50366999",
-    "points": 361,
-    "comments": 98
+    "points": 608,
+    "comments": 178
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
@@ -338,8 +622,8 @@
    "publishedAt": "2026-11-04T14:27:02.000Z",
    "hn": {
     "id": "50365982",
-    "points": 307,
-    "comments": 613
+    "points": 342,
+    "comments": 731
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
@@ -353,20 +637,9 @@
    "publishedAt": "2026-11-04T14:09:55.000Z",
    "hn": {
     "id": "50365755",
-    "points": 570,
-    "comments": 353
+    "points": 623,
+    "comments": 380
    },
-   "firstSeenAt": "2026-11-05T01:22:47.348Z"
-  },
-  {
-   "id": "aed4d9c60c01",
-   "title": "A new Go API for JSON",
-   "url": "https://go.dev/blog/jsonv2",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-04T17:52:32.448Z",
-   "score": 16,
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
   {
@@ -377,7 +650,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T15:54:58.895Z",
-   "score": 14,
+   "score": 23,
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
   {
@@ -414,26 +687,6 @@
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
   {
-   "id": "a4f4c423c542",
-   "title": "A thousand fewer paths to root",
-   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-04T08:00:00.000Z",
-   "firstSeenAt": "2026-11-05T01:22:47.348Z"
-  },
-  {
-   "id": "0a437d67f2ef",
-   "title": "Introducing Images 2.6",
-   "url": "https://openai.com/index/introducing-images-2-6",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-04T00:00:00.000Z",
-   "firstSeenAt": "2026-11-05T01:22:47.348Z"
-  },
-  {
    "id": "bf25be8f8779",
    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
    "url": "https://openai.com/index/devrev-enterprise-self-service",
@@ -463,8 +716,8 @@
    "publishedAt": "2026-11-04T11:52:17.000Z",
    "hn": {
     "id": "50364336",
-    "points": 1054,
-    "comments": 628
+    "points": 1238,
+    "comments": 721
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -478,8 +731,8 @@
    "publishedAt": "2026-11-04T10:10:27.000Z",
    "hn": {
     "id": "50363461",
-    "points": 627,
-    "comments": 163
+    "points": 690,
+    "comments": 181
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -493,8 +746,8 @@
    "publishedAt": "2026-11-04T08:46:29.000Z",
    "hn": {
     "id": "50362905",
-    "points": 589,
-    "comments": 271
+    "points": 607,
+    "comments": 284
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -508,8 +761,8 @@
    "publishedAt": "2026-11-04T03:40:50.000Z",
    "hn": {
     "id": "50361268",
-    "points": 445,
-    "comments": 113
+    "points": 462,
+    "comments": 118
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -523,8 +776,8 @@
    "publishedAt": "2026-11-03T21:51:06.000Z",
    "hn": {
     "id": "50358702",
-    "points": 367,
-    "comments": 32
+    "points": 373,
+    "comments": 34
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -538,7 +791,7 @@
    "publishedAt": "2026-11-03T21:40:53.000Z",
    "hn": {
     "id": "50358582",
-    "points": 383,
+    "points": 388,
     "comments": 60
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
@@ -553,8 +806,8 @@
    "publishedAt": "2026-11-03T21:26:44.000Z",
    "hn": {
     "id": "50358422",
-    "points": 408,
-    "comments": 166
+    "points": 413,
+    "comments": 169
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -581,7 +834,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T12:06:23.618Z",
-   "score": 70,
+   "score": 102,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -592,7 +845,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T23:45:21.591Z",
-   "score": 110,
+   "score": 125,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -603,7 +856,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T10:57:35.661Z",
-   "score": 42,
+   "score": 56,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -614,7 +867,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T15:23:09.155Z",
-   "score": 58,
+   "score": 91,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -625,7 +878,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T14:58:11.018Z",
-   "score": 44,
+   "score": 69,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -636,7 +889,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T13:36:43.067Z",
-   "score": 28,
+   "score": 46,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -647,7 +900,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T14:05:16.766Z",
-   "score": 31,
+   "score": 45,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -797,8 +1050,8 @@
    "publishedAt": "2026-11-03T17:22:37.000Z",
    "hn": {
     "id": "50354960",
-    "points": 1485,
-    "comments": 483
+    "points": 1510,
+    "comments": 489
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -2875,212 +3128,6 @@
    ],
    "publishedAt": "2026-10-29T07:00:00.000Z",
    "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "8ccea7e89b70",
-   "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T14:13:21.000Z",
-   "hn": {
-    "id": "50289418",
-    "points": 1675,
-    "comments": 435
-   },
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "132f6324df25",
-   "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
-   "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T13:40:04.000Z",
-   "hn": {
-    "id": "50288867",
-    "points": 312,
-    "comments": 197
-   },
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "271134257c4a",
-   "title": "Claude Code regularly sends each background agent’s transcript to its model",
-   "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T03:33:42.000Z",
-   "hn": {
-    "id": "50284255",
-    "points": 580,
-    "comments": 235
-   },
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "34bccb07b60f",
-   "title": "StackOverflow now gets fewer than 1000 questions a month",
-   "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T23:35:02.000Z",
-   "hn": {
-    "id": "50282454",
-    "points": 808,
-    "comments": 726
-   },
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "efddadad9dd2",
-   "title": "A Health Update",
-   "url": "https://furbo.org/2026/10/28/a-health-update/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T21:13:21.000Z",
-   "hn": {
-    "id": "50280974",
-    "points": 349,
-    "comments": 62
-   },
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "3f3e82c4e209",
-   "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
-   "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T21:03:24.000Z",
-   "hn": {
-    "id": "50280864",
-    "points": 438,
-    "comments": 271
-   },
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "c756110afcd2",
-   "title": "What the fox say?",
-   "url": "https://entropicthoughts.com/what-the-fox-say",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T06:42:40.796Z",
-   "score": 62,
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "f059dcc02bfe",
-   "title": "NetBSD adds a new Emacs-like text editor called atto",
-   "url": "https://mastodon.sdf.org/@netbsd/117518160563539748",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T11:58:00.549Z",
-   "score": 48,
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "c6d25904346f",
-   "title": "GitLab security incident: attempted exploitation of CVE-2026-97229",
-   "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T23:01:26.314Z",
-   "score": 42,
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "5aad679eab5d",
-   "title": "The Future Trait Has A Missing State",
-   "url": "https://blog.yoshuawuyts.com/the-future-trait-has-a-missing-state",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T04:24:28.224Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "743771232c40",
-   "title": "The case of the 9 bit AES key",
-   "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T02:13:24.028Z",
-   "score": 38,
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "82fe7f922f75",
-   "title": "Redox Ring Buffers Project Summary",
-   "url": "https://www.redox-os.org/news/nlnet-rb-summary/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T02:04:00.893Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "5bb1b87db247",
-   "title": "[$] Containers as a recognized kernel object",
-   "url": "https://lwn.net/Articles/1102593/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-29T14:02:30.000Z",
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "efe72c6018e6",
-   "title": "Cloudflare DDoS Threat Report 2026 Q3: More swarms, fewer giants",
-   "url": "https://blog.cloudflare.com/ddos-threat-report-2026-q3/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-29T12:55:00.000Z",
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "9690f6dbc3ae",
-   "title": "NYC",
-   "url": "http://notes.eatonphil.com/2026-10-29-nyc.html",
-   "sources": [
-    "Phil Eaton"
-   ],
-   "publishedAt": "2026-10-29T00:00:00.000Z",
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "e73b1e188559",
-   "title": "Why are good developers so wary of agentic development?",
-   "url": "https://martinfowler.com/rachels-ramblings/good-devs-wary.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-10-29T13:50:00.000Z",
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "22a42169ff91",
-   "title": "Software engineering at Google & CS education with Titus Winters",
-   "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-10-29T13:37:13.000Z",
-   "firstSeenAt": "2026-10-29T15:59:38.717Z"
   }
  ]
 }
