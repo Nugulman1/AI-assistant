@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-04T17:01:42.202Z",
+ "generatedAt": "2026-11-05T01:22:47.348Z",
  "items": [
   {
    "id": "a04a448906e4",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-04T00:33:22.000Z",
    "hn": {
     "id": "50360164",
-    "points": 385,
-    "comments": 295
+    "points": 404,
+    "comments": 340
    },
-   "score": 18,
+   "score": 30,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -29,10 +29,10 @@
    "publishedAt": "2026-11-03T21:39:05.000Z",
    "hn": {
     "id": "50358562",
-    "points": 487,
-    "comments": 251
+    "points": 500,
+    "comments": 259
    },
-   "score": 14,
+   "score": 33,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -46,11 +46,45 @@
    "publishedAt": "2026-11-03T07:56:21.000Z",
    "hn": {
     "id": "50349276",
-    "points": 481,
-    "comments": 235
+    "points": 487,
+    "comments": 236
    },
-   "score": 54,
+   "score": 58,
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
+  },
+  {
+   "id": "0093518f68d3",
+   "title": "Mac at Any Scale",
+   "url": "https://namespace.so/blog/mac-at-any-scale",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-03T14:53:42.000Z",
+   "hn": {
+    "id": "50352758",
+    "points": 410,
+    "comments": 222
+   },
+   "firstSeenAt": "2026-11-04T01:07:07.648Z",
+   "score": 14
+  },
+  {
+   "id": "3f989514aa0d",
+   "title": "kitty 0.50.0",
+   "url": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-03T17:43:09.945Z",
+   "score": 45,
+   "firstSeenAt": "2026-11-04T01:07:07.648Z",
+   "hn": {
+    "id": "50362980",
+    "points": 359,
+    "comments": 228
+   }
   },
   {
    "id": "9b0f1b3870f8",
@@ -64,8 +98,8 @@
    "firstSeenAt": "2026-11-03T16:57:17.383Z",
    "hn": {
     "id": "50355251",
-    "points": 698,
-    "comments": 203
+    "points": 717,
+    "comments": 208
    }
   },
   {
@@ -250,38 +284,174 @@
    }
   },
   {
-   "id": "2365cd15a328",
-   "title": "Why is this fingerprinting script creating bioweapons?",
-   "url": "https://nullpt.rs/fingerprinting-bioweapons",
+   "id": "ecbe88ccc357",
+   "title": "Residential proxies detected on White House network",
+   "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-10-28T17:13:29.000Z",
+   "publishedAt": "2026-11-04T20:45:18.000Z",
    "hn": {
-    "id": "50276998",
-    "points": 1564,
-    "comments": 300
+    "id": "50371246",
+    "points": 608,
+    "comments": 196
    },
-   "score": 108,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
   {
-   "id": "6527866099b3",
-   "title": "Emacs Turns 50",
-   "url": "https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/",
+   "id": "5b592f80e93a",
+   "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+   "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T15:38:34.000Z",
+   "hn": {
+    "id": "50367125",
+    "points": 459,
+    "comments": 169
+   },
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "7838c87736f9",
+   "title": "Kimi K3.1 Pro model weights are out",
+   "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T15:30:30.000Z",
+   "hn": {
+    "id": "50366999",
+    "points": 361,
+    "comments": 98
+   },
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "7a26ad486f19",
+   "title": "US voters roundly reject data centers in ballot measures",
+   "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T14:27:02.000Z",
+   "hn": {
+    "id": "50365982",
+    "points": 307,
+    "comments": 613
+   },
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "7f80142f2f1d",
+   "title": "North Korean fake job interview led to $6.3B Binance heist",
+   "url": "https://www.theregister.com/security/2026/11/03/north-korean-fake-job-interview-led-to-63b-binance-heist/5307398",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-04T14:09:55.000Z",
+   "hn": {
+    "id": "50365755",
+    "points": 570,
+    "comments": 353
+   },
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "aed4d9c60c01",
+   "title": "A new Go API for JSON",
+   "url": "https://go.dev/blog/jsonv2",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-28T13:25:11.000Z",
-   "hn": {
-    "id": "50273171",
-    "points": 511,
-    "comments": 236
-   },
-   "firstSeenAt": "2026-10-29T00:40:16.100Z",
-   "score": 84
+   "publishedAt": "2026-11-04T17:52:32.448Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "5e98e741eddb",
+   "title": "Gleam Programming Language Update October 2026",
+   "url": "https://www.youtube.com/watch?v=Jm2HZhwreNs",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T15:54:58.895Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "ff6b39f78b33",
+   "title": "Burnt TOAST",
+   "url": "https://www.pgedge.com/blog/burnt-toast",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T18:00:32.521Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "3122f1c79d34",
+   "title": "Lorem Ipsum Dot Gov Dot UK",
+   "url": "https://shkspr.mobi/blog/2026/11/lorem-ipsum-dot-gov-dot-uk/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T14:50:34.331Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "fb49f05fd091",
+   "title": "Fraction comparison trick revisited",
+   "url": "https://www.johndcook.com/blog/2026/11/03/fraction-comparison-trick-revisited/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-04T09:02:48.666Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "a4f4c423c542",
+   "title": "A thousand fewer paths to root",
+   "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-04T08:00:00.000Z",
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "0a437d67f2ef",
+   "title": "Introducing Images 2.6",
+   "url": "https://openai.com/index/introducing-images-2-6",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-04T00:00:00.000Z",
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "bf25be8f8779",
+   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+   "url": "https://openai.com/index/devrev-enterprise-self-service",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-04T00:00:00.000Z",
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
+  },
+  {
+   "id": "94bf6fd5c2b9",
+   "title": "[$] LWN.net Weekly Edition for November 5, 2026",
+   "url": "https://lwn.net/Articles/1103480/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-05T00:42:51.000Z",
+   "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
   {
    "id": "68c44263a0af",
@@ -293,8 +463,8 @@
    "publishedAt": "2026-11-04T11:52:17.000Z",
    "hn": {
     "id": "50364336",
-    "points": 604,
-    "comments": 393
+    "points": 1054,
+    "comments": 628
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -308,8 +478,8 @@
    "publishedAt": "2026-11-04T10:10:27.000Z",
    "hn": {
     "id": "50363461",
-    "points": 419,
-    "comments": 117
+    "points": 627,
+    "comments": 163
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -323,8 +493,8 @@
    "publishedAt": "2026-11-04T08:46:29.000Z",
    "hn": {
     "id": "50362905",
-    "points": 416,
-    "comments": 192
+    "points": 589,
+    "comments": 271
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -338,8 +508,8 @@
    "publishedAt": "2026-11-04T03:40:50.000Z",
    "hn": {
     "id": "50361268",
-    "points": 382,
-    "comments": 100
+    "points": 445,
+    "comments": 113
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -353,8 +523,8 @@
    "publishedAt": "2026-11-03T21:51:06.000Z",
    "hn": {
     "id": "50358702",
-    "points": 339,
-    "comments": 24
+    "points": 367,
+    "comments": 32
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -368,8 +538,8 @@
    "publishedAt": "2026-11-03T21:40:53.000Z",
    "hn": {
     "id": "50358582",
-    "points": 369,
-    "comments": 58
+    "points": 383,
+    "comments": 60
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -383,8 +553,8 @@
    "publishedAt": "2026-11-03T21:26:44.000Z",
    "hn": {
     "id": "50358422",
-    "points": 394,
-    "comments": 159
+    "points": 408,
+    "comments": 166
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -411,7 +581,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T12:06:23.618Z",
-   "score": 47,
+   "score": 70,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -422,7 +592,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T23:45:21.591Z",
-   "score": 94,
+   "score": 110,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -433,7 +603,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T10:57:35.661Z",
-   "score": 23,
+   "score": 42,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -444,7 +614,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T15:23:09.155Z",
-   "score": 12,
+   "score": 58,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -455,7 +625,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T14:58:11.018Z",
-   "score": 12,
+   "score": 44,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -466,7 +636,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T13:36:43.067Z",
-   "score": 10,
+   "score": 28,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -477,7 +647,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T14:05:16.766Z",
-   "score": 11,
+   "score": 31,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -488,7 +658,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T18:54:55.545Z",
-   "score": 22,
+   "score": 27,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -627,8 +797,8 @@
    "publishedAt": "2026-11-03T17:22:37.000Z",
    "hn": {
     "id": "50354960",
-    "points": 1441,
-    "comments": 470
+    "points": 1485,
+    "comments": 483
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -642,8 +812,8 @@
    "publishedAt": "2026-11-03T16:47:29.000Z",
    "hn": {
     "id": "50354358",
-    "points": 729,
-    "comments": 226
+    "points": 807,
+    "comments": 240
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -657,8 +827,8 @@
    "publishedAt": "2026-11-03T15:29:15.000Z",
    "hn": {
     "id": "50353229",
-    "points": 491,
-    "comments": 481
+    "points": 494,
+    "comments": 486
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -672,23 +842,8 @@
    "publishedAt": "2026-11-03T15:25:47.000Z",
    "hn": {
     "id": "50353192",
-    "points": 649,
-    "comments": 451
-   },
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "0093518f68d3",
-   "title": "Mac at Any Scale",
-   "url": "https://namespace.so/blog/mac-at-any-scale",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T14:53:42.000Z",
-   "hn": {
-    "id": "50352758",
-    "points": 401,
-    "comments": 220
+    "points": 662,
+    "comments": 460
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -702,8 +857,8 @@
    "publishedAt": "2026-11-03T14:53:41.000Z",
    "hn": {
     "id": "50352757",
-    "points": 509,
-    "comments": 150
+    "points": 518,
+    "comments": 154
    },
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
@@ -730,7 +885,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T22:00:17.275Z",
-   "score": 41,
+   "score": 45,
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
   {
@@ -741,18 +896,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T20:03:16.449Z",
-   "score": 33,
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "3f989514aa0d",
-   "title": "kitty 0.50.0",
-   "url": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T17:43:09.945Z",
-   "score": 45,
+   "score": 34,
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
   },
   {
@@ -848,8 +992,8 @@
    "publishedAt": "2026-11-03T12:21:17.000Z",
    "hn": {
     "id": "50351111",
-    "points": 1007,
-    "comments": 205
+    "points": 1025,
+    "comments": 207
    },
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
@@ -863,7 +1007,7 @@
    "publishedAt": "2026-11-03T01:53:34.000Z",
    "hn": {
     "id": "50346981",
-    "points": 463,
+    "points": 469,
     "comments": 147
    },
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
@@ -878,8 +1022,8 @@
    "publishedAt": "2026-11-03T01:33:43.000Z",
    "hn": {
     "id": "50346849",
-    "points": 355,
-    "comments": 77
+    "points": 358,
+    "comments": 78
    },
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
@@ -951,7 +1095,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T15:19:50.214Z",
-   "score": 96,
+   "score": 104,
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
   {
@@ -962,7 +1106,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-03T15:23:21.757Z",
-   "score": 72,
+   "score": 79,
    "firstSeenAt": "2026-11-03T16:57:17.383Z"
   },
   {
@@ -2937,219 +3081,6 @@
    ],
    "publishedAt": "2026-10-29T13:37:13.000Z",
    "firstSeenAt": "2026-10-29T15:59:38.717Z"
-  },
-  {
-   "id": "d76d59f8ae2e",
-   "title": "MacBook Pro with PROLED XDR Display and Touch",
-   "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T17:10:37.000Z",
-   "hn": {
-    "id": "50276940",
-    "points": 619,
-    "comments": 1081
-   },
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "6318bf62f2c5",
-   "title": "Gemini 4 Carbon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T17:01:23.000Z",
-   "hn": {
-    "id": "50276792",
-    "points": 1008,
-    "comments": 800
-   },
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "dc6480c52959",
-   "title": "CNC Stone Carving",
-   "url": "https://carmelitegothic.com/cnc-stone-carving/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T14:38:22.000Z",
-   "hn": {
-    "id": "50274409",
-    "points": 522,
-    "comments": 142
-   },
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "31ebe027e441",
-   "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-   "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T13:41:30.000Z",
-   "hn": {
-    "id": "50273396",
-    "points": 482,
-    "comments": 520
-   },
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "e8d17d64fa09",
-   "title": "Wealth Inequality in America drawn to scale",
-   "url": "https://dreamagainusa.org/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-28T08:48:21.000Z",
-   "hn": {
-    "id": "50270764",
-    "points": 345,
-    "comments": 432
-   },
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "b086f4401bd8",
-   "title": "GOTO Considered Totally Sick (for error handling in C)",
-   "url": "https://thestateofinahaze.net/blog/c-goto-considered-totally-sick/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T16:07:18.151Z",
-   "score": 44,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "fb6977cb610e",
-   "title": "Hoot 0.10.0 released",
-   "url": "https://spritely.institute/news/hoot-0-10-0-released.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T16:47:10.029Z",
-   "score": 41,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "833ed5ac2f99",
-   "title": "Start Doing Graph Theory",
-   "url": "https://vertex.degree/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T10:12:59.688Z",
-   "score": 31,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "1cdc2a43b76e",
-   "title": "Raspberry Pi Zero 3 W and Pi 4 Model A on the Way?",
-   "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T13:39:42.162Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "68f7c17af787",
-   "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-   "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T13:34:06.200Z",
-   "score": 31,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "7a667d418166",
-   "title": "The Benchmarking Crisis",
-   "url": "http://databasearchitects.blogspot.com/2026/10/the-benchmarking-crisis.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T08:32:09.482Z",
-   "score": 12,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "6d680748f9b6",
-   "title": "Pair-coding Lobste.rs feat",
-   "url": "https://lobste.rs/s/mgy3tr/pair_coding_lobste_rs_feat",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T15:53:34.963Z",
-   "score": 19,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "2385b6df5551",
-   "title": "Who’s 0xabadbabe and why? (2011)",
-   "url": "https://daniel.haxx.se/blog/2011/10/28/whos-0xabadbabe-and-why/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-28T07:57:21.752Z",
-   "score": 13,
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "ad10900db6cd",
-   "title": "AI for Science expands to foundations and research institutions",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-10-28T00:00:00.000Z",
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "75e2017ed4c5",
-   "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-   "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-28T13:15:00.000Z",
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "0dc3cf0b7c98",
-   "title": "The future of the firm",
-   "url": "https://openai.com/index/the-future-of-the-firm",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-28T10:00:00.000Z",
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "34b0bf3f94c3",
-   "title": "Gemini 4 Carbon: Our next frontier model",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-10-28T17:00:58.000Z",
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
-  },
-  {
-   "id": "26b87cf6f617",
-   "title": "[$] LWN.net Weekly Edition for October 29, 2026",
-   "url": "https://lwn.net/Articles/1102136/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-29T00:19:08.000Z",
-   "firstSeenAt": "2026-10-29T00:40:16.100Z"
   }
  ]
 }
