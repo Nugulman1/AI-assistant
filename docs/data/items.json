@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T01:25:19.035Z",
+ "generatedAt": "2026-11-06T16:41:16.169Z",
  "items": [
   {
    "id": "8d1473191036",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-05T12:19:02.000Z",
    "hn": {
     "id": "50378228",
-    "points": 2305,
-    "comments": 569
+    "points": 2871,
+    "comments": 698
    },
-   "score": 128,
+   "score": 158,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -29,8 +29,8 @@
    "publishedAt": "2026-11-04T20:45:18.000Z",
    "hn": {
     "id": "50371246",
-    "points": 1245,
-    "comments": 429
+    "points": 1261,
+    "comments": 432
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z",
    "score": 20
@@ -48,8 +48,8 @@
    "firstSeenAt": "2026-11-05T01:22:47.348Z",
    "hn": {
     "id": "50369106",
-    "points": 386,
-    "comments": 199
+    "points": 390,
+    "comments": 211
    }
   },
   {
@@ -64,8 +64,8 @@
    "firstSeenAt": "2026-11-05T01:22:47.348Z",
    "hn": {
     "id": "50372929",
-    "points": 473,
-    "comments": 351
+    "points": 486,
+    "comments": 361
    }
   },
   {
@@ -80,7 +80,7 @@
    "firstSeenAt": "2026-11-05T01:22:47.348Z",
    "hn": {
     "id": "50372945",
-    "points": 376,
+    "points": 381,
     "comments": 233
    }
   },
@@ -271,38 +271,317 @@
    "score": 43
   },
   {
-   "id": "7e2aaf184ac3",
-   "title": "Backdoors in official Claude Code extensions",
-   "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+   "id": "25a6a123ca91",
+   "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+   "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T11:04:55.168Z",
-   "hn": {
-    "id": "50302334",
-    "points": 655,
-    "comments": 17
-   },
-   "score": 167,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "f7f694378faf",
-   "title": "If you love a website, back it up",
-   "url": "http://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-30T01:29:00.653Z",
-   "score": 51,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z",
+   "publishedAt": "2026-11-06T09:27:12.000Z",
    "hn": {
-    "id": "50336518",
-    "points": 650,
-    "comments": 151
-   }
+    "id": "50390124",
+    "points": 499,
+    "comments": 305
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "3a41e3472432",
+   "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+   "url": "https://github.com/ppmpreetham/BUI",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T07:40:35.000Z",
+   "hn": {
+    "id": "50389333",
+    "points": 499,
+    "comments": 201
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "1fd1a3dfad13",
+   "title": "Britain to make salary disclosure in job ads mandatory",
+   "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T07:22:04.000Z",
+   "hn": {
+    "id": "50389222",
+    "points": 476,
+    "comments": 376
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "6f78e24cdb5b",
+   "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+   "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T23:09:57.000Z",
+   "hn": {
+    "id": "50385870",
+    "points": 463,
+    "comments": 213
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "c0ab0888e5e7",
+   "title": "The Hackintosh Reborn",
+   "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T19:08:22.000Z",
+   "hn": {
+    "id": "50383057",
+    "points": 377,
+    "comments": 216
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "dc28e50dc477",
+   "title": "Window Sweaters",
+   "url": "https://github.com/saragordic/window-sweaters",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T16:50:14.000Z",
+   "hn": {
+    "id": "50381383",
+    "points": 423,
+    "comments": 125
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "4cd95ba68728",
+   "title": "MCP Explained",
+   "url": "https://mcp-explained.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T14:08:35.000Z",
+   "hn": {
+    "id": "50379249",
+    "points": 320,
+    "comments": 133
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "4a709fe9d521",
+   "title": "I wish tech companies knew more about me",
+   "url": "https://rakhim.exotext.com/i-wish-tech-companies-knew-more-about-me",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T13:40:52.000Z",
+   "hn": {
+    "id": "50378942",
+    "points": 522,
+    "comments": 398
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "2e08059cfa90",
+   "title": "Download your favourite YouTube videos",
+   "url": "https://criminallyvulgar.dev/you-should-absolutely-download-your-favourite-youtube-videos/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T13:00:11.000Z",
+   "hn": {
+    "id": "50378571",
+    "points": 383,
+    "comments": 184
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "3c63b1bd263a",
+   "title": "GPT-6 Astra covertly underperforms on safety research",
+   "url": "https://alignment.openai.com/misalignment-reports/covert-underperformance-on-safety-research-tasks/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T07:44:30.000Z",
+   "hn": {
+    "id": "50376313",
+    "points": 336,
+    "comments": 186
+   },
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "663bac8bb796",
+   "title": "Making musl and proprietary NVIDIA drivers work together",
+   "url": "https://chimera-linux.org/news/2026/11/musl-nvidia.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T13:23:14.985Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "27480d8696be",
+   "title": "What are you doing this weekend?",
+   "url": "https://lobste.rs/s/jmdchp/what_are_you_doing_this_weekend",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T09:15:23.253Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "5dc381067c7c",
+   "title": "Clojure Distilled",
+   "url": "https://yogthos.net/ClojureDistilled.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T04:20:58.464Z",
+   "score": 26,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "396258cf1840",
+   "title": "X-87 - DOS 256 bytes",
+   "url": "https://www.onirom.fr/wiki/codegolf/x-87/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T00:16:07.380Z",
+   "score": 36,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "c94ae26e7e9a",
+   "title": "I Go to Olympics of 4KB Coding",
+   "url": "https://inv.nadeko.net/watch?v=PeZNLvD4mds",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T23:33:07.558Z",
+   "score": 20,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "e85c04c3f29f",
+   "title": "Reflections on Rust in the LLM Age",
+   "url": "https://www.youtube.com/watch?v=5D7QPOIZ7gY",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T17:32:18.197Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "52399ef37f87",
+   "title": "A Quick Guide to Go's Assembler",
+   "url": "https://go.dev/doc/asm",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T22:07:32.833Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "1528f3d8188b",
+   "title": "Can 23,000 quantum qubits break RSA-2048?",
+   "url": "https://www.bfswa.blog/p/can-23000-quantum-qubits-break-rsa",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T17:22:48.104Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "608e1d97ab46",
+   "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+   "url": "https://huggingface.co/papers/2611.08449",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T19:00:00.000Z",
+   "score": 77,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "21a9eeb186cd",
+   "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+   "url": "https://huggingface.co/papers/2611.07392",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T19:00:00.000Z",
+   "score": 37,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "e7b124c3848d",
+   "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+   "url": "https://huggingface.co/papers/2611.08373",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T19:00:00.000Z",
+   "score": 26,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "febb014e6488",
+   "title": "Towards Foundation Decision Models: Drex",
+   "url": "https://huggingface.co/papers/2611.07854",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T19:00:00.000Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "24fa94964eda",
+   "title": "EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure",
+   "url": "https://huggingface.co/papers/2611.07909",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T19:00:00.000Z",
+   "score": 9,
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "b58fee4edbbb",
+   "title": "Australian universities are creating AI-native graduates",
+   "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-05T17:00:00.000Z",
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
+  },
+  {
+   "id": "dab63348f0c7",
+   "title": "The post-quantum future of web privacy",
+   "url": "https://blog.cloudflare.com/vole-mole/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-06T14:00:00.000Z",
+   "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
    "id": "3b58ffb304e7",
@@ -314,8 +593,8 @@
    "publishedAt": "2026-11-05T22:17:15.000Z",
    "hn": {
     "id": "50385272",
-    "points": 457,
-    "comments": 161
+    "points": 1450,
+    "comments": 452
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -329,8 +608,8 @@
    "publishedAt": "2026-11-05T20:43:42.000Z",
    "hn": {
     "id": "50384233",
-    "points": 303,
-    "comments": 99
+    "points": 660,
+    "comments": 248
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -344,8 +623,8 @@
    "publishedAt": "2026-11-05T20:03:34.000Z",
    "hn": {
     "id": "50383740",
-    "points": 499,
-    "comments": 245
+    "points": 720,
+    "comments": 395
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -359,8 +638,8 @@
    "publishedAt": "2026-11-05T20:03:29.000Z",
    "hn": {
     "id": "50383739",
-    "points": 409,
-    "comments": 152
+    "points": 620,
+    "comments": 250
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -374,8 +653,8 @@
    "publishedAt": "2026-11-05T16:01:34.000Z",
    "hn": {
     "id": "50380810",
-    "points": 399,
-    "comments": 297
+    "points": 556,
+    "comments": 389
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -389,8 +668,8 @@
    "publishedAt": "2026-11-05T14:44:20.000Z",
    "hn": {
     "id": "50379704",
-    "points": 580,
-    "comments": 123
+    "points": 622,
+    "comments": 2
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -404,8 +683,8 @@
    "publishedAt": "2026-11-05T13:05:28.000Z",
    "hn": {
     "id": "50378625",
-    "points": 385,
-    "comments": 332
+    "points": 468,
+    "comments": 401
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -417,7 +696,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T16:32:29.997Z",
-   "score": 35,
+   "score": 91,
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
@@ -428,7 +707,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T18:34:41.907Z",
-   "score": 18,
+   "score": 49,
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
@@ -439,7 +718,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T10:44:57.558Z",
-   "score": 16,
+   "score": 22,
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
@@ -450,7 +729,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T13:30:50.220Z",
-   "score": 21,
+   "score": 29,
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
@@ -535,7 +814,7 @@
    "publishedAt": "2026-11-05T04:54:10.000Z",
    "hn": {
     "id": "50375354",
-    "points": 383,
+    "points": 407,
     "comments": 77
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
@@ -550,7 +829,7 @@
    "publishedAt": "2026-11-04T19:50:23.000Z",
    "hn": {
     "id": "50370610",
-    "points": 305,
+    "points": 309,
     "comments": 160
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
@@ -565,8 +844,8 @@
    "publishedAt": "2026-11-04T18:53:29.000Z",
    "hn": {
     "id": "50369925",
-    "points": 332,
-    "comments": 120
+    "points": 336,
+    "comments": 125
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
@@ -623,7 +902,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T00:35:09.470Z",
-   "score": 114,
+   "score": 138,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -634,7 +913,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T13:47:56.831Z",
-   "score": 56,
+   "score": 76,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -645,7 +924,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T07:37:35.059Z",
-   "score": 25,
+   "score": 34,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -656,7 +935,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T09:29:01.102Z",
-   "score": 25,
+   "score": 29,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -2817,304 +3096,6 @@
    ],
    "publishedAt": "2026-10-30T16:37:51.000Z",
    "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "7d2228b2ec48",
-   "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-   "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T12:08:00.000Z",
-   "hn": {
-    "id": "50302814",
-    "points": 657,
-    "comments": 519
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "a510883f6a1b",
-   "title": "Claude Code VS Code extension with backdoor released on Cursor marketplace",
-   "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T10:22:51.000Z",
-   "hn": {
-    "id": "50301983",
-    "points": 399,
-    "comments": 1
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "363f2bcb93fd",
-   "title": "elect.horse",
-   "url": "https://elect.horse/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T09:14:34.000Z",
-   "hn": {
-    "id": "50301462",
-    "points": 552,
-    "comments": 154
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "d20004732056",
-   "title": "Herdr has released native app",
-   "url": "https://github.com/herdrdev/herdr-app",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T00:42:41.000Z",
-   "hn": {
-    "id": "50298436",
-    "points": 359,
-    "comments": 257
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "d8eb5a4b641e",
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "url": "https://labs.ycombinator.com/projects/games/index.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T21:40:28.000Z",
-   "hn": {
-    "id": "50296486",
-    "points": 407,
-    "comments": 167
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "6e8fb8e0c17d",
-   "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-   "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T17:43:48.000Z",
-   "hn": {
-    "id": "50293047",
-    "points": 356,
-    "comments": 237
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "796b6bd3e218",
-   "title": "I went to Mexico to test-drive the cars Americans can’t buy",
-   "url": "https://www.washingtonpost.com/climate-environment/2026/10/27/i-saw-future-driving-mexico-its-off-limits-americans/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T15:30:22.000Z",
-   "hn": {
-    "id": "50290668",
-    "points": 324,
-    "comments": 388
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "55721d6c562b",
-   "title": "If IPv4 were land",
-   "url": "https://iptrust.co/blog/if-ipv4-were-land",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T12:19:00.000Z",
-   "hn": {
-    "id": "50287775",
-    "points": 320,
-    "comments": 478
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "482dcd575b14",
-   "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
-   "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T10:42:41.000Z",
-   "hn": {
-    "id": "50286987",
-    "points": 321,
-    "comments": 163
-   },
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "b8da6e0cd23a",
-   "title": "Do At-Proto Users Know This Is Public?",
-   "url": "https://melaniekat.com/blog/public-on-pds/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T11:22:43.498Z",
-   "score": 93,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "e7980fdf1814",
-   "title": "How curl was accidentally Turing-complete for nine months",
-   "url": "https://seriot.ch/computation/curl.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T07:24:01.170Z",
-   "score": 80,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "5c1554a0b536",
-   "title": "Pidgin 3.0 Alpha 4 2.98.0 has been released",
-   "url": "https://discourse.imfreedom.org/t/pidgin-3-0-alpha-4-2-98-0-has-been-released/445",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T03:58:19.553Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "e54c0bd8b3bb",
-   "title": "C2PA's eMudhra Moment",
-   "url": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T20:33:44.663Z",
-   "score": 25,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "b156e4503df1",
-   "title": "Design the interface for functionality not familiarity",
-   "url": "https://lapcatsoftware.com/articles/2026/10/10.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T01:04:38.454Z",
-   "score": 17,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "50ac283e6840",
-   "title": "An open format for writing agent-native software requirements",
-   "url": "https://slcr.dev/announcements#2026-10-29-slcr-launches",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T16:17:42.427Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "55be4b5a4210",
-   "title": "Extremely brief history of PDP computers",
-   "url": "https://entropicthoughts.com/history-of-pdp-computers",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T14:48:09.298Z",
-   "score": 16,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "23d8e51930bb",
-   "title": "Building NixOS using Nixtamal",
-   "url": "https://nixtamal.toast.al/cookbook/nixos-using-nixtamal/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T13:45:55.892Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "13b40bac05ea",
-   "title": "Intrinsic Distribution Matching",
-   "url": "https://huggingface.co/papers/2610.39633",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-28T20:00:00.000Z",
-   "score": 233,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "d29a393655a1",
-   "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
-   "url": "https://huggingface.co/papers/2610.40614",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-28T20:00:00.000Z",
-   "score": 33,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "83164272268b",
-   "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
-   "url": "https://huggingface.co/papers/2610.40647",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-28T20:00:00.000Z",
-   "score": 22,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "995c90cb5d11",
-   "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
-   "url": "https://huggingface.co/papers/2610.39301",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-28T20:00:00.000Z",
-   "score": 20,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "929ef2bf1b43",
-   "title": "HairDeck: Animation-Ready Stylized Hair Cards from a Single Image",
-   "url": "https://huggingface.co/papers/2610.40599",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-10-28T20:00:00.000Z",
-   "score": 16,
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "28f903351f9c",
-   "title": "[$] System-call wrappers for glibc",
-   "url": "https://lwn.net/Articles/1101647/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-30T15:07:29.000Z",
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "1c645bca188b",
-   "title": "Cloudflare services for private origins is now generally available",
-   "url": "https://blog.cloudflare.com/private-origins-public-to-private/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-30T14:23:43.000Z",
-   "firstSeenAt": "2026-10-30T15:46:12.497Z"
   }
  ]
 }
