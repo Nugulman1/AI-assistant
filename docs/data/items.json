@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-05T17:16:47.011Z",
+ "generatedAt": "2026-11-06T01:25:19.035Z",
  "items": [
   {
    "id": "8d1473191036",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-05T12:19:02.000Z",
    "hn": {
     "id": "50378228",
-    "points": 1314,
-    "comments": 363
+    "points": 2305,
+    "comments": 569
    },
-   "score": 85,
+   "score": 128,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -29,11 +29,11 @@
    "publishedAt": "2026-11-04T20:45:18.000Z",
    "hn": {
     "id": "50371246",
-    "points": 1224,
-    "comments": 413
+    "points": 1245,
+    "comments": 429
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z",
-   "score": 19
+   "score": 20
   },
   {
    "id": "aed4d9c60c01",
@@ -44,12 +44,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-04T17:52:11.000Z",
-   "score": 36,
+   "score": 39,
    "firstSeenAt": "2026-11-05T01:22:47.348Z",
    "hn": {
     "id": "50369106",
-    "points": 377,
-    "comments": 190
+    "points": 386,
+    "comments": 199
    }
   },
   {
@@ -64,8 +64,8 @@
    "firstSeenAt": "2026-11-05T01:22:47.348Z",
    "hn": {
     "id": "50372929",
-    "points": 457,
-    "comments": 334
+    "points": 473,
+    "comments": 351
    }
   },
   {
@@ -80,8 +80,8 @@
    "firstSeenAt": "2026-11-05T01:22:47.348Z",
    "hn": {
     "id": "50372945",
-    "points": 370,
-    "comments": 223
+    "points": 376,
+    "comments": 233
    }
   },
   {
@@ -98,7 +98,7 @@
     "points": 409,
     "comments": 353
    },
-   "score": 38,
+   "score": 43,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -115,7 +115,7 @@
     "points": 509,
     "comments": 261
    },
-   "score": 44,
+   "score": 47,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -165,8 +165,8 @@
    "firstSeenAt": "2026-11-04T01:07:07.648Z",
    "hn": {
     "id": "50362980",
-    "points": 381,
-    "comments": 241
+    "points": 382,
+    "comments": 242
    }
   },
   {
@@ -305,33 +305,225 @@
    }
   },
   {
-   "id": "e72de5499951",
-   "title": "My favourite PowerMac is a Nintendo Wii",
-   "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+   "id": "3b58ffb304e7",
+   "title": "Claude Code sends your email address to websites",
+   "url": "https://github.com/anthropics/claude-code/issues/107757",
    "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-29T16:32:18.607Z",
-   "score": 48,
-   "firstSeenAt": "2026-10-30T00:40:58.483Z",
+   "publishedAt": "2026-11-05T22:17:15.000Z",
    "hn": {
-    "id": "50307190",
-    "points": 377,
-    "comments": 110
-   }
+    "id": "50385272",
+    "points": 457,
+    "comments": 161
+   },
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
-   "id": "d6a3cd5b839e",
-   "title": "Avoid Public Functions Calling Other Public Functions",
-   "url": "https://matklad.github.io/2026/10/29/pub-calls-pub.html",
+   "id": "296687f94cd4",
+   "title": "MS Paint Remote Code Execution Vulnerability",
+   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
    "sources": [
-    "matklad",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T20:43:42.000Z",
+   "hn": {
+    "id": "50384233",
+    "points": 303,
+    "comments": 99
+   },
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "551c2101be10",
+   "title": "Search for everyone",
+   "url": "https://kagi.com/changelog#11820",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T20:03:34.000Z",
+   "hn": {
+    "id": "50383740",
+    "points": 499,
+    "comments": 245
+   },
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "24064251180f",
+   "title": "Goodbye from Salon",
+   "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T20:03:29.000Z",
+   "hn": {
+    "id": "50383739",
+    "points": 409,
+    "comments": 152
+   },
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "a6bbf4045967",
+   "title": "Motorola Signature 27 with GrapheneOS support",
+   "url": "https://motorolanews.com/motorola-signature-27-2/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T16:01:34.000Z",
+   "hn": {
+    "id": "50380810",
+    "points": 399,
+    "comments": 297
+   },
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "e3dbdc4dd3bd",
+   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+   "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T14:44:20.000Z",
+   "hn": {
+    "id": "50379704",
+    "points": 580,
+    "comments": 123
+   },
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "d60ee459231d",
+   "title": "Discord is ditching Electron and its new app uses less RAM",
+   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-05T13:05:28.000Z",
+   "hn": {
+    "id": "50378625",
+    "points": 385,
+    "comments": 332
+   },
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "7abaf6fdd1e9",
+   "title": "Software Line Specialist",
+   "url": "https://lovro-bikic.github.io/software-line-specialist/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-29T00:00:00.000Z",
-   "firstSeenAt": "2026-10-30T00:40:58.483Z",
-   "score": 87
+   "publishedAt": "2026-11-05T16:32:29.997Z",
+   "score": 35,
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "fd861d24e7af",
+   "title": "SourceHut disabled registration bypass | CVE-2026-121728",
+   "url": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T18:34:41.907Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "80d059b31896",
+   "title": "A Look at Datastar",
+   "url": "https://noteflakes.com/articles/2026-11-04-datastar",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T10:44:57.558Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "112487e4c15e",
+   "title": "GNU Mes and the 0.28 release",
+   "url": "https://ekaitz.elenq.tech/fasterMes10.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-05T13:30:50.220Z",
+   "score": 21,
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "5a508fd1a86a",
+   "title": "PyRUA-REAL: Robot Exploration and Adaptive Learning through RSI in the Real World",
+   "url": "https://huggingface.co/papers/2611.06768",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T11:46:03.000Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "fd2d5c6578d3",
+   "title": "UniRestorer++: Scalable Universal Image Restoration with Multi-Granularity Degradation Modeling",
+   "url": "https://huggingface.co/papers/2611.06042",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-04T01:46:47.000Z",
+   "score": 2,
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "c88b52d0b210",
+   "title": "Cult.fit builds operational muscle with Codex",
+   "url": "https://openai.com/index/cultfit-builds-with-codex",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-05T20:00:00.000Z",
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "53c56afbaf05",
+   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+   "url": "https://openai.com/index/introducing-gpt-6-cyber",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-05T09:00:00.000Z",
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "300d91101f21",
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "url": "https://openai.com/index/merge-builds-with-openai",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-05T08:00:00.000Z",
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "1f9981de5700",
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "url": "https://openai.com/ads/customers/flipsnack",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-05T00:45:15.000Z",
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
+  },
+  {
+   "id": "c0d7b0808284",
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "url": "https://openai.com/index/franklin-templeton",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-05T00:00:00.000Z",
+   "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
    "id": "a0c225aed9f5",
@@ -343,8 +535,8 @@
    "publishedAt": "2026-11-05T04:54:10.000Z",
    "hn": {
     "id": "50375354",
-    "points": 344,
-    "comments": 69
+    "points": 383,
+    "comments": 77
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
@@ -358,8 +550,8 @@
    "publishedAt": "2026-11-04T19:50:23.000Z",
    "hn": {
     "id": "50370610",
-    "points": 300,
-    "comments": 154
+    "points": 305,
+    "comments": 160
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
@@ -373,8 +565,8 @@
    "publishedAt": "2026-11-04T18:53:29.000Z",
    "hn": {
     "id": "50369925",
-    "points": 328,
-    "comments": 118
+    "points": 332,
+    "comments": 120
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
@@ -388,8 +580,8 @@
    "publishedAt": "2026-11-04T15:01:44.000Z",
    "hn": {
     "id": "50366522",
-    "points": 329,
-    "comments": 257
+    "points": 337,
+    "comments": 277
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
@@ -403,8 +595,8 @@
    "publishedAt": "2026-11-04T14:37:22.000Z",
    "hn": {
     "id": "50366117",
-    "points": 479,
-    "comments": 578
+    "points": 504,
+    "comments": 631
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
@@ -418,8 +610,8 @@
    "publishedAt": "2026-11-04T10:23:34.000Z",
    "hn": {
     "id": "50363554",
-    "points": 316,
-    "comments": 311
+    "points": 319,
+    "comments": 315
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
@@ -431,7 +623,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T00:35:09.470Z",
-   "score": 93,
+   "score": 114,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -442,7 +634,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T13:47:56.831Z",
-   "score": 16,
+   "score": 56,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -453,7 +645,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T07:37:35.059Z",
-   "score": 19,
+   "score": 25,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -464,7 +656,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T09:29:01.102Z",
-   "score": 21,
+   "score": 25,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -486,7 +678,7 @@
     "HF Papers"
    ],
    "publishedAt": "2026-11-04T13:59:58.000Z",
-   "score": 55,
+   "score": 56,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -508,7 +700,7 @@
     "HF Papers"
    ],
    "publishedAt": "2026-11-04T08:24:54.000Z",
-   "score": 28,
+   "score": 33,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -592,8 +784,8 @@
    "publishedAt": "2026-11-04T15:38:34.000Z",
    "hn": {
     "id": "50367125",
-    "points": 567,
-    "comments": 209
+    "points": 574,
+    "comments": 222
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
@@ -607,8 +799,8 @@
    "publishedAt": "2026-11-04T15:30:30.000Z",
    "hn": {
     "id": "50366999",
-    "points": 608,
-    "comments": 178
+    "points": 623,
+    "comments": 184
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
@@ -622,8 +814,8 @@
    "publishedAt": "2026-11-04T14:27:02.000Z",
    "hn": {
     "id": "50365982",
-    "points": 342,
-    "comments": 731
+    "points": 344,
+    "comments": 738
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
@@ -637,8 +829,8 @@
    "publishedAt": "2026-11-04T14:09:55.000Z",
    "hn": {
     "id": "50365755",
-    "points": 623,
-    "comments": 380
+    "points": 639,
+    "comments": 379
    },
    "firstSeenAt": "2026-11-05T01:22:47.348Z"
   },
@@ -716,8 +908,8 @@
    "publishedAt": "2026-11-04T11:52:17.000Z",
    "hn": {
     "id": "50364336",
-    "points": 1238,
-    "comments": 721
+    "points": 1263,
+    "comments": 738
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -731,8 +923,8 @@
    "publishedAt": "2026-11-04T10:10:27.000Z",
    "hn": {
     "id": "50363461",
-    "points": 690,
-    "comments": 181
+    "points": 707,
+    "comments": 182
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -746,8 +938,8 @@
    "publishedAt": "2026-11-04T08:46:29.000Z",
    "hn": {
     "id": "50362905",
-    "points": 607,
-    "comments": 284
+    "points": 609,
+    "comments": 286
    },
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
@@ -834,7 +1026,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T12:06:23.618Z",
-   "score": 102,
+   "score": 104,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -867,7 +1059,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T15:23:09.155Z",
-   "score": 91,
+   "score": 100,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -878,7 +1070,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T14:58:11.018Z",
-   "score": 69,
+   "score": 79,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -889,7 +1081,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T13:36:43.067Z",
-   "score": 46,
+   "score": 48,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -900,7 +1092,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-04T14:05:16.766Z",
-   "score": 45,
+   "score": 49,
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
@@ -2923,211 +3115,6 @@
    ],
    "publishedAt": "2026-10-30T14:23:43.000Z",
    "firstSeenAt": "2026-10-30T15:46:12.497Z"
-  },
-  {
-   "id": "4c4b30fd3641",
-   "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
-   "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T21:38:59.000Z",
-   "hn": {
-    "id": "50296470",
-    "points": 1745,
-    "comments": 1237
-   },
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "1ffd1f6b6f1e",
-   "title": "Patrick Stewart has died",
-   "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T19:41:39.000Z",
-   "hn": {
-    "id": "50294702",
-    "points": 3274,
-    "comments": 751
-   },
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "53a5e7318375",
-   "title": "Google Search is now less than half of Alphabet’s revenue",
-   "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T16:42:17.000Z",
-   "hn": {
-    "id": "50291945",
-    "points": 430,
-    "comments": 355
-   },
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "72c27fdbb2d3",
-   "title": "H.264 Is Magic (2016)",
-   "url": "https://sidbala.com/h-264-is-magic/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T15:53:03.000Z",
-   "hn": {
-    "id": "50291054",
-    "points": 514,
-    "comments": 167
-   },
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "5105c2e67b42",
-   "title": "‘You Are Done’: The letter sent to King by the F.B.I (2014)",
-   "url": "https://www.nytimes.com/2014/11/16/magazine/what-an-uncensored-letter-to-mlk-reveals.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T13:40:04.000Z",
-   "hn": {
-    "id": "50288867",
-    "points": 435,
-    "comments": 435
-   },
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "eebb63f2228b",
-   "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-   "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T12:41:56.000Z",
-   "hn": {
-    "id": "50288019",
-    "points": 336,
-    "comments": 245
-   },
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "7d7fff6eeb19",
-   "title": "DoorDash to acquire Instacart",
-   "url": "https://about.doordash.com/en-us/news/doordash-to-acquire-instacart",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T12:33:05.000Z",
-   "hn": {
-    "id": "50287919",
-    "points": 481,
-    "comments": 646
-   },
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "200c1f79f693",
-   "title": "Zero click, silent, remote Android DoS",
-   "url": "https://smsofdeath.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-29T07:08:50.000Z",
-   "hn": {
-    "id": "50285452",
-    "points": 325,
-    "comments": 186
-   },
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "f7aafc8a3091",
-   "title": "London meetup",
-   "url": "https://lobste.rs/s/dsrruj/london_meetup",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T20:56:43.483Z",
-   "score": 50,
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "612a4e4b4ddb",
-   "title": "Shared password manager for families?",
-   "url": "https://lobste.rs/s/eccbci/shared_password_manager_for_families",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T14:39:51.453Z",
-   "score": 45,
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "caa0bffb4e41",
-   "title": "Phorge",
-   "url": "https://www.phorge.it/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T16:08:47.184Z",
-   "score": 21,
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "fc9a9243a7e5",
-   "title": "Will Open Firmware Become the Next Big Trend in Electronic Music Gear?",
-   "url": "https://www.synthtopia.com/content/2026/10/28/will-open-firmware-become-the-next-big-trend-in-electronic-music-gear/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T14:37:32.398Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "4ac0691c5069",
-   "title": "Nim version 2.4.0 released",
-   "url": "https://nim-lang.org/blog/2026/10/28/nim-240.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-29T12:07:26.400Z",
-   "score": 10,
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "7bf0065ceb16",
-   "title": "An updated Model Spec for more capable and beneficial AI",
-   "url": "https://openai.com/index/updated-model-spec",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-29T17:00:00.000Z",
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "d28967fce9c6",
-   "title": "How we detect frontier model misalignment",
-   "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-29T09:00:00.000Z",
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
-  },
-  {
-   "id": "2d9928289658",
-   "title": "How Ropes & Gray is developing AI for transactional diligence",
-   "url": "https://openai.com/index/ropes-gray-ai-diligence",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-29T07:00:00.000Z",
-   "firstSeenAt": "2026-10-30T00:40:58.483Z"
   }
  ]
 }
