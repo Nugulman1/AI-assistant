@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-06T16:41:16.169Z",
+ "generatedAt": "2026-11-07T00:43:00.116Z",
  "items": [
   {
    "id": "8d1473191036",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-05T12:19:02.000Z",
    "hn": {
     "id": "50378228",
-    "points": 2871,
-    "comments": 698
+    "points": 2907,
+    "comments": 727
    },
-   "score": 158,
+   "score": 167,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -271,6 +271,209 @@
    "score": 43
   },
   {
+   "id": "ef2a83f7f3a4",
+   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T19:48:51.000Z",
+   "hn": {
+    "id": "50397429",
+    "points": 301,
+    "comments": 65
+   },
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "fd661e28d5d6",
+   "title": "Deus Ex",
+   "url": "https://www.filfre.net/2026/11/deus-ex/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T15:44:36.000Z",
+   "hn": {
+    "id": "50393758",
+    "points": 333,
+    "comments": 169
+   },
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "bf12c6e05c44",
+   "title": "RIP Cybertruck",
+   "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T15:01:38.000Z",
+   "hn": {
+    "id": "50393154",
+    "points": 300,
+    "comments": 4
+   },
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "119dda2f4fb7",
+   "title": "Tesla to wind down Cybertruck production",
+   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T12:13:51.000Z",
+   "hn": {
+    "id": "50391456",
+    "points": 815,
+    "comments": 1656
+   },
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "4b0524348a07",
+   "title": "Pwn.college",
+   "url": "https://pwn.college/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T03:27:14.000Z",
+   "hn": {
+    "id": "50387796",
+    "points": 303,
+    "comments": 52
+   },
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "e987f7b002df",
+   "title": "The MustCreate Pattern for Go Tests",
+   "url": "https://mtlynch.io/notes/go-must-create-pattern/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T15:37:00.157Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "69af5f8a1220",
+   "title": "Inside GitHub's new Git storage architecture",
+   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T17:50:09.323Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "061d42a7a25b",
+   "title": "Upgrading NetBSD from 11.0 to 11.1",
+   "url": "https://www.dwarmstrong.org/netbsd-upgrade/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T15:22:55.631Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "b20983cf1f2a",
+   "title": "Pushing the Limits with getaddrinfo",
+   "url": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T14:47:48.625Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "6d0b2e187b19",
+   "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
+   "url": "https://huggingface.co/papers/2611.08237",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-05T11:18:35.000Z",
+   "score": 7,
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "fece5dc19fb7",
+   "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
+   "url": "https://huggingface.co/papers/2611.08089",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-05T09:35:08.000Z",
+   "score": 6,
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "ec797be30e16",
+   "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
+   "url": "https://huggingface.co/papers/2611.08376",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-05T12:53:49.000Z",
+   "score": 5,
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "b9e4bb586fc3",
+   "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
+   "url": "https://huggingface.co/papers/2611.07613",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-05T02:56:01.000Z",
+   "score": 3,
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "bc8f9eac1966",
+   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+   "url": "https://openai.com/index/partnering-with-hacktron",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-06T08:00:00.000Z",
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "cfd4354afa14",
+   "title": "Measuring how AI agents handle everyday wet-lab science",
+   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-06T00:00:00.000Z",
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "03b40593e164",
+   "title": "[$] Locking down hibernation for the winter",
+   "url": "https://lwn.net/Articles/1103190/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-06T18:51:28.000Z",
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
+   "id": "d09844d43af4",
+   "title": "The Pragmatic Summit 2027",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-11-06T19:39:15.000Z",
+   "firstSeenAt": "2026-11-07T00:43:00.116Z"
+  },
+  {
    "id": "25a6a123ca91",
    "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
    "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
@@ -280,8 +483,8 @@
    "publishedAt": "2026-11-06T09:27:12.000Z",
    "hn": {
     "id": "50390124",
-    "points": 499,
-    "comments": 305
+    "points": 614,
+    "comments": 404
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -295,8 +498,8 @@
    "publishedAt": "2026-11-06T07:40:35.000Z",
    "hn": {
     "id": "50389333",
-    "points": 499,
-    "comments": 201
+    "points": 682,
+    "comments": 276
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -310,8 +513,8 @@
    "publishedAt": "2026-11-06T07:22:04.000Z",
    "hn": {
     "id": "50389222",
-    "points": 476,
-    "comments": 376
+    "points": 563,
+    "comments": 426
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -325,8 +528,8 @@
    "publishedAt": "2026-11-05T23:09:57.000Z",
    "hn": {
     "id": "50385870",
-    "points": 463,
-    "comments": 213
+    "points": 494,
+    "comments": 222
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -340,8 +543,8 @@
    "publishedAt": "2026-11-05T19:08:22.000Z",
    "hn": {
     "id": "50383057",
-    "points": 377,
-    "comments": 216
+    "points": 400,
+    "comments": 233
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -355,8 +558,8 @@
    "publishedAt": "2026-11-05T16:50:14.000Z",
    "hn": {
     "id": "50381383",
-    "points": 423,
-    "comments": 125
+    "points": 447,
+    "comments": 132
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -370,7 +573,7 @@
    "publishedAt": "2026-11-05T14:08:35.000Z",
    "hn": {
     "id": "50379249",
-    "points": 320,
+    "points": 330,
     "comments": 133
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
@@ -385,8 +588,8 @@
    "publishedAt": "2026-11-05T13:40:52.000Z",
    "hn": {
     "id": "50378942",
-    "points": 522,
-    "comments": 398
+    "points": 549,
+    "comments": 408
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -400,8 +603,8 @@
    "publishedAt": "2026-11-05T13:00:11.000Z",
    "hn": {
     "id": "50378571",
-    "points": 383,
-    "comments": 184
+    "points": 394,
+    "comments": 185
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -415,8 +618,8 @@
    "publishedAt": "2026-11-05T07:44:30.000Z",
    "hn": {
     "id": "50376313",
-    "points": 336,
-    "comments": 186
+    "points": 340,
+    "comments": 189
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -428,7 +631,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T13:23:14.985Z",
-   "score": 25,
+   "score": 47,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -439,7 +642,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T09:15:23.253Z",
-   "score": 18,
+   "score": 22,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -450,7 +653,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T04:20:58.464Z",
-   "score": 26,
+   "score": 42,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -461,7 +664,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T00:16:07.380Z",
-   "score": 36,
+   "score": 43,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -472,7 +675,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T23:33:07.558Z",
-   "score": 20,
+   "score": 30,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -483,7 +686,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T17:32:18.197Z",
-   "score": 19,
+   "score": 21,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -593,8 +796,8 @@
    "publishedAt": "2026-11-05T22:17:15.000Z",
    "hn": {
     "id": "50385272",
-    "points": 1450,
-    "comments": 452
+    "points": 1547,
+    "comments": 490
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -608,8 +811,8 @@
    "publishedAt": "2026-11-05T20:43:42.000Z",
    "hn": {
     "id": "50384233",
-    "points": 660,
-    "comments": 248
+    "points": 700,
+    "comments": 274
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -623,8 +826,8 @@
    "publishedAt": "2026-11-05T20:03:34.000Z",
    "hn": {
     "id": "50383740",
-    "points": 720,
-    "comments": 395
+    "points": 744,
+    "comments": 408
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -638,8 +841,8 @@
    "publishedAt": "2026-11-05T20:03:29.000Z",
    "hn": {
     "id": "50383739",
-    "points": 620,
-    "comments": 250
+    "points": 639,
+    "comments": 259
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -653,8 +856,8 @@
    "publishedAt": "2026-11-05T16:01:34.000Z",
    "hn": {
     "id": "50380810",
-    "points": 556,
-    "comments": 389
+    "points": 570,
+    "comments": 400
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -668,7 +871,7 @@
    "publishedAt": "2026-11-05T14:44:20.000Z",
    "hn": {
     "id": "50379704",
-    "points": 622,
+    "points": 626,
     "comments": 2
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
@@ -683,8 +886,8 @@
    "publishedAt": "2026-11-05T13:05:28.000Z",
    "hn": {
     "id": "50378625",
-    "points": 468,
-    "comments": 401
+    "points": 478,
+    "comments": 417
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -696,7 +899,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T16:32:29.997Z",
-   "score": 91,
+   "score": 110,
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
@@ -707,7 +910,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T18:34:41.907Z",
-   "score": 49,
+   "score": 60,
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
@@ -718,7 +921,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T10:44:57.558Z",
-   "score": 22,
+   "score": 24,
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
@@ -814,8 +1017,8 @@
    "publishedAt": "2026-11-05T04:54:10.000Z",
    "hn": {
     "id": "50375354",
-    "points": 407,
-    "comments": 77
+    "points": 409,
+    "comments": 78
    },
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
@@ -913,7 +1116,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T13:47:56.831Z",
-   "score": 76,
+   "score": 78,
    "firstSeenAt": "2026-11-05T17:16:47.011Z"
   },
   {
@@ -2966,136 +3169,6 @@
     "comments": 60
    },
    "firstSeenAt": "2026-10-31T15:14:31.761Z"
-  },
-  {
-   "id": "9e37c40a85b3",
-   "title": "AI isn't replacing SREs, it's deskilling them",
-   "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T15:52:18.000Z",
-   "hn": {
-    "id": "50305693",
-    "points": 646,
-    "comments": 473
-   },
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "0e232296f4e5",
-   "title": "Northflank Breached",
-   "url": "https://status.northflank.com",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T15:10:31.000Z",
-   "hn": {
-    "id": "50305025",
-    "points": 471,
-    "comments": 354
-   },
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "1c161a9657c3",
-   "title": "The $6.3B Binance hack was pulled off in just 20 minutes",
-   "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T12:50:01.000Z",
-   "hn": {
-    "id": "50303172",
-    "points": 568,
-    "comments": 413
-   },
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "bf5aaab63512",
-   "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-   "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T07:09:12.000Z",
-   "hn": {
-    "id": "50300683",
-    "points": 966,
-    "comments": 547
-   },
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "25cc4c9bb2e3",
-   "title": "Making it easier for websites to express AI training preferences",
-   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-30T09:30:00.000Z",
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "c7606af40dbb",
-   "title": "Community safety report and new protections for teens",
-   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-30T09:00:00.000Z",
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "d2282bcce162",
-   "title": "Fair use benefits everyone",
-   "url": "https://openai.com/index/fair-use-benefits-everyone",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-10-30T00:00:00.000Z",
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "77b8021d805e",
-   "title": "Was I wrong about open models & cyber risks?",
-   "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-10-30T17:36:56.000Z",
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "ae7973e4c561",
-   "title": "[$] Removing binder.c",
-   "url": "https://lwn.net/Articles/1102982/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-10-30T17:46:46.000Z",
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "16ec2c40ac77",
-   "title": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
-   "url": "https://blog.cloudflare.com/emudhra-patching/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-10-30T17:38:50.000Z",
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
-  },
-  {
-   "id": "8492851df22e",
-   "title": "The Pulse: Anthropic kills the coding interview",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-10-30T16:37:51.000Z",
-   "firstSeenAt": "2026-10-31T00:33:43.655Z"
   }
  ]
 }
