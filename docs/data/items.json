@@ -1,6 +1,40 @@
 {
- "generatedAt": "2026-11-07T00:43:00.116Z",
+ "generatedAt": "2026-11-07T15:36:27.470Z",
  "items": [
+  {
+   "id": "68be897c8b54",
+   "title": "Libghostty 1.0",
+   "url": "https://mitchellh.com/writing/libghostty-1-0",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T23:30:52.000Z",
+   "hn": {
+    "id": "50399933",
+    "points": 850,
+    "comments": 140
+   },
+   "score": 119,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "24b0a9d1f60c",
+   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T04:17:49.000Z",
+   "hn": {
+    "id": "50388122",
+    "points": 334,
+    "comments": 128
+   },
+   "score": 13,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
   {
    "id": "8d1473191036",
    "title": "sshole",
@@ -254,21 +288,178 @@
    }
   },
   {
-   "id": "92d1bce2e693",
-   "title": "The federated code forge",
-   "url": "https://tangled.org/blog/forge/",
+   "id": "5ec03af4da1d",
+   "title": "Every Mac comes with an (undocumented) family member classifier",
+   "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-07T09:46:03.000Z",
+   "hn": {
+    "id": "50403097",
+    "points": 325,
+    "comments": 176
+   },
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "273bbe1e4197",
+   "title": "Need for Speed Underground 2 online in the browser",
+   "url": "https://nfsu2.xyz/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-07T09:36:36.000Z",
+   "hn": {
+    "id": "50403052",
+    "points": 363,
+    "comments": 118
+   },
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "5072f0d6af00",
+   "title": "AI is dramatically accelerating AI research",
+   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T20:27:23.000Z",
+   "hn": {
+    "id": "50397994",
+    "points": 340,
+    "comments": 318
+   },
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "d7e9e3e89ee7",
+   "title": "Gemini Omni 1.2 Flash",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T13:35:27.000Z",
+   "hn": {
+    "id": "50392118",
+    "points": 352,
+    "comments": 241
+   },
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "82db5536ec36",
+   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T04:00:28.000Z",
+   "hn": {
+    "id": "50388001",
+    "points": 367,
+    "comments": 307
+   },
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "6b207537f32f",
+   "title": "How are you dealing with all the negative side effects of AI on the web?",
+   "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-10-30T15:44:29.000Z",
-   "hn": {
-    "id": "50305573",
-    "points": 324,
-    "comments": 94
-   },
-   "firstSeenAt": "2026-10-31T15:14:31.761Z",
-   "score": 43
+   "publishedAt": "2026-11-07T09:47:24.713Z",
+   "score": 28,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "af363febb52f",
+   "title": "Scriptable GeoDNS: leaving AWS for Bunny",
+   "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T07:46:35.449Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "f1e18da9df3c",
+   "title": "Meridian — an experimental web browser built on Servo and GPUI",
+   "url": "https://op.tngl.io/meridian/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T09:21:55.256Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "acbac2a5a0c7",
+   "title": "The Port That Does Not Exist",
+   "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T23:03:12.299Z",
+   "score": 51,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "fe4697100c8e",
+   "title": "Progress Report: Linux 7.3 - Asahi Linux",
+   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T06:02:38.914Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "6c78daa62ca9",
+   "title": "Two Dimensional Version Control",
+   "url": "https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T08:21:50.861Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "7562ac2fd2f3",
+   "title": "UploadYourRam.org",
+   "url": "https://uploadyourram.org/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T00:00:06.210Z",
+   "score": 34,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "f947af41420a",
+   "title": "Hacking the meta ray-ban smartglasses",
+   "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T20:50:24.488Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "10c17f98d982",
+   "title": "Nondeterminism in Futhark",
+   "url": "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-06T19:16:01.378Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
    "id": "ef2a83f7f3a4",
@@ -280,8 +471,8 @@
    "publishedAt": "2026-11-06T19:48:51.000Z",
    "hn": {
     "id": "50397429",
-    "points": 301,
-    "comments": 65
+    "points": 531,
+    "comments": 128
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
@@ -295,8 +486,8 @@
    "publishedAt": "2026-11-06T15:44:36.000Z",
    "hn": {
     "id": "50393758",
-    "points": 333,
-    "comments": 169
+    "points": 362,
+    "comments": 192
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
@@ -310,7 +501,7 @@
    "publishedAt": "2026-11-06T15:01:38.000Z",
    "hn": {
     "id": "50393154",
-    "points": 300,
+    "points": 302,
     "comments": 4
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
@@ -325,8 +516,8 @@
    "publishedAt": "2026-11-06T12:13:51.000Z",
    "hn": {
     "id": "50391456",
-    "points": 815,
-    "comments": 1656
+    "points": 1079,
+    "comments": 1936
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
@@ -340,8 +531,8 @@
    "publishedAt": "2026-11-06T03:27:14.000Z",
    "hn": {
     "id": "50387796",
-    "points": 303,
-    "comments": 52
+    "points": 320,
+    "comments": 54
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
@@ -353,7 +544,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T15:37:00.157Z",
-   "score": 14,
+   "score": 20,
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
   {
@@ -364,7 +555,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T17:50:09.323Z",
-   "score": 14,
+   "score": 24,
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
   {
@@ -375,7 +566,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T15:22:55.631Z",
-   "score": 14,
+   "score": 18,
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
   {
@@ -483,8 +674,8 @@
    "publishedAt": "2026-11-06T09:27:12.000Z",
    "hn": {
     "id": "50390124",
-    "points": 614,
-    "comments": 404
+    "points": 637,
+    "comments": 418
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -498,8 +689,8 @@
    "publishedAt": "2026-11-06T07:40:35.000Z",
    "hn": {
     "id": "50389333",
-    "points": 682,
-    "comments": 276
+    "points": 704,
+    "comments": 286
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -513,8 +704,8 @@
    "publishedAt": "2026-11-06T07:22:04.000Z",
    "hn": {
     "id": "50389222",
-    "points": 563,
-    "comments": 426
+    "points": 593,
+    "comments": 448
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -528,8 +719,8 @@
    "publishedAt": "2026-11-05T23:09:57.000Z",
    "hn": {
     "id": "50385870",
-    "points": 494,
-    "comments": 222
+    "points": 509,
+    "comments": 225
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -543,8 +734,8 @@
    "publishedAt": "2026-11-05T19:08:22.000Z",
    "hn": {
     "id": "50383057",
-    "points": 400,
-    "comments": 233
+    "points": 407,
+    "comments": 246
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -558,8 +749,8 @@
    "publishedAt": "2026-11-05T16:50:14.000Z",
    "hn": {
     "id": "50381383",
-    "points": 447,
-    "comments": 132
+    "points": 455,
+    "comments": 135
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -631,7 +822,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T13:23:14.985Z",
-   "score": 47,
+   "score": 57,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -642,7 +833,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T09:15:23.253Z",
-   "score": 22,
+   "score": 24,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -796,8 +987,8 @@
    "publishedAt": "2026-11-05T22:17:15.000Z",
    "hn": {
     "id": "50385272",
-    "points": 1547,
-    "comments": 490
+    "points": 1581,
+    "comments": 506
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -811,8 +1002,8 @@
    "publishedAt": "2026-11-05T20:43:42.000Z",
    "hn": {
     "id": "50384233",
-    "points": 700,
-    "comments": 274
+    "points": 709,
+    "comments": 281
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -826,8 +1017,8 @@
    "publishedAt": "2026-11-05T20:03:34.000Z",
    "hn": {
     "id": "50383740",
-    "points": 744,
-    "comments": 408
+    "points": 749,
+    "comments": 409
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -841,8 +1032,8 @@
    "publishedAt": "2026-11-05T20:03:29.000Z",
    "hn": {
     "id": "50383739",
-    "points": 639,
-    "comments": 259
+    "points": 644,
+    "comments": 264
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -856,8 +1047,8 @@
    "publishedAt": "2026-11-05T16:01:34.000Z",
    "hn": {
     "id": "50380810",
-    "points": 570,
-    "comments": 400
+    "points": 577,
+    "comments": 403
    },
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
@@ -899,7 +1090,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-05T16:32:29.997Z",
-   "score": 110,
+   "score": 116,
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
   },
   {
@@ -3094,81 +3285,6 @@
    "publishedAt": "2026-10-31T02:32:10.473Z",
    "score": 13,
    "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "0cc0a6009edf",
-   "title": "Serbia just elected the world's brainiest parliament",
-   "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T10:21:30.000Z",
-   "hn": {
-    "id": "50314654",
-    "points": 896,
-    "comments": 498
-   },
-   "firstSeenAt": "2026-10-31T15:14:31.761Z"
-  },
-  {
-   "id": "2638e7ac2619",
-   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-   "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T20:23:30.000Z",
-   "hn": {
-    "id": "50309647",
-    "points": 383,
-    "comments": 229
-   },
-   "firstSeenAt": "2026-10-31T15:14:31.761Z"
-  },
-  {
-   "id": "7b402e9b6da8",
-   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-   "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T17:27:25.000Z",
-   "hn": {
-    "id": "50307219",
-    "points": 323,
-    "comments": 290
-   },
-   "firstSeenAt": "2026-10-31T15:14:31.761Z"
-  },
-  {
-   "id": "0ff9069790ce",
-   "title": "Florilegium: Procedural Flowers in LaTeX",
-   "url": "https://github.com/kevinraymond/florilegium",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T15:48:12.000Z",
-   "hn": {
-    "id": "50305637",
-    "points": 371,
-    "comments": 54
-   },
-   "firstSeenAt": "2026-10-31T15:14:31.761Z"
-  },
-  {
-   "id": "b804da29a44d",
-   "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-   "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T10:06:15.000Z",
-   "hn": {
-    "id": "50301854",
-    "points": 333,
-    "comments": 60
-   },
-   "firstSeenAt": "2026-10-31T15:14:31.761Z"
   }
  ]
 }
