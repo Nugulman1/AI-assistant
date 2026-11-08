@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-07T15:36:27.470Z",
+ "generatedAt": "2026-11-08T00:17:39.379Z",
  "items": [
   {
    "id": "68be897c8b54",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-06T23:30:52.000Z",
    "hn": {
     "id": "50399933",
-    "points": 850,
-    "comments": 140
+    "points": 1020,
+    "comments": 176
    },
-   "score": 119,
+   "score": 148,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -29,11 +29,28 @@
    "publishedAt": "2026-11-06T04:17:49.000Z",
    "hn": {
     "id": "50388122",
-    "points": 334,
-    "comments": 128
+    "points": 340,
+    "comments": 135
    },
    "score": 13,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
+  },
+  {
+   "id": "fe4697100c8e",
+   "title": "Progress Report: Linux 7.3 - Asahi Linux",
+   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-07T05:20:18.000Z",
+   "score": 45,
+   "firstSeenAt": "2026-11-07T15:36:27.470Z",
+   "hn": {
+    "id": "50401867",
+    "points": 304,
+    "comments": 252
+   }
   },
   {
    "id": "8d1473191036",
@@ -254,38 +271,104 @@
    }
   },
   {
-   "id": "73acf00ea168",
-   "title": "Digital minimalism",
-   "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+   "id": "1eeaf5457cb1",
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "url": "https://hunch.net/?p=13764006",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T06:16:36.000Z",
-   "hn": {
-    "id": "50313661",
-    "points": 342,
-    "comments": 266
-   },
-   "firstSeenAt": "2026-10-31T23:58:23.699Z",
-   "score": 12
-  },
-  {
-   "id": "810faf01d516",
-   "title": "Jepsen: ParticleDB 1.1.4",
-   "url": "https://jepsen.io/analyses/particledb-1.1.4",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-10-31T13:39:52.000Z",
-   "score": 141,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z",
+   "publishedAt": "2026-11-07T18:02:17.000Z",
    "hn": {
-    "id": "50316100",
-    "points": 335,
-    "comments": 188
-   }
+    "id": "50406563",
+    "points": 336,
+    "comments": 194
+   },
+   "firstSeenAt": "2026-11-08T00:17:39.379Z"
+  },
+  {
+   "id": "9c95d9f4cc46",
+   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
+   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-07T17:06:36.000Z",
+   "hn": {
+    "id": "50406111",
+    "points": 319,
+    "comments": 222
+   },
+   "firstSeenAt": "2026-11-08T00:17:39.379Z"
+  },
+  {
+   "id": "28c2d038c17b",
+   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-06T16:54:36.000Z",
+   "hn": {
+    "id": "50394906",
+    "points": 308,
+    "comments": 612
+   },
+   "firstSeenAt": "2026-11-08T00:17:39.379Z"
+  },
+  {
+   "id": "bac3d87c0e01",
+   "title": "*sshole, or when are we finally going to get rid of C?",
+   "url": "https://sunshowers.io/posts/sshole/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T21:05:35.812Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-08T00:17:39.379Z"
+  },
+  {
+   "id": "bede1db7ab76",
+   "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
+   "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T18:41:33.184Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-08T00:17:39.379Z"
+  },
+  {
+   "id": "87551a1f97b4",
+   "title": "Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header",
+   "url": "https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T06:18:48.419Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-08T00:17:39.379Z"
+  },
+  {
+   "id": "453f612a26d7",
+   "title": "Inform is a programming language for creating interactive fiction",
+   "url": "https://ganelson.github.io/inform-website/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T02:05:38.231Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-08T00:17:39.379Z"
+  },
+  {
+   "id": "2b881bd954d0",
+   "title": "Exploring Janet and the httpf web framework",
+   "url": "https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-07T04:28:11.062Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-08T00:17:39.379Z"
   },
   {
    "id": "5ec03af4da1d",
@@ -297,8 +380,8 @@
    "publishedAt": "2026-11-07T09:46:03.000Z",
    "hn": {
     "id": "50403097",
-    "points": 325,
-    "comments": 176
+    "points": 577,
+    "comments": 330
    },
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
@@ -312,8 +395,8 @@
    "publishedAt": "2026-11-07T09:36:36.000Z",
    "hn": {
     "id": "50403052",
-    "points": 363,
-    "comments": 118
+    "points": 779,
+    "comments": 222
    },
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
@@ -327,8 +410,8 @@
    "publishedAt": "2026-11-06T20:27:23.000Z",
    "hn": {
     "id": "50397994",
-    "points": 340,
-    "comments": 318
+    "points": 361,
+    "comments": 336
    },
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
@@ -342,8 +425,8 @@
    "publishedAt": "2026-11-06T13:35:27.000Z",
    "hn": {
     "id": "50392118",
-    "points": 352,
-    "comments": 241
+    "points": 359,
+    "comments": 249
    },
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
@@ -357,8 +440,8 @@
    "publishedAt": "2026-11-06T04:00:28.000Z",
    "hn": {
     "id": "50388001",
-    "points": 367,
-    "comments": 307
+    "points": 402,
+    "comments": 324
    },
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
@@ -370,7 +453,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T09:47:24.713Z",
-   "score": 28,
+   "score": 57,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -381,7 +464,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T07:46:35.449Z",
-   "score": 14,
+   "score": 24,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -392,7 +475,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T09:21:55.256Z",
-   "score": 22,
+   "score": 43,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -403,18 +486,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T23:03:12.299Z",
-   "score": 51,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "fe4697100c8e",
-   "title": "Progress Report: Linux 7.3 - Asahi Linux",
-   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T06:02:38.914Z",
-   "score": 25,
+   "score": 56,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -425,7 +497,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T08:21:50.861Z",
-   "score": 16,
+   "score": 28,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -436,7 +508,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T00:00:06.210Z",
-   "score": 34,
+   "score": 50,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -447,7 +519,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T20:50:24.488Z",
-   "score": 22,
+   "score": 29,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -471,8 +543,8 @@
    "publishedAt": "2026-11-06T19:48:51.000Z",
    "hn": {
     "id": "50397429",
-    "points": 531,
-    "comments": 128
+    "points": 570,
+    "comments": 145
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
@@ -486,8 +558,8 @@
    "publishedAt": "2026-11-06T15:44:36.000Z",
    "hn": {
     "id": "50393758",
-    "points": 362,
-    "comments": 192
+    "points": 374,
+    "comments": 198
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
@@ -516,8 +588,8 @@
    "publishedAt": "2026-11-06T12:13:51.000Z",
    "hn": {
     "id": "50391456",
-    "points": 1079,
-    "comments": 1936
+    "points": 1124,
+    "comments": 2023
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
@@ -531,7 +603,7 @@
    "publishedAt": "2026-11-06T03:27:14.000Z",
    "hn": {
     "id": "50387796",
-    "points": 320,
+    "points": 328,
     "comments": 54
    },
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
@@ -544,7 +616,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T15:37:00.157Z",
-   "score": 20,
+   "score": 23,
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
   {
@@ -555,7 +627,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T17:50:09.323Z",
-   "score": 24,
+   "score": 29,
    "firstSeenAt": "2026-11-07T00:43:00.116Z"
   },
   {
@@ -674,8 +746,8 @@
    "publishedAt": "2026-11-06T09:27:12.000Z",
    "hn": {
     "id": "50390124",
-    "points": 637,
-    "comments": 418
+    "points": 646,
+    "comments": 423
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -689,8 +761,8 @@
    "publishedAt": "2026-11-06T07:40:35.000Z",
    "hn": {
     "id": "50389333",
-    "points": 704,
-    "comments": 286
+    "points": 716,
+    "comments": 289
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -704,8 +776,8 @@
    "publishedAt": "2026-11-06T07:22:04.000Z",
    "hn": {
     "id": "50389222",
-    "points": 593,
-    "comments": 448
+    "points": 612,
+    "comments": 453
    },
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
@@ -822,7 +894,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-06T13:23:14.985Z",
-   "score": 57,
+   "score": 62,
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
   },
   {
@@ -3104,187 +3176,6 @@
    "publishedAt": "2026-10-31T15:09:27.573Z",
    "score": 15,
    "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "a7e11bfba6b1",
-   "title": "HackerTube: YouTube built from videos recommended by HN",
-   "url": "https://karpathy.bearblog.dev/hacker-tube/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T19:56:53.000Z",
-   "hn": {
-    "id": "50319510",
-    "points": 2790,
-    "comments": 622
-   },
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "c80cb208774f",
-   "title": "Tell HN: Scribd Breached",
-   "url": "https://news.ycombinator.com/item?id=50312756",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T02:46:36.000Z",
-   "hn": {
-    "id": "50312756",
-    "points": 351,
-    "comments": 122
-   },
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "aacc9b832572",
-   "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
-   "url": "https://www.medpagetoday.com/opinion/second-opinions/123553?trw=no",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T14:27:44.000Z",
-   "hn": {
-    "id": "50304419",
-    "points": 302,
-    "comments": 281
-   },
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "32c78f8a2d41",
-   "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-   "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-30T14:08:20.000Z",
-   "hn": {
-    "id": "50304122",
-    "points": 301,
-    "comments": 368
-   },
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "e44a20a0708e",
-   "title": "The Kluever Maneuver",
-   "url": "https://jordi.inversethought.com/blog/the-kluever-maneuver/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T15:05:04.540Z",
-   "score": 53,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "8be567a5acd8",
-   "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
-   "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T19:50:11.806Z",
-   "score": 68,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "fcbc1ef3c91f",
-   "title": "The support case of a customer who said that all they could see was a black screen",
-   "url": "https://devblogs.microsoft.com/oldnewthing/20261029-00/?p=112808/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T01:01:21.760Z",
-   "score": 76,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "da85974fc59d",
-   "title": "How hard is it to check for whitespace?",
-   "url": "https://serce.me/posts/2026-10-30-how-hard-is-it-to-check-for-whitespace",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T22:25:49.818Z",
-   "score": 47,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "ba7f8170af72",
-   "title": "Enlightenment 0.28.0 Release",
-   "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T18:02:18.321Z",
-   "score": 25,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "a1f4a9909c40",
-   "title": "No, npm, “estee” is not a typo of “testem”",
-   "url": "https://smoores.dev/post/no_npm_estee_is_not_a_typo/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T15:01:56.550Z",
-   "score": 41,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "9bf076c88894",
-   "title": "Tangled, hire a front-end accessibility expert",
-   "url": "https://dbushell.com/2026/11/01/tangled-accessibility/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T16:29:45.020Z",
-   "score": 46,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "d37dbc58918e",
-   "title": "Clojure/Conj 2026",
-   "url": "http://www.youtube.com/playlist?list=PLAkHRk3lgU_Q",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T06:25:34.478Z",
-   "score": 28,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "703293e3c51b",
-   "title": "Infinite Mac: BeOS",
-   "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T16:06:56.125Z",
-   "score": 42,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "a2dd8ba86336",
-   "title": "Switch lowering in GCC",
-   "url": "https://xoranth.net/gcc-switch/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-30T20:00:34.085Z",
-   "score": 28,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
-  },
-  {
-   "id": "c5cf2c8e7a8c",
-   "title": "Tactical-Retreat: a freely available, multi-platform QuakeC-based Counter-Strike v1.5 port",
-   "url": "https://www.frag-net.com/project_tacticalretreat.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T02:32:10.473Z",
-   "score": 13,
-   "firstSeenAt": "2026-10-31T23:58:23.699Z"
   }
  ]
 }
