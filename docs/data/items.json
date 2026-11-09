@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-08T15:53:49.719Z",
+ "generatedAt": "2026-11-09T00:37:57.099Z",
  "items": [
   {
    "id": "68be897c8b54",
@@ -48,8 +48,8 @@
    "firstSeenAt": "2026-11-07T15:36:27.470Z",
    "hn": {
     "id": "50401867",
-    "points": 399,
-    "comments": 353
+    "points": 411,
+    "comments": 384
    }
   },
   {
@@ -271,6 +271,106 @@
    }
   },
   {
+   "id": "a24fdfddefa6",
+   "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+   "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-08T20:26:43.000Z",
+   "hn": {
+    "id": "50416801",
+    "points": 360,
+    "comments": 276
+   },
+   "firstSeenAt": "2026-11-09T00:37:57.099Z"
+  },
+  {
+   "id": "a78801b83036",
+   "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+   "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-08T18:16:07.000Z",
+   "hn": {
+    "id": "50415628",
+    "points": 566,
+    "comments": 339
+   },
+   "firstSeenAt": "2026-11-09T00:37:57.099Z"
+  },
+  {
+   "id": "5e9d3fd0e59c",
+   "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+   "url": "https://github.com/synchopate/llama-modchip",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-08T10:22:04.000Z",
+   "hn": {
+    "id": "50411961",
+    "points": 351,
+    "comments": 146
+   },
+   "firstSeenAt": "2026-11-09T00:37:57.099Z"
+  },
+  {
+   "id": "a494044840e3",
+   "title": "systemd loves Rust",
+   "url": "https://amutable.com/blog/systemd-loves-rust",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-08T12:55:05.530Z",
+   "score": 33,
+   "firstSeenAt": "2026-11-09T00:37:57.099Z"
+  },
+  {
+   "id": "831a9fbe986d",
+   "title": "Who wants to crowdsource LLM scans of articles submitted to Lobste.rs?",
+   "url": "https://lobste.rs/s/jbdtim/who_wants_crowdsource_llm_scans_articles",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-08T16:36:17.777Z",
+   "score": 17,
+   "firstSeenAt": "2026-11-09T00:37:57.099Z"
+  },
+  {
+   "id": "928dacff669b",
+   "title": "A bit about email",
+   "url": "https://maurycyz.com/misc/email/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-08T12:53:34.868Z",
+   "score": 31,
+   "firstSeenAt": "2026-11-09T00:37:57.099Z"
+  },
+  {
+   "id": "a8eb506b1150",
+   "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+   "url": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-08T12:07:39.271Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-09T00:37:57.099Z"
+  },
+  {
+   "id": "0276abc6bb1c",
+   "title": "Hacking the T-Mobile Sidekick, 20 Years Too Late",
+   "url": "https://x86.cx/blog/redanger",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-08T08:10:08.714Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-09T00:37:57.099Z"
+  },
+  {
    "id": "e66f4eeac8f3",
    "title": "Goodbye Claude, Hello Pi",
    "url": "https://caleb.software/posts/claude-to-pi.html",
@@ -280,8 +380,8 @@
    "publishedAt": "2026-11-08T03:11:48.000Z",
    "hn": {
     "id": "50410107",
-    "points": 504,
-    "comments": 329
+    "points": 689,
+    "comments": 424
    },
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
   },
@@ -295,8 +395,8 @@
    "publishedAt": "2026-11-07T20:45:32.000Z",
    "hn": {
     "id": "50407882",
-    "points": 488,
-    "comments": 351
+    "points": 582,
+    "comments": 394
    },
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
   },
@@ -310,8 +410,8 @@
    "publishedAt": "2026-11-07T18:12:12.000Z",
    "hn": {
     "id": "50406670",
-    "points": 674,
-    "comments": 124
+    "points": 769,
+    "comments": 133
    },
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
   },
@@ -325,8 +425,8 @@
    "publishedAt": "2026-11-07T17:19:00.000Z",
    "hn": {
     "id": "50406222",
-    "points": 350,
-    "comments": 98
+    "points": 385,
+    "comments": 103
    },
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
   },
@@ -340,8 +440,8 @@
    "publishedAt": "2026-11-07T11:11:15.000Z",
    "hn": {
     "id": "50403507",
-    "points": 390,
-    "comments": 392
+    "points": 450,
+    "comments": 469
    },
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
   },
@@ -353,7 +453,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T23:19:53.437Z",
-   "score": 25,
+   "score": 39,
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
   },
   {
@@ -364,7 +464,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-08T08:41:38.183Z",
-   "score": 10,
+   "score": 12,
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
   },
   {
@@ -375,7 +475,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T23:31:05.716Z",
-   "score": 26,
+   "score": 33,
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
   },
   {
@@ -388,8 +488,8 @@
    "publishedAt": "2026-11-07T18:02:17.000Z",
    "hn": {
     "id": "50406563",
-    "points": 478,
-    "comments": 292
+    "points": 492,
+    "comments": 303
    },
    "firstSeenAt": "2026-11-08T00:17:39.379Z"
   },
@@ -403,8 +503,8 @@
    "publishedAt": "2026-11-07T17:06:36.000Z",
    "hn": {
     "id": "50406111",
-    "points": 503,
-    "comments": 319
+    "points": 527,
+    "comments": 352
    },
    "firstSeenAt": "2026-11-08T00:17:39.379Z"
   },
@@ -431,7 +531,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T21:05:35.812Z",
-   "score": 40,
+   "score": 56,
    "firstSeenAt": "2026-11-08T00:17:39.379Z"
   },
   {
@@ -442,7 +542,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T18:41:33.184Z",
-   "score": 25,
+   "score": 27,
    "firstSeenAt": "2026-11-08T00:17:39.379Z"
   },
   {
@@ -488,8 +588,8 @@
    "publishedAt": "2026-11-07T09:46:03.000Z",
    "hn": {
     "id": "50403097",
-    "points": 787,
-    "comments": 422
+    "points": 844,
+    "comments": 446
    },
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
@@ -503,8 +603,8 @@
    "publishedAt": "2026-11-07T09:36:36.000Z",
    "hn": {
     "id": "50403052",
-    "points": 1071,
-    "comments": 270
+    "points": 1112,
+    "comments": 279
    },
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
@@ -561,7 +661,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T09:47:24.713Z",
-   "score": 82,
+   "score": 94,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -583,7 +683,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-07T09:21:55.256Z",
-   "score": 55,
+   "score": 61,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
   },
   {
@@ -2972,318 +3072,6 @@
    ],
    "publishedAt": "2026-11-02T14:00:00.000Z",
    "firstSeenAt": "2026-11-02T19:24:07.207Z"
-  },
-  {
-   "id": "dbe709a7c6a9",
-   "title": "Patrick Stewart taught us what good men do with power",
-   "url": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-01T17:28:16.000Z",
-   "hn": {
-    "id": "50327650",
-    "points": 461,
-    "comments": 356
-   },
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "664224e893fc",
-   "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
-   "url": "https://hackerbooks.org",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-01T15:58:28.000Z",
-   "hn": {
-    "id": "50326821",
-    "points": 1811,
-    "comments": 300
-   },
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "8b5e6b4a8355",
-   "title": "Police chief unplugs cameras after Flock ignores contract cancellation",
-   "url": "https://www.thedrive.com/news/my-city-canceled-flocks-contract-flock-ignored-it-so-the-police-chief-unplugged-the-cameras",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-01T14:36:13.000Z",
-   "hn": {
-    "id": "50326118",
-    "points": 469,
-    "comments": 162
-   },
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "8cb5e1eef3d6",
-   "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
-   "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-01T14:34:43.000Z",
-   "hn": {
-    "id": "50326099",
-    "points": 564,
-    "comments": 176
-   },
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "2a10a176a3e7",
-   "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-   "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-01T02:19:53.000Z",
-   "hn": {
-    "id": "50322173",
-    "points": 336,
-    "comments": 214
-   },
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "cbc558c8813c",
-   "title": "An outsider's perspective on Scion and Mononoke",
-   "url": "https://typesanitizer.com/blog/scion.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T15:22:36.441Z",
-   "score": 139,
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "55ad78933df4",
-   "title": "Pratt parsing is a black box",
-   "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T17:41:53.312Z",
-   "score": 40,
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "5eceb785a776",
-   "title": "London Meetup - Nov 2026",
-   "url": "https://lobste.rs/s/cqzwwg/london_meetup_nov_2026",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T18:47:10.632Z",
-   "score": 48,
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "84b5a66917ad",
-   "title": "Work on GEFS (the Good Enough File System) for OpenBSD progresses",
-   "url": "https://www.undeadly.org/cgi?action=article;sid=20261101115637",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T20:13:29.256Z",
-   "score": 89,
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "bcdf1947b217",
-   "title": "Introduction to Programming in ATS",
-   "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T17:59:00.324Z",
-   "score": 10,
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "a0a2802ac399",
-   "title": "groff/troff macros: ms, mm, me or mom",
-   "url": "https://www.stephenlindholm.com/groff_macros.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T14:09:09.013Z",
-   "score": 15,
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "291da20277dc",
-   "title": "Zig: From Beginner to Slightly Less Beginner",
-   "url": "https://www.youtube.com/watch?v=jWCQXBVIyrY",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T17:19:19.220Z",
-   "score": 10,
-   "firstSeenAt": "2026-11-02T00:24:45.954Z"
-  },
-  {
-   "id": "d6e3252c8f31",
-   "title": "Restrooms along the Norwegian Scenic Routes",
-   "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-01T10:47:58.000Z",
-   "hn": {
-    "id": "50324388",
-    "points": 712,
-    "comments": 434
-   },
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "f9b8a9efbf26",
-   "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-   "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T22:46:12.000Z",
-   "hn": {
-    "id": "50320995",
-    "points": 452,
-    "comments": 226
-   },
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "a5cafb824bf7",
-   "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-   "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T22:41:06.000Z",
-   "hn": {
-    "id": "50320963",
-    "points": 854,
-    "comments": 222
-   },
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "e07ec5d69c95",
-   "title": "Anthropic blocks users for anything touching training larger models",
-   "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T19:39:19.000Z",
-   "hn": {
-    "id": "50319358",
-    "points": 487,
-    "comments": 264
-   },
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "6bd209feefbe",
-   "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-   "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T19:16:30.000Z",
-   "hn": {
-    "id": "50319143",
-    "points": 699,
-    "comments": 324
-   },
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "381223935ae3",
-   "title": "Do the math: How we took over ChatGPT accounts",
-   "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T10:30:11.000Z",
-   "hn": {
-    "id": "50314699",
-    "points": 357,
-    "comments": 176
-   },
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "ec5c571f059e",
-   "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-   "url": "https://piefed.world/post/1503394",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-10-31T10:23:41.000Z",
-   "hn": {
-    "id": "50314666",
-    "points": 331,
-    "comments": 190
-   },
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "2169d721729c",
-   "title": "Introducing Kwi, a new KDE terminal emulator",
-   "url": "https://blogs.kde.org/2026/11/01/introducing-kwi/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T02:56:29.237Z",
-   "score": 139,
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "8bdbd06d6a95",
-   "title": "XKCD and Fourier",
-   "url": "https://leancrew.com/all-this/2026/10/xkcd-and-fourier/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-01T10:50:56.504Z",
-   "score": 27,
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "7f0049f66117",
-   "title": "Novellas with groff",
-   "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T20:31:13.297Z",
-   "score": 38,
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "bdefd1c57354",
-   "title": "An LC-3 Disassembler in Haskell",
-   "url": "https://abhinavsarkar.net/posts/lc3-disassembler/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T16:08:42.898Z",
-   "score": 15,
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
-  },
-  {
-   "id": "01ee4bd34dad",
-   "title": "Let’s Build a Brain",
-   "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-10-31T15:09:27.573Z",
-   "score": 15,
-   "firstSeenAt": "2026-11-01T15:56:21.013Z"
   }
  ]
 }
