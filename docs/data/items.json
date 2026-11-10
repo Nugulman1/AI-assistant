@@ -1,6 +1,22 @@
 {
- "generatedAt": "2026-11-10T03:17:51.432Z",
+ "generatedAt": "2026-11-10T16:57:05.285Z",
  "items": [
+  {
+   "id": "f8c1a7370c13",
+   "title": "AlphaProof Code",
+   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "sources": [
+    "Hacker News",
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-10T12:02:28.000Z",
+   "hn": {
+    "id": "50439193",
+    "points": 408,
+    "comments": 136
+   },
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
   {
    "id": "796a7f7ee338",
    "title": "Claude Fable 5.2 and Mythos 5.2",
@@ -12,7 +28,7 @@
    "publishedAt": "2026-11-09T00:00:00.000Z",
    "hn": {
     "id": "50429906",
-    "points": 964,
+    "points": 980,
     "comments": 6
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
@@ -28,10 +44,10 @@
    "publishedAt": "2026-11-09T00:10:50.000Z",
    "hn": {
     "id": "50419215",
-    "points": 602,
-    "comments": 331
+    "points": 618,
+    "comments": 341
    },
-   "score": 79,
+   "score": 86,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -270,6 +286,343 @@
    }
   },
   {
+   "id": "2eaebfdb6cb5",
+   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+   "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T06:01:08.000Z",
+   "hn": {
+    "id": "50436640",
+    "points": 576,
+    "comments": 204
+   },
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "ffa9f549808b",
+   "title": "Fable 5.2 one-shotted my nephew's dream game",
+   "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-09T23:08:13.000Z",
+   "hn": {
+    "id": "50433659",
+    "points": 455,
+    "comments": 397
+   },
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "4f9270c0ec3d",
+   "title": "E-means: Outperforming k-means in one-tenth the epochs",
+   "url": "https://e-means.github.io/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-09T18:45:43.000Z",
+   "hn": {
+    "id": "50429734",
+    "points": 476,
+    "comments": 68
+   },
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "feb2ba211559",
+   "title": "Muse Ember: Our smallest, most efficient model",
+   "url": "https://research.meta.ai/blog/muse-ember",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-09T17:58:46.000Z",
+   "hn": {
+    "id": "50429024",
+    "points": 321,
+    "comments": 139
+   },
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "020c05e5c6f6",
+   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+   "url": "https://www.watched.earth",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-09T17:51:31.000Z",
+   "hn": {
+    "id": "50428907",
+    "points": 432,
+    "comments": 79
+   },
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "c73389828afd",
+   "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+   "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-09T17:42:55.000Z",
+   "hn": {
+    "id": "50428801",
+    "points": 322,
+    "comments": 299
+   },
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "c6f754d26eec",
+   "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+   "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-09T14:31:39.000Z",
+   "hn": {
+    "id": "50426175",
+    "points": 343,
+    "comments": 236
+   },
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "0fe089c12de4",
+   "title": "Open Graph images with Astro and Typst",
+   "url": "https://eaj.no/posts/open-graph-images-with-typst/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T11:42:48.435Z",
+   "score": 24,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "727311c8497c",
+   "title": "The hardest tarball",
+   "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T13:47:03.168Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "a9f580dcd96f",
+   "title": "You should try Gleam",
+   "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T03:33:27.517Z",
+   "score": 34,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "15941f8b5516",
+   "title": "Building a networking switch ASIC chip",
+   "url": "https://essenceia.github.io/projects/expresso/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T07:39:39.567Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "f1b821aeac9f",
+   "title": "Next-Level Benchmarking Overfitting",
+   "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T12:20:55.477Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "dc14a8e46d2b",
+   "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
+   "url": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T00:48:20.266Z",
+   "score": 20,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "80987bf094de",
+   "title": "I was wrong about dark mode",
+   "url": "https://dbushell.com/2026/11/09/dark-mode/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-09T16:54:03.235Z",
+   "score": 21,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "123cc8899327",
+   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+   "url": "https://huggingface.co/papers/2611.12806",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-08T19:00:00.000Z",
+   "score": 91,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "930c9f51b3fa",
+   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+   "url": "https://huggingface.co/papers/2611.12762",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-08T19:00:00.000Z",
+   "score": 46,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "fcc02b9fa5cb",
+   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+   "url": "https://huggingface.co/papers/2611.12886",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-08T19:00:00.000Z",
+   "score": 36,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "0d8ae89421ec",
+   "title": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization",
+   "url": "https://huggingface.co/papers/2611.11890",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-08T19:00:00.000Z",
+   "score": 4,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "aeed2eb95f95",
+   "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
+   "url": "https://huggingface.co/papers/2611.12870",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-08T19:00:00.000Z",
+   "score": 3,
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "85a32fe1244f",
+   "title": "Anthropic launches roadshow for proposed initial public offering",
+   "url": "https://www.anthropic.com/news/roadshow-launch",
+   "sources": [
+    "Anthropic"
+   ],
+   "publishedAt": "2026-11-10T00:00:00.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "46ecb159c153",
+   "title": "Helping caregivers use AI in everyday life",
+   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-10T12:00:00.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "01a8528fa117",
+   "title": "Closing the AI guidance gap in education",
+   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-10T09:00:00.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "3588ceed4155",
+   "title": "Work at the Frontier: AI’s effect on freelance work",
+   "url": "https://openai.com/index/ai-effect-on-freelance-work",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-10T07:00:00.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "fc6b6a56df7b",
+   "title": "Gemini 4 Carbon is now available",
+   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-10T16:03:47.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "7da1b2b4758f",
+   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-09T19:51:47.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "69f8748bdf43",
+   "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
+   "url": "https://lwn.net/Articles/1102549/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-10T15:38:10.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "8b899abbd7c8",
+   "title": "Fragments: November 10",
+   "url": "https://martinfowler.com/fragments/2026-11-10.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-11-10T14:30:00.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "75af9aae359d",
+   "title": "Long-horizon agents and durable execution",
+   "url": "https://martinfowler.com/articles/durable-execution-agents.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-11-10T14:10:00.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "583511bb3ad1",
+   "title": "Software correctness & supply chain security, with Sean Allen",
+   "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-11-10T15:00:21.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
    "id": "255b56db4a4a",
    "title": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far",
    "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
@@ -279,8 +632,8 @@
    "publishedAt": "2026-11-09T20:04:55.000Z",
    "hn": {
     "id": "50431144",
-    "points": 300,
-    "comments": 224
+    "points": 361,
+    "comments": 261
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -294,8 +647,8 @@
    "publishedAt": "2026-11-09T19:58:59.000Z",
    "hn": {
     "id": "50431058",
-    "points": 508,
-    "comments": 266
+    "points": 701,
+    "comments": 366
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -309,8 +662,8 @@
    "publishedAt": "2026-11-09T18:27:58.000Z",
    "hn": {
     "id": "50429475",
-    "points": 322,
-    "comments": 499
+    "points": 341,
+    "comments": 550
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -324,8 +677,8 @@
    "publishedAt": "2026-11-09T18:24:38.000Z",
    "hn": {
     "id": "50429426",
-    "points": 456,
-    "comments": 105
+    "points": 690,
+    "comments": 144
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -339,8 +692,8 @@
    "publishedAt": "2026-11-09T17:36:20.000Z",
    "hn": {
     "id": "50428724",
-    "points": 305,
-    "comments": 186
+    "points": 338,
+    "comments": 200
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -354,8 +707,8 @@
    "publishedAt": "2026-11-08T19:37:42.000Z",
    "hn": {
     "id": "50416363",
-    "points": 303,
-    "comments": 210
+    "points": 308,
+    "comments": 212
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -367,7 +720,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T18:36:47.508Z",
-   "score": 42,
+   "score": 72,
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
   {
@@ -378,7 +731,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T18:35:57.491Z",
-   "score": 36,
+   "score": 58,
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
   {
@@ -432,8 +785,8 @@
    "publishedAt": "2026-11-09T16:00:45.000Z",
    "hn": {
     "id": "50427362",
-    "points": 482,
-    "comments": 264
+    "points": 569,
+    "comments": 327
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -447,8 +800,8 @@
    "publishedAt": "2026-11-09T15:01:03.000Z",
    "hn": {
     "id": "50426582",
-    "points": 409,
-    "comments": 292
+    "points": 435,
+    "comments": 325
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -462,8 +815,8 @@
    "publishedAt": "2026-11-09T12:30:20.000Z",
    "hn": {
     "id": "50424704",
-    "points": 471,
-    "comments": 416
+    "points": 481,
+    "comments": 442
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -477,8 +830,8 @@
    "publishedAt": "2026-11-09T12:19:22.000Z",
    "hn": {
     "id": "50424581",
-    "points": 871,
-    "comments": 141
+    "points": 1150,
+    "comments": 166
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -492,8 +845,8 @@
    "publishedAt": "2026-11-09T07:04:25.000Z",
    "hn": {
     "id": "50422069",
-    "points": 760,
-    "comments": 483
+    "points": 803,
+    "comments": 501
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -507,8 +860,8 @@
    "publishedAt": "2026-11-09T01:58:21.000Z",
    "hn": {
     "id": "50420035",
-    "points": 431,
-    "comments": 137
+    "points": 435,
+    "comments": 143
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -522,8 +875,8 @@
    "publishedAt": "2026-11-08T23:44:36.000Z",
    "hn": {
     "id": "50418975",
-    "points": 543,
-    "comments": 941
+    "points": 559,
+    "comments": 953
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -537,7 +890,7 @@
    "publishedAt": "2026-11-08T22:36:03.000Z",
    "hn": {
     "id": "50418182",
-    "points": 339,
+    "points": 349,
     "comments": 58
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
@@ -552,8 +905,8 @@
    "publishedAt": "2026-11-08T22:35:35.000Z",
    "hn": {
     "id": "50418176",
-    "points": 732,
-    "comments": 225
+    "points": 752,
+    "comments": 228
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -567,8 +920,8 @@
    "publishedAt": "2026-11-08T22:20:09.000Z",
    "hn": {
     "id": "50418016",
-    "points": 947,
-    "comments": 1219
+    "points": 971,
+    "comments": 1251
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -582,8 +935,8 @@
    "publishedAt": "2026-11-08T19:20:32.000Z",
    "hn": {
     "id": "50416158",
-    "points": 533,
-    "comments": 358
+    "points": 542,
+    "comments": 364
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -597,8 +950,8 @@
    "publishedAt": "2026-11-08T19:08:51.000Z",
    "hn": {
     "id": "50416053",
-    "points": 340,
-    "comments": 143
+    "points": 342,
+    "comments": 145
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -640,7 +993,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T06:44:59.077Z",
-   "score": 89,
+   "score": 96,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -651,7 +1004,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T12:55:11.209Z",
-   "score": 79,
+   "score": 107,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -662,7 +1015,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T12:22:39.664Z",
-   "score": 37,
+   "score": 54,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -673,7 +1026,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T12:55:38.018Z",
-   "score": 17,
+   "score": 22,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -684,7 +1037,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T15:41:50.359Z",
-   "score": 83,
+   "score": 131,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -706,7 +1059,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T11:48:55.327Z",
-   "score": 18,
+   "score": 22,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -872,8 +1225,8 @@
    "publishedAt": "2026-11-08T18:16:07.000Z",
    "hn": {
     "id": "50415628",
-    "points": 884,
-    "comments": 473
+    "points": 892,
+    "comments": 483
    },
    "firstSeenAt": "2026-11-09T00:37:57.099Z"
   },
