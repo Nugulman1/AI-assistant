@@ -1,6 +1,24 @@
 {
- "generatedAt": "2026-11-11T01:06:27.335Z",
+ "generatedAt": "2026-11-11T17:00:30.773Z",
  "items": [
+  {
+   "id": "69f8748bdf43",
+   "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
+   "url": "https://lwn.net/Articles/1102549/",
+   "sources": [
+    "LWN",
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T15:38:10.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z",
+   "score": 54,
+   "hn": {
+    "id": "50443824",
+    "points": 463,
+    "comments": 257
+   }
+  },
   {
    "id": "ad9eb20db0e4",
    "title": ".name Grandfathered",
@@ -12,10 +30,10 @@
    "publishedAt": "2026-11-10T16:37:44.000Z",
    "hn": {
     "id": "50442736",
-    "points": 671,
-    "comments": 155
+    "points": 910,
+    "comments": 197
    },
-   "score": 121,
+   "score": 176,
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
   {
@@ -29,22 +47,10 @@
    "publishedAt": "2026-11-10T12:02:28.000Z",
    "hn": {
     "id": "50439193",
-    "points": 576,
-    "comments": 175
+    "points": 663,
+    "comments": 187
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "69f8748bdf43",
-   "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
-   "url": "https://lwn.net/Articles/1102549/",
-   "sources": [
-    "LWN",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T15:38:10.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z",
-   "score": 32
   },
   {
    "id": "baaf713b11e3",
@@ -58,8 +64,8 @@
    "firstSeenAt": "2026-11-10T03:17:51.432Z",
    "hn": {
     "id": "50434310",
-    "points": 318,
-    "comments": 163
+    "points": 328,
+    "comments": 172
    }
   },
   {
@@ -73,7 +79,7 @@
    "publishedAt": "2026-11-09T00:00:00.000Z",
    "hn": {
     "id": "50429906",
-    "points": 988,
+    "points": 994,
     "comments": 8
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
@@ -264,55 +270,348 @@
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
   },
   {
-   "id": "0b48a22c90c1",
-   "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-   "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+   "id": "633c21117d7e",
+   "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+   "url": "https://pietromiotti.com/latest/maya-site/?maya",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T07:56:21.000Z",
-   "hn": {
-    "id": "50349276",
-    "points": 487,
-    "comments": 236
-   },
-   "score": 58,
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "0093518f68d3",
-   "title": "Mac at Any Scale",
-   "url": "https://namespace.so/blog/mac-at-any-scale",
-   "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T14:53:42.000Z",
-   "hn": {
-    "id": "50352758",
-    "points": 410,
-    "comments": 222
-   },
-   "firstSeenAt": "2026-11-04T01:07:07.648Z",
-   "score": 14
-  },
-  {
-   "id": "3f989514aa0d",
-   "title": "kitty 0.50.0",
-   "url": "https://sw.kovidgoyal.net/kitty/changelog/#id1",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-11-03T17:43:09.945Z",
-   "score": 45,
-   "firstSeenAt": "2026-11-04T01:07:07.648Z",
+   "publishedAt": "2026-11-11T12:05:22.000Z",
    "hn": {
-    "id": "50362980",
-    "points": 382,
-    "comments": 242
-   }
+    "id": "50452455",
+    "points": 685,
+    "comments": 257
+   },
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "7820b043505e",
+   "title": "Protecting SSH Keys with macOS Secure Enclave",
+   "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-11T04:28:57.000Z",
+   "hn": {
+    "id": "50449748",
+    "points": 346,
+    "comments": 123
+   },
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "ae3c6c28ceab",
+   "title": "Tracking Anthropic-discovered vulnerabilities",
+   "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T22:17:56.000Z",
+   "hn": {
+    "id": "50447074",
+    "points": 438,
+    "comments": 210
+   },
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "77d255b4e9ac",
+   "title": "Apple has new Mac app coming to make running local AI models easy",
+   "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T21:25:03.000Z",
+   "hn": {
+    "id": "50446520",
+    "points": 445,
+    "comments": 462
+   },
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "c7d653343bd1",
+   "title": "Six Math Essentials",
+   "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T20:58:44.000Z",
+   "hn": {
+    "id": "50446246",
+    "points": 318,
+    "comments": 58
+   },
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "4a8e294d0bb8",
+   "title": "Starlink Mini 2",
+   "url": "https://starlink.com/mini-2",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T18:22:32.000Z",
+   "hn": {
+    "id": "50444129",
+    "points": 488,
+    "comments": 547
+   },
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "5175b6a2b765",
+   "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+   "url": "https://github.com/GoogleChrome/modern-web-guidance",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T18:01:15.000Z",
+   "hn": {
+    "id": "50443812",
+    "points": 416,
+    "comments": 138
+   },
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "188db393b236",
+   "title": "Ableton Live 13",
+   "url": "https://www.ableton.com/en/live/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T12:58:04.000Z",
+   "hn": {
+    "id": "50439695",
+    "points": 327,
+    "comments": 349
+   },
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "e958d89b3a26",
+   "title": "How do you actually self-host securely?",
+   "url": "https://lobste.rs/s/m43bas/how_do_you_actually_self_host_securely",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-11T12:01:19.024Z",
+   "score": 56,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "bd64cbb685c1",
+   "title": "What are some \"No AI\" apps/companies/resources you know of?",
+   "url": "https://lobste.rs/s/nld6x3/what_are_some_no_ai_apps_companies",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-11T13:13:51.549Z",
+   "score": 32,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "8363ca58553c",
+   "title": "In Memoriam: Tim Peters 1952–2026",
+   "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-11T14:20:17.454Z",
+   "score": 26,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "e82f105c45bc",
+   "title": "Using voltage glitching to unleash the A100 in my mining card",
+   "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-11T12:36:57.129Z",
+   "score": 21,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "3b4cedcfd49e",
+   "title": "Go Turns 17",
+   "url": "https://go.dev/blog/17years",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T22:47:26.672Z",
+   "score": 37,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "d8b2d6d42f8b",
+   "title": "30 years of Internet transfers with curl",
+   "url": "https://daniel.haxx.se/blog/2026/11/11/30-years-of-internet-transfers-with-curl/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T23:42:39.023Z",
+   "score": 26,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "28a1e4f262ef",
+   "title": "Modding Linux to use SIGKILL on every process",
+   "url": "https://vulpinecitrus.info/blog/what-if-you-could-handle-sigkill/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-11T06:14:34.735Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "7eaaaa4f4641",
+   "title": "Memory Safety Bugs in Rust Standard Library",
+   "url": "https://forge-blog.github.io/posts/rust-std-memory-safety/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T19:44:50.546Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "cc9faa61a700",
+   "title": "Searching for pedagogical materials on memory models",
+   "url": "https://lobste.rs/s/odnnzh/searching_for_pedagogical_materials_on",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T19:51:19.139Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "b32f33401f92",
+   "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
+   "url": "https://huggingface.co/papers/2611.14210",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-09T19:00:00.000Z",
+   "score": 59,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "0f451c0d900e",
+   "title": "Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents",
+   "url": "https://huggingface.co/papers/2611.14320",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-09T19:00:00.000Z",
+   "score": 49,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "07b8c2ffe283",
+   "title": "Few-Step Streaming Video Generation via Condition Shifting",
+   "url": "https://huggingface.co/papers/2611.14033",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-09T19:00:00.000Z",
+   "score": 47,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "f2963506946a",
+   "title": "MMDM: Measuring Massive Multitask Decision Making",
+   "url": "https://huggingface.co/papers/2611.14309",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-09T19:00:00.000Z",
+   "score": 24,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "bbabebb08df2",
+   "title": "DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight",
+   "url": "https://huggingface.co/papers/2611.11166",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-09T19:00:00.000Z",
+   "score": 24,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "80b38ea7da37",
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-11T08:00:00.000Z",
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "4e3e5904c85a",
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "url": "https://openai.com/index/singapore-airlines-travel-work",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-10T08:00:00.000Z",
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "1ff74ee2cb10",
+   "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+   "url": "https://openai.com/index/cogent-security",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-10T00:00:00.000Z",
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "e879c6fc35d4",
+   "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+   "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-11T15:00:15.000Z",
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "1b3d435bd7e5",
+   "title": "[$] Additional hardening for the glibc dynamic linker",
+   "url": "https://lwn.net/Articles/1105134/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-11T14:35:29.000Z",
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "1e25c4d1d22c",
+   "title": "Choosing QuePaxa, an unusual consensus algorithm",
+   "url": "https://blog.cloudflare.com/choosing-quepaxa/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-11T14:24:46.000Z",
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
+  },
+  {
+   "id": "18d4d40cfb35",
+   "title": "Tests as data: ensuring AI-generated code does what we want",
+   "url": "https://martinfowler.com/articles/tests-as-data.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-11-11T15:17:00.000Z",
+   "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
   {
    "id": "12179ed519d5",
@@ -324,8 +623,8 @@
    "publishedAt": "2026-11-10T19:50:46.000Z",
    "hn": {
     "id": "50445401",
-    "points": 310,
-    "comments": 230
+    "points": 538,
+    "comments": 372
    },
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
@@ -339,8 +638,8 @@
    "publishedAt": "2026-11-10T17:31:14.000Z",
    "hn": {
     "id": "50443427",
-    "points": 300,
-    "comments": 77
+    "points": 416,
+    "comments": 100
    },
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
@@ -354,8 +653,8 @@
    "publishedAt": "2026-11-10T16:15:43.000Z",
    "hn": {
     "id": "50442426",
-    "points": 423,
-    "comments": 62
+    "points": 478,
+    "comments": 71
    },
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
@@ -369,8 +668,8 @@
    "publishedAt": "2026-11-10T15:25:20.000Z",
    "hn": {
     "id": "50441707",
-    "points": 686,
-    "comments": 247
+    "points": 1113,
+    "comments": 406
    },
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
@@ -384,8 +683,8 @@
    "publishedAt": "2026-11-10T10:25:58.000Z",
    "hn": {
     "id": "50438318",
-    "points": 363,
-    "comments": 397
+    "points": 614,
+    "comments": 579
    },
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
@@ -397,7 +696,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T16:03:21.955Z",
-   "score": 19,
+   "score": 28,
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
   {
@@ -408,7 +707,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T16:49:51.594Z",
-   "score": 13,
+   "score": 25,
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
   {
@@ -419,7 +718,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T20:49:23.641Z",
-   "score": 13,
+   "score": 50,
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
   {
@@ -430,7 +729,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T14:36:45.331Z",
-   "score": 12,
+   "score": 20,
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
   {
@@ -463,8 +762,8 @@
    "publishedAt": "2026-11-10T06:01:08.000Z",
    "hn": {
     "id": "50436640",
-    "points": 685,
-    "comments": 242
+    "points": 714,
+    "comments": 256
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -478,8 +777,8 @@
    "publishedAt": "2026-11-09T23:08:13.000Z",
    "hn": {
     "id": "50433659",
-    "points": 479,
-    "comments": 431
+    "points": 497,
+    "comments": 445
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -493,7 +792,7 @@
    "publishedAt": "2026-11-09T18:45:43.000Z",
    "hn": {
     "id": "50429734",
-    "points": 494,
+    "points": 504,
     "comments": 78
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
@@ -508,8 +807,8 @@
    "publishedAt": "2026-11-09T17:58:46.000Z",
    "hn": {
     "id": "50429024",
-    "points": 328,
-    "comments": 139
+    "points": 332,
+    "comments": 140
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -523,7 +822,7 @@
    "publishedAt": "2026-11-09T17:51:31.000Z",
    "hn": {
     "id": "50428907",
-    "points": 456,
+    "points": 476,
     "comments": 81
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
@@ -538,7 +837,7 @@
    "publishedAt": "2026-11-09T17:42:55.000Z",
    "hn": {
     "id": "50428801",
-    "points": 325,
+    "points": 328,
     "comments": 303
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
@@ -566,7 +865,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T11:42:48.435Z",
-   "score": 35,
+   "score": 45,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -577,7 +876,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T13:47:03.168Z",
-   "score": 54,
+   "score": 76,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -588,7 +887,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T03:33:27.517Z",
-   "score": 48,
+   "score": 65,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -790,8 +1089,8 @@
    "publishedAt": "2026-11-09T20:04:55.000Z",
    "hn": {
     "id": "50431144",
-    "points": 372,
-    "comments": 268
+    "points": 376,
+    "comments": 274
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -805,8 +1104,8 @@
    "publishedAt": "2026-11-09T19:58:59.000Z",
    "hn": {
     "id": "50431058",
-    "points": 719,
-    "comments": 387
+    "points": 729,
+    "comments": 394
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -820,8 +1119,8 @@
    "publishedAt": "2026-11-09T18:27:58.000Z",
    "hn": {
     "id": "50429475",
-    "points": 342,
-    "comments": 583
+    "points": 348,
+    "comments": 603
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -835,7 +1134,7 @@
    "publishedAt": "2026-11-09T18:24:38.000Z",
    "hn": {
     "id": "50429426",
-    "points": 714,
+    "points": 723,
     "comments": 147
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
@@ -850,8 +1149,8 @@
    "publishedAt": "2026-11-09T17:36:20.000Z",
    "hn": {
     "id": "50428724",
-    "points": 346,
-    "comments": 200
+    "points": 347,
+    "comments": 202
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -3262,201 +3561,6 @@
    ],
    "publishedAt": "2026-11-04T14:00:00.000Z",
    "firstSeenAt": "2026-11-04T17:01:42.202Z"
-  },
-  {
-   "id": "da9a5824109f",
-   "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-   "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T17:22:37.000Z",
-   "hn": {
-    "id": "50354960",
-    "points": 1510,
-    "comments": 489
-   },
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "b6bf91b204a6",
-   "title": "Stringman, an $800 open-source room scale gripper robot",
-   "url": "https://neufangled.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T16:47:29.000Z",
-   "hn": {
-    "id": "50354358",
-    "points": 807,
-    "comments": 240
-   },
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "ac00eb49c451",
-   "title": "Kalshi and its co-founders face felony charges for violating Utah gambling laws",
-   "url": "https://arstechnica.com/tech-policy/2026/10/trump-admin-sues-utah-to-save-kalshi-from-the-states-total-ban-on-gambling/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T15:29:15.000Z",
-   "hn": {
-    "id": "50353229",
-    "points": 494,
-    "comments": 486
-   },
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "eadaa378c2b5",
-   "title": "Google will turn off search for schools that reject AI",
-   "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T15:25:47.000Z",
-   "hn": {
-    "id": "50353192",
-    "points": 662,
-    "comments": 460
-   },
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "605a80a50559",
-   "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
-   "url": "https://news.ycombinator.com/item?id=50352757",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T14:53:41.000Z",
-   "hn": {
-    "id": "50352757",
-    "points": 518,
-    "comments": 154
-   },
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "09484dfee9e7",
-   "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-   "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-02T14:02:42.000Z",
-   "hn": {
-    "id": "50336918",
-    "points": 372,
-    "comments": 156
-   },
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "879cc99a61a0",
-   "title": "Announcing NetBSD 11.1",
-   "url": "https://www.netbsd.org/releases/formal-11/NetBSD-11.1.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T22:00:17.275Z",
-   "score": 45,
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "4fc0d0680534",
-   "title": "Would you believe it's jank?",
-   "url": "https://www.youtube.com/watch?v=tHgApFhevrQ",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T20:03:16.449Z",
-   "score": 34,
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "78a29dd1f1af",
-   "title": "Ideas for social networks",
-   "url": "https://raphaelkabo.com/blog/social-network-ideas",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T14:24:08.210Z",
-   "score": 11,
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "771b01031021",
-   "title": "FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell",
-   "url": "https://huggingface.co/papers/2611.03344",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-02T11:00:12.000Z",
-   "score": 17,
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "8a8c6b54c604",
-   "title": "Measuring AI Agents as Teammates with Collaborative Intelligence",
-   "url": "https://huggingface.co/papers/2611.02633",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-02T01:59:08.000Z",
-   "score": 13,
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "26c6032e1d26",
-   "title": "Accelerating engineering for the physical world",
-   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-03T12:00:00.000Z",
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "a2357e701f02",
-   "title": "How Cisco defends at machine speed with OpenAI",
-   "url": "https://openai.com/index/cisco-cyber",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-03T08:00:00.000Z",
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "3d509e27bae2",
-   "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-   "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-03T00:00:00.000Z",
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "adafdd4764cb",
-   "title": "Agentic cheminformatics with Google Antigravity",
-   "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-11-03T17:01:49.000Z",
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "626d3932ded8",
-   "title": "How software engineering is changing: a tale of two eras",
-   "url": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-03T16:58:22.000Z",
-   "firstSeenAt": "2026-11-04T01:07:07.648Z"
   }
  ]
 }
