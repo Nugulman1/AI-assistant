@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-11-10T16:57:05.285Z",
+ "generatedAt": "2026-11-11T01:06:27.335Z",
  "items": [
+  {
+   "id": "ad9eb20db0e4",
+   "title": ".name Grandfathered",
+   "url": "https://neil.fraser.name/news/2026/11/10/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T16:37:44.000Z",
+   "hn": {
+    "id": "50442736",
+    "points": 671,
+    "comments": 155
+   },
+   "score": 121,
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
   {
    "id": "f8c1a7370c13",
    "title": "AlphaProof Code",
@@ -12,10 +29,38 @@
    "publishedAt": "2026-11-10T12:02:28.000Z",
    "hn": {
     "id": "50439193",
-    "points": 408,
-    "comments": 136
+    "points": 576,
+    "comments": 175
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
+  },
+  {
+   "id": "69f8748bdf43",
+   "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
+   "url": "https://lwn.net/Articles/1102549/",
+   "sources": [
+    "LWN",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T15:38:10.000Z",
+   "firstSeenAt": "2026-11-10T16:57:05.285Z",
+   "score": 32
+  },
+  {
+   "id": "baaf713b11e3",
+   "title": "Locating the source of a mysterious beep with Claude",
+   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+   "sources": [
+    "Simon Willison",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-09T23:57:21.000Z",
+   "firstSeenAt": "2026-11-10T03:17:51.432Z",
+   "hn": {
+    "id": "50434310",
+    "points": 318,
+    "comments": 163
+   }
   },
   {
    "id": "796a7f7ee338",
@@ -28,8 +73,8 @@
    "publishedAt": "2026-11-09T00:00:00.000Z",
    "hn": {
     "id": "50429906",
-    "points": 980,
-    "comments": 6
+    "points": 988,
+    "comments": 8
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -270,20 +315,143 @@
    }
   },
   {
-   "id": "9b0f1b3870f8",
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+   "id": "12179ed519d5",
+   "title": "Scion is back and is going to sell a kei truck in America",
+   "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
    "sources": [
-    "Simon Willison",
     "Hacker News"
    ],
-   "publishedAt": "2026-11-03T16:29:48.000Z",
-   "firstSeenAt": "2026-11-03T16:57:17.383Z",
+   "publishedAt": "2026-11-10T19:50:46.000Z",
    "hn": {
-    "id": "50355251",
-    "points": 731,
-    "comments": 213
-   }
+    "id": "50445401",
+    "points": 310,
+    "comments": 230
+   },
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "d438bd2ee1d8",
+   "title": "Val Town is winding down",
+   "url": "https://blog.val.town/winding-down",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T17:31:14.000Z",
+   "hn": {
+    "id": "50443427",
+    "points": 300,
+    "comments": 77
+   },
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "92b8883870ae",
+   "title": "Blender 5.3 released with Gaussian Splat support",
+   "url": "https://www.blender.org/download/releases/5-3/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T16:15:43.000Z",
+   "hn": {
+    "id": "50442426",
+    "points": 423,
+    "comments": 62
+   },
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "f8fef665ff3e",
+   "title": "Smart home devices should work without the internet",
+   "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T15:25:20.000Z",
+   "hn": {
+    "id": "50441707",
+    "points": 686,
+    "comments": 247
+   },
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "534e23320d33",
+   "title": "AI usage generates a fragile codebase",
+   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-10T10:25:58.000Z",
+   "hn": {
+    "id": "50438318",
+    "points": 363,
+    "comments": 397
+   },
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "8eacae9504da",
+   "title": "Announcing .NET 11",
+   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T16:03:21.955Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "4228e98950e0",
+   "title": "Weird licenses and the new open source",
+   "url": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T16:49:51.594Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "4a6496225766",
+   "title": "I deleted all my SSH keys",
+   "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T20:49:23.641Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "d3248ea995fc",
+   "title": "A faster Easter date function",
+   "url": "https://www.benjoffe.com/fast-easter",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-10T14:36:45.331Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "f28f90d2895a",
+   "title": "Gilbert + Tobin rethinks the business of law with AI",
+   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-12T00:00:00.000Z",
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+  },
+  {
+   "id": "5ca4dc7b6d88",
+   "title": "Introducing Businesses in ChatGPT",
+   "url": "https://openai.com/index/introducing-businesses-chatgpt",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-10T10:00:00.000Z",
+   "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
   {
    "id": "2eaebfdb6cb5",
@@ -295,8 +463,8 @@
    "publishedAt": "2026-11-10T06:01:08.000Z",
    "hn": {
     "id": "50436640",
-    "points": 576,
-    "comments": 204
+    "points": 685,
+    "comments": 242
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -310,8 +478,8 @@
    "publishedAt": "2026-11-09T23:08:13.000Z",
    "hn": {
     "id": "50433659",
-    "points": 455,
-    "comments": 397
+    "points": 479,
+    "comments": 431
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -325,8 +493,8 @@
    "publishedAt": "2026-11-09T18:45:43.000Z",
    "hn": {
     "id": "50429734",
-    "points": 476,
-    "comments": 68
+    "points": 494,
+    "comments": 78
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -340,7 +508,7 @@
    "publishedAt": "2026-11-09T17:58:46.000Z",
    "hn": {
     "id": "50429024",
-    "points": 321,
+    "points": 328,
     "comments": 139
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
@@ -355,8 +523,8 @@
    "publishedAt": "2026-11-09T17:51:31.000Z",
    "hn": {
     "id": "50428907",
-    "points": 432,
-    "comments": 79
+    "points": 456,
+    "comments": 81
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -370,8 +538,8 @@
    "publishedAt": "2026-11-09T17:42:55.000Z",
    "hn": {
     "id": "50428801",
-    "points": 322,
-    "comments": 299
+    "points": 325,
+    "comments": 303
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -385,8 +553,8 @@
    "publishedAt": "2026-11-09T14:31:39.000Z",
    "hn": {
     "id": "50426175",
-    "points": 343,
-    "comments": 236
+    "points": 347,
+    "comments": 255
    },
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
@@ -398,7 +566,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T11:42:48.435Z",
-   "score": 24,
+   "score": 35,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -409,7 +577,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T13:47:03.168Z",
-   "score": 22,
+   "score": 54,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -420,7 +588,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T03:33:27.517Z",
-   "score": 34,
+   "score": 48,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -431,7 +599,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T07:39:39.567Z",
-   "score": 19,
+   "score": 31,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -442,7 +610,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T12:20:55.477Z",
-   "score": 11,
+   "score": 15,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -453,7 +621,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T00:48:20.266Z",
-   "score": 20,
+   "score": 26,
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
@@ -583,16 +751,6 @@
    "firstSeenAt": "2026-11-10T16:57:05.285Z"
   },
   {
-   "id": "69f8748bdf43",
-   "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
-   "url": "https://lwn.net/Articles/1102549/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-10T15:38:10.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
    "id": "8b899abbd7c8",
    "title": "Fragments: November 10",
    "url": "https://martinfowler.com/fragments/2026-11-10.html",
@@ -632,8 +790,8 @@
    "publishedAt": "2026-11-09T20:04:55.000Z",
    "hn": {
     "id": "50431144",
-    "points": 361,
-    "comments": 261
+    "points": 372,
+    "comments": 268
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -647,8 +805,8 @@
    "publishedAt": "2026-11-09T19:58:59.000Z",
    "hn": {
     "id": "50431058",
-    "points": 701,
-    "comments": 366
+    "points": 719,
+    "comments": 387
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -662,8 +820,8 @@
    "publishedAt": "2026-11-09T18:27:58.000Z",
    "hn": {
     "id": "50429475",
-    "points": 341,
-    "comments": 550
+    "points": 342,
+    "comments": 583
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -677,8 +835,8 @@
    "publishedAt": "2026-11-09T18:24:38.000Z",
    "hn": {
     "id": "50429426",
-    "points": 690,
-    "comments": 144
+    "points": 714,
+    "comments": 147
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
@@ -692,7 +850,7 @@
    "publishedAt": "2026-11-09T17:36:20.000Z",
    "hn": {
     "id": "50428724",
-    "points": 338,
+    "points": 346,
     "comments": 200
    },
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
@@ -720,7 +878,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T18:36:47.508Z",
-   "score": 72,
+   "score": 78,
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
   {
@@ -766,16 +924,6 @@
    "firstSeenAt": "2026-11-10T03:17:51.432Z"
   },
   {
-   "id": "baaf713b11e3",
-   "title": "Locating the source of a mysterious beep with Claude",
-   "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-11-09T23:57:21.000Z",
-   "firstSeenAt": "2026-11-10T03:17:51.432Z"
-  },
-  {
    "id": "3ef732dd0eb2",
    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
@@ -785,8 +933,8 @@
    "publishedAt": "2026-11-09T16:00:45.000Z",
    "hn": {
     "id": "50427362",
-    "points": 569,
-    "comments": 327
+    "points": 579,
+    "comments": 339
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -800,8 +948,8 @@
    "publishedAt": "2026-11-09T15:01:03.000Z",
    "hn": {
     "id": "50426582",
-    "points": 435,
-    "comments": 325
+    "points": 437,
+    "comments": 327
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -815,8 +963,8 @@
    "publishedAt": "2026-11-09T12:30:20.000Z",
    "hn": {
     "id": "50424704",
-    "points": 481,
-    "comments": 442
+    "points": 484,
+    "comments": 446
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -830,8 +978,8 @@
    "publishedAt": "2026-11-09T12:19:22.000Z",
    "hn": {
     "id": "50424581",
-    "points": 1150,
-    "comments": 166
+    "points": 1197,
+    "comments": 167
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -845,8 +993,8 @@
    "publishedAt": "2026-11-09T07:04:25.000Z",
    "hn": {
     "id": "50422069",
-    "points": 803,
-    "comments": 501
+    "points": 812,
+    "comments": 510
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -860,8 +1008,8 @@
    "publishedAt": "2026-11-09T01:58:21.000Z",
    "hn": {
     "id": "50420035",
-    "points": 435,
-    "comments": 143
+    "points": 439,
+    "comments": 146
    },
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
@@ -993,7 +1141,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T06:44:59.077Z",
-   "score": 96,
+   "score": 98,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -1004,7 +1152,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T12:55:11.209Z",
-   "score": 107,
+   "score": 114,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -1015,7 +1163,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T12:22:39.664Z",
-   "score": 54,
+   "score": 58,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -1037,7 +1185,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-09T15:41:50.359Z",
-   "score": 131,
+   "score": 143,
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
@@ -3309,260 +3457,6 @@
    ],
    "publishedAt": "2026-11-03T16:58:22.000Z",
    "firstSeenAt": "2026-11-04T01:07:07.648Z"
-  },
-  {
-   "id": "435a4449f912",
-   "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-   "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T12:21:17.000Z",
-   "hn": {
-    "id": "50351111",
-    "points": 1025,
-    "comments": 207
-   },
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "9343ec5f832e",
-   "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-   "url": "https://hackertimes.ca/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T01:53:34.000Z",
-   "hn": {
-    "id": "50346981",
-    "points": 469,
-    "comments": 147
-   },
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "6eaa64434e8d",
-   "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-   "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-03T01:33:43.000Z",
-   "hn": {
-    "id": "50346849",
-    "points": 358,
-    "comments": 78
-   },
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "b9a70981a2e5",
-   "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-   "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-02T22:30:47.000Z",
-   "hn": {
-    "id": "50344919",
-    "points": 401,
-    "comments": 319
-   },
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "50f64d3e7875",
-   "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-   "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-02T17:47:40.000Z",
-   "hn": {
-    "id": "50340619",
-    "points": 332,
-    "comments": 94
-   },
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "b997047b8551",
-   "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-02T16:40:29.000Z",
-   "hn": {
-    "id": "50339494",
-    "points": 349,
-    "comments": 268
-   },
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "c47f7ae7240d",
-   "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-   "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-02T16:25:26.000Z",
-   "hn": {
-    "id": "50339221",
-    "points": 315,
-    "comments": 52
-   },
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "26788261ab0a",
-   "title": "Death comes for XSLT",
-   "url": "https://dbushell.com/2026/11/03/xslt-rip/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T15:19:50.214Z",
-   "score": 104,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "139176b6fc76",
-   "title": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
-   "url": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T15:23:21.757Z",
-   "score": 79,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "aee6050141e8",
-   "title": "Why did you choose the nix you nix?",
-   "url": "https://lobste.rs/s/7fcuxz/why_did_you_choose_nix_you_nix",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-03T03:58:06.895Z",
-   "score": 39,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "a325c9781242",
-   "title": "An Introduction to Bε-trees and Write-Optimization",
-   "url": "https://www.usenix.org/publications/login/oct15/bender",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-02T20:26:38.846Z",
-   "score": 23,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "eed1f589970e",
-   "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
-   "url": "https://huggingface.co/papers/2611.03126",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-02T08:41:14.000Z",
-   "score": 92,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "9978900b6441",
-   "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
-   "url": "https://huggingface.co/papers/2611.03178",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-02T09:15:11.000Z",
-   "score": 88,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "c13c96e83c9e",
-   "title": "PhotoGuider: Composition-Aware Cropping and 360^{circ} View Framing with Explainable Photographic Assessments",
-   "url": "https://huggingface.co/papers/2611.02897",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-01T19:00:00.000Z",
-   "score": 26,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "23bc9b8bbdaa",
-   "title": "Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning",
-   "url": "https://huggingface.co/papers/2611.03602",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-02T13:41:14.000Z",
-   "score": 25,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "06d047e6b83a",
-   "title": "Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents",
-   "url": "https://huggingface.co/papers/2611.03092",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-01T19:00:00.000Z",
-   "score": 15,
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "08b710f1e780",
-   "title": "Heimstaden is changing residential real estate management with AI",
-   "url": "https://openai.com/index/heimstaden",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-03T08:00:00.000Z",
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "262cfa35f430",
-   "title": "Preparing our next security sprint to harden OpenAI",
-   "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-02T18:00:00.000Z",
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "6fd6ad7938fa",
-   "title": "Rewarding defenders with bigger bug bounties",
-   "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-02T18:00:00.000Z",
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "4561cb353672",
-   "title": "[$] LLM reviews for Debian's new queue spark debate",
-   "url": "https://lwn.net/Articles/1103674/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-03T16:28:40.000Z",
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
-  },
-  {
-   "id": "5101d1a486d6",
-   "title": "Introducing Zero Wire, a hub for investigating critical Internet vulnerabilities",
-   "url": "https://blog.cloudflare.com/zero-wire/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-03T14:00:00.000Z",
-   "firstSeenAt": "2026-11-03T16:57:17.383Z"
   }
  ]
 }
