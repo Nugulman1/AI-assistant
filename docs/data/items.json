@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T02:09:49.002Z",
+ "generatedAt": "2026-11-12T17:30:15.135Z",
  "items": [
   {
    "id": "69f8748bdf43",
@@ -15,9 +15,26 @@
    "score": 59,
    "hn": {
     "id": "50443824",
-    "points": 481,
-    "comments": 267
+    "points": 487,
+    "comments": 270
    }
+  },
+  {
+   "id": "5a43f428431e",
+   "title": "Humble Bundle just killed most of their security through vibecoding",
+   "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T06:52:48.000Z",
+   "hn": {
+    "id": "50463899",
+    "points": 326,
+    "comments": 200
+   },
+   "score": 10,
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
   {
    "id": "12a9550d1f6a",
@@ -30,11 +47,28 @@
    "publishedAt": "2026-11-11T16:27:51.943Z",
    "hn": {
     "id": "50455394",
-    "points": 415,
-    "comments": 213
+    "points": 554,
+    "comments": 260
    },
-   "score": 45,
+   "score": 73,
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
+  },
+  {
+   "id": "2f1463e50ee9",
+   "title": "Lock your GitHub Actions",
+   "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-11T18:16:01.014Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-12T02:09:49.002Z",
+   "hn": {
+    "id": "50459485",
+    "points": 318,
+    "comments": 62
+   }
   },
   {
    "id": "8363ca58553c",
@@ -45,12 +79,29 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-11T07:03:17.000Z",
-   "score": 71,
+   "score": 106,
    "firstSeenAt": "2026-11-11T17:00:30.773Z",
    "hn": {
     "id": "50450488",
-    "points": 876,
-    "comments": 94
+    "points": 1370,
+    "comments": 171
+   }
+  },
+  {
+   "id": "e82f105c45bc",
+   "title": "Using voltage glitching to unleash the A100 in my mining card",
+   "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-11T10:48:40.000Z",
+   "score": 49,
+   "firstSeenAt": "2026-11-11T17:00:30.773Z",
+   "hn": {
+    "id": "50451903",
+    "points": 333,
+    "comments": 129
    }
   },
   {
@@ -187,21 +238,204 @@
    }
   },
   {
-   "id": "8d1473191036",
-   "title": "sshole",
-   "url": "https://sshhole.com",
+   "id": "2a51640ad697",
+   "title": "Jensen Huang resigns as Nvidia CEO immediately",
+   "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T13:56:11.000Z",
+   "hn": {
+    "id": "50467132",
+    "points": 373,
+    "comments": 251
+   },
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "b8785a000ca8",
+   "title": "NVIDIA Announces CEO Transition",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T13:52:29.000Z",
+   "hn": {
+    "id": "50467087",
+    "points": 1468,
+    "comments": 1214
+   },
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "f101ffad2bb3",
+   "title": "Anthropic IPO",
+   "url": "https://ipo.anthropic.com/us/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T11:46:41.000Z",
+   "hn": {
+    "id": "50465829",
+    "points": 560,
+    "comments": 585
+   },
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "5b070766ec4d",
+   "title": "Critical RCE Vulnerability in Apache HTTP Server",
+   "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T02:11:11.000Z",
+   "hn": {
+    "id": "50462177",
+    "points": 327,
+    "comments": 168
+   },
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "fcc732cc4f5a",
+   "title": "93% of paint splatters are valid Perl programs (2019)",
+   "url": "https://www.mcmillen.dev/sigbovik/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-11T22:34:23.000Z",
+   "hn": {
+    "id": "50459745",
+    "points": 544,
+    "comments": 72
+   },
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "071d9c002fde",
+   "title": "Jensen Huang said to have had relationship with executive who reports to him",
+   "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-11T22:03:58.000Z",
+   "hn": {
+    "id": "50459321",
+    "points": 396,
+    "comments": 509
+   },
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "cce714811b51",
+   "title": "Gemini Decisions API",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-11T18:32:42.000Z",
+   "hn": {
+    "id": "50456791",
+    "points": 533,
+    "comments": 154
+   },
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "9aa10c979eb5",
+   "title": "The entirety of \"Let Over Lambda\" is now freely available online",
+   "url": "https://letoverlambda.com/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-11-05T12:19:02.000Z",
-   "hn": {
-    "id": "50378228",
-    "points": 2907,
-    "comments": 727
-   },
-   "score": 167,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
+   "publishedAt": "2026-11-12T12:44:34.403Z",
+   "score": 31,
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "24f4f4f8f1a5",
+   "title": "Hijacking Samsung TV Smart Hub Ads",
+   "url": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T11:08:45.506Z",
+   "score": 29,
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "e3acff489800",
+   "title": "Hello Baochip",
+   "url": "https://ratfactor.com/cards/hello-baochip",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T10:09:16.380Z",
+   "score": 20,
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "2f9753ffae71",
+   "title": "The Myth of Neutral Code",
+   "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-11T23:59:09.304Z",
+   "score": 33,
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "9458941a000d",
+   "title": "Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration",
+   "url": "https://andrew-helmer.github.io/permute/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-11T20:08:45.593Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "0990939c7d6e",
+   "title": "Holiday Extras is rethinking what it can build with Codex",
+   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-12T09:30:00.000Z",
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "b06379671ede",
+   "title": "Supporting research on AI and children’s safety",
+   "url": "https://openai.com/index/children-first-declaration",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-12T00:00:00.000Z",
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "3e7d9f23d3e7",
+   "title": "[$] C++26 contract confusion",
+   "url": "https://lwn.net/Articles/1105400/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-12T14:29:04.000Z",
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+  },
+  {
+   "id": "1cc122a11d0f",
+   "title": "Bliki: Generated Glossary",
+   "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-11-12T14:15:00.000Z",
+   "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
   {
    "id": "081caafcc522",
@@ -213,8 +447,8 @@
    "publishedAt": "2026-11-11T22:31:06.000Z",
    "hn": {
     "id": "50459703",
-    "points": 535,
-    "comments": 784
+    "points": 1205,
+    "comments": 1597
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -228,8 +462,8 @@
    "publishedAt": "2026-11-11T21:24:35.000Z",
    "hn": {
     "id": "50458900",
-    "points": 385,
-    "comments": 370
+    "points": 639,
+    "comments": 666
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -243,8 +477,8 @@
    "publishedAt": "2026-11-11T18:21:38.000Z",
    "hn": {
     "id": "50456631",
-    "points": 677,
-    "comments": 217
+    "points": 939,
+    "comments": 258
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -258,8 +492,8 @@
    "publishedAt": "2026-11-11T13:56:05.000Z",
    "hn": {
     "id": "50453474",
-    "points": 338,
-    "comments": 237
+    "points": 373,
+    "comments": 249
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -273,8 +507,8 @@
    "publishedAt": "2026-11-11T13:39:29.000Z",
    "hn": {
     "id": "50453288",
-    "points": 314,
-    "comments": 64
+    "points": 428,
+    "comments": 79
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -288,8 +522,8 @@
    "publishedAt": "2026-11-11T12:05:22.000Z",
    "hn": {
     "id": "50452455",
-    "points": 930,
-    "comments": 338
+    "points": 1023,
+    "comments": 384
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -301,7 +535,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T21:53:24.946Z",
-   "score": 30,
+   "score": 187,
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
   {
@@ -312,7 +546,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T18:49:35.129Z",
-   "score": 15,
+   "score": 33,
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
   {
@@ -323,18 +557,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T16:58:45.890Z",
-   "score": 13,
-   "firstSeenAt": "2026-11-12T02:09:49.002Z"
-  },
-  {
-   "id": "2f1463e50ee9",
-   "title": "Lock your GitHub Actions",
-   "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-11T18:16:01.014Z",
-   "score": 14,
+   "score": 21,
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
   {
@@ -345,7 +568,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T15:03:06.079Z",
-   "score": 15,
+   "score": 17,
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
   {
@@ -415,8 +638,8 @@
    "publishedAt": "2026-11-11T04:28:57.000Z",
    "hn": {
     "id": "50449748",
-    "points": 382,
-    "comments": 136
+    "points": 392,
+    "comments": 139
    },
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
@@ -430,8 +653,8 @@
    "publishedAt": "2026-11-10T22:17:56.000Z",
    "hn": {
     "id": "50447074",
-    "points": 447,
-    "comments": 219
+    "points": 457,
+    "comments": 217
    },
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
@@ -445,8 +668,8 @@
    "publishedAt": "2026-11-10T21:25:03.000Z",
    "hn": {
     "id": "50446520",
-    "points": 517,
-    "comments": 526
+    "points": 548,
+    "comments": 550
    },
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
@@ -460,8 +683,8 @@
    "publishedAt": "2026-11-10T20:58:44.000Z",
    "hn": {
     "id": "50446246",
-    "points": 328,
-    "comments": 58
+    "points": 337,
+    "comments": 59
    },
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
@@ -475,8 +698,8 @@
    "publishedAt": "2026-11-10T18:22:32.000Z",
    "hn": {
     "id": "50444129",
-    "points": 502,
-    "comments": 585
+    "points": 510,
+    "comments": 609
    },
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
@@ -490,8 +713,8 @@
    "publishedAt": "2026-11-10T18:01:15.000Z",
    "hn": {
     "id": "50443812",
-    "points": 423,
-    "comments": 142
+    "points": 434,
+    "comments": 144
    },
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
@@ -518,7 +741,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T12:01:19.024Z",
-   "score": 93,
+   "score": 115,
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
   {
@@ -529,18 +752,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T13:13:51.549Z",
-   "score": 69,
-   "firstSeenAt": "2026-11-11T17:00:30.773Z"
-  },
-  {
-   "id": "e82f105c45bc",
-   "title": "Using voltage glitching to unleash the A100 in my mining card",
-   "url": "https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-11T12:36:57.129Z",
-   "score": 42,
+   "score": 91,
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
   {
@@ -733,8 +945,8 @@
    "publishedAt": "2026-11-10T19:50:46.000Z",
    "hn": {
     "id": "50445401",
-    "points": 553,
-    "comments": 397
+    "points": 559,
+    "comments": 407
    },
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
@@ -748,8 +960,8 @@
    "publishedAt": "2026-11-10T17:31:14.000Z",
    "hn": {
     "id": "50443427",
-    "points": 418,
-    "comments": 100
+    "points": 420,
+    "comments": 99
    },
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
@@ -828,7 +1040,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-10T20:49:23.641Z",
-   "score": 60,
+   "score": 62,
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
   {
@@ -2964,255 +3176,6 @@
    ],
    "publishedAt": "2026-11-05T00:00:00.000Z",
    "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "a0c225aed9f5",
-   "title": "Lemmings CSS Animation",
-   "url": "https://markblah.github.io/lemmings/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-05T04:54:10.000Z",
-   "hn": {
-    "id": "50375354",
-    "points": 409,
-    "comments": 78
-   },
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "1e823a0b82c2",
-   "title": "Insects don't swarm at LED lights",
-   "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-04T19:50:23.000Z",
-   "hn": {
-    "id": "50370610",
-    "points": 309,
-    "comments": 160
-   },
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "0f35e299c97c",
-   "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-   "url": "https://www.ricursive.com/ripple",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-04T18:53:29.000Z",
-   "hn": {
-    "id": "50369925",
-    "points": 336,
-    "comments": 125
-   },
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "fef31214013a",
-   "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-   "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-04T15:01:44.000Z",
-   "hn": {
-    "id": "50366522",
-    "points": 337,
-    "comments": 277
-   },
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "793baf0e5454",
-   "title": "Ask HN: What's your current AI agentic setup?",
-   "url": "https://news.ycombinator.com/item?id=50366117",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-04T14:37:22.000Z",
-   "hn": {
-    "id": "50366117",
-    "points": 504,
-    "comments": 631
-   },
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "d9931a8b95de",
-   "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-04T10:23:34.000Z",
-   "hn": {
-    "id": "50363554",
-    "points": 319,
-    "comments": 315
-   },
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "b06b054a8080",
-   "title": "Declarative Dragging",
-   "url": "https://declarative-dragging.github.io/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-05T00:35:09.470Z",
-   "score": 138,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "7737a93a3e2a",
-   "title": "September in Servo: progress, rounded rectangles, and more",
-   "url": "https://servo.org/blog/2026/11/05/september-in-servo/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-05T13:47:56.831Z",
-   "score": 78,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "9b1495187bfa",
-   "title": "11 nanoseconds per word: Ridiculously Over-Optimizing Anagrams",
-   "url": "https://wiredream.com/anagram-fun/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-05T07:37:35.059Z",
-   "score": 34,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "9918a86b6525",
-   "title": "Why is there an Anubis gate in front of Search for logged-in users?",
-   "url": "https://lobste.rs/s/y4poxs/why_is_there_anubis_gate_front_search_for",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-05T09:29:01.102Z",
-   "score": 29,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "c997aee47d8b",
-   "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
-   "url": "https://huggingface.co/papers/2611.06728",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-03T19:00:00.000Z",
-   "score": 101,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "3701202fe75e",
-   "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
-   "url": "https://huggingface.co/papers/2611.06918",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-04T13:59:58.000Z",
-   "score": 56,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "9dbadbfd4502",
-   "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
-   "url": "https://huggingface.co/papers/2611.06910",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-03T19:00:00.000Z",
-   "score": 33,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "4c33fbdd0dc4",
-   "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
-   "url": "https://huggingface.co/papers/2611.06483",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-04T08:24:54.000Z",
-   "score": 33,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "83ae48ed8791",
-   "title": "EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL",
-   "url": "https://huggingface.co/papers/2611.06518",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-03T19:00:00.000Z",
-   "score": 21,
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "f93567576105",
-   "title": "Setting a new standard for responsible AI infrastructure",
-   "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-05T02:00:00.000Z",
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "003a6dd08e36",
-   "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-   "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-11-05T17:05:16.000Z",
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "ea0c3a2be45c",
-   "title": "[$] User namespaces + file capabilities = trouble",
-   "url": "https://lwn.net/Articles/1103429/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-05T14:33:59.000Z",
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "65bf7a9e9f17",
-   "title": "Agents aren’t humans (but they kinda are)",
-   "url": "https://blog.cloudflare.com/trusted-agent-delegation/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-05T17:03:04.000Z",
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "4d44cd91cc18",
-   "title": "The Data Product Platform Navigator",
-   "url": "https://martinfowler.com/articles/data-product-platform-nav.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-11-05T14:11:00.000Z",
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
-  },
-  {
-   "id": "7fb652c9ef37",
-   "title": "Scaling Slack and GitHub with Maude Lemaire",
-   "url": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-05T15:58:00.000Z",
-   "firstSeenAt": "2026-11-05T17:16:47.011Z"
   }
  ]
 }
