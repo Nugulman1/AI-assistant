@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-12T17:30:15.135Z",
+ "generatedAt": "2026-11-13T01:43:09.657Z",
  "items": [
   {
    "id": "69f8748bdf43",
@@ -20,6 +20,23 @@
    }
   },
   {
+   "id": "b8c82d5c01fe",
+   "title": "Rust 1.100",
+   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T18:24:06.000Z",
+   "hn": {
+    "id": "50472038",
+    "points": 417,
+    "comments": 171
+   },
+   "score": 69,
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
    "id": "5a43f428431e",
    "title": "Humble Bundle just killed most of their security through vibecoding",
    "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
@@ -30,8 +47,8 @@
    "publishedAt": "2026-11-12T06:52:48.000Z",
    "hn": {
     "id": "50463899",
-    "points": 326,
-    "comments": 200
+    "points": 370,
+    "comments": 220
    },
    "score": 10,
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
@@ -47,10 +64,10 @@
    "publishedAt": "2026-11-11T16:27:51.943Z",
    "hn": {
     "id": "50455394",
-    "points": 554,
-    "comments": 260
+    "points": 575,
+    "comments": 272
    },
-   "score": 73,
+   "score": 81,
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
   {
@@ -62,12 +79,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-11T18:16:01.014Z",
-   "score": 25,
+   "score": 30,
    "firstSeenAt": "2026-11-12T02:09:49.002Z",
    "hn": {
     "id": "50459485",
-    "points": 318,
-    "comments": 62
+    "points": 326,
+    "comments": 64
    }
   },
   {
@@ -79,12 +96,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-11T07:03:17.000Z",
-   "score": 106,
+   "score": 119,
    "firstSeenAt": "2026-11-11T17:00:30.773Z",
    "hn": {
     "id": "50450488",
-    "points": 1370,
-    "comments": 171
+    "points": 1396,
+    "comments": 187
    }
   },
   {
@@ -100,8 +117,8 @@
    "firstSeenAt": "2026-11-11T17:00:30.773Z",
    "hn": {
     "id": "50451903",
-    "points": 333,
-    "comments": 129
+    "points": 336,
+    "comments": 131
    }
   },
   {
@@ -238,6 +255,232 @@
    }
   },
   {
+   "id": "d40fca9fd5e1",
+   "title": "Gemini 4 Hydrogen and Orchestrator",
+   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T18:52:01.000Z",
+   "hn": {
+    "id": "50472260",
+    "points": 301,
+    "comments": 72
+   },
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "47e68dc764ba",
+   "title": "Service degradation on Microsoft 365",
+   "url": "https://status.cloud.microsoft/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T18:20:48.000Z",
+   "hn": {
+    "id": "50471731",
+    "points": 499,
+    "comments": 464
+   },
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "7482059e8feb",
+   "title": "Ask HN: Microsoft/Azure Outage?",
+   "url": "https://news.ycombinator.com/item?id=50471668",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T18:17:13.000Z",
+   "hn": {
+    "id": "50471668",
+    "points": 401,
+    "comments": 1
+   },
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "8fdb0296ea11",
+   "title": "Gemini 4 Hydrogen",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T18:01:48.000Z",
+   "hn": {
+    "id": "50471431",
+    "points": 463,
+    "comments": 296
+   },
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "c52958cc869a",
+   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
+   "url": "https://github.com/simpsoka/zigzag",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T17:02:42.000Z",
+   "hn": {
+    "id": "50470488",
+    "points": 336,
+    "comments": 137
+   },
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "8e60012da5d1",
+   "title": "Jensen Huang resigns",
+   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T13:52:29.000Z",
+   "hn": {
+    "id": "50467087",
+    "points": 2946,
+    "comments": 2788
+   },
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "cbc9a645a65e",
+   "title": "Writing correct software is hard and math alone won’t help us (2016)",
+   "url": "https://pron.github.io/posts/correctness-and-complexity",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T10:28:26.000Z",
+   "hn": {
+    "id": "50465352",
+    "points": 358,
+    "comments": 168
+   },
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "d05830646ed0",
+   "title": "Emacs in the Age of Magic",
+   "url": "https://commandlinesystems.com/magic.txt",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-11T20:26:32.000Z",
+   "hn": {
+    "id": "50458208",
+    "points": 305,
+    "comments": 156
+   },
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "843cb0f18134",
+   "title": "The anti-marketing aspect of the Gemini network",
+   "url": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T16:17:25.103Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "9feb4ac43aa6",
+   "title": "libreagi - save OS models",
+   "url": "https://libreagi.com/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T15:35:46.353Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "993d7aed5cd5",
+   "title": "Adapting CPython for yk",
+   "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T12:29:56.716Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "359d6b58026b",
+   "title": "Paths in pieces",
+   "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T14:49:26.033Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "2be02ef86ae7",
+   "title": "The Secret of Monkey Island: all 13 versions side by side",
+   "url": "https://monkeyisland.pages.dev/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T14:37:35.465Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "1502ab6cac1a",
+   "title": "FreeBSD Status Report Third Quarter 2026",
+   "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-12T20:45:02.608Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "5b0f73df89a6",
+   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+   "url": "https://openai.com/business/customer-stories/amplitude",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-12T20:00:00.000Z",
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "90d79223706e",
+   "title": "Gondola doubles revenue as its team builds more with Codex",
+   "url": "https://openai.com/business/customer-stories/gondola",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-12T12:00:00.000Z",
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "a8d5fa7d24b3",
+   "title": "Introducing Gemini 4 Hydrogen",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-12T18:00:50.000Z",
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "2583bd8fdfdb",
+   "title": "The Pulse: What can we learn from the Railway hack?",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-11-12T18:53:19.000Z",
+   "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
    "id": "2a51640ad697",
    "title": "Jensen Huang resigns as Nvidia CEO immediately",
    "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
@@ -247,8 +490,8 @@
    "publishedAt": "2026-11-12T13:56:11.000Z",
    "hn": {
     "id": "50467132",
-    "points": 373,
-    "comments": 251
+    "points": 374,
+    "comments": 14
    },
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
@@ -277,8 +520,8 @@
    "publishedAt": "2026-11-12T11:46:41.000Z",
    "hn": {
     "id": "50465829",
-    "points": 560,
-    "comments": 585
+    "points": 818,
+    "comments": 805
    },
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
@@ -292,8 +535,8 @@
    "publishedAt": "2026-11-12T02:11:11.000Z",
    "hn": {
     "id": "50462177",
-    "points": 327,
-    "comments": 168
+    "points": 355,
+    "comments": 191
    },
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
@@ -307,8 +550,8 @@
    "publishedAt": "2026-11-11T22:34:23.000Z",
    "hn": {
     "id": "50459745",
-    "points": 544,
-    "comments": 72
+    "points": 566,
+    "comments": 79
    },
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
@@ -322,8 +565,8 @@
    "publishedAt": "2026-11-11T22:03:58.000Z",
    "hn": {
     "id": "50459321",
-    "points": 396,
-    "comments": 509
+    "points": 406,
+    "comments": 525
    },
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
@@ -337,8 +580,8 @@
    "publishedAt": "2026-11-11T18:32:42.000Z",
    "hn": {
     "id": "50456791",
-    "points": 533,
-    "comments": 154
+    "points": 553,
+    "comments": 157
    },
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
@@ -350,7 +593,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T12:44:34.403Z",
-   "score": 31,
+   "score": 49,
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
   {
@@ -361,7 +604,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T11:08:45.506Z",
-   "score": 29,
+   "score": 38,
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
   {
@@ -372,7 +615,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T10:09:16.380Z",
-   "score": 20,
+   "score": 52,
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
   {
@@ -447,8 +690,8 @@
    "publishedAt": "2026-11-11T22:31:06.000Z",
    "hn": {
     "id": "50459703",
-    "points": 1205,
-    "comments": 1597
+    "points": 1213,
+    "comments": 1633
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -462,8 +705,8 @@
    "publishedAt": "2026-11-11T21:24:35.000Z",
    "hn": {
     "id": "50458900",
-    "points": 639,
-    "comments": 666
+    "points": 661,
+    "comments": 688
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -477,8 +720,8 @@
    "publishedAt": "2026-11-11T18:21:38.000Z",
    "hn": {
     "id": "50456631",
-    "points": 939,
-    "comments": 258
+    "points": 967,
+    "comments": 263
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -492,8 +735,8 @@
    "publishedAt": "2026-11-11T13:56:05.000Z",
    "hn": {
     "id": "50453474",
-    "points": 373,
-    "comments": 249
+    "points": 376,
+    "comments": 254
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -507,8 +750,8 @@
    "publishedAt": "2026-11-11T13:39:29.000Z",
    "hn": {
     "id": "50453288",
-    "points": 428,
-    "comments": 79
+    "points": 434,
+    "comments": 82
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -522,8 +765,8 @@
    "publishedAt": "2026-11-11T12:05:22.000Z",
    "hn": {
     "id": "50452455",
-    "points": 1023,
-    "comments": 384
+    "points": 1027,
+    "comments": 390
    },
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
@@ -535,7 +778,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T21:53:24.946Z",
-   "score": 187,
+   "score": 225,
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
   {
@@ -546,7 +789,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T18:49:35.129Z",
-   "score": 33,
+   "score": 37,
    "firstSeenAt": "2026-11-12T02:09:49.002Z"
   },
   {
@@ -638,7 +881,7 @@
    "publishedAt": "2026-11-11T04:28:57.000Z",
    "hn": {
     "id": "50449748",
-    "points": 392,
+    "points": 396,
     "comments": 139
    },
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
@@ -741,7 +984,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T12:01:19.024Z",
-   "score": 115,
+   "score": 125,
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
   {
@@ -752,7 +995,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-11T13:13:51.549Z",
-   "score": 91,
+   "score": 95,
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
   },
   {
@@ -2955,227 +3198,6 @@
    ],
    "publishedAt": "2026-11-06T14:00:00.000Z",
    "firstSeenAt": "2026-11-06T16:41:16.169Z"
-  },
-  {
-   "id": "3b58ffb304e7",
-   "title": "Claude Code sends your email address to websites",
-   "url": "https://github.com/anthropics/claude-code/issues/107757",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-05T22:17:15.000Z",
-   "hn": {
-    "id": "50385272",
-    "points": 1581,
-    "comments": 506
-   },
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "296687f94cd4",
-   "title": "MS Paint Remote Code Execution Vulnerability",
-   "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-05T20:43:42.000Z",
-   "hn": {
-    "id": "50384233",
-    "points": 709,
-    "comments": 281
-   },
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "551c2101be10",
-   "title": "Search for everyone",
-   "url": "https://kagi.com/changelog#11820",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-05T20:03:34.000Z",
-   "hn": {
-    "id": "50383740",
-    "points": 749,
-    "comments": 409
-   },
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "24064251180f",
-   "title": "Goodbye from Salon",
-   "url": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-05T20:03:29.000Z",
-   "hn": {
-    "id": "50383739",
-    "points": 644,
-    "comments": 264
-   },
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "a6bbf4045967",
-   "title": "Motorola Signature 27 with GrapheneOS support",
-   "url": "https://motorolanews.com/motorola-signature-27-2/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-05T16:01:34.000Z",
-   "hn": {
-    "id": "50380810",
-    "points": 577,
-    "comments": 403
-   },
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "e3dbdc4dd3bd",
-   "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-   "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-05T14:44:20.000Z",
-   "hn": {
-    "id": "50379704",
-    "points": 626,
-    "comments": 2
-   },
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "d60ee459231d",
-   "title": "Discord is ditching Electron and its new app uses less RAM",
-   "url": "https://www.theverge.com/news/1027379/discord-ditching-electron-web-app",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-05T13:05:28.000Z",
-   "hn": {
-    "id": "50378625",
-    "points": 478,
-    "comments": 417
-   },
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "7abaf6fdd1e9",
-   "title": "Software Line Specialist",
-   "url": "https://lovro-bikic.github.io/software-line-specialist/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-05T16:32:29.997Z",
-   "score": 116,
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "fd861d24e7af",
-   "title": "SourceHut disabled registration bypass | CVE-2026-121728",
-   "url": "https://blog.arusekk.pl/posts/srht-disabled-registration-bypass/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-05T18:34:41.907Z",
-   "score": 60,
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "80d059b31896",
-   "title": "A Look at Datastar",
-   "url": "https://noteflakes.com/articles/2026-11-04-datastar",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-05T10:44:57.558Z",
-   "score": 24,
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "112487e4c15e",
-   "title": "GNU Mes and the 0.28 release",
-   "url": "https://ekaitz.elenq.tech/fasterMes10.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-05T13:30:50.220Z",
-   "score": 29,
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "5a508fd1a86a",
-   "title": "PyRUA-REAL: Robot Exploration and Adaptive Learning through RSI in the Real World",
-   "url": "https://huggingface.co/papers/2611.06768",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-04T11:46:03.000Z",
-   "score": 10,
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "fd2d5c6578d3",
-   "title": "UniRestorer++: Scalable Universal Image Restoration with Multi-Granularity Degradation Modeling",
-   "url": "https://huggingface.co/papers/2611.06042",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-04T01:46:47.000Z",
-   "score": 2,
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "c88b52d0b210",
-   "title": "Cult.fit builds operational muscle with Codex",
-   "url": "https://openai.com/index/cultfit-builds-with-codex",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-05T20:00:00.000Z",
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "53c56afbaf05",
-   "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-   "url": "https://openai.com/index/introducing-gpt-6-cyber",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-05T09:00:00.000Z",
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "300d91101f21",
-   "title": "Merge builds product and business tools with OpenAI technology",
-   "url": "https://openai.com/index/merge-builds-with-openai",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-05T08:00:00.000Z",
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "1f9981de5700",
-   "title": "Flipsnack grows product signups with conversion optimization",
-   "url": "https://openai.com/ads/customers/flipsnack",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-05T00:45:15.000Z",
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
-  },
-  {
-   "id": "c0d7b0808284",
-   "title": "Franklin Templeton uses OpenAI to support investment research",
-   "url": "https://openai.com/index/franklin-templeton",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-05T00:00:00.000Z",
-   "firstSeenAt": "2026-11-06T01:25:19.035Z"
   }
  ]
 }
