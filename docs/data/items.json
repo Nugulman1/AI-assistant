@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T01:20:33.571Z",
+ "generatedAt": "2026-11-14T15:42:38.584Z",
  "items": [
   {
    "id": "69f8748bdf43",
@@ -20,6 +20,23 @@
    }
   },
   {
+   "id": "7df059f63f11",
+   "title": "Terminal borders that don't cost a cell",
+   "url": "https://www.joshka.net/cell-borders/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-13T12:03:19.804Z",
+   "score": 49,
+   "firstSeenAt": "2026-11-13T17:06:25.286Z",
+   "hn": {
+    "id": "50491423",
+    "points": 355,
+    "comments": 151
+   }
+  },
+  {
    "id": "b8c82d5c01fe",
    "title": "Rust 1.100",
    "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
@@ -30,11 +47,28 @@
    "publishedAt": "2026-11-12T18:24:06.000Z",
    "hn": {
     "id": "50472038",
-    "points": 875,
-    "comments": 312
+    "points": 887,
+    "comments": 317
    },
-   "score": 148,
+   "score": 155,
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
+  },
+  {
+   "id": "2be02ef86ae7",
+   "title": "The Secret of Monkey Island: all 13 versions side by side",
+   "url": "https://monkeyisland.pages.dev/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T14:37:35.465Z",
+   "score": 42,
+   "firstSeenAt": "2026-11-13T01:43:09.657Z",
+   "hn": {
+    "id": "50493904",
+    "points": 308,
+    "comments": 94
+   }
   },
   {
    "id": "5a43f428431e",
@@ -204,55 +238,155 @@
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
-   "id": "68be897c8b54",
-   "title": "Libghostty 1.0",
-   "url": "https://mitchellh.com/writing/libghostty-1-0",
+   "id": "c6caa4d4f0b0",
+   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T23:30:52.000Z",
-   "hn": {
-    "id": "50399933",
-    "points": 1060,
-    "comments": 190
-   },
-   "score": 164,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "24b0a9d1f60c",
-   "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
-   "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
-   "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T04:17:49.000Z",
-   "hn": {
-    "id": "50388122",
-    "points": 340,
-    "comments": 135
-   },
-   "score": 13,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "fe4697100c8e",
-   "title": "Progress Report: Linux 7.3 - Asahi Linux",
-   "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-11-07T05:20:18.000Z",
-   "score": 58,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z",
+   "publishedAt": "2026-11-14T02:52:59.000Z",
    "hn": {
-    "id": "50401867",
-    "points": 411,
-    "comments": 384
-   }
+    "id": "50493251",
+    "points": 866,
+    "comments": 513
+   },
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "6c41dcbf34a2",
+   "title": "Ggml v1.0.0",
+   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T02:28:29.000Z",
+   "hn": {
+    "id": "50493062",
+    "points": 353,
+    "comments": 54
+   },
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "406adb72e894",
+   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
+   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-13T18:40:44.000Z",
+   "hn": {
+    "id": "50487864",
+    "points": 369,
+    "comments": 198
+   },
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "36b0036d3919",
+   "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
+   "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-13T18:18:37.000Z",
+   "hn": {
+    "id": "50487522",
+    "points": 366,
+    "comments": 204
+   },
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "4f5b4ce8cb48",
+   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-13T15:08:44.000Z",
+   "hn": {
+    "id": "50484658",
+    "points": 398,
+    "comments": 558
+   },
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "0e959caf89bd",
+   "title": "What happened to 3com?",
+   "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-14T05:46:40.915Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "c10412da3dc8",
+   "title": "Link Previews and You",
+   "url": "https://sable.moe/en/blog/link-previews-and-you/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T17:34:47.014Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "1379604e29ef",
+   "title": "Fixing a WebKit bug to see if promises are made of train tracks",
+   "url": "https://alistair.sh/thenables",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T16:48:01.396Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "cb831438be79",
+   "title": "Kildall's algorithm",
+   "url": "https://bike.github.io/posts/kildall.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T19:34:28.227Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "595cbf25337c",
+   "title": "Pointer Provenance in Rust vs C++",
+   "url": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T18:37:30.823Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "ed34f26d8e82",
+   "title": "What are you doing this weekend?",
+   "url": "https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T10:22:29.641Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
+  },
+  {
+   "id": "8479f47633fa",
+   "title": "Open-source AI without Jensen",
+   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
+   "sources": [
+    "Interconnects"
+   ],
+   "publishedAt": "2026-11-14T12:23:15.000Z",
+   "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
    "id": "9c247e087592",
@@ -264,8 +398,8 @@
    "publishedAt": "2026-11-13T21:05:53.000Z",
    "hn": {
     "id": "50489641",
-    "points": 1288,
-    "comments": 772
+    "points": 1604,
+    "comments": 1226
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -279,8 +413,8 @@
    "publishedAt": "2026-11-13T17:30:10.000Z",
    "hn": {
     "id": "50486748",
-    "points": 323,
-    "comments": 91
+    "points": 406,
+    "comments": 102
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -294,8 +428,8 @@
    "publishedAt": "2026-11-13T17:09:58.000Z",
    "hn": {
     "id": "50486482",
-    "points": 823,
-    "comments": 253
+    "points": 907,
+    "comments": 278
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -309,8 +443,8 @@
    "publishedAt": "2026-11-13T11:13:46.000Z",
    "hn": {
     "id": "50481870",
-    "points": 310,
-    "comments": 195
+    "points": 353,
+    "comments": 222
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -337,7 +471,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T16:03:44.210Z",
-   "score": 28,
+   "score": 47,
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
   {
@@ -348,7 +482,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T20:39:53.682Z",
-   "score": 11,
+   "score": 37,
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
   {
@@ -359,7 +493,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T14:27:43.582Z",
-   "score": 14,
+   "score": 15,
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
   {
@@ -413,8 +547,8 @@
    "publishedAt": "2026-11-13T12:10:24.000Z",
    "hn": {
     "id": "50482379",
-    "points": 447,
-    "comments": 307
+    "points": 484,
+    "comments": 333
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -428,8 +562,8 @@
    "publishedAt": "2026-11-13T10:18:13.000Z",
    "hn": {
     "id": "50481187",
-    "points": 484,
-    "comments": 382
+    "points": 489,
+    "comments": 389
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -443,8 +577,8 @@
    "publishedAt": "2026-11-13T05:08:23.000Z",
    "hn": {
     "id": "50478609",
-    "points": 462,
-    "comments": 304
+    "points": 467,
+    "comments": 308
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -458,8 +592,8 @@
    "publishedAt": "2026-11-13T04:54:53.000Z",
    "hn": {
     "id": "50478515",
-    "points": 356,
-    "comments": 216
+    "points": 370,
+    "comments": 226
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -473,8 +607,8 @@
    "publishedAt": "2026-11-13T02:16:24.000Z",
    "hn": {
     "id": "50477231",
-    "points": 790,
-    "comments": 650
+    "points": 809,
+    "comments": 671
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -488,8 +622,8 @@
    "publishedAt": "2026-11-12T23:06:17.000Z",
    "hn": {
     "id": "50475713",
-    "points": 338,
-    "comments": 104
+    "points": 347,
+    "comments": 105
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -503,8 +637,8 @@
    "publishedAt": "2026-11-12T22:03:09.000Z",
    "hn": {
     "id": "50474959",
-    "points": 671,
-    "comments": 198
+    "points": 773,
+    "comments": 215
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -518,8 +652,8 @@
    "publishedAt": "2026-11-12T21:56:11.000Z",
    "hn": {
     "id": "50474883",
-    "points": 355,
-    "comments": 151
+    "points": 366,
+    "comments": 160
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -533,8 +667,8 @@
    "publishedAt": "2026-11-12T19:51:33.000Z",
    "hn": {
     "id": "50473190",
-    "points": 448,
-    "comments": 477
+    "points": 455,
+    "comments": 492
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -548,8 +682,8 @@
    "publishedAt": "2026-11-12T19:05:33.000Z",
    "hn": {
     "id": "50472490",
-    "points": 387,
-    "comments": 185
+    "points": 392,
+    "comments": 192
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -563,8 +697,8 @@
    "publishedAt": "2026-11-12T16:29:13.000Z",
    "hn": {
     "id": "50469994",
-    "points": 317,
-    "comments": 260
+    "points": 320,
+    "comments": 261
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -591,18 +725,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T09:16:28.886Z",
-   "score": 82,
-   "firstSeenAt": "2026-11-13T17:06:25.286Z"
-  },
-  {
-   "id": "7df059f63f11",
-   "title": "Terminal borders that don't cost a cell",
-   "url": "https://www.joshka.net/cell-borders/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T12:03:19.804Z",
-   "score": 44,
+   "score": 98,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -613,7 +736,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:36:44.546Z",
-   "score": 45,
+   "score": 70,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -624,7 +747,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T02:36:05.139Z",
-   "score": 48,
+   "score": 51,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -635,7 +758,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T14:34:57.818Z",
-   "score": 24,
+   "score": 34,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -646,7 +769,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:20:32.309Z",
-   "score": 28,
+   "score": 43,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -657,7 +780,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:33:56.470Z",
-   "score": 24,
+   "score": 30,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -788,7 +911,7 @@
    "publishedAt": "2026-11-12T18:52:01.000Z",
    "hn": {
     "id": "50472260",
-    "points": 495,
+    "points": 501,
     "comments": 161
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
@@ -803,8 +926,8 @@
    "publishedAt": "2026-11-12T18:20:48.000Z",
    "hn": {
     "id": "50471731",
-    "points": 1161,
-    "comments": 977
+    "points": 1165,
+    "comments": 987
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -833,8 +956,8 @@
    "publishedAt": "2026-11-12T18:01:48.000Z",
    "hn": {
     "id": "50471431",
-    "points": 558,
-    "comments": 349
+    "points": 565,
+    "comments": 350
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -848,8 +971,8 @@
    "publishedAt": "2026-11-12T17:02:42.000Z",
    "hn": {
     "id": "50470488",
-    "points": 719,
-    "comments": 245
+    "points": 731,
+    "comments": 249
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -940,17 +1063,6 @@
    ],
    "publishedAt": "2026-11-12T14:49:26.033Z",
    "score": 33,
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "2be02ef86ae7",
-   "title": "The Secret of Monkey Island: all 13 versions side by side",
-   "url": "https://monkeyisland.pages.dev/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T14:37:35.465Z",
-   "score": 42,
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
   {
@@ -3043,169 +3155,6 @@
    "publishedAt": "2026-11-07T04:28:11.062Z",
    "score": 11,
    "firstSeenAt": "2026-11-08T00:17:39.379Z"
-  },
-  {
-   "id": "5ec03af4da1d",
-   "title": "Every Mac comes with an (undocumented) family member classifier",
-   "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-07T09:46:03.000Z",
-   "hn": {
-    "id": "50403097",
-    "points": 844,
-    "comments": 446
-   },
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "273bbe1e4197",
-   "title": "Need for Speed Underground 2 online in the browser",
-   "url": "https://nfsu2.xyz/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-07T09:36:36.000Z",
-   "hn": {
-    "id": "50403052",
-    "points": 1112,
-    "comments": 279
-   },
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "5072f0d6af00",
-   "title": "AI is dramatically accelerating AI research",
-   "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T20:27:23.000Z",
-   "hn": {
-    "id": "50397994",
-    "points": 371,
-    "comments": 349
-   },
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "d7e9e3e89ee7",
-   "title": "Gemini Omni 1.2 Flash",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T13:35:27.000Z",
-   "hn": {
-    "id": "50392118",
-    "points": 359,
-    "comments": 249
-   },
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "82db5536ec36",
-   "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-   "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T04:00:28.000Z",
-   "hn": {
-    "id": "50388001",
-    "points": 402,
-    "comments": 324
-   },
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "6b207537f32f",
-   "title": "How are you dealing with all the negative side effects of AI on the web?",
-   "url": "https://lobste.rs/s/ipplhe/how_are_you_dealing_with_all_negative_side",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T09:47:24.713Z",
-   "score": 94,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "af363febb52f",
-   "title": "Scriptable GeoDNS: leaving AWS for Bunny",
-   "url": "https://vincent.bernat.ch/en/blog/2026-bunny-geodns",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T07:46:35.449Z",
-   "score": 25,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "f1e18da9df3c",
-   "title": "Meridian — an experimental web browser built on Servo and GPUI",
-   "url": "https://op.tngl.io/meridian/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T09:21:55.256Z",
-   "score": 61,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "acbac2a5a0c7",
-   "title": "The Port That Does Not Exist",
-   "url": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T23:03:12.299Z",
-   "score": 62,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "6c78daa62ca9",
-   "title": "Two Dimensional Version Control",
-   "url": "https://www.redblobgames.com/blog/2026-09-27-jujutsu-experience/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T08:21:50.861Z",
-   "score": 36,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "7562ac2fd2f3",
-   "title": "UploadYourRam.org",
-   "url": "https://uploadyourram.org/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T00:00:06.210Z",
-   "score": 50,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "f947af41420a",
-   "title": "Hacking the meta ray-ban smartglasses",
-   "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T20:50:24.488Z",
-   "score": 29,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "10c17f98d982",
-   "title": "Nondeterminism in Futhark",
-   "url": "https://futhark-lang.org/blog/2026-11-04-nondeterminism.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T19:16:01.378Z",
-   "score": 14,
-   "firstSeenAt": "2026-11-07T15:36:27.470Z"
   }
  ]
 }
