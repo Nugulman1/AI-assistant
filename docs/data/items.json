@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T17:06:25.286Z",
+ "generatedAt": "2026-11-14T01:20:33.571Z",
  "items": [
   {
    "id": "69f8748bdf43",
@@ -30,10 +30,10 @@
    "publishedAt": "2026-11-12T18:24:06.000Z",
    "hn": {
     "id": "50472038",
-    "points": 821,
-    "comments": 299
+    "points": 875,
+    "comments": 312
    },
-   "score": 138,
+   "score": 148,
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
   {
@@ -47,8 +47,8 @@
    "publishedAt": "2026-11-12T06:52:48.000Z",
    "hn": {
     "id": "50463899",
-    "points": 397,
-    "comments": 234
+    "points": 401,
+    "comments": 236
    },
    "score": 10,
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
@@ -255,6 +255,155 @@
    }
   },
   {
+   "id": "9c247e087592",
+   "title": "FAA issues national ground stop",
+   "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-13T21:05:53.000Z",
+   "hn": {
+    "id": "50489641",
+    "points": 1288,
+    "comments": 772
+   },
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "e940fd987572",
+   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-13T17:30:10.000Z",
+   "hn": {
+    "id": "50486748",
+    "points": 323,
+    "comments": 91
+   },
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "d6b5bcff4d0c",
+   "title": "LibreOffice actually works 365 days a year",
+   "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-13T17:09:58.000Z",
+   "hn": {
+    "id": "50486482",
+    "points": 823,
+    "comments": 253
+   },
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "7ac7b8ca9e1e",
+   "title": "AI is destroying the trust between writers and readers",
+   "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-13T11:13:46.000Z",
+   "hn": {
+    "id": "50481870",
+    "points": 310,
+    "comments": 195
+   },
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "0ecc21d01c24",
+   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+   "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-12T14:18:49.000Z",
+   "hn": {
+    "id": "50467618",
+    "points": 306,
+    "comments": 128
+   },
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "4fee55cd2515",
+   "title": "Probabilistic data structures in Go",
+   "url": "https://antonz.org/probabilistic-data-structures/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T16:03:44.210Z",
+   "score": 28,
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "4fc67bea017c",
+   "title": "Someone's impersonating this blog",
+   "url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T20:39:53.682Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "86b7f002df78",
+   "title": "A technical vision for the Haskell ecosystem",
+   "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T14:27:43.582Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "05cf9eadd6ea",
+   "title": "“From digital mischief to outright destruction”",
+   "url": "https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-13T07:50:10.868Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "d1318183fe17",
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "url": "https://openai.com/business/customer-stories/shield",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-13T08:00:00.000Z",
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "09e5e80125ce",
+   "title": "Kitesurf is now open source",
+   "url": "https://blog.cloudflare.com/kitesurf-open-source/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-13T20:20:21.000Z",
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
+   "id": "4766c254790f",
+   "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
+   "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-13T19:26:07.000Z",
+   "firstSeenAt": "2026-11-14T01:20:33.571Z"
+  },
+  {
    "id": "fb5f7b47b18d",
    "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
    "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
@@ -264,8 +413,8 @@
    "publishedAt": "2026-11-13T12:10:24.000Z",
    "hn": {
     "id": "50482379",
-    "points": 324,
-    "comments": 221
+    "points": 447,
+    "comments": 307
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -279,8 +428,8 @@
    "publishedAt": "2026-11-13T10:18:13.000Z",
    "hn": {
     "id": "50481187",
-    "points": 422,
-    "comments": 345
+    "points": 484,
+    "comments": 382
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -294,8 +443,8 @@
    "publishedAt": "2026-11-13T05:08:23.000Z",
    "hn": {
     "id": "50478609",
-    "points": 434,
-    "comments": 293
+    "points": 462,
+    "comments": 304
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -309,8 +458,8 @@
    "publishedAt": "2026-11-13T04:54:53.000Z",
    "hn": {
     "id": "50478515",
-    "points": 314,
-    "comments": 164
+    "points": 356,
+    "comments": 216
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -324,8 +473,8 @@
    "publishedAt": "2026-11-13T02:16:24.000Z",
    "hn": {
     "id": "50477231",
-    "points": 745,
-    "comments": 610
+    "points": 790,
+    "comments": 650
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -339,8 +488,8 @@
    "publishedAt": "2026-11-12T23:06:17.000Z",
    "hn": {
     "id": "50475713",
-    "points": 315,
-    "comments": 92
+    "points": 338,
+    "comments": 104
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -354,8 +503,8 @@
    "publishedAt": "2026-11-12T22:03:09.000Z",
    "hn": {
     "id": "50474959",
-    "points": 312,
-    "comments": 85
+    "points": 671,
+    "comments": 198
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -369,8 +518,8 @@
    "publishedAt": "2026-11-12T21:56:11.000Z",
    "hn": {
     "id": "50474883",
-    "points": 335,
-    "comments": 138
+    "points": 355,
+    "comments": 151
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -384,8 +533,8 @@
    "publishedAt": "2026-11-12T19:51:33.000Z",
    "hn": {
     "id": "50473190",
-    "points": 400,
-    "comments": 429
+    "points": 448,
+    "comments": 477
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -399,8 +548,8 @@
    "publishedAt": "2026-11-12T19:05:33.000Z",
    "hn": {
     "id": "50472490",
-    "points": 369,
-    "comments": 159
+    "points": 387,
+    "comments": 185
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -414,8 +563,8 @@
    "publishedAt": "2026-11-12T16:29:13.000Z",
    "hn": {
     "id": "50469994",
-    "points": 316,
-    "comments": 250
+    "points": 317,
+    "comments": 260
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -429,8 +578,8 @@
    "publishedAt": "2026-11-12T15:23:10.000Z",
    "hn": {
     "id": "50468888",
-    "points": 448,
-    "comments": 171
+    "points": 466,
+    "comments": 180
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -442,7 +591,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T09:16:28.886Z",
-   "score": 57,
+   "score": 82,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -453,7 +602,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T12:03:19.804Z",
-   "score": 26,
+   "score": 44,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -464,7 +613,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:36:44.546Z",
-   "score": 25,
+   "score": 45,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -475,7 +624,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T02:36:05.139Z",
-   "score": 33,
+   "score": 48,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -486,7 +635,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T14:34:57.818Z",
-   "score": 11,
+   "score": 24,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -497,7 +646,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:20:32.309Z",
-   "score": 14,
+   "score": 28,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -508,7 +657,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:33:56.470Z",
-   "score": 10,
+   "score": 24,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -519,7 +668,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T22:17:32.646Z",
-   "score": 22,
+   "score": 25,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -530,7 +679,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T06:20:05.560Z",
-   "score": 10,
+   "score": 14,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -639,8 +788,8 @@
    "publishedAt": "2026-11-12T18:52:01.000Z",
    "hn": {
     "id": "50472260",
-    "points": 474,
-    "comments": 156
+    "points": 495,
+    "comments": 161
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -654,8 +803,8 @@
    "publishedAt": "2026-11-12T18:20:48.000Z",
    "hn": {
     "id": "50471731",
-    "points": 1099,
-    "comments": 932
+    "points": 1161,
+    "comments": 977
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -684,8 +833,8 @@
    "publishedAt": "2026-11-12T18:01:48.000Z",
    "hn": {
     "id": "50471431",
-    "points": 553,
-    "comments": 343
+    "points": 558,
+    "comments": 349
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -699,8 +848,8 @@
    "publishedAt": "2026-11-12T17:02:42.000Z",
    "hn": {
     "id": "50470488",
-    "points": 674,
-    "comments": 220
+    "points": 719,
+    "comments": 245
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -714,8 +863,8 @@
    "publishedAt": "2026-11-12T13:52:29.000Z",
    "hn": {
     "id": "50467087",
-    "points": 3873,
-    "comments": 3328
+    "points": 4008,
+    "comments": 3415
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -729,8 +878,8 @@
    "publishedAt": "2026-11-12T10:28:26.000Z",
    "hn": {
     "id": "50465352",
-    "points": 364,
-    "comments": 182
+    "points": 368,
+    "comments": 183
    },
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
@@ -757,7 +906,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T16:17:25.103Z",
-   "score": 47,
+   "score": 51,
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
   {
@@ -790,7 +939,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T14:49:26.033Z",
-   "score": 31,
+   "score": 33,
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
   {
@@ -812,7 +961,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T20:45:02.608Z",
-   "score": 18,
+   "score": 22,
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
   },
   {
@@ -895,8 +1044,8 @@
    "publishedAt": "2026-11-12T11:46:41.000Z",
    "hn": {
     "id": "50465829",
-    "points": 984,
-    "comments": 893
+    "points": 996,
+    "comments": 904
    },
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
@@ -910,8 +1059,8 @@
    "publishedAt": "2026-11-12T02:11:11.000Z",
    "hn": {
     "id": "50462177",
-    "points": 365,
-    "comments": 197
+    "points": 368,
+    "comments": 199
    },
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
@@ -968,7 +1117,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T12:44:34.403Z",
-   "score": 66,
+   "score": 71,
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
   {
@@ -990,7 +1139,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-12T10:09:16.380Z",
-   "score": 71,
+   "score": 77,
    "firstSeenAt": "2026-11-12T17:30:15.135Z"
   },
   {
@@ -3057,209 +3206,6 @@
    "publishedAt": "2026-11-06T19:16:01.378Z",
    "score": 14,
    "firstSeenAt": "2026-11-07T15:36:27.470Z"
-  },
-  {
-   "id": "ef2a83f7f3a4",
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T19:48:51.000Z",
-   "hn": {
-    "id": "50397429",
-    "points": 586,
-    "comments": 152
-   },
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "fd661e28d5d6",
-   "title": "Deus Ex",
-   "url": "https://www.filfre.net/2026/11/deus-ex/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T15:44:36.000Z",
-   "hn": {
-    "id": "50393758",
-    "points": 374,
-    "comments": 198
-   },
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "bf12c6e05c44",
-   "title": "RIP Cybertruck",
-   "url": "https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T15:01:38.000Z",
-   "hn": {
-    "id": "50393154",
-    "points": 302,
-    "comments": 4
-   },
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "119dda2f4fb7",
-   "title": "Tesla to wind down Cybertruck production",
-   "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T12:13:51.000Z",
-   "hn": {
-    "id": "50391456",
-    "points": 1124,
-    "comments": 2023
-   },
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "4b0524348a07",
-   "title": "Pwn.college",
-   "url": "https://pwn.college/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T03:27:14.000Z",
-   "hn": {
-    "id": "50387796",
-    "points": 328,
-    "comments": 54
-   },
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "e987f7b002df",
-   "title": "The MustCreate Pattern for Go Tests",
-   "url": "https://mtlynch.io/notes/go-must-create-pattern/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T15:37:00.157Z",
-   "score": 23,
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "69af5f8a1220",
-   "title": "Inside GitHub's new Git storage architecture",
-   "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T17:50:09.323Z",
-   "score": 29,
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "061d42a7a25b",
-   "title": "Upgrading NetBSD from 11.0 to 11.1",
-   "url": "https://www.dwarmstrong.org/netbsd-upgrade/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T15:22:55.631Z",
-   "score": 18,
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "b20983cf1f2a",
-   "title": "Pushing the Limits with getaddrinfo",
-   "url": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-06T14:47:48.625Z",
-   "score": 12,
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "6d0b2e187b19",
-   "title": "Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling",
-   "url": "https://huggingface.co/papers/2611.08237",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-05T11:18:35.000Z",
-   "score": 7,
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "fece5dc19fb7",
-   "title": "SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization",
-   "url": "https://huggingface.co/papers/2611.08089",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-05T09:35:08.000Z",
-   "score": 6,
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "ec797be30e16",
-   "title": "Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout",
-   "url": "https://huggingface.co/papers/2611.08376",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-05T12:53:49.000Z",
-   "score": 5,
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "b9e4bb586fc3",
-   "title": "Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation",
-   "url": "https://huggingface.co/papers/2611.07613",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-05T02:56:01.000Z",
-   "score": 3,
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "bc8f9eac1966",
-   "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-   "url": "https://openai.com/index/partnering-with-hacktron",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-06T08:00:00.000Z",
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "cfd4354afa14",
-   "title": "Measuring how AI agents handle everyday wet-lab science",
-   "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-06T00:00:00.000Z",
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "03b40593e164",
-   "title": "[$] Locking down hibernation for the winter",
-   "url": "https://lwn.net/Articles/1103190/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-06T18:51:28.000Z",
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
-  },
-  {
-   "id": "d09844d43af4",
-   "title": "The Pragmatic Summit 2027",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-06T19:39:15.000Z",
-   "firstSeenAt": "2026-11-07T00:43:00.116Z"
   }
  ]
 }
