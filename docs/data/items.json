@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T00:53:02.926Z",
+ "generatedAt": "2026-11-15T16:13:30.338Z",
  "items": [
   {
    "id": "69f8748bdf43",
@@ -32,8 +32,8 @@
    "firstSeenAt": "2026-11-13T17:06:25.286Z",
    "hn": {
     "id": "50491423",
-    "points": 403,
-    "comments": 185
+    "points": 417,
+    "comments": 212
    }
   },
   {
@@ -66,8 +66,8 @@
    "firstSeenAt": "2026-11-13T01:43:09.657Z",
    "hn": {
     "id": "50493904",
-    "points": 464,
-    "comments": 147
+    "points": 491,
+    "comments": 155
    }
   },
   {
@@ -238,6 +238,150 @@
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
+   "id": "14ba8d169059",
+   "title": "Court denies motion to dismiss DRAM price fixing case",
+   "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-15T01:18:36.000Z",
+   "hn": {
+    "id": "50502988",
+    "points": 360,
+    "comments": 149
+   },
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "0322d2a0d024",
+   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T22:26:30.000Z",
+   "hn": {
+    "id": "50501631",
+    "points": 435,
+    "comments": 226
+   },
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "0981be9212e1",
+   "title": "A family tree of software job titles",
+   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T17:45:19.000Z",
+   "hn": {
+    "id": "50499038",
+    "points": 382,
+    "comments": 189
+   },
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "ee705bff49c2",
+   "title": "25 of my favourite modern NES games",
+   "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-15T02:40:40.008Z",
+   "score": 48,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "1ac50ba6c216",
+   "title": "Memory management in 40 major C projects, a survey",
+   "url": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-15T12:50:03.456Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "c913fd136d77",
+   "title": "cursor:pointer on buttons",
+   "url": "https://blog.kizu.dev/cursors/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-15T09:15:40.744Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "63a2b0ed3dd8",
+   "title": "Periodic-Oriented Programming for FIRST Robotics",
+   "url": "https://bvisness.me/periodic-oriented-programming/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-15T03:16:42.257Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "aedbce8daeec",
+   "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
+   "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-15T06:44:44.316Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "6fee8ec41e56",
+   "title": "Anthropomorphic Software",
+   "url": "https://aspiz.uk/wiki/AnthropomorphicSoftware",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-15T08:05:45.227Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "79f6c3dc3910",
+   "title": "Parsing nested lists in BQN",
+   "url": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-15T01:59:26.268Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "84f65ba19421",
+   "title": "Reintroducing Spaces",
+   "url": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-15T02:34:44.343Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
+   "id": "edbf4ed1a954",
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "url": "https://arxiv.org/abs/2605.29713",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-14T04:51:14.032Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-15T16:13:30.338Z"
+  },
+  {
    "id": "4e501f9826d0",
    "title": "SpaceX catches the Starship to end Flight 15",
    "url": "https://www.spacex.com/launches/starship-flight-15",
@@ -247,8 +391,8 @@
    "publishedAt": "2026-11-14T21:22:24.000Z",
    "hn": {
     "id": "50500963",
-    "points": 605,
-    "comments": 417
+    "points": 1453,
+    "comments": 980
    },
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
@@ -262,8 +406,8 @@
    "publishedAt": "2026-11-14T17:43:10.000Z",
    "hn": {
     "id": "50499017",
-    "points": 612,
-    "comments": 255
+    "points": 937,
+    "comments": 357
    },
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
@@ -277,8 +421,8 @@
    "publishedAt": "2026-11-14T13:48:06.000Z",
    "hn": {
     "id": "50497009",
-    "points": 321,
-    "comments": 215
+    "points": 391,
+    "comments": 299
    },
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
@@ -292,8 +436,8 @@
    "publishedAt": "2026-11-14T13:43:28.000Z",
    "hn": {
     "id": "50496976",
-    "points": 369,
-    "comments": 79
+    "points": 539,
+    "comments": 122
    },
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
@@ -307,8 +451,8 @@
    "publishedAt": "2026-11-14T12:45:45.000Z",
    "hn": {
     "id": "50496602",
-    "points": 449,
-    "comments": 170
+    "points": 582,
+    "comments": 203
    },
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
@@ -322,8 +466,8 @@
    "publishedAt": "2026-11-14T01:10:22.000Z",
    "hn": {
     "id": "50492456",
-    "points": 306,
-    "comments": 218
+    "points": 323,
+    "comments": 239
    },
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
@@ -335,7 +479,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-14T16:08:27.850Z",
-   "score": 23,
+   "score": 38,
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
   {
@@ -346,7 +490,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-14T10:32:33.001Z",
-   "score": 15,
+   "score": 21,
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
   {
@@ -357,7 +501,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-14T10:01:58.119Z",
-   "score": 16,
+   "score": 20,
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
   {
@@ -368,7 +512,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-14T02:57:49.133Z",
-   "score": 14,
+   "score": 16,
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
   },
   {
@@ -381,8 +525,8 @@
    "publishedAt": "2026-11-14T02:52:59.000Z",
    "hn": {
     "id": "50493251",
-    "points": 1029,
-    "comments": 616
+    "points": 1085,
+    "comments": 643
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -396,8 +540,8 @@
    "publishedAt": "2026-11-14T02:28:29.000Z",
    "hn": {
     "id": "50493062",
-    "points": 398,
-    "comments": 67
+    "points": 412,
+    "comments": 68
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -411,8 +555,8 @@
    "publishedAt": "2026-11-13T18:40:44.000Z",
    "hn": {
     "id": "50487864",
-    "points": 381,
-    "comments": 209
+    "points": 383,
+    "comments": 214
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -426,8 +570,8 @@
    "publishedAt": "2026-11-13T18:18:37.000Z",
    "hn": {
     "id": "50487522",
-    "points": 391,
-    "comments": 218
+    "points": 400,
+    "comments": 238
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -454,7 +598,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-14T05:46:40.915Z",
-   "score": 31,
+   "score": 36,
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
@@ -487,7 +631,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T19:34:28.227Z",
-   "score": 17,
+   "score": 20,
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
@@ -532,8 +676,8 @@
    "publishedAt": "2026-11-13T21:05:53.000Z",
    "hn": {
     "id": "50489641",
-    "points": 1637,
-    "comments": 1270
+    "points": 1643,
+    "comments": 1281
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -547,8 +691,8 @@
    "publishedAt": "2026-11-13T17:30:10.000Z",
    "hn": {
     "id": "50486748",
-    "points": 422,
-    "comments": 107
+    "points": 431,
+    "comments": 110
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -562,8 +706,8 @@
    "publishedAt": "2026-11-13T17:09:58.000Z",
    "hn": {
     "id": "50486482",
-    "points": 929,
-    "comments": 289
+    "points": 949,
+    "comments": 290
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -616,7 +760,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T20:39:53.682Z",
-   "score": 44,
+   "score": 50,
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
   {
@@ -3081,114 +3225,6 @@
    "publishedAt": "2026-11-08T08:10:08.714Z",
    "score": 12,
    "firstSeenAt": "2026-11-09T00:37:57.099Z"
-  },
-  {
-   "id": "e66f4eeac8f3",
-   "title": "Goodbye Claude, Hello Pi",
-   "url": "https://caleb.software/posts/claude-to-pi.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-08T03:11:48.000Z",
-   "hn": {
-    "id": "50410107",
-    "points": 800,
-    "comments": 483
-   },
-   "firstSeenAt": "2026-11-08T15:53:49.719Z"
-  },
-  {
-   "id": "5186d80b7eef",
-   "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-   "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-07T20:45:32.000Z",
-   "hn": {
-    "id": "50407882",
-    "points": 621,
-    "comments": 417
-   },
-   "firstSeenAt": "2026-11-08T15:53:49.719Z"
-  },
-  {
-   "id": "e4da1fc3654c",
-   "title": "What I run on my $10 USD OpenStick homelab",
-   "url": "https://blog.bosscher.ch/posts/openstick/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-07T18:12:12.000Z",
-   "hn": {
-    "id": "50406670",
-    "points": 769,
-    "comments": 133
-   },
-   "firstSeenAt": "2026-11-08T15:53:49.719Z"
-  },
-  {
-   "id": "f7fffb994d85",
-   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-   "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-07T17:19:00.000Z",
-   "hn": {
-    "id": "50406222",
-    "points": 385,
-    "comments": 103
-   },
-   "firstSeenAt": "2026-11-08T15:53:49.719Z"
-  },
-  {
-   "id": "f9f42d3a6e9f",
-   "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-   "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-07T11:11:15.000Z",
-   "hn": {
-    "id": "50403507",
-    "points": 450,
-    "comments": 469
-   },
-   "firstSeenAt": "2026-11-08T15:53:49.719Z"
-  },
-  {
-   "id": "cac662825b6f",
-   "title": "I’m not a fan of Deno’s security model (2024)",
-   "url": "https://goldstein.lol/posts/deno-security/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T23:19:53.437Z",
-   "score": 39,
-   "firstSeenAt": "2026-11-08T15:53:49.719Z"
-  },
-  {
-   "id": "b02921c40593",
-   "title": "Nspawn 3.0: A Docker-compatible Engine API for systemd-nspawn containers",
-   "url": "https://blog.nspawn.org/posts/nspawn-3-0-a-docker-compatible-engine-api-for-systemd-nspawn-containers/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-08T08:41:38.183Z",
-   "score": 12,
-   "firstSeenAt": "2026-11-08T15:53:49.719Z"
-  },
-  {
-   "id": "c4b91e3f1c08",
-   "title": "Dear Open Source Developers: It's OK not to embargo",
-   "url": "https://opensourcesecurity.io/2026/10-embargo/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T23:31:05.716Z",
-   "score": 33,
-   "firstSeenAt": "2026-11-08T15:53:49.719Z"
   }
  ]
 }
