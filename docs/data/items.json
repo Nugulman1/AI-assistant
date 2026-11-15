@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-14T15:42:38.584Z",
+ "generatedAt": "2026-11-15T00:53:02.926Z",
  "items": [
   {
    "id": "69f8748bdf43",
@@ -28,12 +28,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-13T12:03:19.804Z",
-   "score": 49,
+   "score": 58,
    "firstSeenAt": "2026-11-13T17:06:25.286Z",
    "hn": {
     "id": "50491423",
-    "points": 355,
-    "comments": 151
+    "points": 403,
+    "comments": 185
    }
   },
   {
@@ -66,8 +66,8 @@
    "firstSeenAt": "2026-11-13T01:43:09.657Z",
    "hn": {
     "id": "50493904",
-    "points": 308,
-    "comments": 94
+    "points": 464,
+    "comments": 147
    }
   },
   {
@@ -238,6 +238,140 @@
    "firstSeenAt": "2026-11-09T19:42:39.680Z"
   },
   {
+   "id": "4e501f9826d0",
+   "title": "SpaceX catches the Starship to end Flight 15",
+   "url": "https://www.spacex.com/launches/starship-flight-15",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T21:22:24.000Z",
+   "hn": {
+    "id": "50500963",
+    "points": 605,
+    "comments": 417
+   },
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "9f394f52c813",
+   "title": "Lovable apps expose passport details and more than 200K private messages",
+   "url": "https://www.crissyfield.de/research/lovable-en/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T17:43:10.000Z",
+   "hn": {
+    "id": "50499017",
+    "points": 612,
+    "comments": 255
+   },
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "46727303ebef",
+   "title": "Italy fines Meta $887M over Android users' data access",
+   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T13:48:06.000Z",
+   "hn": {
+    "id": "50497009",
+    "points": 321,
+    "comments": 215
+   },
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "fbb4c2fd353e",
+   "title": "KDE: The documentary [video]",
+   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T13:43:28.000Z",
+   "hn": {
+    "id": "50496976",
+    "points": 369,
+    "comments": 79
+   },
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "f67a5ae71b6e",
+   "title": "Tech companies are trying to shift the concept of privacy again",
+   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T12:45:45.000Z",
+   "hn": {
+    "id": "50496602",
+    "points": 449,
+    "comments": 170
+   },
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "3438ef0fe135",
+   "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+   "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-14T01:10:22.000Z",
+   "hn": {
+    "id": "50492456",
+    "points": 306,
+    "comments": 218
+   },
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "c4b46a333015",
+   "title": "Let Me Let You Own Your Data",
+   "url": "https://www.willett.io/posts/data/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-14T16:08:27.850Z",
+   "score": 23,
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "2ea963063fdf",
+   "title": "Solving the fox game",
+   "url": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-14T10:32:33.001Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "796d67786032",
+   "title": "Creating a self booting ZIP archive",
+   "url": "https://goliath32.com/blog/ziphead.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-14T10:01:58.119Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
+   "id": "0b4a828bf081",
+   "title": "Writing a DSL for high performance parallel programming in OxCaml",
+   "url": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-14T02:57:49.133Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-15T00:53:02.926Z"
+  },
+  {
    "id": "c6caa4d4f0b0",
    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
@@ -247,8 +381,8 @@
    "publishedAt": "2026-11-14T02:52:59.000Z",
    "hn": {
     "id": "50493251",
-    "points": 866,
-    "comments": 513
+    "points": 1029,
+    "comments": 616
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -262,8 +396,8 @@
    "publishedAt": "2026-11-14T02:28:29.000Z",
    "hn": {
     "id": "50493062",
-    "points": 353,
-    "comments": 54
+    "points": 398,
+    "comments": 67
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -277,8 +411,8 @@
    "publishedAt": "2026-11-13T18:40:44.000Z",
    "hn": {
     "id": "50487864",
-    "points": 369,
-    "comments": 198
+    "points": 381,
+    "comments": 209
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -292,8 +426,8 @@
    "publishedAt": "2026-11-13T18:18:37.000Z",
    "hn": {
     "id": "50487522",
-    "points": 366,
-    "comments": 204
+    "points": 391,
+    "comments": 218
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -307,8 +441,8 @@
    "publishedAt": "2026-11-13T15:08:44.000Z",
    "hn": {
     "id": "50484658",
-    "points": 398,
-    "comments": 558
+    "points": 459,
+    "comments": 667
    },
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
@@ -320,7 +454,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-14T05:46:40.915Z",
-   "score": 14,
+   "score": 31,
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
@@ -331,7 +465,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T17:34:47.014Z",
-   "score": 12,
+   "score": 14,
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
@@ -342,7 +476,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T16:48:01.396Z",
-   "score": 19,
+   "score": 24,
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
@@ -353,7 +487,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T19:34:28.227Z",
-   "score": 11,
+   "score": 17,
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
@@ -364,7 +498,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T18:37:30.823Z",
-   "score": 12,
+   "score": 18,
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
@@ -375,7 +509,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T10:22:29.641Z",
-   "score": 10,
+   "score": 13,
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
   },
   {
@@ -398,8 +532,8 @@
    "publishedAt": "2026-11-13T21:05:53.000Z",
    "hn": {
     "id": "50489641",
-    "points": 1604,
-    "comments": 1226
+    "points": 1637,
+    "comments": 1270
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -413,8 +547,8 @@
    "publishedAt": "2026-11-13T17:30:10.000Z",
    "hn": {
     "id": "50486748",
-    "points": 406,
-    "comments": 102
+    "points": 422,
+    "comments": 107
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -428,8 +562,8 @@
    "publishedAt": "2026-11-13T17:09:58.000Z",
    "hn": {
     "id": "50486482",
-    "points": 907,
-    "comments": 278
+    "points": 929,
+    "comments": 289
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -443,8 +577,8 @@
    "publishedAt": "2026-11-13T11:13:46.000Z",
    "hn": {
     "id": "50481870",
-    "points": 353,
-    "comments": 222
+    "points": 363,
+    "comments": 230
    },
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
@@ -471,7 +605,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T16:03:44.210Z",
-   "score": 47,
+   "score": 59,
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
   {
@@ -482,7 +616,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T20:39:53.682Z",
-   "score": 37,
+   "score": 44,
    "firstSeenAt": "2026-11-14T01:20:33.571Z"
   },
   {
@@ -547,8 +681,8 @@
    "publishedAt": "2026-11-13T12:10:24.000Z",
    "hn": {
     "id": "50482379",
-    "points": 484,
-    "comments": 333
+    "points": 492,
+    "comments": 337
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -562,8 +696,8 @@
    "publishedAt": "2026-11-13T10:18:13.000Z",
    "hn": {
     "id": "50481187",
-    "points": 489,
-    "comments": 389
+    "points": 493,
+    "comments": 390
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -592,8 +726,8 @@
    "publishedAt": "2026-11-13T04:54:53.000Z",
    "hn": {
     "id": "50478515",
-    "points": 370,
-    "comments": 226
+    "points": 373,
+    "comments": 231
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -607,8 +741,8 @@
    "publishedAt": "2026-11-13T02:16:24.000Z",
    "hn": {
     "id": "50477231",
-    "points": 809,
-    "comments": 671
+    "points": 812,
+    "comments": 681
    },
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
@@ -725,7 +859,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T09:16:28.886Z",
-   "score": 98,
+   "score": 111,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -736,7 +870,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:36:44.546Z",
-   "score": 70,
+   "score": 83,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -747,7 +881,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T02:36:05.139Z",
-   "score": 51,
+   "score": 52,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -758,7 +892,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T14:34:57.818Z",
-   "score": 34,
+   "score": 36,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -769,7 +903,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:20:32.309Z",
-   "score": 43,
+   "score": 50,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -780,7 +914,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-13T11:33:56.470Z",
-   "score": 30,
+   "score": 32,
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
   },
   {
@@ -3055,106 +3189,6 @@
    "publishedAt": "2026-11-07T23:31:05.716Z",
    "score": 33,
    "firstSeenAt": "2026-11-08T15:53:49.719Z"
-  },
-  {
-   "id": "1eeaf5457cb1",
-   "title": "The end of Microsoft Research's AI Frontiers group",
-   "url": "https://hunch.net/?p=13764006",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-07T18:02:17.000Z",
-   "hn": {
-    "id": "50406563",
-    "points": 492,
-    "comments": 303
-   },
-   "firstSeenAt": "2026-11-08T00:17:39.379Z"
-  },
-  {
-   "id": "9c95d9f4cc46",
-   "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-   "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-07T17:06:36.000Z",
-   "hn": {
-    "id": "50406111",
-    "points": 527,
-    "comments": 352
-   },
-   "firstSeenAt": "2026-11-08T00:17:39.379Z"
-  },
-  {
-   "id": "28c2d038c17b",
-   "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-   "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-06T16:54:36.000Z",
-   "hn": {
-    "id": "50394906",
-    "points": 317,
-    "comments": 620
-   },
-   "firstSeenAt": "2026-11-08T00:17:39.379Z"
-  },
-  {
-   "id": "bac3d87c0e01",
-   "title": "*sshole, or when are we finally going to get rid of C?",
-   "url": "https://sunshowers.io/posts/sshole/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T21:05:35.812Z",
-   "score": 56,
-   "firstSeenAt": "2026-11-08T00:17:39.379Z"
-  },
-  {
-   "id": "bede1db7ab76",
-   "title": "OpenBSD top(1) adds flag to show chroot, pledge and unveil status",
-   "url": "https://undeadly.org/cgi?action=article;sid=20261106104957",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T18:41:33.184Z",
-   "score": 27,
-   "firstSeenAt": "2026-11-08T00:17:39.379Z"
-  },
-  {
-   "id": "87551a1f97b4",
-   "title": "Forwarded Without Question: How Web Frameworks Overtrust the Forwarded Header",
-   "url": "https://www.lkoskela.fi/blog/2026-11-05-forwarded-without-question/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T06:18:48.419Z",
-   "score": 10,
-   "firstSeenAt": "2026-11-08T00:17:39.379Z"
-  },
-  {
-   "id": "453f612a26d7",
-   "title": "Inform is a programming language for creating interactive fiction",
-   "url": "https://ganelson.github.io/inform-website/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T02:05:38.231Z",
-   "score": 13,
-   "firstSeenAt": "2026-11-08T00:17:39.379Z"
-  },
-  {
-   "id": "2b881bd954d0",
-   "title": "Exploring Janet and the httpf web framework",
-   "url": "https://nick.gs/blog/2026-11/exploring-janet-and-the-httpf-web-framework/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-07T04:28:11.062Z",
-   "score": 11,
-   "firstSeenAt": "2026-11-08T00:17:39.379Z"
   }
  ]
 }
