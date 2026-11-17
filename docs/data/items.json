@@ -1,23 +1,38 @@
 {
- "generatedAt": "2026-11-17T03:30:33.271Z",
+ "generatedAt": "2026-11-17T18:23:29.106Z",
  "items": [
   {
-   "id": "69f8748bdf43",
-   "title": "[$] Synaptics patent claims stop work on DisplayLink drivers",
-   "url": "https://lwn.net/Articles/1102549/",
+   "id": "549a77347d5e",
+   "title": "GPT‑6.2 Astra and Sol",
+   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
    "sources": [
-    "LWN",
-    "Lobsters",
-    "Hacker News"
+    "Hacker News",
+    "OpenAI"
    ],
-   "publishedAt": "2026-11-10T15:38:10.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z",
-   "score": 59,
+   "publishedAt": "2026-11-17T17:45:00.000Z",
    "hn": {
-    "id": "50443824",
-    "points": 487,
-    "comments": 270
-   }
+    "id": "50535230",
+    "points": 302,
+    "comments": 131
+   },
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "091bb6b0dfa7",
+   "title": "Software is breaking down at a systemic level",
+   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-16T18:17:17.000Z",
+   "hn": {
+    "id": "50520866",
+    "points": 381,
+    "comments": 237
+   },
+   "firstSeenAt": "2026-11-17T03:30:33.271Z",
+   "score": 31
   },
   {
    "id": "0a2c564cc136",
@@ -30,8 +45,8 @@
    "publishedAt": "2026-11-16T02:04:48.000Z",
    "hn": {
     "id": "50513160",
-    "points": 601,
-    "comments": 175
+    "points": 609,
+    "comments": 177
    },
    "score": 39,
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
@@ -45,12 +60,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-16T13:02:11.963Z",
-   "score": 52,
+   "score": 69,
    "firstSeenAt": "2026-11-16T19:29:19.381Z",
    "hn": {
     "id": "50517602",
-    "points": 317,
-    "comments": 141
+    "points": 396,
+    "comments": 155
    }
   },
   {
@@ -79,12 +94,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-15T22:39:34.065Z",
-   "score": 140,
+   "score": 150,
    "firstSeenAt": "2026-11-16T00:51:33.443Z",
    "hn": {
     "id": "50519744",
-    "points": 329,
-    "comments": 77
+    "points": 429,
+    "comments": 92
    }
   },
   {
@@ -241,20 +256,310 @@
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
   },
   {
-   "id": "f8c1a7370c13",
-   "title": "AlphaProof Code",
-   "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+   "id": "76e95097d061",
+   "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+   "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
    "sources": [
-    "Hacker News",
-    "DeepMind"
+    "Hacker News"
    ],
-   "publishedAt": "2026-11-10T12:02:28.000Z",
+   "publishedAt": "2026-11-17T11:45:51.000Z",
    "hn": {
-    "id": "50439193",
-    "points": 669,
-    "comments": 195
+    "id": "50530163",
+    "points": 889,
+    "comments": 458
    },
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "5c4fbe651718",
+   "title": "Optimizely compromised, served malware on Zoom, GitLab",
+   "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-16T23:00:34.000Z",
+   "hn": {
+    "id": "50524767",
+    "points": 601,
+    "comments": 240
+   },
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "204a30011332",
+   "title": "OpenCode Browse",
+   "url": "https://opencode.ai/product/browse",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-16T21:20:37.000Z",
+   "hn": {
+    "id": "50523459",
+    "points": 315,
+    "comments": 203
+   },
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "962d5b55a0b6",
+   "title": "Chemistry is Actually Geometry",
+   "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-16T20:22:18.000Z",
+   "hn": {
+    "id": "50522643",
+    "points": 318,
+    "comments": 130
+   },
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "fd2df089a059",
+   "title": "Grazing sheep in fields with solar arrays",
+   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-16T17:27:46.000Z",
+   "hn": {
+    "id": "50520182",
+    "points": 320,
+    "comments": 323
+   },
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "f89cd0c3d555",
+   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-16T13:18:22.000Z",
+   "hn": {
+    "id": "50517321",
+    "points": 433,
+    "comments": 323
+   },
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "493748425ffb",
+   "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+   "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-16T07:38:19.000Z",
+   "hn": {
+    "id": "50515058",
+    "points": 314,
+    "comments": 141
+   },
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "b60814c79d7c",
+   "title": "Actual curl rewrites in rust",
+   "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-17T13:37:05.550Z",
+   "score": 45,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "e7b96a492dfc",
+   "title": "Redict is deprecated",
+   "url": "https://redict.io/posts/2026-11-17-redict-deprecated/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-17T08:20:30.125Z",
+   "score": 59,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "d97800a73912",
+   "title": "Github Redesign (2019)",
+   "url": "https://tonsky.me/blog/github-redesign/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-17T09:28:18.950Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "0b7a064f393a",
+   "title": "My Emacs 31 contributions",
+   "url": "https://xenodium.com/my-emacs-31-contributions",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-17T11:03:52.548Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "d7980d5e9977",
+   "title": "How to Bypass Rust's Orphan Rule",
+   "url": "https://edvong.com/bypass-orphan-rule/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-17T15:35:36.402Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "ee3101a5a09e",
+   "title": "On Leaving Swift for Rust",
+   "url": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-16T17:56:45.490Z",
+   "score": 21,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "c618f0b74f32",
+   "title": "Sage S2.1 Flash Technical Report",
+   "url": "https://huggingface.co/papers/2611.21072",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-15T19:00:00.000Z",
+   "score": 83,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "e1f0b0269911",
+   "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+   "url": "https://huggingface.co/papers/2611.21003",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-15T19:00:00.000Z",
+   "score": 63,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "15712514dcdf",
+   "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+   "url": "https://huggingface.co/papers/2611.21218",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-15T19:00:00.000Z",
+   "score": 61,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "0904df37e969",
+   "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
+   "url": "https://huggingface.co/papers/2611.21607",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-15T19:00:00.000Z",
+   "score": 41,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "e337e8608e1e",
+   "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
+   "url": "https://huggingface.co/papers/2611.20882",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-15T19:00:00.000Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "590cb0b9c5dd",
+   "title": "Strengthening NATO and allied cyber defenses with AI",
+   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-17T00:00:00.000Z",
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "58da9c66b145",
+   "title": "Introducing OpenAI for Chile",
+   "url": "https://openai.com/index/introducing-openai-for-chile",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-17T00:00:00.000Z",
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "0604bc2b50fc",
+   "title": "Astra for Law leads in legal intelligence",
+   "url": "https://openai.com/index/astra-law-6-2",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-17T00:00:00.000Z",
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "f054a54f8228",
+   "title": "How Revolut raises ambition without lowering the bar",
+   "url": "https://openai.com/business/customer-stories/revolut",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-16T09:30:00.000Z",
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "5b158888670a",
+   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+   "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-11-17T16:48:33.000Z",
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "fb18d549b6f8",
+   "title": "[$] Zellij manages terminal workspaces with style",
+   "url": "https://lwn.net/Articles/1106913/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-17T15:27:38.000Z",
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "890c57ba47bf",
+   "title": "Deterministic Simulation Testing",
+   "url": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-11-17T14:33:00.000Z",
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+  },
+  {
+   "id": "6c265f6b8d49",
+   "title": "Inference engineering for software engineers",
+   "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-11-17T16:11:23.000Z",
+   "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
   {
    "id": "81bd7f76e2a9",
@@ -266,8 +571,8 @@
    "publishedAt": "2026-11-16T22:58:20.000Z",
    "hn": {
     "id": "50524736",
-    "points": 314,
-    "comments": 183
+    "points": 693,
+    "comments": 560
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -281,8 +586,8 @@
    "publishedAt": "2026-11-16T21:32:17.000Z",
    "hn": {
     "id": "50523601",
-    "points": 370,
-    "comments": 183
+    "points": 695,
+    "comments": 316
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -296,8 +601,8 @@
    "publishedAt": "2026-11-16T20:43:36.000Z",
    "hn": {
     "id": "50522980",
-    "points": 871,
-    "comments": 141
+    "points": 2151,
+    "comments": 288
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -311,23 +616,8 @@
    "publishedAt": "2026-11-16T18:31:30.000Z",
    "hn": {
     "id": "50521045",
-    "points": 731,
-    "comments": 606
-   },
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "091bb6b0dfa7",
-   "title": "Software is breaking down at a systemic level",
-   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T18:17:17.000Z",
-   "hn": {
-    "id": "50520866",
-    "points": 346,
-    "comments": 222
+    "points": 814,
+    "comments": 689
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -341,8 +631,8 @@
    "publishedAt": "2026-11-16T16:23:22.000Z",
    "hn": {
     "id": "50519354",
-    "points": 328,
-    "comments": 236
+    "points": 516,
+    "comments": 380
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -356,8 +646,8 @@
    "publishedAt": "2026-11-16T11:39:31.000Z",
    "hn": {
     "id": "50516473",
-    "points": 301,
-    "comments": 118
+    "points": 315,
+    "comments": 126
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -369,7 +659,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T18:17:29.216Z",
-   "score": 17,
+   "score": 37,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -380,7 +670,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T16:43:58.790Z",
-   "score": 27,
+   "score": 40,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -391,7 +681,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T22:39:54.319Z",
-   "score": 13,
+   "score": 44,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -402,7 +692,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T16:25:38.928Z",
-   "score": 17,
+   "score": 28,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -413,7 +703,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T22:25:45.396Z",
-   "score": 12,
+   "score": 28,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -457,8 +747,8 @@
    "publishedAt": "2026-11-16T13:39:07.000Z",
    "hn": {
     "id": "50517488",
-    "points": 859,
-    "comments": 514
+    "points": 936,
+    "comments": 543
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
@@ -472,8 +762,8 @@
    "publishedAt": "2026-11-16T05:50:37.000Z",
    "hn": {
     "id": "50514470",
-    "points": 846,
-    "comments": 144
+    "points": 896,
+    "comments": 148
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
@@ -487,8 +777,8 @@
    "publishedAt": "2026-11-16T02:14:44.000Z",
    "hn": {
     "id": "50513215",
-    "points": 854,
-    "comments": 471
+    "points": 870,
+    "comments": 481
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
@@ -502,8 +792,8 @@
    "publishedAt": "2026-11-15T23:55:55.000Z",
    "hn": {
     "id": "50512235",
-    "points": 465,
-    "comments": 571
+    "points": 477,
+    "comments": 582
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
@@ -517,8 +807,8 @@
    "publishedAt": "2026-11-15T22:11:43.000Z",
    "hn": {
     "id": "50511395",
-    "points": 375,
-    "comments": 197
+    "points": 378,
+    "comments": 202
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
@@ -532,7 +822,7 @@
    "publishedAt": "2026-11-15T19:42:13.000Z",
    "hn": {
     "id": "50509972",
-    "points": 458,
+    "points": 468,
     "comments": 76
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
@@ -547,8 +837,8 @@
    "publishedAt": "2026-11-15T19:26:22.000Z",
    "hn": {
     "id": "50509837",
-    "points": 455,
-    "comments": 84
+    "points": 462,
+    "comments": 85
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
@@ -575,7 +865,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T05:10:34.395Z",
-   "score": 67,
+   "score": 73,
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
   {
@@ -586,7 +876,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T13:56:54.181Z",
-   "score": 42,
+   "score": 49,
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
   {
@@ -597,7 +887,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T03:37:36.159Z",
-   "score": 68,
+   "score": 79,
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
   {
@@ -630,7 +920,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T15:22:38.857Z",
-   "score": 26,
+   "score": 37,
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
   {
@@ -798,8 +1088,8 @@
    "publishedAt": "2026-11-15T18:36:10.000Z",
    "hn": {
     "id": "50509411",
-    "points": 622,
-    "comments": 273
+    "points": 641,
+    "comments": 280
    },
    "firstSeenAt": "2026-11-16T00:51:33.443Z"
   },
@@ -2913,333 +3203,6 @@
    ],
    "publishedAt": "2026-11-10T10:00:00.000Z",
    "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "2eaebfdb6cb5",
-   "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-   "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-10T06:01:08.000Z",
-   "hn": {
-    "id": "50436640",
-    "points": 720,
-    "comments": 257
-   },
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "ffa9f549808b",
-   "title": "Fable 5.2 one-shotted my nephew's dream game",
-   "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-09T23:08:13.000Z",
-   "hn": {
-    "id": "50433659",
-    "points": 497,
-    "comments": 445
-   },
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "4f9270c0ec3d",
-   "title": "E-means: Outperforming k-means in one-tenth the epochs",
-   "url": "https://e-means.github.io/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-09T18:45:43.000Z",
-   "hn": {
-    "id": "50429734",
-    "points": 504,
-    "comments": 78
-   },
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "feb2ba211559",
-   "title": "Muse Ember: Our smallest, most efficient model",
-   "url": "https://research.meta.ai/blog/muse-ember",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-09T17:58:46.000Z",
-   "hn": {
-    "id": "50429024",
-    "points": 332,
-    "comments": 140
-   },
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "020c05e5c6f6",
-   "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-   "url": "https://www.watched.earth",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-09T17:51:31.000Z",
-   "hn": {
-    "id": "50428907",
-    "points": 476,
-    "comments": 81
-   },
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "c73389828afd",
-   "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-   "url": "https://www.cnx-software.com/2026/11/03/when-will-this-stop-the-raspberry-pi-5-16gb-sbc-now-sells-for-385/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-09T17:42:55.000Z",
-   "hn": {
-    "id": "50428801",
-    "points": 328,
-    "comments": 303
-   },
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "c6f754d26eec",
-   "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
-   "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-09T14:31:39.000Z",
-   "hn": {
-    "id": "50426175",
-    "points": 347,
-    "comments": 255
-   },
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "0fe089c12de4",
-   "title": "Open Graph images with Astro and Typst",
-   "url": "https://eaj.no/posts/open-graph-images-with-typst/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T11:42:48.435Z",
-   "score": 45,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "727311c8497c",
-   "title": "The hardest tarball",
-   "url": "https://stoppels.ch/2026/11/07/the-hardest-tarball.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T13:47:03.168Z",
-   "score": 82,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "a9f580dcd96f",
-   "title": "You should try Gleam",
-   "url": "https://nchagnet.eu/blog/you-should-try-gleam",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T03:33:27.517Z",
-   "score": 65,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "15941f8b5516",
-   "title": "Building a networking switch ASIC chip",
-   "url": "https://essenceia.github.io/projects/expresso/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T07:39:39.567Z",
-   "score": 31,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "f1b821aeac9f",
-   "title": "Next-Level Benchmarking Overfitting",
-   "url": "http://databasearchitects.blogspot.com/2026/11/next-level-benchmarking-overfitting.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T12:20:55.477Z",
-   "score": 15,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "dc14a8e46d2b",
-   "title": "Blunt Banhammer Blocks Basic Bots Ballistically",
-   "url": "https://shkspr.mobi/blog/2026/11/blunt-banhammer-blocks-basic-bots-ballistically/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T00:48:20.266Z",
-   "score": 26,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "80987bf094de",
-   "title": "I was wrong about dark mode",
-   "url": "https://dbushell.com/2026/11/09/dark-mode/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-09T16:54:03.235Z",
-   "score": 21,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "123cc8899327",
-   "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
-   "url": "https://huggingface.co/papers/2611.12806",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-08T19:00:00.000Z",
-   "score": 91,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "930c9f51b3fa",
-   "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
-   "url": "https://huggingface.co/papers/2611.12762",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-08T19:00:00.000Z",
-   "score": 46,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "fcc02b9fa5cb",
-   "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
-   "url": "https://huggingface.co/papers/2611.12886",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-08T19:00:00.000Z",
-   "score": 36,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "0d8ae89421ec",
-   "title": "Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization",
-   "url": "https://huggingface.co/papers/2611.11890",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-08T19:00:00.000Z",
-   "score": 4,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "aeed2eb95f95",
-   "title": "SWAM: Scaling World Action Models with Cross-Modal Alignment",
-   "url": "https://huggingface.co/papers/2611.12870",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-08T19:00:00.000Z",
-   "score": 3,
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "85a32fe1244f",
-   "title": "Anthropic launches roadshow for proposed initial public offering",
-   "url": "https://www.anthropic.com/news/roadshow-launch",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-11-10T00:00:00.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "46ecb159c153",
-   "title": "Helping caregivers use AI in everyday life",
-   "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-10T12:00:00.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "01a8528fa117",
-   "title": "Closing the AI guidance gap in education",
-   "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-10T09:00:00.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "3588ceed4155",
-   "title": "Work at the Frontier: AI’s effect on freelance work",
-   "url": "https://openai.com/index/ai-effect-on-freelance-work",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-10T07:00:00.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "fc6b6a56df7b",
-   "title": "Gemini 4 Carbon is now available",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-11-10T16:03:47.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "7da1b2b4758f",
-   "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-   "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-11-09T19:51:47.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "8b899abbd7c8",
-   "title": "Fragments: November 10",
-   "url": "https://martinfowler.com/fragments/2026-11-10.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-11-10T14:30:00.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "75af9aae359d",
-   "title": "Long-horizon agents and durable execution",
-   "url": "https://martinfowler.com/articles/durable-execution-agents.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-11-10T14:10:00.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
-  },
-  {
-   "id": "583511bb3ad1",
-   "title": "Software correctness & supply chain security, with Sean Allen",
-   "url": "https://newsletter.pragmaticengineer.com/p/software-correctness",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-10T15:00:21.000Z",
-   "firstSeenAt": "2026-11-10T16:57:05.285Z"
   }
  ]
 }
