@@ -1,6 +1,39 @@
 {
- "generatedAt": "2026-11-17T18:23:29.106Z",
+ "generatedAt": "2026-11-18T02:46:49.351Z",
  "items": [
+  {
+   "id": "340c2ff0827f",
+   "title": "Quad9's withdrawal from France: A canary in the coal mine",
+   "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+   "sources": [
+    "Hacker News",
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-17T20:24:27.000Z",
+   "hn": {
+    "id": "50538994",
+    "points": 331,
+    "comments": 94
+   },
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "86aeaafbc09d",
+   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+   "url": "https://calif.io/java4shell/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-17T21:11:28.000Z",
+   "hn": {
+    "id": "50538240",
+    "points": 572,
+    "comments": 149
+   },
+   "score": 25,
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
   {
    "id": "549a77347d5e",
    "title": "GPT‑6.2 Astra and Sol",
@@ -12,8 +45,8 @@
    "publishedAt": "2026-11-17T17:45:00.000Z",
    "hn": {
     "id": "50535230",
-    "points": 302,
-    "comments": 131
+    "points": 1107,
+    "comments": 707
    },
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
@@ -28,8 +61,8 @@
    "publishedAt": "2026-11-16T18:17:17.000Z",
    "hn": {
     "id": "50520866",
-    "points": 381,
-    "comments": 237
+    "points": 388,
+    "comments": 254
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z",
    "score": 31
@@ -60,11 +93,11 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-16T13:02:11.963Z",
-   "score": 69,
+   "score": 71,
    "firstSeenAt": "2026-11-16T19:29:19.381Z",
    "hn": {
     "id": "50517602",
-    "points": 396,
+    "points": 402,
     "comments": 155
    }
   },
@@ -98,8 +131,8 @@
    "firstSeenAt": "2026-11-16T00:51:33.443Z",
    "hn": {
     "id": "50519744",
-    "points": 429,
-    "comments": 92
+    "points": 437,
+    "comments": 95
    }
   },
   {
@@ -239,21 +272,137 @@
    }
   },
   {
-   "id": "ad9eb20db0e4",
-   "title": ".name Grandfathered",
-   "url": "https://neil.fraser.name/news/2026/11/10/",
+   "id": "2722a52f92b9",
+   "title": "Apple Services Down",
+   "url": "https://developer.apple.com/system-status/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-17T17:47:14.000Z",
+   "hn": {
+    "id": "50535238",
+    "points": 640,
+    "comments": 354
+   },
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "851193cad36b",
+   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+   "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-17T17:12:06.000Z",
+   "hn": {
+    "id": "50534631",
+    "points": 408,
+    "comments": 196
+   },
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "f9de81307dd1",
+   "title": "NSA Internal Network Down",
+   "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-17T15:50:48.000Z",
+   "hn": {
+    "id": "50533089",
+    "points": 334,
+    "comments": 4
+   },
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "e3f80aa13f80",
+   "title": "Highly classified US national security communications network goes down",
+   "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-17T15:38:28.000Z",
+   "hn": {
+    "id": "50532849",
+    "points": 488,
+    "comments": 563
+   },
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "715137d93524",
+   "title": "What is the best harness for each model?",
+   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-17T14:53:43.000Z",
+   "hn": {
+    "id": "50532191",
+    "points": 338,
+    "comments": 118
+   },
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "534d1dcd1dc8",
+   "title": "We don't need more apps, we need better open source",
+   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-17T14:45:36.000Z",
+   "hn": {
+    "id": "50532086",
+    "points": 345,
+    "comments": 234
+   },
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "36b1c4b2b1aa",
+   "title": "Phrack 73",
+   "url": "https://phrack.org/issues/73/introduction_md.html",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-11-10T16:37:44.000Z",
-   "hn": {
-    "id": "50442736",
-    "points": 919,
-    "comments": 204
-   },
-   "score": 182,
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
+   "publishedAt": "2026-11-17T17:40:32.622Z",
+   "score": 37,
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "ba0181e5d490",
+   "title": "Steve Jobs Core Animation demo from WWDC 2007",
+   "url": "https://lucas.love/100/058",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-17T15:23:20.434Z",
+   "score": 20,
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "c5446227ea3c",
+   "title": "Sarasa Gothic Mono",
+   "url": "https://picaq.github.io/sarasa",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-17T18:47:39.099Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
+  },
+  {
+   "id": "c6c361c53bc4",
+   "title": "Introducing ChatGPT for Sales",
+   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-17T08:00:00.000Z",
+   "firstSeenAt": "2026-11-18T02:46:49.351Z"
   },
   {
    "id": "76e95097d061",
@@ -265,8 +414,8 @@
    "publishedAt": "2026-11-17T11:45:51.000Z",
    "hn": {
     "id": "50530163",
-    "points": 889,
-    "comments": 458
+    "points": 1178,
+    "comments": 584
    },
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
@@ -280,8 +429,8 @@
    "publishedAt": "2026-11-16T23:00:34.000Z",
    "hn": {
     "id": "50524767",
-    "points": 601,
-    "comments": 240
+    "points": 669,
+    "comments": 264
    },
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
@@ -295,8 +444,8 @@
    "publishedAt": "2026-11-16T21:20:37.000Z",
    "hn": {
     "id": "50523459",
-    "points": 315,
-    "comments": 203
+    "points": 324,
+    "comments": 210
    },
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
@@ -310,8 +459,8 @@
    "publishedAt": "2026-11-16T20:22:18.000Z",
    "hn": {
     "id": "50522643",
-    "points": 318,
-    "comments": 130
+    "points": 338,
+    "comments": 139
    },
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
@@ -325,8 +474,8 @@
    "publishedAt": "2026-11-16T17:27:46.000Z",
    "hn": {
     "id": "50520182",
-    "points": 320,
-    "comments": 323
+    "points": 325,
+    "comments": 331
    },
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
@@ -340,8 +489,8 @@
    "publishedAt": "2026-11-16T13:18:22.000Z",
    "hn": {
     "id": "50517321",
-    "points": 433,
-    "comments": 323
+    "points": 440,
+    "comments": 335
    },
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
@@ -355,8 +504,8 @@
    "publishedAt": "2026-11-16T07:38:19.000Z",
    "hn": {
     "id": "50515058",
-    "points": 314,
-    "comments": 141
+    "points": 319,
+    "comments": 145
    },
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
@@ -368,7 +517,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-17T13:37:05.550Z",
-   "score": 45,
+   "score": 79,
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
   {
@@ -379,7 +528,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-17T08:20:30.125Z",
-   "score": 59,
+   "score": 68,
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
   {
@@ -390,7 +539,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-17T09:28:18.950Z",
-   "score": 25,
+   "score": 37,
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
   {
@@ -401,7 +550,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-17T11:03:52.548Z",
-   "score": 15,
+   "score": 22,
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
   {
@@ -412,7 +561,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-17T15:35:36.402Z",
-   "score": 10,
+   "score": 19,
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
   {
@@ -423,7 +572,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T17:56:45.490Z",
-   "score": 21,
+   "score": 23,
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
   {
@@ -571,8 +720,8 @@
    "publishedAt": "2026-11-16T22:58:20.000Z",
    "hn": {
     "id": "50524736",
-    "points": 693,
-    "comments": 560
+    "points": 712,
+    "comments": 592
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -586,8 +735,8 @@
    "publishedAt": "2026-11-16T21:32:17.000Z",
    "hn": {
     "id": "50523601",
-    "points": 695,
-    "comments": 316
+    "points": 714,
+    "comments": 337
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -601,8 +750,8 @@
    "publishedAt": "2026-11-16T20:43:36.000Z",
    "hn": {
     "id": "50522980",
-    "points": 2151,
-    "comments": 288
+    "points": 2286,
+    "comments": 311
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -616,8 +765,8 @@
    "publishedAt": "2026-11-16T18:31:30.000Z",
    "hn": {
     "id": "50521045",
-    "points": 814,
-    "comments": 689
+    "points": 824,
+    "comments": 703
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -631,8 +780,8 @@
    "publishedAt": "2026-11-16T16:23:22.000Z",
    "hn": {
     "id": "50519354",
-    "points": 516,
-    "comments": 380
+    "points": 525,
+    "comments": 408
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -646,8 +795,8 @@
    "publishedAt": "2026-11-16T11:39:31.000Z",
    "hn": {
     "id": "50516473",
-    "points": 315,
-    "comments": 126
+    "points": 320,
+    "comments": 129
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
@@ -659,7 +808,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T18:17:29.216Z",
-   "score": 37,
+   "score": 39,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -670,7 +819,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T16:43:58.790Z",
-   "score": 40,
+   "score": 47,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -681,7 +830,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T22:39:54.319Z",
-   "score": 44,
+   "score": 54,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -692,7 +841,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T16:25:38.928Z",
-   "score": 28,
+   "score": 35,
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
   },
   {
@@ -747,8 +896,8 @@
    "publishedAt": "2026-11-16T13:39:07.000Z",
    "hn": {
     "id": "50517488",
-    "points": 936,
-    "comments": 543
+    "points": 956,
+    "comments": 551
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
@@ -762,8 +911,8 @@
    "publishedAt": "2026-11-16T05:50:37.000Z",
    "hn": {
     "id": "50514470",
-    "points": 896,
-    "comments": 148
+    "points": 907,
+    "comments": 149
    },
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
@@ -865,7 +1014,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T05:10:34.395Z",
-   "score": 73,
+   "score": 76,
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
   {
@@ -876,7 +1025,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-16T13:56:54.181Z",
-   "score": 49,
+   "score": 51,
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
   },
   {
@@ -3064,145 +3213,6 @@
    ],
    "publishedAt": "2026-11-11T15:17:00.000Z",
    "firstSeenAt": "2026-11-11T17:00:30.773Z"
-  },
-  {
-   "id": "12179ed519d5",
-   "title": "Scion is back and is going to sell a kei truck in America",
-   "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-10T19:50:46.000Z",
-   "hn": {
-    "id": "50445401",
-    "points": 559,
-    "comments": 407
-   },
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "d438bd2ee1d8",
-   "title": "Val Town is winding down",
-   "url": "https://blog.val.town/winding-down",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-10T17:31:14.000Z",
-   "hn": {
-    "id": "50443427",
-    "points": 420,
-    "comments": 99
-   },
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "92b8883870ae",
-   "title": "Blender 5.3 released with Gaussian Splat support",
-   "url": "https://www.blender.org/download/releases/5-3/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-10T16:15:43.000Z",
-   "hn": {
-    "id": "50442426",
-    "points": 489,
-    "comments": 74
-   },
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "f8fef665ff3e",
-   "title": "Smart home devices should work without the internet",
-   "url": "https://docodethatmatters.com/home-automation-overnight-success/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-10T15:25:20.000Z",
-   "hn": {
-    "id": "50441707",
-    "points": 1142,
-    "comments": 432
-   },
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "534e23320d33",
-   "title": "AI usage generates a fragile codebase",
-   "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-10T10:25:58.000Z",
-   "hn": {
-    "id": "50438318",
-    "points": 631,
-    "comments": 608
-   },
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "8eacae9504da",
-   "title": "Announcing .NET 11",
-   "url": "https://devblogs.microsoft.com/dotnet/announcing-dotnet-11/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T16:03:21.955Z",
-   "score": 33,
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "4228e98950e0",
-   "title": "Weird licenses and the new open source",
-   "url": "https://dustri.org/b/weird-licenses-and-the-new-open-source.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T16:49:51.594Z",
-   "score": 25,
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "4a6496225766",
-   "title": "I deleted all my SSH keys",
-   "url": "https://blog.infected.systems/posts/2026-11-03-i-deleted-all-my-ssh-keys/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T20:49:23.641Z",
-   "score": 62,
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "d3248ea995fc",
-   "title": "A faster Easter date function",
-   "url": "https://www.benjoffe.com/fast-easter",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-10T14:36:45.331Z",
-   "score": 20,
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "f28f90d2895a",
-   "title": "Gilbert + Tobin rethinks the business of law with AI",
-   "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-12T00:00:00.000Z",
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
-  },
-  {
-   "id": "5ca4dc7b6d88",
-   "title": "Introducing Businesses in ChatGPT",
-   "url": "https://openai.com/index/introducing-businesses-chatgpt",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-10T10:00:00.000Z",
-   "firstSeenAt": "2026-11-11T01:06:27.335Z"
   }
  ]
 }
