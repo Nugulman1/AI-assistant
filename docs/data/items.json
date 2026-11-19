@@ -1,6 +1,90 @@
 {
- "generatedAt": "2026-11-19T02:23:14.458Z",
+ "generatedAt": "2026-11-19T18:09:03.932Z",
  "items": [
+  {
+   "id": "cd785972e812",
+   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
+   "url": "https://kapteko.com/15-million-webservers/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T05:56:36.000Z",
+   "hn": {
+    "id": "50556533",
+    "points": 311,
+    "comments": 36
+   },
+   "score": 10,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "f82d195d3e1b",
+   "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+   "url": "https://verialabs.com/ruby2shell/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T05:09:11.000Z",
+   "hn": {
+    "id": "50556287",
+    "points": 315,
+    "comments": 129
+   },
+   "score": 13,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "a6c50a3fde5e",
+   "title": "We need smart people who give a shit",
+   "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-18T23:53:49.000Z",
+   "hn": {
+    "id": "50554045",
+    "points": 739,
+    "comments": 367
+   },
+   "score": 69,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "5d96bf31ecb8",
+   "title": "Multiple vulnerabilities in Regexp and String case conversion",
+   "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-18T23:52:50.000Z",
+   "hn": {
+    "id": "50554038",
+    "points": 324,
+    "comments": 126
+   },
+   "score": 20,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "909b75797cd1",
+   "title": "Anthropic prices initial public offering",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "sources": [
+    "Anthropic",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-18T00:00:00.000Z",
+   "firstSeenAt": "2026-11-19T02:23:14.458Z",
+   "hn": {
+    "id": "50553843",
+    "points": 393,
+    "comments": 737
+   }
+  },
   {
    "id": "701f6c3f030a",
    "title": "Solid 2.0",
@@ -12,10 +96,10 @@
    "publishedAt": "2026-11-17T18:56:17.000Z",
    "hn": {
     "id": "50536387",
-    "points": 371,
-    "comments": 116
+    "points": 375,
+    "comments": 118
    },
-   "score": 19,
+   "score": 21,
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
   {
@@ -29,8 +113,8 @@
    "publishedAt": "2026-11-17T20:24:27.000Z",
    "hn": {
     "id": "50538994",
-    "points": 883,
-    "comments": 432
+    "points": 901,
+    "comments": 450
    },
    "firstSeenAt": "2026-11-18T02:46:49.351Z"
   },
@@ -45,8 +129,8 @@
    "publishedAt": "2026-11-17T21:11:28.000Z",
    "hn": {
     "id": "50538240",
-    "points": 1156,
-    "comments": 321
+    "points": 1174,
+    "comments": 327
    },
    "score": 55,
    "firstSeenAt": "2026-11-18T02:46:49.351Z"
@@ -64,8 +148,8 @@
    "firstSeenAt": "2026-11-18T02:46:49.351Z",
    "hn": {
     "id": "50535992",
-    "points": 460,
-    "comments": 74
+    "points": 471,
+    "comments": 77
    }
   },
   {
@@ -116,7 +200,7 @@
     "comments": 609
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z",
-   "score": 36
+   "score": 42
   },
   {
    "id": "0a2c564cc136",
@@ -238,21 +322,226 @@
    }
   },
   {
-   "id": "5a43f428431e",
-   "title": "Humble Bundle just killed most of their security through vibecoding",
-   "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+   "id": "db0a328fdd9a",
+   "title": "How the European Commission rolled out Matrix to more than 40k staff",
+   "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-19T10:58:29.000Z",
+   "hn": {
+    "id": "50558533",
+    "points": 557,
+    "comments": 272
+   },
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "814baa6f479f",
+   "title": "Codeberg.org Not Reachable",
+   "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-18T10:02:17.000Z",
+   "hn": {
+    "id": "50544261",
+    "points": 316,
+    "comments": 312
+   },
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "218b95945dc1",
+   "title": "Design for Understandability",
+   "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-11-12T06:52:48.000Z",
-   "hn": {
-    "id": "50463899",
-    "points": 401,
-    "comments": 236
-   },
+   "publishedAt": "2026-11-19T13:07:34.542Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "5851e1fbe1a1",
+   "title": "PostgreSQL 19 Released",
+   "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T15:12:08.240Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "5174c21f9e43",
+   "title": "PHP 8.6 Release Announcement",
+   "url": "https://www.php.net/releases/8.6/en.php",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T10:17:55.143Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "5a7839424fb0",
+   "title": "Distributed, high-performance blob storage on SQLite",
+   "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T08:37:13.161Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "560b97b0ba6b",
+   "title": "markdownWeb",
+   "url": "https://demo.bonbonweb.org/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-18T17:35:19.967Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "b5bf67b60ffc",
+   "title": "sysdeck: Raycast for Linux & BSD",
+   "url": "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-18T23:26:59.595Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "a744d744e02c",
+   "title": "Stricter checks for uploaded distributions on PyPI",
+   "url": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-18T20:00:42.222Z",
    "score": 10,
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "eba1ef6c1e98",
+   "title": "Jeveration: System One Models Now Generate",
+   "url": "https://huggingface.co/papers/2611.24738",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-17T19:00:00.000Z",
+   "score": 87,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "7fc09e03d574",
+   "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
+   "url": "https://huggingface.co/papers/2611.24154",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-17T19:00:00.000Z",
+   "score": 24,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "05ddd2e6c108",
+   "title": "CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning",
+   "url": "https://huggingface.co/papers/2611.24654",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-17T19:00:00.000Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "ab298121176b",
+   "title": "HINT-WAM: Hindsight-Informed Training for World Action Models",
+   "url": "https://huggingface.co/papers/2611.24789",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-17T19:00:00.000Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "35abad2cd0b4",
+   "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
+   "url": "https://huggingface.co/papers/2611.24869",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-17T19:00:00.000Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "6687f7be62c3",
+   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-19T08:00:00.000Z",
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "b898a1b2127c",
+   "title": "Introducing Gemini 4 Neon",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-18T21:35:43.000Z",
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "50e3ea47cbae",
+   "title": "Genie 4 is now available",
+   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-18T18:13:42.000Z",
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "050cab0e1265",
+   "title": "[$] Added indirection allows for larger BPF programs",
+   "url": "https://lwn.net/Articles/1106537/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-19T17:32:42.000Z",
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "a67e4808fe94",
+   "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
+   "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-19T14:00:00.000Z",
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+  },
+  {
+   "id": "04da227b0cee",
+   "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-11-19T17:08:59.000Z",
+   "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
    "id": "b2c084a41275",
@@ -264,8 +553,8 @@
    "publishedAt": "2026-11-18T21:34:07.000Z",
    "hn": {
     "id": "50552424",
-    "points": 479,
-    "comments": 448
+    "points": 980,
+    "comments": 744
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -279,8 +568,8 @@
    "publishedAt": "2026-11-18T16:08:24.000Z",
    "hn": {
     "id": "50548021",
-    "points": 456,
-    "comments": 318
+    "points": 588,
+    "comments": 370
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -294,8 +583,8 @@
    "publishedAt": "2026-11-18T15:49:34.000Z",
    "hn": {
     "id": "50547777",
-    "points": 369,
-    "comments": 164
+    "points": 478,
+    "comments": 241
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -309,8 +598,8 @@
    "publishedAt": "2026-11-18T15:38:33.000Z",
    "hn": {
     "id": "50547620",
-    "points": 566,
-    "comments": 190
+    "points": 764,
+    "comments": 255
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -324,8 +613,8 @@
    "publishedAt": "2026-11-18T15:18:30.000Z",
    "hn": {
     "id": "50547344",
-    "points": 352,
-    "comments": 162
+    "points": 377,
+    "comments": 208
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -339,8 +628,8 @@
    "publishedAt": "2026-11-18T09:29:32.000Z",
    "hn": {
     "id": "50543989",
-    "points": 301,
-    "comments": 52
+    "points": 315,
+    "comments": 56
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -354,8 +643,8 @@
    "publishedAt": "2026-11-17T21:16:12.000Z",
    "hn": {
     "id": "50538303",
-    "points": 319,
-    "comments": 440
+    "points": 322,
+    "comments": 454
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -367,7 +656,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T19:44:06.571Z",
-   "score": 19,
+   "score": 29,
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
   {
@@ -378,7 +667,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T16:39:00.327Z",
-   "score": 26,
+   "score": 35,
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
   {
@@ -389,7 +678,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T17:30:14.649Z",
-   "score": 21,
+   "score": 36,
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
   {
@@ -400,17 +689,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T17:52:22.985Z",
-   "score": 13,
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "909b75797cd1",
-   "title": "Anthropic prices initial public offering",
-   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-   "sources": [
-    "Anthropic"
-   ],
-   "publishedAt": "2026-11-18T00:00:00.000Z",
+   "score": 19,
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
   {
@@ -503,8 +782,8 @@
    "publishedAt": "2026-11-18T15:19:55.000Z",
    "hn": {
     "id": "50547374",
-    "points": 1159,
-    "comments": 514
+    "points": 1472,
+    "comments": 625
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -518,8 +797,8 @@
    "publishedAt": "2026-11-18T13:18:02.000Z",
    "hn": {
     "id": "50545958",
-    "points": 606,
-    "comments": 224
+    "points": 674,
+    "comments": 279
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -533,8 +812,8 @@
    "publishedAt": "2026-11-18T06:47:26.000Z",
    "hn": {
     "id": "50542705",
-    "points": 760,
-    "comments": 685
+    "points": 798,
+    "comments": 706
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -548,8 +827,8 @@
    "publishedAt": "2026-11-18T05:11:30.000Z",
    "hn": {
     "id": "50542135",
-    "points": 491,
-    "comments": 125
+    "points": 506,
+    "comments": 126
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -563,8 +842,8 @@
    "publishedAt": "2026-11-18T00:51:45.000Z",
    "hn": {
     "id": "50540437",
-    "points": 492,
-    "comments": 259
+    "points": 503,
+    "comments": 265
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -578,8 +857,8 @@
    "publishedAt": "2026-11-18T00:17:58.000Z",
    "hn": {
     "id": "50540178",
-    "points": 690,
-    "comments": 539
+    "points": 708,
+    "comments": 559
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -593,8 +872,8 @@
    "publishedAt": "2026-11-17T23:18:49.000Z",
    "hn": {
     "id": "50539610",
-    "points": 450,
-    "comments": 98
+    "points": 463,
+    "comments": 105
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -608,8 +887,8 @@
    "publishedAt": "2026-11-17T19:50:40.000Z",
    "hn": {
     "id": "50537156",
-    "points": 372,
-    "comments": 199
+    "points": 376,
+    "comments": 204
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -623,8 +902,8 @@
    "publishedAt": "2026-11-17T19:25:27.000Z",
    "hn": {
     "id": "50536813",
-    "points": 408,
-    "comments": 140
+    "points": 419,
+    "comments": 144
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -638,8 +917,8 @@
    "publishedAt": "2026-11-17T18:25:13.000Z",
    "hn": {
     "id": "50535885",
-    "points": 417,
-    "comments": 169
+    "points": 421,
+    "comments": 171
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -651,7 +930,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T08:51:09.576Z",
-   "score": 186,
+   "score": 215,
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
   {
@@ -662,7 +941,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T14:21:42.798Z",
-   "score": 26,
+   "score": 38,
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
   {
@@ -673,7 +952,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T15:28:56.196Z",
-   "score": 63,
+   "score": 81,
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
   {
@@ -3042,206 +3321,6 @@
    ],
    "publishedAt": "2026-11-12T18:53:19.000Z",
    "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "2a51640ad697",
-   "title": "Jensen Huang resigns as Nvidia CEO immediately",
-   "url": "https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T13:56:11.000Z",
-   "hn": {
-    "id": "50467132",
-    "points": 375,
-    "comments": 14
-   },
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "b8785a000ca8",
-   "title": "NVIDIA Announces CEO Transition",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T13:52:29.000Z",
-   "hn": {
-    "id": "50467087",
-    "points": 1468,
-    "comments": 1214
-   },
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "f101ffad2bb3",
-   "title": "Anthropic IPO",
-   "url": "https://ipo.anthropic.com/us/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T11:46:41.000Z",
-   "hn": {
-    "id": "50465829",
-    "points": 996,
-    "comments": 904
-   },
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "5b070766ec4d",
-   "title": "Critical RCE Vulnerability in Apache HTTP Server",
-   "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T02:11:11.000Z",
-   "hn": {
-    "id": "50462177",
-    "points": 368,
-    "comments": 199
-   },
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "fcc732cc4f5a",
-   "title": "93% of paint splatters are valid Perl programs (2019)",
-   "url": "https://www.mcmillen.dev/sigbovik/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-11T22:34:23.000Z",
-   "hn": {
-    "id": "50459745",
-    "points": 576,
-    "comments": 79
-   },
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "071d9c002fde",
-   "title": "Jensen Huang said to have had relationship with executive who reports to him",
-   "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-11T22:03:58.000Z",
-   "hn": {
-    "id": "50459321",
-    "points": 410,
-    "comments": 529
-   },
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "cce714811b51",
-   "title": "Gemini Decisions API",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-11T18:32:42.000Z",
-   "hn": {
-    "id": "50456791",
-    "points": 565,
-    "comments": 160
-   },
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "9aa10c979eb5",
-   "title": "The entirety of \"Let Over Lambda\" is now freely available online",
-   "url": "https://letoverlambda.com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T12:44:34.403Z",
-   "score": 71,
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "24f4f4f8f1a5",
-   "title": "Hijacking Samsung TV Smart Hub Ads",
-   "url": "https://dvratil.cz/2026/11/hijacking-samsung-tv-smart-hub-ads/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T11:08:45.506Z",
-   "score": 51,
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "e3acff489800",
-   "title": "Hello Baochip",
-   "url": "https://ratfactor.com/cards/hello-baochip",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T10:09:16.380Z",
-   "score": 77,
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "2f9753ffae71",
-   "title": "The Myth of Neutral Code",
-   "url": "https://foss.life/notes/2026/the-myth-of-neutral-code/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-11T23:59:09.304Z",
-   "score": 33,
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "9458941a000d",
-   "title": "Andrew Kensler's permute(), a function for stateless, constant-time pseudorandom-order array iteration",
-   "url": "https://andrew-helmer.github.io/permute/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-11T20:08:45.593Z",
-   "score": 19,
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "0990939c7d6e",
-   "title": "Holiday Extras is rethinking what it can build with Codex",
-   "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-12T09:30:00.000Z",
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "b06379671ede",
-   "title": "Supporting research on AI and children’s safety",
-   "url": "https://openai.com/index/children-first-declaration",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-12T00:00:00.000Z",
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "3e7d9f23d3e7",
-   "title": "[$] C++26 contract confusion",
-   "url": "https://lwn.net/Articles/1105400/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-12T14:29:04.000Z",
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
-  },
-  {
-   "id": "1cc122a11d0f",
-   "title": "Bliki: Generated Glossary",
-   "url": "https://martinfowler.com/bliki/GeneratedGlossary.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-11-12T14:15:00.000Z",
-   "firstSeenAt": "2026-11-12T17:30:15.135Z"
   }
  ]
 }
