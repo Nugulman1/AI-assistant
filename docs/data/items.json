@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T18:09:03.932Z",
+ "generatedAt": "2026-11-20T02:06:42.335Z",
  "items": [
   {
    "id": "cd785972e812",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-19T05:56:36.000Z",
    "hn": {
     "id": "50556533",
-    "points": 311,
-    "comments": 36
+    "points": 382,
+    "comments": 41
    },
-   "score": 10,
+   "score": 35,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -29,10 +29,10 @@
    "publishedAt": "2026-11-19T05:09:11.000Z",
    "hn": {
     "id": "50556287",
-    "points": 315,
-    "comments": 129
+    "points": 385,
+    "comments": 166
    },
-   "score": 13,
+   "score": 24,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -46,10 +46,10 @@
    "publishedAt": "2026-11-18T23:53:49.000Z",
    "hn": {
     "id": "50554045",
-    "points": 739,
-    "comments": 367
+    "points": 782,
+    "comments": 391
    },
-   "score": 69,
+   "score": 141,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -63,10 +63,10 @@
    "publishedAt": "2026-11-18T23:52:50.000Z",
    "hn": {
     "id": "50554038",
-    "points": 324,
-    "comments": 126
+    "points": 337,
+    "comments": 129
    },
-   "score": 20,
+   "score": 22,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -81,8 +81,8 @@
    "firstSeenAt": "2026-11-19T02:23:14.458Z",
    "hn": {
     "id": "50553843",
-    "points": 393,
-    "comments": 737
+    "points": 411,
+    "comments": 775
    }
   },
   {
@@ -200,7 +200,7 @@
     "comments": 609
    },
    "firstSeenAt": "2026-11-17T03:30:33.271Z",
-   "score": 42
+   "score": 48
   },
   {
    "id": "0a2c564cc136",
@@ -288,38 +288,229 @@
    }
   },
   {
-   "id": "b8c82d5c01fe",
-   "title": "Rust 1.100",
-   "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+   "id": "122be7cf5dd9",
+   "title": "Claude solves two open problems in the physics of black holes",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T18:24:06.000Z",
-   "hn": {
-    "id": "50472038",
-    "points": 887,
-    "comments": 317
-   },
-   "score": 155,
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "2be02ef86ae7",
-   "title": "The Secret of Monkey Island: all 13 versions side by side",
-   "url": "https://monkeyisland.pages.dev/",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-11-12T14:37:35.465Z",
-   "score": 42,
-   "firstSeenAt": "2026-11-13T01:43:09.657Z",
+   "publishedAt": "2026-11-19T17:30:44.000Z",
    "hn": {
-    "id": "50493904",
-    "points": 501,
-    "comments": 156
-   }
+    "id": "50563148",
+    "points": 392,
+    "comments": 180
+   },
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "db6959f67901",
+   "title": "Pancreatic cancer halted by virus injection in three patients",
+   "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-19T17:25:33.000Z",
+   "hn": {
+    "id": "50563066",
+    "points": 600,
+    "comments": 90
+   },
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "f0d0f469e0bf",
+   "title": "Anthropic’s Nasdaq debut",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-19T17:02:40.000Z",
+   "hn": {
+    "id": "50562754",
+    "points": 920,
+    "comments": 1817
+   },
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "32cca7ee5709",
+   "title": "Fuck Your AI Safeguards",
+   "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-19T16:30:18.000Z",
+   "hn": {
+    "id": "50562262",
+    "points": 482,
+    "comments": 194
+   },
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "3580245413f2",
+   "title": "UK government forced to admit it issued Apple a secret encryption order",
+   "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-19T16:21:03.000Z",
+   "hn": {
+    "id": "50562113",
+    "points": 513,
+    "comments": 221
+   },
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "d87379e2fe11",
+   "title": "Everything you need to survive and rebuild society",
+   "url": "https://lastbook.org/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-19T14:47:18.000Z",
+   "hn": {
+    "id": "50560822",
+    "points": 362,
+    "comments": 192
+   },
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "21575d48062c",
+   "title": "Someone reported java4shell bug in September 2026",
+   "url": "https://github.com/openjdk/jdk/pull/32781",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-19T11:47:03.000Z",
+   "hn": {
+    "id": "50558906",
+    "points": 372,
+    "comments": 95
+   },
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "f45c67f96747",
+   "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
+   "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-18T14:43:52.000Z",
+   "hn": {
+    "id": "50546914",
+    "points": 300,
+    "comments": 224
+   },
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "b9daecdb6589",
+   "title": "Mutex poisoning is not for everyone",
+   "url": "https://bertptrs.nl/2026/11/16/mutex-poisoning-is-not-for-everyone.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T13:01:49.961Z",
+   "score": 26,
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "e26424fe39af",
+   "title": "Hiring a Systems Programmer for Boxem",
+   "url": "https://lobste.rs/s/pnfs5p/hiring_systems_programmer_for_boxem",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T16:45:34.347Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "49c871771587",
+   "title": "Type inference and narrowing with reverse arrows",
+   "url": "https://elixir-lang.org/blog/2026/11/10/inference-narrowing-reverse-arrows/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T13:34:58.887Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "890e56098ff2",
+   "title": "Validating a High-Performance Cloud Object Store with Lightweight Formal Methods",
+   "url": "https://dl.acm.org/doi/10.1145/3830418.3843899",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T08:53:43.470Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "5fb85d77dd56",
+   "title": "AVTR: Adaptive Multimodal Reasoning with Visual Imagination",
+   "url": "https://huggingface.co/papers/2611.24161",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-18T05:05:18.000Z",
+   "score": 2,
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "4b08ec50268e",
+   "title": "Deploying Daybreak Red",
+   "url": "https://openai.com/business/learn/deploying-daybreak-red",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-19T00:00:00.000Z",
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "cb99e2baa62e",
+   "title": "See PR scans in action",
+   "url": "https://openai.com/business/learn/pr-scans-demo",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-19T00:00:00.000Z",
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "e29ac258c013",
+   "title": "Explore the Codex Security Plugin",
+   "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-19T00:00:00.000Z",
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "a2fb00344062",
+   "title": "Get started with Daybreak Blue",
+   "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-19T00:00:00.000Z",
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
+  },
+  {
+   "id": "ff4da9032d2d",
+   "title": "nginx2root: Five new nginx vulnerabilities, and how Cloudflare protects origins from the worst of them",
+   "url": "https://blog.cloudflare.com/nginx2root/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-20T01:58:29.000Z",
+   "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
   {
    "id": "db0a328fdd9a",
@@ -331,8 +522,8 @@
    "publishedAt": "2026-11-19T10:58:29.000Z",
    "hn": {
     "id": "50558533",
-    "points": 557,
-    "comments": 272
+    "points": 663,
+    "comments": 323
    },
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
@@ -346,8 +537,8 @@
    "publishedAt": "2026-11-18T10:02:17.000Z",
    "hn": {
     "id": "50544261",
-    "points": 316,
-    "comments": 312
+    "points": 321,
+    "comments": 315
    },
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
@@ -359,7 +550,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-19T13:07:34.542Z",
-   "score": 12,
+   "score": 31,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -370,7 +561,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-19T15:12:08.240Z",
-   "score": 16,
+   "score": 58,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -381,7 +572,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-19T10:17:55.143Z",
-   "score": 13,
+   "score": 17,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -392,7 +583,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-19T08:37:13.161Z",
-   "score": 16,
+   "score": 27,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -553,8 +744,8 @@
    "publishedAt": "2026-11-18T21:34:07.000Z",
    "hn": {
     "id": "50552424",
-    "points": 980,
-    "comments": 744
+    "points": 1016,
+    "comments": 761
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -568,8 +759,8 @@
    "publishedAt": "2026-11-18T16:08:24.000Z",
    "hn": {
     "id": "50548021",
-    "points": 588,
-    "comments": 370
+    "points": 593,
+    "comments": 376
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -583,8 +774,8 @@
    "publishedAt": "2026-11-18T15:49:34.000Z",
    "hn": {
     "id": "50547777",
-    "points": 478,
-    "comments": 241
+    "points": 484,
+    "comments": 251
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -598,8 +789,8 @@
    "publishedAt": "2026-11-18T15:38:33.000Z",
    "hn": {
     "id": "50547620",
-    "points": 764,
-    "comments": 255
+    "points": 775,
+    "comments": 258
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -613,8 +804,8 @@
    "publishedAt": "2026-11-18T15:18:30.000Z",
    "hn": {
     "id": "50547344",
-    "points": 377,
-    "comments": 208
+    "points": 379,
+    "comments": 217
    },
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
@@ -656,7 +847,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T19:44:06.571Z",
-   "score": 29,
+   "score": 31,
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
   {
@@ -667,7 +858,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T16:39:00.327Z",
-   "score": 35,
+   "score": 38,
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
   },
   {
@@ -782,8 +973,8 @@
    "publishedAt": "2026-11-18T15:19:55.000Z",
    "hn": {
     "id": "50547374",
-    "points": 1472,
-    "comments": 625
+    "points": 1483,
+    "comments": 637
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -797,8 +988,8 @@
    "publishedAt": "2026-11-18T13:18:02.000Z",
    "hn": {
     "id": "50545958",
-    "points": 674,
-    "comments": 279
+    "points": 679,
+    "comments": 283
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -812,8 +1003,8 @@
    "publishedAt": "2026-11-18T06:47:26.000Z",
    "hn": {
     "id": "50542705",
-    "points": 798,
-    "comments": 706
+    "points": 803,
+    "comments": 710
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -827,8 +1018,8 @@
    "publishedAt": "2026-11-18T05:11:30.000Z",
    "hn": {
     "id": "50542135",
-    "points": 506,
-    "comments": 126
+    "points": 511,
+    "comments": 127
    },
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
@@ -930,7 +1121,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T08:51:09.576Z",
-   "score": 215,
+   "score": 220,
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
   {
@@ -941,7 +1132,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T14:21:42.798Z",
-   "score": 38,
+   "score": 42,
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
   {
@@ -952,7 +1143,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-18T15:28:56.196Z",
-   "score": 81,
+   "score": 85,
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
   {
@@ -3106,221 +3297,6 @@
    ],
    "publishedAt": "2026-11-13T14:00:00.000Z",
    "firstSeenAt": "2026-11-13T17:06:25.286Z"
-  },
-  {
-   "id": "d40fca9fd5e1",
-   "title": "Gemini 4 Hydrogen and Orchestrator",
-   "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T18:52:01.000Z",
-   "hn": {
-    "id": "50472260",
-    "points": 501,
-    "comments": 161
-   },
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "47e68dc764ba",
-   "title": "Service degradation on Microsoft 365",
-   "url": "https://status.cloud.microsoft/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T18:20:48.000Z",
-   "hn": {
-    "id": "50471731",
-    "points": 1165,
-    "comments": 987
-   },
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "7482059e8feb",
-   "title": "Ask HN: Microsoft/Azure Outage?",
-   "url": "https://news.ycombinator.com/item?id=50471668",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T18:17:13.000Z",
-   "hn": {
-    "id": "50471668",
-    "points": 402,
-    "comments": 1
-   },
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "8fdb0296ea11",
-   "title": "Gemini 4 Hydrogen",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T18:01:48.000Z",
-   "hn": {
-    "id": "50471431",
-    "points": 565,
-    "comments": 350
-   },
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "c52958cc869a",
-   "title": "Show HN: My $300 embroidery machine needed a subscription, so I built my own app",
-   "url": "https://github.com/simpsoka/zigzag",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T17:02:42.000Z",
-   "hn": {
-    "id": "50470488",
-    "points": 731,
-    "comments": 249
-   },
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "8e60012da5d1",
-   "title": "Jensen Huang resigns",
-   "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T13:52:29.000Z",
-   "hn": {
-    "id": "50467087",
-    "points": 4008,
-    "comments": 3415
-   },
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "cbc9a645a65e",
-   "title": "Writing correct software is hard and math alone won’t help us (2016)",
-   "url": "https://pron.github.io/posts/correctness-and-complexity",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T10:28:26.000Z",
-   "hn": {
-    "id": "50465352",
-    "points": 368,
-    "comments": 183
-   },
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "d05830646ed0",
-   "title": "Emacs in the Age of Magic",
-   "url": "https://commandlinesystems.com/magic.txt",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-11T20:26:32.000Z",
-   "hn": {
-    "id": "50458208",
-    "points": 308,
-    "comments": 162
-   },
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "843cb0f18134",
-   "title": "The anti-marketing aspect of the Gemini network",
-   "url": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T16:17:25.103Z",
-   "score": 51,
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "9feb4ac43aa6",
-   "title": "libreagi - save OS models",
-   "url": "https://libreagi.com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T15:35:46.353Z",
-   "score": 12,
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "993d7aed5cd5",
-   "title": "Adapting CPython for yk",
-   "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T12:29:56.716Z",
-   "score": 24,
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "359d6b58026b",
-   "title": "Paths in pieces",
-   "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T14:49:26.033Z",
-   "score": 33,
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "1502ab6cac1a",
-   "title": "FreeBSD Status Report Third Quarter 2026",
-   "url": "https://www.freebsd.org/status/report-2026-07-2026-09/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-12T20:45:02.608Z",
-   "score": 22,
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "5b0f73df89a6",
-   "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-   "url": "https://openai.com/business/customer-stories/amplitude",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-12T20:00:00.000Z",
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "90d79223706e",
-   "title": "Gondola doubles revenue as its team builds more with Codex",
-   "url": "https://openai.com/business/customer-stories/gondola",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-12T12:00:00.000Z",
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "a8d5fa7d24b3",
-   "title": "Introducing Gemini 4 Hydrogen",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-11-12T18:00:50.000Z",
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
-  },
-  {
-   "id": "2583bd8fdfdb",
-   "title": "The Pulse: What can we learn from the Railway hack?",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-12T18:53:19.000Z",
-   "firstSeenAt": "2026-11-13T01:43:09.657Z"
   }
  ]
 }
