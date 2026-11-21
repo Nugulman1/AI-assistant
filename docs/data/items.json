@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T17:41:39.417Z",
+ "generatedAt": "2026-11-21T02:01:20.382Z",
  "items": [
   {
    "id": "bbe099f2944c",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-20T14:16:21.000Z",
    "hn": {
     "id": "50574968",
-    "points": 1416,
-    "comments": 969
+    "points": 2376,
+    "comments": 1602
    },
-   "score": 27,
+   "score": 71,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -32,7 +32,7 @@
     "points": 404,
     "comments": 44
    },
-   "score": 51,
+   "score": 60,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -46,10 +46,10 @@
    "publishedAt": "2026-11-19T05:09:11.000Z",
    "hn": {
     "id": "50556287",
-    "points": 401,
-    "comments": 182
+    "points": 402,
+    "comments": 184
    },
-   "score": 28,
+   "score": 29,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -66,7 +66,7 @@
     "points": 818,
     "comments": 409
    },
-   "score": 189,
+   "score": 198,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -288,6 +288,230 @@
    }
   },
   {
+   "id": "a0ebc9ee452b",
+   "title": "Inkling 2 Mini",
+   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T20:12:19.000Z",
+   "hn": {
+    "id": "50581260",
+    "points": 688,
+    "comments": 111
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "04e4de985797",
+   "title": "Hurried Announcement: Alessandro Masullo GRH",
+   "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T18:33:14.000Z",
+   "hn": {
+    "id": "50579568",
+    "points": 1580,
+    "comments": 719
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "e1a223b73868",
+   "title": "We promoted developers into architects without informing them",
+   "url": "https://manidoraisamy.com/developer-to-architect.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T18:17:51.000Z",
+   "hn": {
+    "id": "50579331",
+    "points": 302,
+    "comments": 184
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "dc0a65e6fd6d",
+   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+   "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T17:21:36.000Z",
+   "hn": {
+    "id": "50578358",
+    "points": 344,
+    "comments": 142
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "9fe3e937f57a",
+   "title": "Language Models Can Rewrite Their Own Weights",
+   "url": "https://arxiv.org/abs/2611.21885",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T16:29:06.000Z",
+   "hn": {
+    "id": "50577265",
+    "points": 341,
+    "comments": 112
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "f4c47e25e952",
+   "title": "Why there are still no non-WebKit browsers on iOS",
+   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T15:03:31.000Z",
+   "hn": {
+    "id": "50575644",
+    "points": 332,
+    "comments": 195
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "0fd72439d561",
+   "title": "If you stop writing code, you also get worse at reviewing it",
+   "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T12:41:38.000Z",
+   "hn": {
+    "id": "50573886",
+    "points": 324,
+    "comments": 159
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "c4ca83ba5741",
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "url": "https://signal.org/blog/protecting-your-privacy/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T09:42:16.000Z",
+   "hn": {
+    "id": "50572348",
+    "points": 511,
+    "comments": 305
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "80ebabff1fcc",
+   "title": "Internet Archive Staffers Are Unionizing",
+   "url": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-20T18:39:29.070Z",
+   "score": 37,
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "3a09279070bb",
+   "title": "Alice v0.6.0",
+   "url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-20T16:44:09.585Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "ec9713717641",
+   "title": "Lisp Game Jam devlog: Polydraw",
+   "url": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-20T11:18:47.299Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "f454ea635e39",
+   "title": "Rebuilding my local voice assistant pipeline",
+   "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-19T19:50:25.512Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "3ea993db7e3c",
+   "title": "Combatting adversarial distillation",
+   "url": "https://openai.com/index/combatting-adversarial-distillation",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-20T10:00:00.000Z",
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "d15c45643214",
+   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+   "url": "https://openai.com/business/customer-stories/hebbia",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-20T00:00:00.000Z",
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "f4784c304003",
+   "title": "Can AI help scientists identify promising drug candidates?",
+   "url": "https://openai.com/index/introducing-medchembench",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-20T00:00:00.000Z",
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "f93ea93941f6",
+   "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
+   "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-20T20:24:38.000Z",
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "7066f202a884",
+   "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
+   "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-20T20:00:45.000Z",
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
+   "id": "7c0fb66e7725",
+   "title": "Fragments: November 20",
+   "url": "https://martinfowler.com/fragments/2026-11-20.html",
+   "sources": [
+    "Martin Fowler"
+   ],
+   "publishedAt": "2026-11-20T18:38:00.000Z",
+   "firstSeenAt": "2026-11-21T02:01:20.382Z"
+  },
+  {
    "id": "89b47ada3cb2",
    "title": "I'll never buy Framework hardware again",
    "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
@@ -297,8 +521,8 @@
    "publishedAt": "2026-11-20T16:06:30.000Z",
    "hn": {
     "id": "50576855",
-    "points": 406,
-    "comments": 257
+    "points": 762,
+    "comments": 544
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -312,8 +536,8 @@
    "publishedAt": "2026-11-20T10:01:41.000Z",
    "hn": {
     "id": "50572503",
-    "points": 474,
-    "comments": 270
+    "points": 629,
+    "comments": 328
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -327,8 +551,8 @@
    "publishedAt": "2026-11-20T09:43:19.000Z",
    "hn": {
     "id": "50572355",
-    "points": 436,
-    "comments": 230
+    "points": 627,
+    "comments": 293
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -342,8 +566,8 @@
    "publishedAt": "2026-11-20T09:13:09.000Z",
    "hn": {
     "id": "50572116",
-    "points": 407,
-    "comments": 253
+    "points": 508,
+    "comments": 315
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -357,8 +581,8 @@
    "publishedAt": "2026-11-20T07:13:21.000Z",
    "hn": {
     "id": "50571189",
-    "points": 371,
-    "comments": 359
+    "points": 408,
+    "comments": 397
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -372,8 +596,8 @@
    "publishedAt": "2026-11-20T05:21:02.000Z",
    "hn": {
     "id": "50570479",
-    "points": 435,
-    "comments": 170
+    "points": 478,
+    "comments": 189
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -387,8 +611,8 @@
    "publishedAt": "2026-11-20T03:45:45.000Z",
    "hn": {
     "id": "50569890",
-    "points": 352,
-    "comments": 22
+    "points": 380,
+    "comments": 27
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -402,8 +626,8 @@
    "publishedAt": "2026-11-20T02:01:09.000Z",
    "hn": {
     "id": "50569226",
-    "points": 343,
-    "comments": 299
+    "points": 365,
+    "comments": 328
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -417,8 +641,8 @@
    "publishedAt": "2026-11-19T23:35:35.000Z",
    "hn": {
     "id": "50568130",
-    "points": 360,
-    "comments": 238
+    "points": 367,
+    "comments": 241
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -432,8 +656,8 @@
    "publishedAt": "2026-11-19T18:35:17.000Z",
    "hn": {
     "id": "50564159",
-    "points": 326,
-    "comments": 178
+    "points": 336,
+    "comments": 183
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -447,8 +671,8 @@
    "publishedAt": "2026-11-19T13:18:11.000Z",
    "hn": {
     "id": "50559719",
-    "points": 317,
-    "comments": 66
+    "points": 318,
+    "comments": 70
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -462,8 +686,8 @@
    "publishedAt": "2026-11-19T09:05:34.000Z",
    "hn": {
     "id": "50557716",
-    "points": 318,
-    "comments": 238
+    "points": 322,
+    "comments": 240
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -477,8 +701,8 @@
    "publishedAt": "2026-11-19T08:56:47.000Z",
    "hn": {
     "id": "50557661",
-    "points": 316,
-    "comments": 254
+    "points": 325,
+    "comments": 266
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -505,7 +729,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T10:02:03.889Z",
-   "score": 41,
+   "score": 54,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -516,7 +740,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T10:33:36.402Z",
-   "score": 37,
+   "score": 58,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -527,7 +751,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T09:58:05.152Z",
-   "score": 18,
+   "score": 28,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -538,7 +762,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T09:39:11.806Z",
-   "score": 14,
+   "score": 37,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -549,7 +773,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T03:34:36.153Z",
-   "score": 29,
+   "score": 36,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -560,7 +784,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T02:41:39.230Z",
-   "score": 22,
+   "score": 36,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -571,7 +795,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T11:14:06.928Z",
-   "score": 11,
+   "score": 22,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -582,7 +806,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T02:12:07.853Z",
-   "score": 13,
+   "score": 16,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -593,7 +817,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-19T18:39:29.454Z",
-   "score": 10,
+   "score": 13,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -681,8 +905,8 @@
    "publishedAt": "2026-11-19T17:30:44.000Z",
    "hn": {
     "id": "50563148",
-    "points": 537,
-    "comments": 258
+    "points": 553,
+    "comments": 270
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -696,8 +920,8 @@
    "publishedAt": "2026-11-19T17:25:33.000Z",
    "hn": {
     "id": "50563066",
-    "points": 857,
-    "comments": 150
+    "points": 873,
+    "comments": 154
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -711,8 +935,8 @@
    "publishedAt": "2026-11-19T17:02:40.000Z",
    "hn": {
     "id": "50562754",
-    "points": 1116,
-    "comments": 2251
+    "points": 1130,
+    "comments": 2296
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -726,8 +950,8 @@
    "publishedAt": "2026-11-19T16:30:18.000Z",
    "hn": {
     "id": "50562262",
-    "points": 582,
-    "comments": 238
+    "points": 597,
+    "comments": 246
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -741,8 +965,8 @@
    "publishedAt": "2026-11-19T16:21:03.000Z",
    "hn": {
     "id": "50562113",
-    "points": 681,
-    "comments": 340
+    "points": 688,
+    "comments": 361
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -756,8 +980,8 @@
    "publishedAt": "2026-11-19T14:47:18.000Z",
    "hn": {
     "id": "50560822",
-    "points": 413,
-    "comments": 216
+    "points": 417,
+    "comments": 224
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -771,8 +995,8 @@
    "publishedAt": "2026-11-19T11:47:03.000Z",
    "hn": {
     "id": "50558906",
-    "points": 453,
-    "comments": 128
+    "points": 458,
+    "comments": 131
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -799,7 +1023,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-19T13:01:49.961Z",
-   "score": 37,
+   "score": 38,
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
   {
@@ -906,8 +1130,8 @@
    "publishedAt": "2026-11-19T10:58:29.000Z",
    "hn": {
     "id": "50558533",
-    "points": 710,
-    "comments": 362
+    "points": 714,
+    "comments": 368
    },
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
@@ -934,7 +1158,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-19T13:07:34.542Z",
-   "score": 46,
+   "score": 48,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -945,7 +1169,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-19T15:12:08.240Z",
-   "score": 79,
+   "score": 86,
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
@@ -3168,155 +3392,6 @@
    ],
    "publishedAt": "2026-11-14T12:23:15.000Z",
    "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "9c247e087592",
-   "title": "FAA issues national ground stop",
-   "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-13T21:05:53.000Z",
-   "hn": {
-    "id": "50489641",
-    "points": 1643,
-    "comments": 1281
-   },
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "e940fd987572",
-   "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-13T17:30:10.000Z",
-   "hn": {
-    "id": "50486748",
-    "points": 431,
-    "comments": 110
-   },
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "d6b5bcff4d0c",
-   "title": "LibreOffice actually works 365 days a year",
-   "url": "https://twitter.com/LibreOffice/status/2121205272479998268",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-13T17:09:58.000Z",
-   "hn": {
-    "id": "50486482",
-    "points": 949,
-    "comments": 290
-   },
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "7ac7b8ca9e1e",
-   "title": "AI is destroying the trust between writers and readers",
-   "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-13T11:13:46.000Z",
-   "hn": {
-    "id": "50481870",
-    "points": 363,
-    "comments": 230
-   },
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "0ecc21d01c24",
-   "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-   "url": "https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-12T14:18:49.000Z",
-   "hn": {
-    "id": "50467618",
-    "points": 306,
-    "comments": 128
-   },
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "4fee55cd2515",
-   "title": "Probabilistic data structures in Go",
-   "url": "https://antonz.org/probabilistic-data-structures/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T16:03:44.210Z",
-   "score": 59,
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "4fc67bea017c",
-   "title": "Someone's impersonating this blog",
-   "url": "https://mattbee.mataroa.blog/p/someones-impersonating-this-blog/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T20:39:53.682Z",
-   "score": 50,
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "86b7f002df78",
-   "title": "A technical vision for the Haskell ecosystem",
-   "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T14:27:43.582Z",
-   "score": 15,
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "05cf9eadd6ea",
-   "title": "“From digital mischief to outright destruction”",
-   "url": "https://unsung.aresluna.org/from-digital-mischief-to-outright-destruction",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T07:50:10.868Z",
-   "score": 12,
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "d1318183fe17",
-   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-   "url": "https://openai.com/business/customer-stories/shield",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-13T08:00:00.000Z",
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "09e5e80125ce",
-   "title": "Kitesurf is now open source",
-   "url": "https://blog.cloudflare.com/kitesurf-open-source/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-13T20:20:21.000Z",
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
-  },
-  {
-   "id": "4766c254790f",
-   "title": "Adapting to AI penetration testing orchestrators: The Modern Security Model",
-   "url": "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-13T19:26:07.000Z",
-   "firstSeenAt": "2026-11-14T01:20:33.571Z"
   }
  ]
 }
