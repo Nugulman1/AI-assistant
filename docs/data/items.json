@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-11-21T02:01:20.382Z",
+ "generatedAt": "2026-11-21T16:43:33.834Z",
  "items": [
+  {
+   "id": "5f05718be20b",
+   "title": "Slopstrap – Make your site look hastily vibecoded",
+   "url": "https://slopstrap.mikelacher.com/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-20T15:24:11.000Z",
+   "hn": {
+    "id": "50576012",
+    "points": 469,
+    "comments": 76
+   },
+   "score": 51,
+   "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
   {
    "id": "bbe099f2944c",
    "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
@@ -12,10 +29,10 @@
    "publishedAt": "2026-11-20T14:16:21.000Z",
    "hn": {
     "id": "50574968",
-    "points": 2376,
-    "comments": 1602
+    "points": 2799,
+    "comments": 1964
    },
-   "score": 71,
+   "score": 89,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -288,6 +305,107 @@
    }
   },
   {
+   "id": "35f854dd7615",
+   "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+   "url": "https://news.ycombinator.com/item?id=50583761",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T23:18:32.000Z",
+   "hn": {
+    "id": "50583761",
+    "points": 397,
+    "comments": 418
+   },
+   "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
+  {
+   "id": "b6394ef89842",
+   "title": "NINLIVE: The Nine Inch Nails live archive",
+   "url": "https://ninlive.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T22:30:47.000Z",
+   "hn": {
+    "id": "50583274",
+    "points": 318,
+    "comments": 82
+   },
+   "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
+  {
+   "id": "ac6264fec7d5",
+   "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+   "url": "https://scottaaronson.blog/?p=10344",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T20:03:07.000Z",
+   "hn": {
+    "id": "50581084",
+    "points": 325,
+    "comments": 297
+   },
+   "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
+  {
+   "id": "4c04906c1251",
+   "title": "Finite-time blow-up for the Navier–Stokes equations",
+   "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T15:34:31.000Z",
+   "hn": {
+    "id": "50576232",
+    "points": 306,
+    "comments": 96
+   },
+   "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
+  {
+   "id": "fd2811614640",
+   "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+   "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T13:29:59.000Z",
+   "hn": {
+    "id": "50574383",
+    "points": 425,
+    "comments": 756
+   },
+   "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
+  {
+   "id": "a686a63e57b1",
+   "title": "FFmpeg 9.1 'Gauss'",
+   "url": "https://ffmpeg.org/download.html#release_9.1",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T04:02:39.000Z",
+   "hn": {
+    "id": "50569998",
+    "points": 301,
+    "comments": 36
+   },
+   "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
+  {
+   "id": "e3142f2708c0",
+   "title": "My Monitor Was Cutting My Download Speed by 75%",
+   "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T15:03:28.370Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
+  {
    "id": "a0ebc9ee452b",
    "title": "Inkling 2 Mini",
    "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
@@ -297,8 +415,8 @@
    "publishedAt": "2026-11-20T20:12:19.000Z",
    "hn": {
     "id": "50581260",
-    "points": 688,
-    "comments": 111
+    "points": 1194,
+    "comments": 232
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -312,8 +430,8 @@
    "publishedAt": "2026-11-20T18:33:14.000Z",
    "hn": {
     "id": "50579568",
-    "points": 1580,
-    "comments": 719
+    "points": 2287,
+    "comments": 1082
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -327,8 +445,8 @@
    "publishedAt": "2026-11-20T18:17:51.000Z",
    "hn": {
     "id": "50579331",
-    "points": 302,
-    "comments": 184
+    "points": 520,
+    "comments": 288
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -342,8 +460,8 @@
    "publishedAt": "2026-11-20T17:21:36.000Z",
    "hn": {
     "id": "50578358",
-    "points": 344,
-    "comments": 142
+    "points": 504,
+    "comments": 213
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -357,8 +475,8 @@
    "publishedAt": "2026-11-20T16:29:06.000Z",
    "hn": {
     "id": "50577265",
-    "points": 341,
-    "comments": 112
+    "points": 453,
+    "comments": 137
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -372,8 +490,8 @@
    "publishedAt": "2026-11-20T15:03:31.000Z",
    "hn": {
     "id": "50575644",
-    "points": 332,
-    "comments": 195
+    "points": 363,
+    "comments": 219
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -387,8 +505,8 @@
    "publishedAt": "2026-11-20T12:41:38.000Z",
    "hn": {
     "id": "50573886",
-    "points": 324,
-    "comments": 159
+    "points": 366,
+    "comments": 176
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -402,8 +520,8 @@
    "publishedAt": "2026-11-20T09:42:16.000Z",
    "hn": {
     "id": "50572348",
-    "points": 511,
-    "comments": 305
+    "points": 560,
+    "comments": 329
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -415,7 +533,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T18:39:29.070Z",
-   "score": 37,
+   "score": 67,
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
   {
@@ -426,7 +544,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T16:44:09.585Z",
-   "score": 13,
+   "score": 23,
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
   {
@@ -437,7 +555,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T11:18:47.299Z",
-   "score": 14,
+   "score": 18,
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
   {
@@ -521,8 +639,8 @@
    "publishedAt": "2026-11-20T16:06:30.000Z",
    "hn": {
     "id": "50576855",
-    "points": 762,
-    "comments": 544
+    "points": 810,
+    "comments": 604
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -536,8 +654,8 @@
    "publishedAt": "2026-11-20T10:01:41.000Z",
    "hn": {
     "id": "50572503",
-    "points": 629,
-    "comments": 328
+    "points": 658,
+    "comments": 343
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -551,8 +669,8 @@
    "publishedAt": "2026-11-20T09:43:19.000Z",
    "hn": {
     "id": "50572355",
-    "points": 627,
-    "comments": 293
+    "points": 679,
+    "comments": 313
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -566,8 +684,8 @@
    "publishedAt": "2026-11-20T09:13:09.000Z",
    "hn": {
     "id": "50572116",
-    "points": 508,
-    "comments": 315
+    "points": 536,
+    "comments": 337
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -581,8 +699,8 @@
    "publishedAt": "2026-11-20T07:13:21.000Z",
    "hn": {
     "id": "50571189",
-    "points": 408,
-    "comments": 397
+    "points": 424,
+    "comments": 410
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -596,8 +714,8 @@
    "publishedAt": "2026-11-20T05:21:02.000Z",
    "hn": {
     "id": "50570479",
-    "points": 478,
-    "comments": 189
+    "points": 501,
+    "comments": 203
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -611,8 +729,8 @@
    "publishedAt": "2026-11-20T03:45:45.000Z",
    "hn": {
     "id": "50569890",
-    "points": 380,
-    "comments": 27
+    "points": 390,
+    "comments": 29
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -626,8 +744,8 @@
    "publishedAt": "2026-11-20T02:01:09.000Z",
    "hn": {
     "id": "50569226",
-    "points": 365,
-    "comments": 328
+    "points": 367,
+    "comments": 340
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -641,8 +759,8 @@
    "publishedAt": "2026-11-19T23:35:35.000Z",
    "hn": {
     "id": "50568130",
-    "points": 367,
-    "comments": 241
+    "points": 371,
+    "comments": 244
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -656,8 +774,8 @@
    "publishedAt": "2026-11-19T18:35:17.000Z",
    "hn": {
     "id": "50564159",
-    "points": 336,
-    "comments": 183
+    "points": 341,
+    "comments": 184
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -729,7 +847,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T10:02:03.889Z",
-   "score": 54,
+   "score": 66,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -740,7 +858,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T10:33:36.402Z",
-   "score": 58,
+   "score": 65,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -751,7 +869,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T09:58:05.152Z",
-   "score": 28,
+   "score": 38,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -762,7 +880,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T09:39:11.806Z",
-   "score": 37,
+   "score": 63,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -773,7 +891,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T03:34:36.153Z",
-   "score": 36,
+   "score": 42,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -784,7 +902,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T02:41:39.230Z",
-   "score": 36,
+   "score": 52,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -795,7 +913,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T11:14:06.928Z",
-   "score": 22,
+   "score": 30,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -905,8 +1023,8 @@
    "publishedAt": "2026-11-19T17:30:44.000Z",
    "hn": {
     "id": "50563148",
-    "points": 553,
-    "comments": 270
+    "points": 562,
+    "comments": 271
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -920,8 +1038,8 @@
    "publishedAt": "2026-11-19T17:25:33.000Z",
    "hn": {
     "id": "50563066",
-    "points": 873,
-    "comments": 154
+    "points": 879,
+    "comments": 157
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -935,8 +1053,8 @@
    "publishedAt": "2026-11-19T17:02:40.000Z",
    "hn": {
     "id": "50562754",
-    "points": 1130,
-    "comments": 2296
+    "points": 1136,
+    "comments": 2312
    },
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
   },
@@ -3241,157 +3359,6 @@
    "publishedAt": "2026-11-14T02:57:49.133Z",
    "score": 16,
    "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "c6caa4d4f0b0",
-   "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-   "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T02:52:59.000Z",
-   "hn": {
-    "id": "50493251",
-    "points": 1098,
-    "comments": 646
-   },
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "6c41dcbf34a2",
-   "title": "Ggml v1.0.0",
-   "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T02:28:29.000Z",
-   "hn": {
-    "id": "50493062",
-    "points": 416,
-    "comments": 68
-   },
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "406adb72e894",
-   "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-   "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-13T18:40:44.000Z",
-   "hn": {
-    "id": "50487864",
-    "points": 383,
-    "comments": 214
-   },
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "36b0036d3919",
-   "title": "It Takes 16 Clicks for a Student to Open a PowerPoint on an iPad",
-   "url": "https://www.reddit.com/r/Teachers/comments/1xuup7a/technology_sucks_it_literally_takes_16_clicks_for/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-13T18:18:37.000Z",
-   "hn": {
-    "id": "50487522",
-    "points": 400,
-    "comments": 238
-   },
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "4f5b4ce8cb48",
-   "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-   "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-13T15:08:44.000Z",
-   "hn": {
-    "id": "50484658",
-    "points": 459,
-    "comments": 667
-   },
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "0e959caf89bd",
-   "title": "What happened to 3com?",
-   "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-14T05:46:40.915Z",
-   "score": 39,
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "c10412da3dc8",
-   "title": "Link Previews and You",
-   "url": "https://sable.moe/en/blog/link-previews-and-you/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T17:34:47.014Z",
-   "score": 14,
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "1379604e29ef",
-   "title": "Fixing a WebKit bug to see if promises are made of train tracks",
-   "url": "https://alistair.sh/thenables",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T16:48:01.396Z",
-   "score": 24,
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "cb831438be79",
-   "title": "Kildall's algorithm",
-   "url": "https://bike.github.io/posts/kildall.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T19:34:28.227Z",
-   "score": 20,
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "595cbf25337c",
-   "title": "Pointer Provenance in Rust vs C++",
-   "url": "https://sofiabelen.github.io/projects/pointer-provenance-in-rust-vs-cpp/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T18:37:30.823Z",
-   "score": 18,
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "ed34f26d8e82",
-   "title": "What are you doing this weekend?",
-   "url": "https://lobste.rs/s/4bvg9z/what_are_you_doing_this_weekend",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-13T10:22:29.641Z",
-   "score": 13,
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
-  },
-  {
-   "id": "8479f47633fa",
-   "title": "Open-source AI without Jensen",
-   "url": "https://www.interconnects.ai/p/open-source-ai-without-jensen",
-   "sources": [
-    "Interconnects"
-   ],
-   "publishedAt": "2026-11-14T12:23:15.000Z",
-   "firstSeenAt": "2026-11-14T15:42:38.584Z"
   }
  ]
 }
