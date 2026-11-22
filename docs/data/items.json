@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T01:02:03.593Z",
+ "generatedAt": "2026-11-22T17:02:01.373Z",
  "items": [
   {
    "id": "5f05718be20b",
@@ -15,7 +15,7 @@
     "points": 661,
     "comments": 123
    },
-   "score": 74,
+   "score": 93,
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
   {
@@ -27,12 +27,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-21T10:36:32.000Z",
-   "score": 74,
+   "score": 111,
    "firstSeenAt": "2026-11-21T16:43:33.834Z",
    "hn": {
     "id": "50587875",
-    "points": 473,
-    "comments": 227
+    "points": 655,
+    "comments": 303
    }
   },
   {
@@ -322,6 +322,121 @@
    }
   },
   {
+   "id": "38c61351fe0d",
+   "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+   "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T08:57:34.000Z",
+   "hn": {
+    "id": "50597612",
+    "points": 479,
+    "comments": 565
+   },
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
+   "id": "f0cbfd679464",
+   "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+   "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T04:04:56.000Z",
+   "hn": {
+    "id": "50596133",
+    "points": 932,
+    "comments": 545
+   },
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
+   "id": "f759d984a78b",
+   "title": "Sandwich Simulator",
+   "url": "https://stulle.app/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T00:07:59.000Z",
+   "hn": {
+    "id": "50594911",
+    "points": 444,
+    "comments": 153
+   },
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
+   "id": "0165c931824a",
+   "title": "Getting the mind to steer the body to steer you",
+   "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T22:11:05.000Z",
+   "hn": {
+    "id": "50583028",
+    "points": 362,
+    "comments": 132
+   },
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
+   "id": "6e086317ffb3",
+   "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced",
+   "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T02:03:46.531Z",
+   "score": 66,
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
+   "id": "c98f7cdb49db",
+   "title": "NixOS bring-up on an Alibaba RISC-V board",
+   "url": "https://feyor.sh/blog/nixos-bringup-on-an-alibaba-riscv-board/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T00:30:07.226Z",
+   "score": 23,
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
+   "id": "a34f45a76f7c",
+   "title": "Advice for the next 100 Rust GUIs",
+   "url": "https://linebender.org/blog/next-100-guis/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T23:10:07.020Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
+   "id": "d8143851654f",
+   "title": "port scanning for mojang",
+   "url": "https://sipacid.com/blog/port-scanning-for-mojang/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T23:40:51.912Z",
+   "score": 44,
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
+   "id": "5f1fa7bf1e46",
+   "title": "Changes on freedesktop.org",
+   "url": "https://blog.tenstral.net/2026/11/new-fdo-website.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T11:41:23.942Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-22T17:02:01.373Z"
+  },
+  {
    "id": "c6e0f6fe1d32",
    "title": "Inkling-2-Mini in 5.4 GB Memory",
    "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
@@ -331,8 +446,8 @@
    "publishedAt": "2026-11-21T18:02:19.000Z",
    "hn": {
     "id": "50591853",
-    "points": 344,
-    "comments": 92
+    "points": 532,
+    "comments": 128
    },
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
@@ -346,8 +461,8 @@
    "publishedAt": "2026-11-21T14:36:45.000Z",
    "hn": {
     "id": "50589618",
-    "points": 809,
-    "comments": 647
+    "points": 1156,
+    "comments": 957
    },
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
@@ -361,8 +476,8 @@
    "publishedAt": "2026-11-21T13:23:14.000Z",
    "hn": {
     "id": "50588982",
-    "points": 509,
-    "comments": 341
+    "points": 670,
+    "comments": 409
    },
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
@@ -376,8 +491,8 @@
    "publishedAt": "2026-11-20T21:03:12.000Z",
    "hn": {
     "id": "50582069",
-    "points": 561,
-    "comments": 137
+    "points": 1234,
+    "comments": 267
    },
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
@@ -391,8 +506,8 @@
    "publishedAt": "2026-11-20T20:22:41.000Z",
    "hn": {
     "id": "50581438",
-    "points": 300,
-    "comments": 165
+    "points": 305,
+    "comments": 169
    },
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
@@ -404,7 +519,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T15:17:18.956Z",
-   "score": 41,
+   "score": 57,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -415,7 +530,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T13:57:53.737Z",
-   "score": 16,
+   "score": 19,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -426,7 +541,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T19:32:22.642Z",
-   "score": 10,
+   "score": 21,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -437,7 +552,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T13:18:02.362Z",
-   "score": 23,
+   "score": 30,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -448,7 +563,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T12:22:47.193Z",
-   "score": 12,
+   "score": 20,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -472,8 +587,8 @@
    "publishedAt": "2026-11-20T23:18:32.000Z",
    "hn": {
     "id": "50583761",
-    "points": 606,
-    "comments": 675
+    "points": 705,
+    "comments": 799
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
@@ -487,8 +602,8 @@
    "publishedAt": "2026-11-20T22:30:47.000Z",
    "hn": {
     "id": "50583274",
-    "points": 354,
-    "comments": 103
+    "points": 378,
+    "comments": 109
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
@@ -502,8 +617,8 @@
    "publishedAt": "2026-11-20T20:03:07.000Z",
    "hn": {
     "id": "50581084",
-    "points": 340,
-    "comments": 331
+    "points": 352,
+    "comments": 352
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
@@ -562,8 +677,8 @@
    "publishedAt": "2026-11-20T20:12:19.000Z",
    "hn": {
     "id": "50581260",
-    "points": 1380,
-    "comments": 280
+    "points": 1439,
+    "comments": 290
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -577,8 +692,8 @@
    "publishedAt": "2026-11-20T18:33:14.000Z",
    "hn": {
     "id": "50579568",
-    "points": 2388,
-    "comments": 1160
+    "points": 2442,
+    "comments": 1192
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -592,8 +707,8 @@
    "publishedAt": "2026-11-20T18:17:51.000Z",
    "hn": {
     "id": "50579331",
-    "points": 579,
-    "comments": 308
+    "points": 605,
+    "comments": 330
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -607,8 +722,8 @@
    "publishedAt": "2026-11-20T17:21:36.000Z",
    "hn": {
     "id": "50578358",
-    "points": 535,
-    "comments": 239
+    "points": 546,
+    "comments": 243
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -680,7 +795,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T18:39:29.070Z",
-   "score": 84,
+   "score": 90,
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
   {
@@ -3228,150 +3343,6 @@
    ],
    "publishedAt": "2026-11-15T22:00:00.000Z",
    "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "14ba8d169059",
-   "title": "Court denies motion to dismiss DRAM price fixing case",
-   "url": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T01:18:36.000Z",
-   "hn": {
-    "id": "50502988",
-    "points": 526,
-    "comments": 233
-   },
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "0322d2a0d024",
-   "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-   "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T22:26:30.000Z",
-   "hn": {
-    "id": "50501631",
-    "points": 450,
-    "comments": 238
-   },
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "0981be9212e1",
-   "title": "A family tree of software job titles",
-   "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T17:45:19.000Z",
-   "hn": {
-    "id": "50499038",
-    "points": 437,
-    "comments": 212
-   },
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "ee705bff49c2",
-   "title": "25 of my favourite modern NES games",
-   "url": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T02:40:40.008Z",
-   "score": 63,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "1ac50ba6c216",
-   "title": "Memory management in 40 major C projects, a survey",
-   "url": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T12:50:03.456Z",
-   "score": 58,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "c913fd136d77",
-   "title": "cursor:pointer on buttons",
-   "url": "https://blog.kizu.dev/cursors/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T09:15:40.744Z",
-   "score": 28,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "63a2b0ed3dd8",
-   "title": "Periodic-Oriented Programming for FIRST Robotics",
-   "url": "https://bvisness.me/periodic-oriented-programming/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T03:16:42.257Z",
-   "score": 20,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "aedbce8daeec",
-   "title": "FreeBSD bhyve Live Migration: Moving VMs Between Hosts",
-   "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T06:44:44.316Z",
-   "score": 23,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "6fee8ec41e56",
-   "title": "Anthropomorphic Software",
-   "url": "https://aspiz.uk/wiki/AnthropomorphicSoftware",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T08:05:45.227Z",
-   "score": 22,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "79f6c3dc3910",
-   "title": "Parsing nested lists in BQN",
-   "url": "https://saltysylvi.github.io/blog/parsing-nested-lists-in-bqn.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T01:59:26.268Z",
-   "score": 16,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "84f65ba19421",
-   "title": "Reintroducing Spaces",
-   "url": "https://dholms.leaflet.pub/3mu3p3ldwrc26",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T02:34:44.343Z",
-   "score": 16,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "edbf4ed1a954",
-   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-   "url": "https://arxiv.org/abs/2605.29713",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-14T04:51:14.032Z",
-   "score": 12,
-   "firstSeenAt": "2026-11-15T16:13:30.338Z"
   }
  ]
 }
