@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T16:43:33.834Z",
+ "generatedAt": "2026-11-22T01:02:03.593Z",
  "items": [
   {
    "id": "5f05718be20b",
@@ -12,11 +12,28 @@
    "publishedAt": "2026-11-20T15:24:11.000Z",
    "hn": {
     "id": "50576012",
-    "points": 469,
-    "comments": 76
+    "points": 661,
+    "comments": 123
    },
-   "score": 51,
+   "score": 74,
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
+  },
+  {
+   "id": "e3142f2708c0",
+   "title": "My Monitor Was Cutting My Download Speed by 75%",
+   "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-21T10:36:32.000Z",
+   "score": 74,
+   "firstSeenAt": "2026-11-21T16:43:33.834Z",
+   "hn": {
+    "id": "50587875",
+    "points": 473,
+    "comments": 227
+   }
   },
   {
    "id": "bbe099f2944c",
@@ -29,10 +46,10 @@
    "publishedAt": "2026-11-20T14:16:21.000Z",
    "hn": {
     "id": "50574968",
-    "points": 2799,
-    "comments": 1964
+    "points": 2859,
+    "comments": 2036
    },
-   "score": 89,
+   "score": 100,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -305,6 +322,147 @@
    }
   },
   {
+   "id": "c6e0f6fe1d32",
+   "title": "Inkling-2-Mini in 5.4 GB Memory",
+   "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-21T18:02:19.000Z",
+   "hn": {
+    "id": "50591853",
+    "points": 344,
+    "comments": 92
+   },
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "18d9f9bc59b3",
+   "title": "Lean verification of the Riemann Hypothesis",
+   "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-21T14:36:45.000Z",
+   "hn": {
+    "id": "50589618",
+    "points": 809,
+    "comments": 647
+   },
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "07a481fe6b0c",
+   "title": "Detonating a pile of lead azide",
+   "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-21T13:23:14.000Z",
+   "hn": {
+    "id": "50588982",
+    "points": 509,
+    "comments": 341
+   },
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "6784575ef645",
+   "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+   "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T21:03:12.000Z",
+   "hn": {
+    "id": "50582069",
+    "points": 561,
+    "comments": 137
+   },
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "c72cb9838d98",
+   "title": "US SEC's Nvidia probe is examining potential accounting issues – sources",
+   "url": "https://www.marketscreener.com/news/us-sec-s-nvidia-probe-is-examining-potential-accounting-issues-sources-say-ce785ed3dd8ff627",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-20T20:22:41.000Z",
+   "hn": {
+    "id": "50581438",
+    "points": 300,
+    "comments": 165
+   },
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "094ab3edbbe8",
+   "title": "TODOs JJ Style",
+   "url": "https://bwc9876.dev/blog/jj_todo/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T15:17:18.956Z",
+   "score": 41,
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "6cbedf0ee0fa",
+   "title": "C++26 is done (again)! — Trip report: November 2026 ISO C++ standards meeting (Búzios, Brazil)",
+   "url": "https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T13:57:53.737Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "739c2afbe047",
+   "title": "How I Got Postgres into a Single Binary",
+   "url": "https://progrium.xyz/articles/2026/single-binary-postgres",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T19:32:22.642Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "0f1e45d3179e",
+   "title": "Probabilistic data structures in Go, part 2",
+   "url": "https://antonz.org/probabilistic-data-structures-2/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T13:18:02.362Z",
+   "score": 23,
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "0861843e14b2",
+   "title": "Microsoft 365 Outage - Post Incident Report",
+   "url": "https://tianyin.github.io/misc/pir_microsoft_365_11-12-2026.pdf",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T12:22:47.193Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
+   "id": "3efb53094bce",
+   "title": "Verifying formal models of Raft implementations",
+   "url": "https://antithesis.com/blog/2026/verifying-formal-models/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-20T21:54:45.756Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-22T01:02:03.593Z"
+  },
+  {
    "id": "35f854dd7615",
    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
    "url": "https://news.ycombinator.com/item?id=50583761",
@@ -314,8 +472,8 @@
    "publishedAt": "2026-11-20T23:18:32.000Z",
    "hn": {
     "id": "50583761",
-    "points": 397,
-    "comments": 418
+    "points": 606,
+    "comments": 675
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
@@ -329,8 +487,8 @@
    "publishedAt": "2026-11-20T22:30:47.000Z",
    "hn": {
     "id": "50583274",
-    "points": 318,
-    "comments": 82
+    "points": 354,
+    "comments": 103
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
@@ -344,8 +502,8 @@
    "publishedAt": "2026-11-20T20:03:07.000Z",
    "hn": {
     "id": "50581084",
-    "points": 325,
-    "comments": 297
+    "points": 340,
+    "comments": 331
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
@@ -359,8 +517,8 @@
    "publishedAt": "2026-11-20T15:34:31.000Z",
    "hn": {
     "id": "50576232",
-    "points": 306,
-    "comments": 96
+    "points": 314,
+    "comments": 105
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
@@ -374,8 +532,8 @@
    "publishedAt": "2026-11-20T13:29:59.000Z",
    "hn": {
     "id": "50574383",
-    "points": 425,
-    "comments": 756
+    "points": 495,
+    "comments": 864
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
@@ -389,20 +547,9 @@
    "publishedAt": "2026-11-20T04:02:39.000Z",
    "hn": {
     "id": "50569998",
-    "points": 301,
+    "points": 305,
     "comments": 36
    },
-   "firstSeenAt": "2026-11-21T16:43:33.834Z"
-  },
-  {
-   "id": "e3142f2708c0",
-   "title": "My Monitor Was Cutting My Download Speed by 75%",
-   "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-21T15:03:28.370Z",
-   "score": 19,
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
   },
   {
@@ -415,8 +562,8 @@
    "publishedAt": "2026-11-20T20:12:19.000Z",
    "hn": {
     "id": "50581260",
-    "points": 1194,
-    "comments": 232
+    "points": 1380,
+    "comments": 280
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -430,8 +577,8 @@
    "publishedAt": "2026-11-20T18:33:14.000Z",
    "hn": {
     "id": "50579568",
-    "points": 2287,
-    "comments": 1082
+    "points": 2388,
+    "comments": 1160
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -445,8 +592,8 @@
    "publishedAt": "2026-11-20T18:17:51.000Z",
    "hn": {
     "id": "50579331",
-    "points": 520,
-    "comments": 288
+    "points": 579,
+    "comments": 308
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -460,8 +607,8 @@
    "publishedAt": "2026-11-20T17:21:36.000Z",
    "hn": {
     "id": "50578358",
-    "points": 504,
-    "comments": 213
+    "points": 535,
+    "comments": 239
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -475,8 +622,8 @@
    "publishedAt": "2026-11-20T16:29:06.000Z",
    "hn": {
     "id": "50577265",
-    "points": 453,
-    "comments": 137
+    "points": 478,
+    "comments": 141
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -490,8 +637,8 @@
    "publishedAt": "2026-11-20T15:03:31.000Z",
    "hn": {
     "id": "50575644",
-    "points": 363,
-    "comments": 219
+    "points": 476,
+    "comments": 266
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -505,8 +652,8 @@
    "publishedAt": "2026-11-20T12:41:38.000Z",
    "hn": {
     "id": "50573886",
-    "points": 366,
-    "comments": 176
+    "points": 377,
+    "comments": 179
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -520,8 +667,8 @@
    "publishedAt": "2026-11-20T09:42:16.000Z",
    "hn": {
     "id": "50572348",
-    "points": 560,
-    "comments": 329
+    "points": 571,
+    "comments": 336
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -533,7 +680,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T18:39:29.070Z",
-   "score": 67,
+   "score": 84,
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
   {
@@ -544,7 +691,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T16:44:09.585Z",
-   "score": 23,
+   "score": 27,
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
   {
@@ -639,8 +786,8 @@
    "publishedAt": "2026-11-20T16:06:30.000Z",
    "hn": {
     "id": "50576855",
-    "points": 810,
-    "comments": 604
+    "points": 822,
+    "comments": 618
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -654,8 +801,8 @@
    "publishedAt": "2026-11-20T10:01:41.000Z",
    "hn": {
     "id": "50572503",
-    "points": 658,
-    "comments": 343
+    "points": 667,
+    "comments": 353
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -669,8 +816,8 @@
    "publishedAt": "2026-11-20T09:43:19.000Z",
    "hn": {
     "id": "50572355",
-    "points": 679,
-    "comments": 313
+    "points": 700,
+    "comments": 320
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -684,8 +831,8 @@
    "publishedAt": "2026-11-20T09:13:09.000Z",
    "hn": {
     "id": "50572116",
-    "points": 536,
-    "comments": 337
+    "points": 547,
+    "comments": 340
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -699,7 +846,7 @@
    "publishedAt": "2026-11-20T07:13:21.000Z",
    "hn": {
     "id": "50571189",
-    "points": 424,
+    "points": 427,
     "comments": 410
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
@@ -714,8 +861,8 @@
    "publishedAt": "2026-11-20T05:21:02.000Z",
    "hn": {
     "id": "50570479",
-    "points": 501,
-    "comments": 203
+    "points": 502,
+    "comments": 205
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -729,8 +876,8 @@
    "publishedAt": "2026-11-20T03:45:45.000Z",
    "hn": {
     "id": "50569890",
-    "points": 390,
-    "comments": 29
+    "points": 391,
+    "comments": 31
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -744,8 +891,8 @@
    "publishedAt": "2026-11-20T02:01:09.000Z",
    "hn": {
     "id": "50569226",
-    "points": 367,
-    "comments": 340
+    "points": 370,
+    "comments": 346
    },
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
@@ -847,7 +994,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T10:02:03.889Z",
-   "score": 66,
+   "score": 72,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -858,7 +1005,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T10:33:36.402Z",
-   "score": 65,
+   "score": 68,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -869,7 +1016,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T09:58:05.152Z",
-   "score": 38,
+   "score": 39,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -880,7 +1027,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T09:39:11.806Z",
-   "score": 63,
+   "score": 69,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -902,7 +1049,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T02:41:39.230Z",
-   "score": 52,
+   "score": 53,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -913,7 +1060,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-20T11:14:06.928Z",
-   "score": 30,
+   "score": 32,
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
@@ -3225,140 +3372,6 @@
    "publishedAt": "2026-11-14T04:51:14.032Z",
    "score": 12,
    "firstSeenAt": "2026-11-15T16:13:30.338Z"
-  },
-  {
-   "id": "4e501f9826d0",
-   "title": "SpaceX catches the Starship to end Flight 15",
-   "url": "https://www.spacex.com/launches/starship-flight-15",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T21:22:24.000Z",
-   "hn": {
-    "id": "50500963",
-    "points": 1737,
-    "comments": 1328
-   },
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "9f394f52c813",
-   "title": "Lovable apps expose passport details and more than 200K private messages",
-   "url": "https://www.crissyfield.de/research/lovable-en/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T17:43:10.000Z",
-   "hn": {
-    "id": "50499017",
-    "points": 973,
-    "comments": 371
-   },
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "46727303ebef",
-   "title": "Italy fines Meta $887M over Android users' data access",
-   "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T13:48:06.000Z",
-   "hn": {
-    "id": "50497009",
-    "points": 398,
-    "comments": 301
-   },
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "fbb4c2fd353e",
-   "title": "KDE: The documentary [video]",
-   "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T13:43:28.000Z",
-   "hn": {
-    "id": "50496976",
-    "points": 561,
-    "comments": 133
-   },
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "f67a5ae71b6e",
-   "title": "Tech companies are trying to shift the concept of privacy again",
-   "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T12:45:45.000Z",
-   "hn": {
-    "id": "50496602",
-    "points": 595,
-    "comments": 209
-   },
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "3438ef0fe135",
-   "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
-   "url": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T01:10:22.000Z",
-   "hn": {
-    "id": "50492456",
-    "points": 326,
-    "comments": 245
-   },
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "c4b46a333015",
-   "title": "Let Me Let You Own Your Data",
-   "url": "https://www.willett.io/posts/data/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-14T16:08:27.850Z",
-   "score": 45,
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "2ea963063fdf",
-   "title": "Solving the fox game",
-   "url": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-14T10:32:33.001Z",
-   "score": 24,
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "796d67786032",
-   "title": "Creating a self booting ZIP archive",
-   "url": "https://goliath32.com/blog/ziphead.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-14T10:01:58.119Z",
-   "score": 20,
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
-  },
-  {
-   "id": "0b4a828bf081",
-   "title": "Writing a DSL for high performance parallel programming in OxCaml",
-   "url": "https://blog.janestreet.com/writing-a-dsl-for-high-performance-parallel-programming-in-oxcaml/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-14T02:57:49.133Z",
-   "score": 16,
-   "firstSeenAt": "2026-11-15T00:53:02.926Z"
   }
  ]
 }
