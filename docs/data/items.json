@@ -1,6 +1,22 @@
 {
- "generatedAt": "2026-11-22T17:02:01.373Z",
+ "generatedAt": "2026-11-23T01:27:43.366Z",
  "items": [
+  {
+   "id": "de5cd1a6d51d",
+   "title": "Perplexity and Intelligence",
+   "url": "https://openai.com/index/perplexity-and-intelligence/",
+   "sources": [
+    "Hacker News",
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-22T00:00:00.000Z",
+   "hn": {
+    "id": "50601525",
+    "points": 476,
+    "comments": 330
+   },
+   "firstSeenAt": "2026-11-23T01:27:43.366Z"
+  },
   {
    "id": "5f05718be20b",
    "title": "Slopstrap – Make your site look hastily vibecoded",
@@ -27,12 +43,12 @@
     "Hacker News"
    ],
    "publishedAt": "2026-11-21T10:36:32.000Z",
-   "score": 111,
+   "score": 121,
    "firstSeenAt": "2026-11-21T16:43:33.834Z",
    "hn": {
     "id": "50587875",
-    "points": 655,
-    "comments": 303
+    "points": 682,
+    "comments": 316
    }
   },
   {
@@ -288,38 +304,78 @@
    }
   },
   {
-   "id": "de1b04aef218",
-   "title": "All AI-generated code should be Open Source",
-   "url": "https://jakub.jankiewicz.org/blog/ai-code-open-source/",
+   "id": "75061ecab9ff",
+   "title": "What Happened to Silicon Valley?",
+   "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T14:46:58.000Z",
-   "hn": {
-    "id": "50507303",
-    "points": 1267,
-    "comments": 656
-   },
-   "score": 74,
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "36cf899b1962",
-   "title": "A datetime library for Rust",
-   "url": "https://burntsushi.net/jiff/",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-11-15T22:39:34.065Z",
-   "score": 150,
-   "firstSeenAt": "2026-11-16T00:51:33.443Z",
+   "publishedAt": "2026-11-22T19:20:15.000Z",
    "hn": {
-    "id": "50519744",
-    "points": 437,
-    "comments": 95
-   }
+    "id": "50602947",
+    "points": 408,
+    "comments": 234
+   },
+   "firstSeenAt": "2026-11-23T01:27:43.366Z"
+  },
+  {
+   "id": "e02a3f3a918f",
+   "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+   "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T19:10:34.000Z",
+   "hn": {
+    "id": "50602843",
+    "points": 341,
+    "comments": 153
+   },
+   "firstSeenAt": "2026-11-23T01:27:43.366Z"
+  },
+  {
+   "id": "8fd43c005d1a",
+   "title": "GitHub Actions accepts invalid YAML",
+   "url": "https://yossarian.net/til/post/github-actions-accepts-invalid-yaml/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T21:49:18.929Z",
+   "score": 30,
+   "firstSeenAt": "2026-11-23T01:27:43.366Z"
+  },
+  {
+   "id": "c34e624f8b26",
+   "title": "Gliver completes the Guix desktop",
+   "url": "https://dustycloud.org/blog/gliver-completes-the-guix-desktop/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T20:10:15.360Z",
+   "score": 20,
+   "firstSeenAt": "2026-11-23T01:27:43.366Z"
+  },
+  {
+   "id": "b08ef931ada6",
+   "title": "Falsehoods Programmers Believe About ATProto",
+   "url": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T16:37:12.288Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-23T01:27:43.366Z"
+  },
+  {
+   "id": "62efc99a7c8d",
+   "title": "How 2 Security Research (MLG)",
+   "url": "https://www.youtube.com/watch?v=dXQ_9WN6KLQ",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-21T16:57:15.685Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
   {
    "id": "38c61351fe0d",
@@ -331,8 +387,8 @@
    "publishedAt": "2026-11-22T08:57:34.000Z",
    "hn": {
     "id": "50597612",
-    "points": 479,
-    "comments": 565
+    "points": 883,
+    "comments": 894
    },
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
@@ -346,8 +402,8 @@
    "publishedAt": "2026-11-22T04:04:56.000Z",
    "hn": {
     "id": "50596133",
-    "points": 932,
-    "comments": 545
+    "points": 1189,
+    "comments": 679
    },
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
@@ -361,8 +417,8 @@
    "publishedAt": "2026-11-22T00:07:59.000Z",
    "hn": {
     "id": "50594911",
-    "points": 444,
-    "comments": 153
+    "points": 570,
+    "comments": 198
    },
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
@@ -389,7 +445,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T02:03:46.531Z",
-   "score": 66,
+   "score": 109,
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
   {
@@ -400,7 +456,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T00:30:07.226Z",
-   "score": 23,
+   "score": 31,
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
   {
@@ -411,7 +467,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T23:10:07.020Z",
-   "score": 25,
+   "score": 35,
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
   {
@@ -422,7 +478,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T23:40:51.912Z",
-   "score": 44,
+   "score": 58,
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
   {
@@ -433,7 +489,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T11:41:23.942Z",
-   "score": 10,
+   "score": 12,
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
   {
@@ -446,8 +502,8 @@
    "publishedAt": "2026-11-21T18:02:19.000Z",
    "hn": {
     "id": "50591853",
-    "points": 532,
-    "comments": 128
+    "points": 582,
+    "comments": 137
    },
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
@@ -461,8 +517,8 @@
    "publishedAt": "2026-11-21T14:36:45.000Z",
    "hn": {
     "id": "50589618",
-    "points": 1156,
-    "comments": 957
+    "points": 1211,
+    "comments": 1016
    },
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
@@ -476,8 +532,8 @@
    "publishedAt": "2026-11-21T13:23:14.000Z",
    "hn": {
     "id": "50588982",
-    "points": 670,
-    "comments": 409
+    "points": 697,
+    "comments": 425
    },
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
@@ -519,7 +575,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T15:17:18.956Z",
-   "score": 57,
+   "score": 65,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -530,7 +586,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T13:57:53.737Z",
-   "score": 19,
+   "score": 20,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -541,7 +597,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T19:32:22.642Z",
-   "score": 21,
+   "score": 26,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -552,7 +608,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T13:18:02.362Z",
-   "score": 30,
+   "score": 31,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -563,7 +619,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-21T12:22:47.193Z",
-   "score": 20,
+   "score": 23,
    "firstSeenAt": "2026-11-22T01:02:03.593Z"
   },
   {
@@ -3211,138 +3267,6 @@
    ],
    "publishedAt": "2026-11-16T13:33:48.000Z",
    "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "357c9f3ea7ee",
-   "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-   "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T18:36:10.000Z",
-   "hn": {
-    "id": "50509411",
-    "points": 641,
-    "comments": 280
-   },
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "57809c39abaa",
-   "title": "The MacBook Pro's OLED PWM problem",
-   "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T13:15:22.000Z",
-   "hn": {
-    "id": "50506719",
-    "points": 505,
-    "comments": 283
-   },
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "768d7342d588",
-   "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
-   "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T11:40:51.000Z",
-   "hn": {
-    "id": "50506180",
-    "points": 536,
-    "comments": 256
-   },
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "4f0ce258a369",
-   "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
-   "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T02:00:54.000Z",
-   "hn": {
-    "id": "50503255",
-    "points": 356,
-    "comments": 150
-   },
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "cce942626afe",
-   "title": "How did Woz write the Apple 1 BASIC before building the computer? (2021)",
-   "url": "https://retrocomputing.stackexchange.com/questions/17957",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T22:22:49.000Z",
-   "hn": {
-    "id": "50501594",
-    "points": 319,
-    "comments": 176
-   },
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "1838248a60d9",
-   "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
-   "url": "https://projectzero.google/2026/11/disclosure-policy.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-14T11:13:17.000Z",
-   "hn": {
-    "id": "50496051",
-    "points": 307,
-    "comments": 187
-   },
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "96e1a1a80255",
-   "title": "A NES emulator written in Odin",
-   "url": "https://lucypero.com/lucynes.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T12:37:33.463Z",
-   "score": 13,
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "0237c2ed4dfc",
-   "title": "Disk encryption on NetBSD achieving secrecy",
-   "url": "https://netbsd.org/~nia/disk-encrypt/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T05:30:28.732Z",
-   "score": 13,
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "87d7014c15ee",
-   "title": "A step toward defining the Standard Model on a lattice",
-   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-15T22:00:01.000Z",
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
-  },
-  {
-   "id": "4b0fc5b701ff",
-   "title": "Our new blog for science",
-   "url": "https://openai.com/index/our-new-blog-for-science",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-15T22:00:00.000Z",
-   "firstSeenAt": "2026-11-16T00:51:33.443Z"
   }
  ]
 }
