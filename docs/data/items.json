@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-11-23T01:27:43.366Z",
+ "generatedAt": "2026-11-23T21:09:36.443Z",
  "items": [
+  {
+   "id": "e82796adc98a",
+   "title": "Ladybird is now in alpha",
+   "url": "https://ladybird.org/posts/alpha/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T16:13:03.376Z",
+   "hn": {
+    "id": "50614249",
+    "points": 963,
+    "comments": 256
+   },
+   "score": 51,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
   {
    "id": "de5cd1a6d51d",
    "title": "Perplexity and Intelligence",
@@ -12,8 +29,8 @@
    "publishedAt": "2026-11-22T00:00:00.000Z",
    "hn": {
     "id": "50601525",
-    "points": 476,
-    "comments": 330
+    "points": 686,
+    "comments": 439
    },
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
@@ -50,6 +67,23 @@
     "points": 682,
     "comments": 316
    }
+  },
+  {
+   "id": "c4ca83ba5741",
+   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
+   "url": "https://signal.org/blog/protecting-your-privacy/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-20T09:42:16.000Z",
+   "hn": {
+    "id": "50572348",
+    "points": 571,
+    "comments": 336
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z",
+   "score": 85
   },
   {
    "id": "bbe099f2944c",
@@ -270,38 +304,328 @@
    "score": 48
   },
   {
-   "id": "0a2c564cc136",
-   "title": "Universal XSS in uBlock Origin from website-driven element picker",
-   "url": "https://iter.ca/post/ubo-uxss/",
+   "id": "98b8cb7955b8",
+   "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+   "url": "https://arm.jonpalmisc.com/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T02:04:48.000Z",
-   "hn": {
-    "id": "50513160",
-    "points": 609,
-    "comments": 177
-   },
-   "score": 39,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "29f3572aa99b",
-   "title": "What is w2rt6byl5nf1opmc-a[.]com?",
-   "url": "https://jack.cab/blog/siterate.html",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-11-16T13:02:11.963Z",
-   "score": 71,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z",
+   "publishedAt": "2026-11-23T19:17:55.000Z",
    "hn": {
-    "id": "50517602",
-    "points": 402,
-    "comments": 155
-   }
+    "id": "50617499",
+    "points": 527,
+    "comments": 104
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "42afc3642f4f",
+   "title": "Apple removed my open-source app from EU App Stores after 9 years",
+   "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T18:48:10.000Z",
+   "hn": {
+    "id": "50616933",
+    "points": 306,
+    "comments": 58
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "3c69fd56490c",
+   "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+   "url": "https://twitter.com/ylecun/status/2124550037912920090",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T17:07:26.000Z",
+   "hn": {
+    "id": "50615308",
+    "points": 544,
+    "comments": 281
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "be9c8fb91e88",
+   "title": "Jensen Huang Reinstated as Nvidia CEO",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T14:01:23.000Z",
+   "hn": {
+    "id": "50611588",
+    "points": 1697,
+    "comments": 4
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "e3a79f42fb3c",
+   "title": "Nvidia Reinstates Jensen Huang as CEO",
+   "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T14:00:18.000Z",
+   "hn": {
+    "id": "50611576",
+    "points": 1573,
+    "comments": 2707
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "5094532b4e2e",
+   "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+   "url": "https://z.ai/blog/glm-5.4",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T10:06:43.000Z",
+   "hn": {
+    "id": "50609685",
+    "points": 942,
+    "comments": 318
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "35cfea2e7f27",
+   "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+   "url": "https://github.com/AFK-surf/xnulinux",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T03:49:24.000Z",
+   "hn": {
+    "id": "50607261",
+    "points": 572,
+    "comments": 238
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "048482af0e5e",
+   "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "url": "https://spelunkr.tv",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T01:13:51.000Z",
+   "hn": {
+    "id": "50606192",
+    "points": 885,
+    "comments": 152
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "4f0ed76760ef",
+   "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+   "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T21:01:16.000Z",
+   "hn": {
+    "id": "50603845",
+    "points": 721,
+    "comments": 290
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "f65c7fc06245",
+   "title": "A miniature San Francisco with live buses, planes and boats",
+   "url": "https://smallsf.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T20:33:23.000Z",
+   "hn": {
+    "id": "50603589",
+    "points": 367,
+    "comments": 111
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "01914533a422",
+   "title": "Assume People Are Not Interested in Your Blog Post",
+   "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T19:41:30.000Z",
+   "hn": {
+    "id": "50603143",
+    "points": 311,
+    "comments": 149
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "3c4f4993adca",
+   "title": "Show HN: I built a game where you are an LLM's subagent",
+   "url": "https://github.com/gulivan/worker755",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T13:56:58.000Z",
+   "hn": {
+    "id": "50599762",
+    "points": 356,
+    "comments": 86
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "a7483c370049",
+   "title": "Masullo on the Riemann Hypothesis",
+   "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T10:59:56.000Z",
+   "hn": {
+    "id": "50598441",
+    "points": 303,
+    "comments": 279
+   },
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "f00eedd755e1",
+   "title": "Held together by spare time: Reviving wiki.alpinelinux.org during PHP2Shell",
+   "url": "https://lambdacreate.com/posts/held-together-by-spare-time",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T15:16:31.910Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "a49076e17022",
+   "title": "Quality IMAP, Part 2: Mailbox Concurrency",
+   "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-2/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T11:05:08.785Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "9f1251a9ef07",
+   "title": "Sneakernet",
+   "url": "https://sneakernet.eu/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T16:20:21.749Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "77bd31f8da5b",
+   "title": "Good morning and welcome to my idea of a new web",
+   "url": "https://dave.writersweb.org/index.md",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T03:15:06.359Z",
+   "score": 20,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "7fe0699cdf3a",
+   "title": "Simple Sudoku Solver in Verilog",
+   "url": "https://blog.veitheller.de/Simple_Sudoku_Solvers_SIII%2C_EIII%3A_Verilog.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T10:40:21.240Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "29a2dafbb6c1",
+   "title": "scriptura: a cozy corner for your scripts",
+   "url": "https://alanpearce.eu/post/scriptura/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T19:13:26.842Z",
+   "score": 20,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "abe4c1951f79",
+   "title": "Testing Terraform with AWS Emulator",
+   "url": "https://notes.hatedabamboo.me/terraform-tests-with-aws-emulator/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T21:44:04.839Z",
+   "score": 15,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "e579885450b9",
+   "title": "Calculate radio link placement and node amount for your city's mesh network",
+   "url": "https://meshcoveragecalculator.lalala.ing/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T18:17:44.770Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "12e4b46c9447",
+   "title": "What If Netscape Did SSL the HTTP Way?",
+   "url": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-22T14:48:20.739Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "f8a4e02f4212",
+   "title": "Connected intelligence for in-house legal",
+   "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-23T08:00:00.000Z",
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "61dcf1169479",
+   "title": "Finding faster quantum algorithms with agents and formal verification",
+   "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-23T16:59:40.000Z",
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
+  },
+  {
+   "id": "9f50a7fbeba1",
+   "title": "Probing DNS at Cloudflare",
+   "url": "https://blog.cloudflare.com/probing-dns-at-cloudflare/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-23T14:00:00.000Z",
+   "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
    "id": "75061ecab9ff",
@@ -313,8 +637,8 @@
    "publishedAt": "2026-11-22T19:20:15.000Z",
    "hn": {
     "id": "50602947",
-    "points": 408,
-    "comments": 234
+    "points": 789,
+    "comments": 439
    },
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
@@ -328,8 +652,8 @@
    "publishedAt": "2026-11-22T19:10:34.000Z",
    "hn": {
     "id": "50602843",
-    "points": 341,
-    "comments": 153
+    "points": 627,
+    "comments": 360
    },
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
@@ -341,7 +665,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T21:49:18.929Z",
-   "score": 30,
+   "score": 77,
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
   {
@@ -352,7 +676,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T20:10:15.360Z",
-   "score": 20,
+   "score": 58,
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
   {
@@ -363,7 +687,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T16:37:12.288Z",
-   "score": 25,
+   "score": 45,
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
   {
@@ -387,8 +711,8 @@
    "publishedAt": "2026-11-22T08:57:34.000Z",
    "hn": {
     "id": "50597612",
-    "points": 883,
-    "comments": 894
+    "points": 1021,
+    "comments": 998
    },
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
@@ -402,8 +726,8 @@
    "publishedAt": "2026-11-22T04:04:56.000Z",
    "hn": {
     "id": "50596133",
-    "points": 1189,
-    "comments": 679
+    "points": 1371,
+    "comments": 727
    },
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
@@ -417,8 +741,8 @@
    "publishedAt": "2026-11-22T00:07:59.000Z",
    "hn": {
     "id": "50594911",
-    "points": 570,
-    "comments": 198
+    "points": 607,
+    "comments": 205
    },
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
@@ -445,7 +769,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T02:03:46.531Z",
-   "score": 109,
+   "score": 142,
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
   {
@@ -825,21 +1149,6 @@
     "id": "50573886",
     "points": 377,
     "comments": 179
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "c4ca83ba5741",
-   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-   "url": "https://signal.org/blog/protecting-your-privacy/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-20T09:42:16.000Z",
-   "hn": {
-    "id": "50572348",
-    "points": 571,
-    "comments": 336
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -2926,347 +3235,6 @@
    ],
    "publishedAt": "2026-11-16T00:00:00.000Z",
    "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "b3d1130490a9",
-   "title": "Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings",
-   "url": "http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T13:39:07.000Z",
-   "hn": {
-    "id": "50517488",
-    "points": 956,
-    "comments": 551
-   },
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "d9a15b4078d3",
-   "title": "How to make almost anything",
-   "url": "https://pub.cba.mit.edu/863.26/site/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T05:50:37.000Z",
-   "hn": {
-    "id": "50514470",
-    "points": 907,
-    "comments": 149
-   },
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "8468cd1c9400",
-   "title": "Qwen4-Max",
-   "url": "https://qwen.ai/blog?id=qwen4-max",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T02:14:44.000Z",
-   "hn": {
-    "id": "50513215",
-    "points": 870,
-    "comments": 481
-   },
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "70fcd4b516bd",
-   "title": "What's Next for Nvidia?",
-   "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T23:55:55.000Z",
-   "hn": {
-    "id": "50512235",
-    "points": 477,
-    "comments": 582
-   },
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "286313831039",
-   "title": "Old Bitly links are being hijacked",
-   "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T22:11:43.000Z",
-   "hn": {
-    "id": "50511395",
-    "points": 378,
-    "comments": 202
-   },
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "8b7dc9abe9cc",
-   "title": "Handwriting, as a Font",
-   "url": "https://ductus.sorenblank.com",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T19:42:13.000Z",
-   "hn": {
-    "id": "50509972",
-    "points": 468,
-    "comments": 76
-   },
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "966523945edb",
-   "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-   "url": "https://bruceroettgers.eu/blog/protomaps/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T19:26:22.000Z",
-   "hn": {
-    "id": "50509837",
-    "points": 462,
-    "comments": 85
-   },
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "b99586870c44",
-   "title": "Crows make decisions faster than we can",
-   "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-15T17:53:31.000Z",
-   "hn": {
-    "id": "50509023",
-    "points": 311,
-    "comments": 207
-   },
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "ccd806f77d4f",
-   "title": "Migrating from GitHub to Codeberg",
-   "url": "https://yorickpeterse.com/articles/migrating-from-github-to-codeberg/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T05:10:34.395Z",
-   "score": 76,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "8148552b8a3c",
-   "title": "Squircles",
-   "url": "https://linebender.org/wiki/curves/squircle/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T13:56:54.181Z",
-   "score": 51,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "12bb1d116d42",
-   "title": "Paint in the memory of other programs",
-   "url": "https://citrons.xyz/journal/2026-04-13",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T03:37:36.159Z",
-   "score": 79,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "6b04ea2e49e4",
-   "title": "you won't win at copyright",
-   "url": "https://ingrids.space/posts/you-wont-win-at-copyright/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T08:30:13.468Z",
-   "score": 71,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "f74c486b8ccf",
-   "title": "beer.drv.drv.drv",
-   "url": "https://fzakaria.com/2026/11/14/beer-drv-drv-drv",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T00:47:28.450Z",
-   "score": 25,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "427a44748fe9",
-   "title": "Enabling the parallel frontend on nightly",
-   "url": "https://blog.rust-lang.org/2026/11/16/enabling-parallel-frontend-on-nightly/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T15:22:38.857Z",
-   "score": 37,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "4cc81e2f6c6c",
-   "title": "Announcing Hegel-clj",
-   "url": "https://aphyr.com/posts/428-announcing-hegel-clj",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T04:12:25.212Z",
-   "score": 39,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "5a88737243b4",
-   "title": "Programming a language",
-   "url": "https://nrinaudo.github.io/articles/pl.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T11:24:12.119Z",
-   "score": 15,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "cc8616b7dd0d",
-   "title": "clice v1.0 Released: Welcome to Modern C++",
-   "url": "https://www.ykiko.me/en/articles/2105384023094834022/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T21:19:35.897Z",
-   "score": 21,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "197b81989623",
-   "title": "This Month in Redox - October 2026",
-   "url": "https://www.redox-os.org/news/this-month-261031/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-15T23:05:45.490Z",
-   "score": 22,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "a4db292cb4e0",
-   "title": "Nix: Using the eval-profiler",
-   "url": "https://nix.dev/manual/nix/2.35/advanced-topics/eval-profiler",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T01:28:22.349Z",
-   "score": 14,
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "f26f2a4dfd6b",
-   "title": "Broadening access to AI for scientists",
-   "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T17:00:00.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "b1c71d07875a",
-   "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-   "url": "https://openai.com/index/strengthening-online-child-safety",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T17:00:00.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "f891bd93f3d2",
-   "title": "Science at the Frontier: How scientists use ChatGPT",
-   "url": "https://openai.com/index/science-at-the-frontier",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T12:00:00.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "91e58e2ea930",
-   "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-   "url": "https://openai.com/index/lvmh-media-division-partnership",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T09:00:00.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "ebd9eb949639",
-   "title": "Our first phase of embedded assessments",
-   "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T08:00:00.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "b0ded74e06b0",
-   "title": "Advancing computer-use agents for healthcare teams",
-   "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T06:00:00.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "cfcc7acb02e9",
-   "title": "More ways to move care forward with ChatGPT for Healthcare",
-   "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T06:00:00.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "e3915f7e4cf0",
-   "title": "The King’s Trust and OpenAI launch £1m partnership",
-   "url": "https://openai.com/index/the-kings-trust-and-openai",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T00:00:00.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "003006ee3331",
-   "title": "[$] A new generation of futexes",
-   "url": "https://lwn.net/Articles/1102988/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-16T15:06:04.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
-  },
-  {
-   "id": "bb1032f7c486",
-   "title": "Software engineering after code becomes cheap with Satya Nadella",
-   "url": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-16T13:33:48.000Z",
-   "firstSeenAt": "2026-11-16T19:29:19.381Z"
   }
  ]
 }
