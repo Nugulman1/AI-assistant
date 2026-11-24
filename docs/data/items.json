@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-23T21:09:36.443Z",
+ "generatedAt": "2026-11-24T05:10:26.442Z",
  "items": [
   {
    "id": "e82796adc98a",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-23T16:13:03.376Z",
    "hn": {
     "id": "50614249",
-    "points": 963,
-    "comments": 256
+    "points": 1610,
+    "comments": 377
    },
-   "score": 51,
+   "score": 86,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -29,8 +29,8 @@
    "publishedAt": "2026-11-22T00:00:00.000Z",
    "hn": {
     "id": "50601525",
-    "points": 686,
-    "comments": 439
+    "points": 699,
+    "comments": 443
    },
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
@@ -83,7 +83,7 @@
     "comments": 336
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z",
-   "score": 85
+   "score": 100
   },
   {
    "id": "bbe099f2944c",
@@ -270,38 +270,160 @@
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
   },
   {
-   "id": "091bb6b0dfa7",
-   "title": "Software is breaking down at a systemic level",
-   "url": "https://www.breck-mckye.com/blog/2026/11/software-is-breaking-down-at-a-systemic-level/",
+   "id": "fd77f33bf073",
+   "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+   "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-11-16T18:17:17.000Z",
+   "publishedAt": "2026-11-23T22:32:29.000Z",
    "hn": {
-    "id": "50520866",
-    "points": 392,
-    "comments": 262
+    "id": "50620349",
+    "points": 325,
+    "comments": 152
    },
-   "firstSeenAt": "2026-11-17T03:30:33.271Z",
-   "score": 31
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
-   "id": "81bd7f76e2a9",
-   "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-   "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+   "id": "7e689a2455fd",
+   "title": "VP ≠ VNP over Every Field",
+   "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T22:09:10.000Z",
+   "hn": {
+    "id": "50620102",
+    "points": 300,
+    "comments": 258
+   },
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "109d2f6894af",
+   "title": "Kagi Mail (public beta)",
+   "url": "https://blog.kagi.com/kagi-mail-public-beta",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T17:17:01.000Z",
+   "hn": {
+    "id": "50615481",
+    "points": 387,
+    "comments": 291
+   },
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "677c0e35fb16",
+   "title": "Nospeaker ─ Make your MacBook's trackpad talk using its haptic motor",
+   "url": "https://github.com/os6/nospeaker",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T11:31:54.000Z",
+   "hn": {
+    "id": "50610318",
+    "points": 304,
+    "comments": 171
+   },
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "216a64a9c2be",
+   "title": "What VP != VNP Means (In 3 Minutes)",
+   "url": "https://www.friedgil.com/vpvnp/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-11-16T22:58:20.000Z",
-   "hn": {
-    "id": "50524736",
-    "points": 725,
-    "comments": 609
-   },
-   "firstSeenAt": "2026-11-17T03:30:33.271Z",
-   "score": 48
+   "publishedAt": "2026-11-24T02:10:30.101Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "e983e39dea6a",
+   "title": "Lua for data representation",
+   "url": "https://citrons.xyz/journal/2025-07-23",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T00:22:05.087Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "fd3f2c446640",
+   "title": "UQ researchers send an unblockable message using gravity",
+   "url": "https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T20:01:46.598Z",
+   "score": 20,
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "6298a834a7c8",
+   "title": "Illiterate Programming",
+   "url": "https://deadsimpletech.com/blog/illiterate-programming",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T20:45:29.097Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "e9f1e85c6c1f",
+   "title": "What are you doing this week?",
+   "url": "https://lobste.rs/s/t8c4vj/what_are_you_doing_this_week",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T10:37:34.794Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "947573481ae5",
+   "title": "Let's Meet in the Middle",
+   "url": "https://george.mand.is/2026/11/lets-meet-in-the-middle/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T17:59:14.961Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "1d0c151fefed",
+   "title": "OpenAI and Cisco introduce Shirudo",
+   "url": "https://openai.com/index/introducing-shirudo",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-23T21:20:00.000Z",
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "680b35173b97",
+   "title": "Richpanel helps companies automate 50% of support in 30 days",
+   "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-23T08:00:00.000Z",
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
+  },
+  {
+   "id": "b7fc35d5ccf0",
+   "title": "Ladybird's first alpha release",
+   "url": "https://simonwillison.net/2026/Nov/23/ladybird/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-11-23T21:46:35.000Z",
+   "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
    "id": "98b8cb7955b8",
@@ -313,8 +435,8 @@
    "publishedAt": "2026-11-23T19:17:55.000Z",
    "hn": {
     "id": "50617499",
-    "points": 527,
-    "comments": 104
+    "points": 947,
+    "comments": 217
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -328,8 +450,8 @@
    "publishedAt": "2026-11-23T18:48:10.000Z",
    "hn": {
     "id": "50616933",
-    "points": 306,
-    "comments": 58
+    "points": 545,
+    "comments": 122
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -343,8 +465,8 @@
    "publishedAt": "2026-11-23T17:07:26.000Z",
    "hn": {
     "id": "50615308",
-    "points": 544,
-    "comments": 281
+    "points": 1398,
+    "comments": 776
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -358,7 +480,7 @@
    "publishedAt": "2026-11-23T14:01:23.000Z",
    "hn": {
     "id": "50611588",
-    "points": 1697,
+    "points": 1707,
     "comments": 4
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
@@ -373,8 +495,8 @@
    "publishedAt": "2026-11-23T14:00:18.000Z",
    "hn": {
     "id": "50611576",
-    "points": 1573,
-    "comments": 2707
+    "points": 2341,
+    "comments": 3325
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -388,8 +510,8 @@
    "publishedAt": "2026-11-23T10:06:43.000Z",
    "hn": {
     "id": "50609685",
-    "points": 942,
-    "comments": 318
+    "points": 1087,
+    "comments": 353
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -403,8 +525,8 @@
    "publishedAt": "2026-11-23T03:49:24.000Z",
    "hn": {
     "id": "50607261",
-    "points": 572,
-    "comments": 238
+    "points": 604,
+    "comments": 244
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -418,8 +540,8 @@
    "publishedAt": "2026-11-23T01:13:51.000Z",
    "hn": {
     "id": "50606192",
-    "points": 885,
-    "comments": 152
+    "points": 965,
+    "comments": 169
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -433,8 +555,8 @@
    "publishedAt": "2026-11-22T21:01:16.000Z",
    "hn": {
     "id": "50603845",
-    "points": 721,
-    "comments": 290
+    "points": 748,
+    "comments": 303
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -448,8 +570,8 @@
    "publishedAt": "2026-11-22T20:33:23.000Z",
    "hn": {
     "id": "50603589",
-    "points": 367,
-    "comments": 111
+    "points": 372,
+    "comments": 113
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -463,8 +585,8 @@
    "publishedAt": "2026-11-22T19:41:30.000Z",
    "hn": {
     "id": "50603143",
-    "points": 311,
-    "comments": 149
+    "points": 314,
+    "comments": 157
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -478,8 +600,8 @@
    "publishedAt": "2026-11-22T13:56:58.000Z",
    "hn": {
     "id": "50599762",
-    "points": 356,
-    "comments": 86
+    "points": 357,
+    "comments": 89
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -493,8 +615,8 @@
    "publishedAt": "2026-11-22T10:59:56.000Z",
    "hn": {
     "id": "50598441",
-    "points": 303,
-    "comments": 279
+    "points": 307,
+    "comments": 289
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -506,7 +628,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T15:16:31.910Z",
-   "score": 12,
+   "score": 17,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -517,7 +639,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T11:05:08.785Z",
-   "score": 22,
+   "score": 26,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -528,7 +650,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T16:20:21.749Z",
-   "score": 10,
+   "score": 22,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -550,7 +672,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T10:40:21.240Z",
-   "score": 10,
+   "score": 12,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -637,8 +759,8 @@
    "publishedAt": "2026-11-22T19:20:15.000Z",
    "hn": {
     "id": "50602947",
-    "points": 789,
-    "comments": 439
+    "points": 804,
+    "comments": 449
    },
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
@@ -652,8 +774,8 @@
    "publishedAt": "2026-11-22T19:10:34.000Z",
    "hn": {
     "id": "50602843",
-    "points": 627,
-    "comments": 360
+    "points": 630,
+    "comments": 366
    },
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
@@ -665,7 +787,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T21:49:18.929Z",
-   "score": 77,
+   "score": 81,
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
   {
@@ -676,7 +798,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T20:10:15.360Z",
-   "score": 58,
+   "score": 62,
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
   {
@@ -687,7 +809,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T16:37:12.288Z",
-   "score": 45,
+   "score": 47,
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
   {
@@ -711,8 +833,8 @@
    "publishedAt": "2026-11-22T08:57:34.000Z",
    "hn": {
     "id": "50597612",
-    "points": 1021,
-    "comments": 998
+    "points": 1029,
+    "comments": 1007
    },
    "firstSeenAt": "2026-11-22T17:02:01.373Z"
   },
@@ -3074,167 +3196,6 @@
    ],
    "publishedAt": "2026-11-17T16:11:23.000Z",
    "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "f5ce15a389e1",
-   "title": "BugMeNot has closed",
-   "url": "https://www.bugmenot.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T21:32:17.000Z",
-   "hn": {
-    "id": "50523601",
-    "points": 718,
-    "comments": 346
-   },
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "12f565e5c9f8",
-   "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-   "url": "https://www.cs.cmu.edu/learn/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T20:43:36.000Z",
-   "hn": {
-    "id": "50522980",
-    "points": 2346,
-    "comments": 318
-   },
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "13f7e0f611d7",
-   "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-   "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T18:31:30.000Z",
-   "hn": {
-    "id": "50521045",
-    "points": 830,
-    "comments": 709
-   },
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "048976bfa01b",
-   "title": "Frame – 31.5\" color ePaper display",
-   "url": "https://trmnl.com/blog/introducing-frame",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T16:23:22.000Z",
-   "hn": {
-    "id": "50519354",
-    "points": 525,
-    "comments": 408
-   },
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "8e076526cd1a",
-   "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-   "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T11:39:31.000Z",
-   "hn": {
-    "id": "50516473",
-    "points": 320,
-    "comments": 129
-   },
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "f5637e2b08eb",
-   "title": "How Rust Changed Me As A Developer",
-   "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T18:17:29.216Z",
-   "score": 39,
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "741185985e22",
-   "title": "Janet Reno was talking about my friend Coolio (computer criminal)",
-   "url": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T16:43:58.790Z",
-   "score": 47,
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "8261cf23fabc",
-   "title": "Improving the Wii U's Wii Mode",
-   "url": "https://garyodernichts.blogspot.com/2026/11/improving-wii-us-wii-mode.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T22:39:54.319Z",
-   "score": 54,
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "cadbfedf2ebf",
-   "title": "Quality IMAP, Part 1: Your Mailbox Is A Database",
-   "url": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T16:25:38.928Z",
-   "score": 35,
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "1f667d77e22d",
-   "title": "\"Proof of use\" as a requirement for open source contributions?",
-   "url": "https://lobste.rs/s/ki1l5r/proof_use_as_requirement_for_open_source",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T22:25:45.396Z",
-   "score": 28,
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "c2a4fb1ca2f5",
-   "title": "NoisyTCP",
-   "url": "https://www.openwall.com/lists/oss-security/2026/11/15/2",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T12:50:29.137Z",
-   "score": 16,
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "3899b6e8ee3c",
-   "title": "At Holiday Extras, dots get to work before anyone asks",
-   "url": "https://openai.com/business/customer-stories/holiday-extras-dots",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T00:00:00.000Z",
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
-  },
-  {
-   "id": "afcf308c0219",
-   "title": "What does it mean to understand what we built?",
-   "url": "http://brooker.co.za/blog/2026/11/16/understanding.html",
-   "sources": [
-    "Marc Brooker"
-   ],
-   "publishedAt": "2026-11-16T00:00:00.000Z",
-   "firstSeenAt": "2026-11-17T03:30:33.271Z"
   }
  ]
 }
