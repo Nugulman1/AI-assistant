@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-11-24T05:10:26.442Z",
+ "generatedAt": "2026-11-24T20:04:56.289Z",
  "items": [
+  {
+   "id": "70e8b292ce38",
+   "title": "2035 came early",
+   "url": "https://fzakaria.com/2026/11/23/2035-came-early",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T06:30:15.741Z",
+   "hn": {
+    "id": "50624497",
+    "points": 866,
+    "comments": 325
+   },
+   "score": 75,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
   {
    "id": "e82796adc98a",
    "title": "Ladybird is now in alpha",
@@ -12,10 +29,10 @@
    "publishedAt": "2026-11-23T16:13:03.376Z",
    "hn": {
     "id": "50614249",
-    "points": 1610,
-    "comments": 377
+    "points": 2361,
+    "comments": 584
    },
-   "score": 86,
+   "score": 110,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -83,7 +100,7 @@
     "comments": 336
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z",
-   "score": 100
+   "score": 116
   },
   {
    "id": "bbe099f2944c",
@@ -254,20 +271,241 @@
    }
   },
   {
-   "id": "549a77347d5e",
-   "title": "GPT‑6.2 Astra and Sol",
-   "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+   "id": "ef8096d74f5d",
+   "title": "LLM agents work for their parent companies, not for you",
+   "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T12:40:15.000Z",
+   "hn": {
+    "id": "50627340",
+    "points": 759,
+    "comments": 319
+   },
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "796c738a590e",
+   "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+   "url": "https://deucalionn.vercel.app/polymarket-delit-initie-jensen-huang-nvidia/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T11:13:55.000Z",
+   "hn": {
+    "id": "50626578",
+    "points": 458,
+    "comments": 266
+   },
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "028a4f922290",
+   "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+   "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T02:27:02.000Z",
+   "hn": {
+    "id": "50622774",
+    "points": 736,
+    "comments": 383
+   },
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "eb476be725fe",
+   "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+   "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T23:11:38.000Z",
+   "hn": {
+    "id": "50620822",
+    "points": 333,
+    "comments": 255
+   },
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "45555d2ab858",
+   "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+   "url": "https://www.bored.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T21:01:16.000Z",
+   "hn": {
+    "id": "50619207",
+    "points": 324,
+    "comments": 65
+   },
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "5a38c81d0fbc",
+   "title": "GPUI is getting its own repository",
+   "url": "https://github.com/zed-industries/gpui",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T20:52:54.000Z",
+   "hn": {
+    "id": "50619103",
+    "points": 371,
+    "comments": 136
+   },
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "5371a42941be",
+   "title": "Cyberleek posted the GTA 6 Xbox build executable",
+   "url": "https://www.reddit.com/r/GamingLeaksAndRumours/comments/1y3jzqe/cyberleek_posted_the_gta_6_xbox_build_executable/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-23T14:49:44.000Z",
+   "hn": {
+    "id": "50612686",
+    "points": 302,
+    "comments": 326
+   },
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "8776d749c446",
+   "title": "Nespresso's project to reduce grams of coffee per capsule",
+   "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-22T23:57:45.000Z",
+   "hn": {
+    "id": "50605479",
+    "points": 340,
+    "comments": 364
+   },
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "2e1f9614997d",
+   "title": "Security incident on Hex.pm",
+   "url": "https://hex.pm/blog/security-incident-on-hexpm",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T14:52:19.552Z",
+   "score": 29,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "f13df2f7366e",
+   "title": "I checked Clojure's core with Lean and found 17 unreported bugs",
+   "url": "https://s.conao3.com/blog/2026/e4f733",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T15:22:24.477Z",
+   "score": 24,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "33e5526099fd",
+   "title": "Per Vognsen on the effect of AVX-512 on lexing and parsing",
+   "url": "https://mastodon.social/@pervognsen/117668394962974183",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T18:11:49.469Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "777816c50f03",
+   "title": "Bypassing iOS Safari 60 FPS Limit",
+   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T10:35:19.962Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "f5f5b2286749",
+   "title": "cgo's pointer check is all over the place",
+   "url": "https://theconsensus.dev/p/2026/11/15/cgos-pointer-check.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T23:36:14.289Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "c7e0ccfeeadb",
+   "title": "the algebra of dependent types (2025)",
+   "url": "https://dotat.at/@/2025-05-28-types.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T00:51:41.672Z",
+   "score": 22,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "ef9c9e698d0d",
+   "title": "Release: Roto v0.14.0",
+   "url": "https://community.nlnetlabs.nl/t/release-roto-v0-14-0/3511",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-23T21:32:07.283Z",
+   "score": 17,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "f3aa9260f109",
+   "title": "Searching for distant planets with Astra",
+   "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+   "sources": [
     "OpenAI"
    ],
-   "publishedAt": "2026-11-17T17:45:00.000Z",
-   "hn": {
-    "id": "50535230",
-    "points": 1337,
-    "comments": 852
-   },
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
+   "publishedAt": "2026-11-24T11:00:00.000Z",
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "ec442b764e04",
+   "title": "How Intentful uses dots to make more time for growth",
+   "url": "https://openai.com/business/customer-stories/intentful-dots",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-24T00:00:00.000Z",
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "7a6462e387eb",
+   "title": "How iFood scales coding agents across 15,000 repositories",
+   "url": "https://openai.com/business/customer-stories/ifood",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-24T00:00:00.000Z",
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "e1da16352396",
+   "title": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+   "url": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-11-24T19:16:38.000Z",
+   "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
    "id": "fd77f33bf073",
@@ -279,8 +517,8 @@
    "publishedAt": "2026-11-23T22:32:29.000Z",
    "hn": {
     "id": "50620349",
-    "points": 325,
-    "comments": 152
+    "points": 673,
+    "comments": 333
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -294,8 +532,8 @@
    "publishedAt": "2026-11-23T22:09:10.000Z",
    "hn": {
     "id": "50620102",
-    "points": 300,
-    "comments": 258
+    "points": 353,
+    "comments": 321
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -309,8 +547,8 @@
    "publishedAt": "2026-11-23T17:17:01.000Z",
    "hn": {
     "id": "50615481",
-    "points": 387,
-    "comments": 291
+    "points": 453,
+    "comments": 371
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -324,8 +562,8 @@
    "publishedAt": "2026-11-23T11:31:54.000Z",
    "hn": {
     "id": "50610318",
-    "points": 304,
-    "comments": 171
+    "points": 322,
+    "comments": 175
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -337,7 +575,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T02:10:30.101Z",
-   "score": 13,
+   "score": 37,
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
@@ -348,7 +586,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T00:22:05.087Z",
-   "score": 10,
+   "score": 34,
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
@@ -359,7 +597,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T20:01:46.598Z",
-   "score": 20,
+   "score": 36,
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
@@ -370,7 +608,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T20:45:29.097Z",
-   "score": 22,
+   "score": 48,
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
@@ -435,8 +673,8 @@
    "publishedAt": "2026-11-23T19:17:55.000Z",
    "hn": {
     "id": "50617499",
-    "points": 947,
-    "comments": 217
+    "points": 1151,
+    "comments": 281
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -450,8 +688,8 @@
    "publishedAt": "2026-11-23T18:48:10.000Z",
    "hn": {
     "id": "50616933",
-    "points": 545,
-    "comments": 122
+    "points": 610,
+    "comments": 155
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -465,8 +703,8 @@
    "publishedAt": "2026-11-23T17:07:26.000Z",
    "hn": {
     "id": "50615308",
-    "points": 1398,
-    "comments": 776
+    "points": 1968,
+    "comments": 1150
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -480,7 +718,7 @@
    "publishedAt": "2026-11-23T14:01:23.000Z",
    "hn": {
     "id": "50611588",
-    "points": 1707,
+    "points": 1709,
     "comments": 4
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
@@ -495,8 +733,8 @@
    "publishedAt": "2026-11-23T14:00:18.000Z",
    "hn": {
     "id": "50611576",
-    "points": 2341,
-    "comments": 3325
+    "points": 2775,
+    "comments": 3642
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -510,8 +748,8 @@
    "publishedAt": "2026-11-23T10:06:43.000Z",
    "hn": {
     "id": "50609685",
-    "points": 1087,
-    "comments": 353
+    "points": 1159,
+    "comments": 380
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -525,8 +763,8 @@
    "publishedAt": "2026-11-23T03:49:24.000Z",
    "hn": {
     "id": "50607261",
-    "points": 604,
-    "comments": 244
+    "points": 618,
+    "comments": 264
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -540,8 +778,8 @@
    "publishedAt": "2026-11-23T01:13:51.000Z",
    "hn": {
     "id": "50606192",
-    "points": 965,
-    "comments": 169
+    "points": 1062,
+    "comments": 180
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -555,8 +793,8 @@
    "publishedAt": "2026-11-22T21:01:16.000Z",
    "hn": {
     "id": "50603845",
-    "points": 748,
-    "comments": 303
+    "points": 769,
+    "comments": 312
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -570,8 +808,8 @@
    "publishedAt": "2026-11-22T20:33:23.000Z",
    "hn": {
     "id": "50603589",
-    "points": 372,
-    "comments": 113
+    "points": 376,
+    "comments": 115
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -628,7 +866,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T15:16:31.910Z",
-   "score": 17,
+   "score": 20,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -639,7 +877,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T11:05:08.785Z",
-   "score": 26,
+   "score": 37,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -650,7 +888,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T16:20:21.749Z",
-   "score": 22,
+   "score": 41,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -787,7 +1025,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-22T21:49:18.929Z",
-   "score": 81,
+   "score": 82,
    "firstSeenAt": "2026-11-23T01:27:43.366Z"
   },
   {
@@ -2890,312 +3128,6 @@
    ],
    "publishedAt": "2026-11-17T08:00:00.000Z",
    "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "76e95097d061",
-   "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-   "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T11:45:51.000Z",
-   "hn": {
-    "id": "50530163",
-    "points": 1286,
-    "comments": 642
-   },
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "5c4fbe651718",
-   "title": "Optimizely compromised, served malware on Zoom, GitLab",
-   "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T23:00:34.000Z",
-   "hn": {
-    "id": "50524767",
-    "points": 693,
-    "comments": 273
-   },
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "204a30011332",
-   "title": "OpenCode Browse",
-   "url": "https://opencode.ai/product/browse",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T21:20:37.000Z",
-   "hn": {
-    "id": "50523459",
-    "points": 330,
-    "comments": 215
-   },
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "962d5b55a0b6",
-   "title": "Chemistry is Actually Geometry",
-   "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T20:22:18.000Z",
-   "hn": {
-    "id": "50522643",
-    "points": 347,
-    "comments": 144
-   },
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "fd2df089a059",
-   "title": "Grazing sheep in fields with solar arrays",
-   "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T17:27:46.000Z",
-   "hn": {
-    "id": "50520182",
-    "points": 325,
-    "comments": 331
-   },
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "f89cd0c3d555",
-   "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-   "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T13:18:22.000Z",
-   "hn": {
-    "id": "50517321",
-    "points": 440,
-    "comments": 335
-   },
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "493748425ffb",
-   "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
-   "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-16T07:38:19.000Z",
-   "hn": {
-    "id": "50515058",
-    "points": 319,
-    "comments": 145
-   },
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "b60814c79d7c",
-   "title": "Actual curl rewrites in rust",
-   "url": "https://daniel.haxx.se/blog/2026/11/17/actual-curl-rewrites-in-rust/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T13:37:05.550Z",
-   "score": 112,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "e7b96a492dfc",
-   "title": "Redict is deprecated",
-   "url": "https://redict.io/posts/2026-11-17-redict-deprecated/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T08:20:30.125Z",
-   "score": 74,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "d97800a73912",
-   "title": "Github Redesign (2019)",
-   "url": "https://tonsky.me/blog/github-redesign/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T09:28:18.950Z",
-   "score": 43,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "0b7a064f393a",
-   "title": "My Emacs 31 contributions",
-   "url": "https://xenodium.com/my-emacs-31-contributions",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T11:03:52.548Z",
-   "score": 28,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "d7980d5e9977",
-   "title": "How to Bypass Rust's Orphan Rule",
-   "url": "https://edvong.com/bypass-orphan-rule/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T15:35:36.402Z",
-   "score": 19,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "ee3101a5a09e",
-   "title": "On Leaving Swift for Rust",
-   "url": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-16T17:56:45.490Z",
-   "score": 23,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "c618f0b74f32",
-   "title": "Sage S2.1 Flash Technical Report",
-   "url": "https://huggingface.co/papers/2611.21072",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-15T19:00:00.000Z",
-   "score": 83,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "e1f0b0269911",
-   "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
-   "url": "https://huggingface.co/papers/2611.21003",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-15T19:00:00.000Z",
-   "score": 63,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "15712514dcdf",
-   "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
-   "url": "https://huggingface.co/papers/2611.21218",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-15T19:00:00.000Z",
-   "score": 61,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "0904df37e969",
-   "title": "ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters",
-   "url": "https://huggingface.co/papers/2611.21607",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-15T19:00:00.000Z",
-   "score": 41,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "e337e8608e1e",
-   "title": "Accelerate Bench: Evaluating Agents for Application-Level Program Optimization",
-   "url": "https://huggingface.co/papers/2611.20882",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-15T19:00:00.000Z",
-   "score": 16,
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "590cb0b9c5dd",
-   "title": "Strengthening NATO and allied cyber defenses with AI",
-   "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-17T00:00:00.000Z",
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "58da9c66b145",
-   "title": "Introducing OpenAI for Chile",
-   "url": "https://openai.com/index/introducing-openai-for-chile",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-17T00:00:00.000Z",
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "0604bc2b50fc",
-   "title": "Astra for Law leads in legal intelligence",
-   "url": "https://openai.com/index/astra-law-6-2",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-17T00:00:00.000Z",
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "f054a54f8228",
-   "title": "How Revolut raises ambition without lowering the bar",
-   "url": "https://openai.com/business/customer-stories/revolut",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-16T09:30:00.000Z",
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "5b158888670a",
-   "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
-   "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
-   "sources": [
-    "Simon Willison"
-   ],
-   "publishedAt": "2026-11-17T16:48:33.000Z",
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "fb18d549b6f8",
-   "title": "[$] Zellij manages terminal workspaces with style",
-   "url": "https://lwn.net/Articles/1106913/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-17T15:27:38.000Z",
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "890c57ba47bf",
-   "title": "Deterministic Simulation Testing",
-   "url": "https://martinfowler.com/articles/deterministic-simulation-testing.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-11-17T14:33:00.000Z",
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
-  },
-  {
-   "id": "6c265f6b8d49",
-   "title": "Inference engineering for software engineers",
-   "url": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-17T16:11:23.000Z",
-   "firstSeenAt": "2026-11-17T18:23:29.106Z"
   }
  ]
 }
