@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T20:04:56.289Z",
+ "generatedAt": "2026-11-25T03:59:51.208Z",
  "items": [
   {
    "id": "70e8b292ce38",
@@ -12,10 +12,10 @@
    "publishedAt": "2026-11-24T06:30:15.741Z",
    "hn": {
     "id": "50624497",
-    "points": 866,
-    "comments": 325
+    "points": 978,
+    "comments": 370
    },
-   "score": 75,
+   "score": 97,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -29,10 +29,10 @@
    "publishedAt": "2026-11-23T16:13:03.376Z",
    "hn": {
     "id": "50614249",
-    "points": 2361,
-    "comments": 584
+    "points": 2391,
+    "comments": 598
    },
-   "score": 110,
+   "score": 116,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -100,7 +100,24 @@
     "comments": 336
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z",
-   "score": 116
+   "score": 119
+  },
+  {
+   "id": "f4c47e25e952",
+   "title": "Why there are still no non-WebKit browsers on iOS",
+   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-20T15:03:31.000Z",
+   "hn": {
+    "id": "50575644",
+    "points": 476,
+    "comments": 266
+   },
+   "firstSeenAt": "2026-11-21T02:01:20.382Z",
+   "score": 19
   },
   {
    "id": "bbe099f2944c",
@@ -221,54 +238,179 @@
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
   },
   {
-   "id": "340c2ff0827f",
-   "title": "Quad9's withdrawal from France: A canary in the coal mine",
-   "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+   "id": "ca7efd0c9bb9",
+   "title": "Ternary Bonsai 2.5 27B",
+   "url": "https://prismml.com/news/bonsai-2-5-27b",
    "sources": [
-    "Hacker News",
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-17T20:24:27.000Z",
-   "hn": {
-    "id": "50538994",
-    "points": 901,
-    "comments": 450
-   },
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "86aeaafbc09d",
-   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-   "url": "https://calif.io/java4shell/",
-   "sources": [
-    "Hacker News",
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T21:11:28.000Z",
-   "hn": {
-    "id": "50538240",
-    "points": 1174,
-    "comments": 327
-   },
-   "score": 55,
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "36b1c4b2b1aa",
-   "title": "Phrack 73",
-   "url": "https://phrack.org/issues/73/introduction_md.html",
-   "sources": [
-    "Lobsters",
     "Hacker News"
    ],
-   "publishedAt": "2026-11-17T17:40:32.622Z",
-   "score": 64,
-   "firstSeenAt": "2026-11-18T02:46:49.351Z",
+   "publishedAt": "2026-11-24T20:08:03.000Z",
    "hn": {
-    "id": "50535992",
-    "points": 471,
-    "comments": 77
-   }
+    "id": "50633922",
+    "points": 372,
+    "comments": 127
+   },
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "e213ef04a870",
+   "title": "Tidal bans AI-generated music",
+   "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T16:12:38.000Z",
+   "hn": {
+    "id": "50630309",
+    "points": 320,
+    "comments": 307
+   },
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "bc9058b8abe3",
+   "title": "Anthropic breaks below $83 IPO price",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T13:23:47.000Z",
+   "hn": {
+    "id": "50627836",
+    "points": 362,
+    "comments": 715
+   },
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "31bc9b6a5600",
+   "title": "GTA 6 Running on Windows",
+   "url": "https://twitter.com/raul_bs3/status/2125213756238291075",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T13:19:31.000Z",
+   "hn": {
+    "id": "50627783",
+    "points": 317,
+    "comments": 410
+   },
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "9b89d38293c7",
+   "title": "Quad9 pulled their DNS service from France",
+   "url": "https://quad9.net/news/blog/quad9-service-deactivation-in-france/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T08:33:14.000Z",
+   "hn": {
+    "id": "50625384",
+    "points": 368,
+    "comments": 222
+   },
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "35056578cef2",
+   "title": "GTA 6 Recomp (Leonida) banned from GitHub while lead dev was in school",
+   "url": "https://github.com/ItsNotRexed/Leonida/issues",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T02:08:09.000Z",
+   "hn": {
+    "id": "50622638",
+    "points": 352,
+    "comments": 627
+   },
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "09a5ca8ce3f4",
+   "title": "Pokemon Childhood Version: A romhack where Mew is under the truck",
+   "url": "https://wheybags.com/blog/pokemon_childhood_version.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T23:14:50.733Z",
+   "score": 24,
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "2c3ac5a2eb65",
+   "title": "9/UX: a Macintosh-inspired desktop for 9front",
+   "url": "https://progrium.github.io/9ux/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T18:37:29.366Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "f74885945342",
+   "title": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+   "url": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T17:45:29.085Z",
+   "score": 14,
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "077753344d38",
+   "title": "Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments",
+   "url": "https://huggingface.co/papers/2611.32094",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-23T19:00:00.000Z",
+   "score": 1,
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "2424137b9307",
+   "title": "EEGJev: A System One Decision Model and Benchmark for Multi-Task EEG Question Answering",
+   "url": "https://huggingface.co/papers/2611.32100",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-23T19:00:00.000Z",
+   "score": 0,
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "3c6728c1bfd1",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-24T13:00:00.000Z",
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "99b93f3e1098",
+   "title": "Clay helps sales teams win with Codex and ChatGPT",
+   "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+   "sources": [
+    "OpenAI"
+   ],
+   "publishedAt": "2026-11-24T00:00:00.000Z",
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
+  },
+  {
+   "id": "6ff348e652c9",
+   "title": "Three LLM inflection points in twelve months",
+   "url": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+   "sources": [
+    "Simon Willison"
+   ],
+   "publishedAt": "2026-11-24T23:02:07.000Z",
+   "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
   {
    "id": "ef8096d74f5d",
@@ -280,8 +422,8 @@
    "publishedAt": "2026-11-24T12:40:15.000Z",
    "hn": {
     "id": "50627340",
-    "points": 759,
-    "comments": 319
+    "points": 944,
+    "comments": 392
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -295,8 +437,8 @@
    "publishedAt": "2026-11-24T11:13:55.000Z",
    "hn": {
     "id": "50626578",
-    "points": 458,
-    "comments": 266
+    "points": 470,
+    "comments": 268
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -310,8 +452,8 @@
    "publishedAt": "2026-11-24T02:27:02.000Z",
    "hn": {
     "id": "50622774",
-    "points": 736,
-    "comments": 383
+    "points": 779,
+    "comments": 407
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -325,8 +467,8 @@
    "publishedAt": "2026-11-23T23:11:38.000Z",
    "hn": {
     "id": "50620822",
-    "points": 333,
-    "comments": 255
+    "points": 342,
+    "comments": 259
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -340,8 +482,8 @@
    "publishedAt": "2026-11-23T21:01:16.000Z",
    "hn": {
     "id": "50619207",
-    "points": 324,
-    "comments": 65
+    "points": 333,
+    "comments": 66
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -355,8 +497,8 @@
    "publishedAt": "2026-11-23T20:52:54.000Z",
    "hn": {
     "id": "50619103",
-    "points": 371,
-    "comments": 136
+    "points": 381,
+    "comments": 139
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -370,8 +512,8 @@
    "publishedAt": "2026-11-23T14:49:44.000Z",
    "hn": {
     "id": "50612686",
-    "points": 302,
-    "comments": 326
+    "points": 310,
+    "comments": 327
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -398,7 +540,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T14:52:19.552Z",
-   "score": 29,
+   "score": 47,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -409,7 +551,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T15:22:24.477Z",
-   "score": 24,
+   "score": 62,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -420,7 +562,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T18:11:49.469Z",
-   "score": 10,
+   "score": 27,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -431,7 +573,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T10:35:19.962Z",
-   "score": 13,
+   "score": 15,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -442,7 +584,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T23:36:14.289Z",
-   "score": 19,
+   "score": 25,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -517,8 +659,8 @@
    "publishedAt": "2026-11-23T22:32:29.000Z",
    "hn": {
     "id": "50620349",
-    "points": 673,
-    "comments": 333
+    "points": 688,
+    "comments": 345
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -532,8 +674,8 @@
    "publishedAt": "2026-11-23T22:09:10.000Z",
    "hn": {
     "id": "50620102",
-    "points": 353,
-    "comments": 321
+    "points": 357,
+    "comments": 331
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -547,8 +689,8 @@
    "publishedAt": "2026-11-23T17:17:01.000Z",
    "hn": {
     "id": "50615481",
-    "points": 453,
-    "comments": 371
+    "points": 458,
+    "comments": 378
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -562,8 +704,8 @@
    "publishedAt": "2026-11-23T11:31:54.000Z",
    "hn": {
     "id": "50610318",
-    "points": 322,
-    "comments": 175
+    "points": 327,
+    "comments": 177
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -575,7 +717,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T02:10:30.101Z",
-   "score": 37,
+   "score": 40,
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
@@ -586,7 +728,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T00:22:05.087Z",
-   "score": 34,
+   "score": 38,
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
@@ -597,7 +739,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T20:01:46.598Z",
-   "score": 36,
+   "score": 37,
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
   {
@@ -673,8 +815,8 @@
    "publishedAt": "2026-11-23T19:17:55.000Z",
    "hn": {
     "id": "50617499",
-    "points": 1151,
-    "comments": 281
+    "points": 1165,
+    "comments": 287
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -688,8 +830,8 @@
    "publishedAt": "2026-11-23T18:48:10.000Z",
    "hn": {
     "id": "50616933",
-    "points": 610,
-    "comments": 155
+    "points": 615,
+    "comments": 170
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -703,8 +845,8 @@
    "publishedAt": "2026-11-23T17:07:26.000Z",
    "hn": {
     "id": "50615308",
-    "points": 1968,
-    "comments": 1150
+    "points": 1987,
+    "comments": 1168
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -718,7 +860,7 @@
    "publishedAt": "2026-11-23T14:01:23.000Z",
    "hn": {
     "id": "50611588",
-    "points": 1709,
+    "points": 1711,
     "comments": 4
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
@@ -733,8 +875,8 @@
    "publishedAt": "2026-11-23T14:00:18.000Z",
    "hn": {
     "id": "50611576",
-    "points": 2775,
-    "comments": 3642
+    "points": 2800,
+    "comments": 3744
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -748,7 +890,7 @@
    "publishedAt": "2026-11-23T10:06:43.000Z",
    "hn": {
     "id": "50609685",
-    "points": 1159,
+    "points": 1169,
     "comments": 380
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
@@ -888,7 +1030,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-23T16:20:21.749Z",
-   "score": 41,
+   "score": 45,
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
   {
@@ -1479,21 +1621,6 @@
     "id": "50577265",
     "points": 478,
     "comments": 141
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "f4c47e25e952",
-   "title": "Why there are still no non-WebKit browsers on iOS",
-   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-20T15:03:31.000Z",
-   "hn": {
-    "id": "50575644",
-    "points": 476,
-    "comments": 266
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z"
   },
@@ -3006,128 +3133,6 @@
    ],
    "publishedAt": "2026-11-18T14:02:00.000Z",
    "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "2722a52f92b9",
-   "title": "Apple Services Down",
-   "url": "https://developer.apple.com/system-status/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T17:47:14.000Z",
-   "hn": {
-    "id": "50535238",
-    "points": 718,
-    "comments": 404
-   },
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "851193cad36b",
-   "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-   "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T17:12:06.000Z",
-   "hn": {
-    "id": "50534631",
-    "points": 658,
-    "comments": 295
-   },
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "f9de81307dd1",
-   "title": "NSA Internal Network Down",
-   "url": "https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T15:50:48.000Z",
-   "hn": {
-    "id": "50533089",
-    "points": 334,
-    "comments": 4
-   },
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "e3f80aa13f80",
-   "title": "Highly classified US national security communications network goes down",
-   "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T15:38:28.000Z",
-   "hn": {
-    "id": "50532849",
-    "points": 664,
-    "comments": 748
-   },
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "715137d93524",
-   "title": "What is the best harness for each model?",
-   "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T14:53:43.000Z",
-   "hn": {
-    "id": "50532191",
-    "points": 417,
-    "comments": 130
-   },
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "534d1dcd1dc8",
-   "title": "We don't need more apps, we need better open source",
-   "url": "https://jordankrueger.com/blog/better-open-source-not-more-apps/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T14:45:36.000Z",
-   "hn": {
-    "id": "50532086",
-    "points": 353,
-    "comments": 257
-   },
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "ba0181e5d490",
-   "title": "Steve Jobs Core Animation demo from WWDC 2007",
-   "url": "https://lucas.love/100/058",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T15:23:20.434Z",
-   "score": 31,
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "c5446227ea3c",
-   "title": "Sarasa Gothic Mono",
-   "url": "https://picaq.github.io/sarasa",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T18:47:39.099Z",
-   "score": 29,
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
-  },
-  {
-   "id": "c6c361c53bc4",
-   "title": "Introducing ChatGPT for Sales",
-   "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-17T08:00:00.000Z",
-   "firstSeenAt": "2026-11-18T02:46:49.351Z"
   }
  ]
 }
