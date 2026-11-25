@@ -1,6 +1,22 @@
 {
- "generatedAt": "2026-11-25T03:59:51.208Z",
+ "generatedAt": "2026-11-25T19:05:53.618Z",
  "items": [
+  {
+   "id": "3c6728c1bfd1",
+   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+   "sources": [
+    "OpenAI",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T13:00:00.000Z",
+   "firstSeenAt": "2026-11-25T03:59:51.208Z",
+   "hn": {
+    "id": "50634658",
+    "points": 342,
+    "comments": 94
+   }
+  },
   {
    "id": "70e8b292ce38",
    "title": "2035 came early",
@@ -12,11 +28,28 @@
    "publishedAt": "2026-11-24T06:30:15.741Z",
    "hn": {
     "id": "50624497",
-    "points": 978,
-    "comments": 370
+    "points": 1015,
+    "comments": 374
    },
-   "score": 97,
+   "score": 118,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
+  },
+  {
+   "id": "777816c50f03",
+   "title": "Bypassing iOS Safari 60 FPS Limit",
+   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T10:35:19.962Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-24T20:04:56.289Z",
+   "hn": {
+    "id": "50637890",
+    "points": 395,
+    "comments": 132
+   }
   },
   {
    "id": "e82796adc98a",
@@ -117,7 +150,7 @@
     "comments": 266
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z",
-   "score": 19
+   "score": 72
   },
   {
    "id": "bbe099f2944c",
@@ -221,21 +254,288 @@
    }
   },
   {
-   "id": "701f6c3f030a",
-   "title": "Solid 2.0",
-   "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+   "id": "2da10ebf7215",
+   "title": "1Password Security Incident",
+   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T17:18:26.000Z",
+   "hn": {
+    "id": "50644817",
+    "points": 343,
+    "comments": 152
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "7df80db3eb20",
+   "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+   "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T15:14:32.000Z",
+   "hn": {
+    "id": "50643129",
+    "points": 321,
+    "comments": 84
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "abef7dcffe0c",
+   "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+   "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T13:33:07.000Z",
+   "hn": {
+    "id": "50642086",
+    "points": 341,
+    "comments": 260
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "3ffdfdf5aab2",
+   "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+   "url": "https://buttons.joshwcomeau.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T03:23:07.000Z",
+   "hn": {
+    "id": "50638032",
+    "points": 751,
+    "comments": 119
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "30d463386b15",
+   "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T02:34:21.000Z",
+   "hn": {
+    "id": "50637686",
+    "points": 407,
+    "comments": 175
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "5ee45fc63309",
+   "title": "The matrix multiplication exponent is nine fourths [pdf]",
+   "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T01:19:26.000Z",
+   "hn": {
+    "id": "50637220",
+    "points": 923,
+    "comments": 521
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "a58808d0bc10",
+   "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+   "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T00:54:49.000Z",
+   "hn": {
+    "id": "50637056",
+    "points": 376,
+    "comments": 72
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "bbef1e94d167",
+   "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+   "url": "https://news.ycombinator.com/item?id=50630809",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T16:45:44.000Z",
+   "hn": {
+    "id": "50630809",
+    "points": 428,
+    "comments": 322
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "b535265101f0",
+   "title": "Jetty Pro",
+   "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-24T16:23:02.000Z",
+   "hn": {
+    "id": "50630462",
+    "points": 310,
+    "comments": 141
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "58d27ed84273",
+   "title": "Marginalia Search, Money, C++, Rust, AI, stuff",
+   "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-11-17T18:56:17.000Z",
-   "hn": {
-    "id": "50536387",
-    "points": 375,
-    "comments": 118
-   },
-   "score": 21,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
+   "publishedAt": "2026-11-25T06:20:29.600Z",
+   "score": 76,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "045130688435",
+   "title": "Optimizing Rustc's next trait solver",
+   "url": "https://donsz.nl/blog/optimizing-rustcs-next-trait-solver",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T13:09:22.097Z",
+   "score": 23,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "32ad3debcf5d",
+   "title": "Abolish Lock Poisoning",
+   "url": "https://lucumr.pocoo.org/2026/11/25/poisoning/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T05:10:37.243Z",
+   "score": 35,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "fd13d2bf75d7",
+   "title": "October in Servo: video captions and inert content",
+   "url": "https://servo.org/blog/2026/11/25/october-in-servo/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T14:31:31.655Z",
+   "score": 19,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "e6d5f2bd76ba",
+   "title": "Taking over US Treasury subdomains for $3 each",
+   "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T10:27:49.339Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "fdba7517b012",
+   "title": "Dutch data protection authority advises against purchasing AI camera glasses",
+   "url": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T00:02:36.960Z",
+   "score": 17,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "711061c701cb",
+   "title": "A faster algorithm for extracting hexadecimal digits of π",
+   "url": "https://www.stylewarning.com/posts/faster-digit-extraction/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T23:53:03.123Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "153047cc5a2f",
+   "title": "From formal verification to bug-finding in CHERIoT",
+   "url": "https://cheriot.org/verification/2026/11/24/griotte-verification-effort.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T23:52:41.105Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "f6105e0367b8",
+   "title": "Fund browser-grade certificate checking for every TLS client",
+   "url": "https://upki.rustls.dev/funding.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-24T18:27:49.682Z",
+   "score": 13,
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "f14a6f6dfd19",
+   "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+   "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
+   "sources": [
+    "DeepMind"
+   ],
+   "publishedAt": "2026-11-24T13:07:53.000Z",
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "b83399b02c70",
+   "title": "[$] Tainting (or not) on manual driver binding",
+   "url": "https://lwn.net/Articles/1103714/",
+   "sources": [
+    "LWN"
+   ],
+   "publishedAt": "2026-11-25T14:36:07.000Z",
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "170ba12c1bad",
+   "title": "Introducing Search for Agents",
+   "url": "https://blog.cloudflare.com/search-for-agents/",
+   "sources": [
+    "Cloudflare"
+   ],
+   "publishedAt": "2026-11-25T14:00:00.000Z",
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "f0387738029f",
+   "title": "How to make sure your developers never write for the company blog",
+   "url": "http://notes.eatonphil.com/2026-11-25-how-to-make-sure-developers-never-write-for-the-company-blog.html",
+   "sources": [
+    "Phil Eaton"
+   ],
+   "publishedAt": "2026-11-25T00:00:00.000Z",
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+  },
+  {
+   "id": "8bc07deb0c8a",
+   "title": "How Anthropic builds software in 2026 with Katelyn Lesse",
+   "url": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+   "sources": [
+    "Pragmatic Engineer"
+   ],
+   "publishedAt": "2026-11-25T17:31:32.000Z",
+   "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
    "id": "ca7efd0c9bb9",
@@ -247,8 +547,8 @@
    "publishedAt": "2026-11-24T20:08:03.000Z",
    "hn": {
     "id": "50633922",
-    "points": 372,
-    "comments": 127
+    "points": 517,
+    "comments": 170
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -262,8 +562,8 @@
    "publishedAt": "2026-11-24T16:12:38.000Z",
    "hn": {
     "id": "50630309",
-    "points": 320,
-    "comments": 307
+    "points": 334,
+    "comments": 325
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -277,8 +577,8 @@
    "publishedAt": "2026-11-24T13:23:47.000Z",
    "hn": {
     "id": "50627836",
-    "points": 362,
-    "comments": 715
+    "points": 417,
+    "comments": 787
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -292,8 +592,8 @@
    "publishedAt": "2026-11-24T13:19:31.000Z",
    "hn": {
     "id": "50627783",
-    "points": 317,
-    "comments": 410
+    "points": 488,
+    "comments": 569
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -307,8 +607,8 @@
    "publishedAt": "2026-11-24T08:33:14.000Z",
    "hn": {
     "id": "50625384",
-    "points": 368,
-    "comments": 222
+    "points": 379,
+    "comments": 270
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -322,8 +622,8 @@
    "publishedAt": "2026-11-24T02:08:09.000Z",
    "hn": {
     "id": "50622638",
-    "points": 352,
-    "comments": 627
+    "points": 377,
+    "comments": 690
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -335,7 +635,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T23:14:50.733Z",
-   "score": 24,
+   "score": 64,
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
   {
@@ -346,7 +646,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T18:37:29.366Z",
-   "score": 14,
+   "score": 18,
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
   {
@@ -357,7 +657,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T17:45:29.085Z",
-   "score": 14,
+   "score": 28,
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
   {
@@ -380,16 +680,6 @@
    ],
    "publishedAt": "2026-11-23T19:00:00.000Z",
    "score": 0,
-   "firstSeenAt": "2026-11-25T03:59:51.208Z"
-  },
-  {
-   "id": "3c6728c1bfd1",
-   "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-   "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-24T13:00:00.000Z",
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
   {
@@ -422,8 +712,8 @@
    "publishedAt": "2026-11-24T12:40:15.000Z",
    "hn": {
     "id": "50627340",
-    "points": 944,
-    "comments": 392
+    "points": 996,
+    "comments": 409
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -437,8 +727,8 @@
    "publishedAt": "2026-11-24T11:13:55.000Z",
    "hn": {
     "id": "50626578",
-    "points": 470,
-    "comments": 268
+    "points": 478,
+    "comments": 274
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -452,8 +742,8 @@
    "publishedAt": "2026-11-24T02:27:02.000Z",
    "hn": {
     "id": "50622774",
-    "points": 779,
-    "comments": 407
+    "points": 811,
+    "comments": 432
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -467,8 +757,8 @@
    "publishedAt": "2026-11-23T23:11:38.000Z",
    "hn": {
     "id": "50620822",
-    "points": 342,
-    "comments": 259
+    "points": 347,
+    "comments": 261
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -482,8 +772,8 @@
    "publishedAt": "2026-11-23T21:01:16.000Z",
    "hn": {
     "id": "50619207",
-    "points": 333,
-    "comments": 66
+    "points": 342,
+    "comments": 69
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -497,8 +787,8 @@
    "publishedAt": "2026-11-23T20:52:54.000Z",
    "hn": {
     "id": "50619103",
-    "points": 381,
-    "comments": 139
+    "points": 384,
+    "comments": 140
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -540,7 +830,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T14:52:19.552Z",
-   "score": 47,
+   "score": 71,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -551,7 +841,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T15:22:24.477Z",
-   "score": 62,
+   "score": 76,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -562,18 +852,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T18:11:49.469Z",
-   "score": 27,
-   "firstSeenAt": "2026-11-24T20:04:56.289Z"
-  },
-  {
-   "id": "777816c50f03",
-   "title": "Bypassing iOS Safari 60 FPS Limit",
-   "url": "https://rida.dev/blog/bypassing-ios-safari-60-fps-limit",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-24T10:35:19.962Z",
-   "score": 15,
+   "score": 34,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -659,8 +938,8 @@
    "publishedAt": "2026-11-23T22:32:29.000Z",
    "hn": {
     "id": "50620349",
-    "points": 688,
-    "comments": 345
+    "points": 705,
+    "comments": 348
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -674,8 +953,8 @@
    "publishedAt": "2026-11-23T22:09:10.000Z",
    "hn": {
     "id": "50620102",
-    "points": 357,
-    "comments": 331
+    "points": 366,
+    "comments": 333
    },
    "firstSeenAt": "2026-11-24T05:10:26.442Z"
   },
@@ -815,8 +1094,8 @@
    "publishedAt": "2026-11-23T19:17:55.000Z",
    "hn": {
     "id": "50617499",
-    "points": 1165,
-    "comments": 287
+    "points": 1176,
+    "comments": 293
    },
    "firstSeenAt": "2026-11-23T21:09:36.443Z"
   },
@@ -2802,337 +3081,6 @@
    ],
    "publishedAt": "2026-11-18T18:08:52.000Z",
    "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "ff0c2dfa0648",
-   "title": "Pre-auth RCE in Nginx HTTP/2 handling",
-   "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T15:19:55.000Z",
-   "hn": {
-    "id": "50547374",
-    "points": 1483,
-    "comments": 637
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "04ea7dca74f4",
-   "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-   "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T13:18:02.000Z",
-   "hn": {
-    "id": "50545958",
-    "points": 679,
-    "comments": 283
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "f1feb2e4bb48",
-   "title": "AI is killing All About Berlin",
-   "url": "https://nicolasbouliane.com/blog/death-by-ai",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T06:47:26.000Z",
-   "hn": {
-    "id": "50542705",
-    "points": 803,
-    "comments": 710
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "1740a57369fc",
-   "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
-   "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T05:11:30.000Z",
-   "hn": {
-    "id": "50542135",
-    "points": 511,
-    "comments": 127
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "3bffc55adac8",
-   "title": "ID.me terms required for IRS sign-in",
-   "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T00:51:45.000Z",
-   "hn": {
-    "id": "50540437",
-    "points": 503,
-    "comments": 265
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "695d1f9a1cf6",
-   "title": "Google's AI answers reducing search traffic by 40%",
-   "url": "https://revscope.co/blog/search-seo-geo-2026/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T00:17:58.000Z",
-   "hn": {
-    "id": "50540178",
-    "points": 708,
-    "comments": 559
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "1f0a78839277",
-   "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
-   "url": "https://github.com/microsoft/onnxruntime",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T23:18:49.000Z",
-   "hn": {
-    "id": "50539610",
-    "points": 463,
-    "comments": 105
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "6f099656459b",
-   "title": "jQuery 4.1.0",
-   "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T19:50:40.000Z",
-   "hn": {
-    "id": "50537156",
-    "points": 376,
-    "comments": 204
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "7400913a4dc8",
-   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-   "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T19:25:27.000Z",
-   "hn": {
-    "id": "50536813",
-    "points": 419,
-    "comments": 144
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "23791fed6fa0",
-   "title": "MAI Code 2 and Code 2 Flash",
-   "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T18:25:13.000Z",
-   "hn": {
-    "id": "50535885",
-    "points": 421,
-    "comments": 171
-   },
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "f210ea467a6d",
-   "title": "Codeberg's domain suddenly disappeared from their account, site is unreachable",
-   "url": "https://social.anoxinon.de/@Codeberg/117636454915265360",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T08:51:09.576Z",
-   "score": 220,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "a8c3e1c7c44f",
-   "title": "Java4Shell is a reason to use Java",
-   "url": "https://mccue.dev/pages/11-18-26-java4shell",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T14:21:42.798Z",
-   "score": 42,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "392b48e9ee01",
-   "title": "nginx2root",
-   "url": "https://xint.io/blog/nginx2root-remote-code-execution",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T15:28:56.196Z",
-   "score": 85,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "8c09b990e517",
-   "title": "FreeBSD GUS",
-   "url": "https://gregoire.dev/writing/gus/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T02:54:59.376Z",
-   "score": 28,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "2eb50ded113e",
-   "title": "Sexp Matrix",
-   "url": "https://lisper.cc/ideas/entangle.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T21:29:57.626Z",
-   "score": 14,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "9ce310da3f02",
-   "title": "C’s designated initializers give us named arguments",
-   "url": "https://quuxplusone.github.io/blog/2026/11/16/named-arguments-in-c/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-17T15:58:44.322Z",
-   "score": 14,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "b5c8370aae01",
-   "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
-   "url": "https://huggingface.co/papers/2611.22115",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-16T19:00:00.000Z",
-   "score": 148,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "62671662bfc5",
-   "title": "Weight-Space Programming Doesn't Need Transformers",
-   "url": "https://huggingface.co/papers/2611.22055",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-16T19:00:00.000Z",
-   "score": 43,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "9dbb7a6ae9fe",
-   "title": "TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation",
-   "url": "https://huggingface.co/papers/2611.23143",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-16T19:00:00.000Z",
-   "score": 23,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "b71151d25d0e",
-   "title": "Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration",
-   "url": "https://huggingface.co/papers/2611.22275",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-16T19:00:00.000Z",
-   "score": 21,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "71047f93c532",
-   "title": "FastFrames: Video Generation at Interactive Latency",
-   "url": "https://huggingface.co/papers/2611.23226",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-16T19:00:00.000Z",
-   "score": 20,
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "6cab9c8cd383",
-   "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-   "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-18T00:00:00.000Z",
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "c7d3ecb00643",
-   "title": "Advancing chip design with OpenAI models",
-   "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-18T00:00:00.000Z",
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "ff0c18822df4",
-   "title": "[$] Julia 1.13 brings REPL improvements and more",
-   "url": "https://lwn.net/Articles/1108153/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-18T15:56:18.000Z",
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "af17318c693b",
-   "title": "How Cloudflare WAF helps protect against Java4Shell (CVE-2026-114938)",
-   "url": "https://blog.cloudflare.com/java4shell-waf-protection/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-18T14:52:10.000Z",
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "195649229e6b",
-   "title": "Traffic mix matters",
-   "url": "http://brooker.co.za/blog/2026/11/18/workload-mix.html",
-   "sources": [
-    "Marc Brooker"
-   ],
-   "publishedAt": "2026-11-18T00:00:00.000Z",
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
-  },
-  {
-   "id": "1e6b15e0e845",
-   "title": "Data Contracts",
-   "url": "https://martinfowler.com/articles/data-contracts.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-11-18T14:02:00.000Z",
-   "firstSeenAt": "2026-11-18T17:55:45.834Z"
   }
  ]
 }
