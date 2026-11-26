@@ -1,6 +1,40 @@
 {
- "generatedAt": "2026-11-25T19:05:53.618Z",
+ "generatedAt": "2026-11-26T03:24:50.194Z",
  "items": [
+  {
+   "id": "c31465abe4a5",
+   "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
+   "url": "https://scottaaronson.blog/?p=10379",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T19:11:27.000Z",
+   "hn": {
+    "id": "50646108",
+    "points": 1006,
+    "comments": 852
+   },
+   "score": 24,
+   "firstSeenAt": "2026-11-26T03:24:50.194Z"
+  },
+  {
+   "id": "2da10ebf7215",
+   "title": "1Password Security Incident",
+   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T17:18:26.000Z",
+   "hn": {
+    "id": "50644817",
+    "points": 1226,
+    "comments": 518
+   },
+   "firstSeenAt": "2026-11-25T19:05:53.618Z",
+   "score": 37
+  },
   {
    "id": "3c6728c1bfd1",
    "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
@@ -13,8 +47,8 @@
    "firstSeenAt": "2026-11-25T03:59:51.208Z",
    "hn": {
     "id": "50634658",
-    "points": 342,
-    "comments": 94
+    "points": 353,
+    "comments": 97
    }
   },
   {
@@ -28,10 +62,10 @@
    "publishedAt": "2026-11-24T06:30:15.741Z",
    "hn": {
     "id": "50624497",
-    "points": 1015,
+    "points": 1021,
     "comments": 374
    },
-   "score": 118,
+   "score": 126,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -47,8 +81,8 @@
    "firstSeenAt": "2026-11-24T20:04:56.289Z",
    "hn": {
     "id": "50637890",
-    "points": 395,
-    "comments": 132
+    "points": 441,
+    "comments": 144
    }
   },
   {
@@ -150,7 +184,7 @@
     "comments": 266
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z",
-   "score": 72
+   "score": 80
   },
   {
    "id": "bbe099f2944c",
@@ -238,35 +272,97 @@
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
   },
   {
-   "id": "909b75797cd1",
-   "title": "Anthropic prices initial public offering",
-   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "id": "f63f4cad1468",
+   "title": "Much shorter version of GRH Lean verification from Anthropic",
+   "url": "https://github.com/lsernau/grh-lean",
    "sources": [
-    "Anthropic",
     "Hacker News"
    ],
-   "publishedAt": "2026-11-18T00:00:00.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z",
+   "publishedAt": "2026-11-25T21:48:10.000Z",
    "hn": {
-    "id": "50553843",
-    "points": 417,
-    "comments": 790
-   }
+    "id": "50648050",
+    "points": 317,
+    "comments": 147
+   },
+   "firstSeenAt": "2026-11-26T03:24:50.194Z"
   },
   {
-   "id": "2da10ebf7215",
-   "title": "1Password Security Incident",
-   "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+   "id": "bc6b364e0b70",
+   "title": "Rumors swirling that labs might have cracked Factoring in P",
+   "url": "https://www.reddit.com/r/singularity/comments/1y59ef1/rumor_that_openai_or_anthropic_found_a_way_to/",
    "sources": [
     "Hacker News"
    ],
-   "publishedAt": "2026-11-25T17:18:26.000Z",
+   "publishedAt": "2026-11-25T15:08:44.000Z",
    "hn": {
-    "id": "50644817",
-    "points": 343,
-    "comments": 152
+    "id": "50643065",
+    "points": 470,
+    "comments": 345
    },
-   "firstSeenAt": "2026-11-25T19:05:53.618Z"
+   "firstSeenAt": "2026-11-26T03:24:50.194Z"
+  },
+  {
+   "id": "ffad66169d8c",
+   "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+   "url": "https://github.com/xoxorwr/pw-loudness-eq",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T11:34:25.000Z",
+   "hn": {
+    "id": "50641171",
+    "points": 324,
+    "comments": 180
+   },
+   "firstSeenAt": "2026-11-26T03:24:50.194Z"
+  },
+  {
+   "id": "65185b2b6e7e",
+   "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
+   "url": "https://gpu-demo-gallery.pages.dev/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T04:31:48.000Z",
+   "hn": {
+    "id": "50638503",
+    "points": 340,
+    "comments": 77
+   },
+   "firstSeenAt": "2026-11-26T03:24:50.194Z"
+  },
+  {
+   "id": "bc2737d3be64",
+   "title": "Slow Ubuntu security response times",
+   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T20:10:24.526Z",
+   "score": 53,
+   "firstSeenAt": "2026-11-26T03:24:50.194Z"
+  },
+  {
+   "id": "51fa0101547e",
+   "title": "Entering the Geminispace",
+   "url": "https://jmmv.dev/2026/11/entering-the-geminispace.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T22:43:05.044Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-26T03:24:50.194Z"
+  },
+  {
+   "id": "9d616b431206",
+   "title": "Getting old Java phones online again",
+   "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T13:28:55.591Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-26T03:24:50.194Z"
   },
   {
    "id": "7df80db3eb20",
@@ -278,8 +374,8 @@
    "publishedAt": "2026-11-25T15:14:32.000Z",
    "hn": {
     "id": "50643129",
-    "points": 321,
-    "comments": 84
+    "points": 447,
+    "comments": 111
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -293,8 +389,8 @@
    "publishedAt": "2026-11-25T13:33:07.000Z",
    "hn": {
     "id": "50642086",
-    "points": 341,
-    "comments": 260
+    "points": 452,
+    "comments": 339
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -308,8 +404,8 @@
    "publishedAt": "2026-11-25T03:23:07.000Z",
    "hn": {
     "id": "50638032",
-    "points": 751,
-    "comments": 119
+    "points": 849,
+    "comments": 132
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -323,8 +419,8 @@
    "publishedAt": "2026-11-25T02:34:21.000Z",
    "hn": {
     "id": "50637686",
-    "points": 407,
-    "comments": 175
+    "points": 454,
+    "comments": 197
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -338,8 +434,8 @@
    "publishedAt": "2026-11-25T01:19:26.000Z",
    "hn": {
     "id": "50637220",
-    "points": 923,
-    "comments": 521
+    "points": 1027,
+    "comments": 581
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -353,8 +449,8 @@
    "publishedAt": "2026-11-25T00:54:49.000Z",
    "hn": {
     "id": "50637056",
-    "points": 376,
-    "comments": 72
+    "points": 393,
+    "comments": 77
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -368,8 +464,8 @@
    "publishedAt": "2026-11-24T16:45:44.000Z",
    "hn": {
     "id": "50630809",
-    "points": 428,
-    "comments": 322
+    "points": 444,
+    "comments": 340
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -383,8 +479,8 @@
    "publishedAt": "2026-11-24T16:23:02.000Z",
    "hn": {
     "id": "50630462",
-    "points": 310,
-    "comments": 141
+    "points": 311,
+    "comments": 144
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -396,7 +492,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T06:20:29.600Z",
-   "score": 76,
+   "score": 102,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -407,7 +503,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T13:09:22.097Z",
-   "score": 23,
+   "score": 45,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -418,7 +514,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T05:10:37.243Z",
-   "score": 35,
+   "score": 45,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -429,7 +525,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T14:31:31.655Z",
-   "score": 19,
+   "score": 39,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -440,7 +536,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T10:27:49.339Z",
-   "score": 18,
+   "score": 25,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -451,7 +547,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T00:02:36.960Z",
-   "score": 17,
+   "score": 21,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -547,8 +643,8 @@
    "publishedAt": "2026-11-24T20:08:03.000Z",
    "hn": {
     "id": "50633922",
-    "points": 517,
-    "comments": 170
+    "points": 531,
+    "comments": 176
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -562,8 +658,8 @@
    "publishedAt": "2026-11-24T16:12:38.000Z",
    "hn": {
     "id": "50630309",
-    "points": 334,
-    "comments": 325
+    "points": 336,
+    "comments": 332
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -577,8 +673,8 @@
    "publishedAt": "2026-11-24T13:23:47.000Z",
    "hn": {
     "id": "50627836",
-    "points": 417,
-    "comments": 787
+    "points": 425,
+    "comments": 792
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -592,8 +688,8 @@
    "publishedAt": "2026-11-24T13:19:31.000Z",
    "hn": {
     "id": "50627783",
-    "points": 488,
-    "comments": 569
+    "points": 499,
+    "comments": 587
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -607,8 +703,8 @@
    "publishedAt": "2026-11-24T08:33:14.000Z",
    "hn": {
     "id": "50625384",
-    "points": 379,
-    "comments": 270
+    "points": 383,
+    "comments": 281
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
@@ -635,7 +731,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T23:14:50.733Z",
-   "score": 64,
+   "score": 73,
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
   {
@@ -712,8 +808,8 @@
    "publishedAt": "2026-11-24T12:40:15.000Z",
    "hn": {
     "id": "50627340",
-    "points": 996,
-    "comments": 409
+    "points": 1005,
+    "comments": 410
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -727,8 +823,8 @@
    "publishedAt": "2026-11-24T11:13:55.000Z",
    "hn": {
     "id": "50626578",
-    "points": 478,
-    "comments": 274
+    "points": 479,
+    "comments": 276
    },
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
@@ -830,7 +926,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T14:52:19.552Z",
-   "score": 71,
+   "score": 76,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -841,7 +937,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T15:22:24.477Z",
-   "score": 76,
+   "score": 81,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -852,7 +948,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T18:11:49.469Z",
-   "score": 34,
+   "score": 37,
    "firstSeenAt": "2026-11-24T20:04:56.289Z"
   },
   {
@@ -2852,235 +2948,6 @@
    ],
    "publishedAt": "2026-11-19T17:08:59.000Z",
    "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "b2c084a41275",
-   "title": "Gemini 4 Neon",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T21:34:07.000Z",
-   "hn": {
-    "id": "50552424",
-    "points": 1042,
-    "comments": 774
-   },
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "5dbbce44001a",
-   "title": "Seven new models at scalable price-performance",
-   "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T16:08:24.000Z",
-   "hn": {
-    "id": "50548021",
-    "points": 593,
-    "comments": 376
-   },
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "dbf723300382",
-   "title": "AI agents ask better questions than KPMG accountants in audit trial",
-   "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T15:49:34.000Z",
-   "hn": {
-    "id": "50547777",
-    "points": 484,
-    "comments": 251
-   },
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "5131cfeef2d1",
-   "title": "Inside Deutsche Bank",
-   "url": "https://www.inside-db.com/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T15:38:33.000Z",
-   "hn": {
-    "id": "50547620",
-    "points": 775,
-    "comments": 258
-   },
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "7370fbe8d7e4",
-   "title": "Russia reportedly planned mass-casualty attack in Poland to be blamed on Ukraine",
-   "url": "https://www.yahoo.com/news/world/articles/russia-reportedly-planned-mass-casualty-090500574.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T15:18:30.000Z",
-   "hn": {
-    "id": "50547344",
-    "points": 379,
-    "comments": 217
-   },
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "6fc8c039af46",
-   "title": "Energy-Based Reasoners: 385x more efficient inference",
-   "url": "https://energy-based-reasoners.github.io/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T09:29:32.000Z",
-   "hn": {
-    "id": "50543989",
-    "points": 315,
-    "comments": 56
-   },
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "6e090bb95c89",
-   "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-   "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-17T21:16:12.000Z",
-   "hn": {
-    "id": "50538303",
-    "points": 322,
-    "comments": 454
-   },
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "b3afee5395ee",
-   "title": "Upcoming Critical PHP Security Release (18 Nov 2026)",
-   "url": "https://www.php.net/index.php#2026-11-18-1",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T19:44:06.571Z",
-   "score": 31,
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "f1147e433956",
-   "title": "How I made a custom game engine for Satelital",
-   "url": "https://spectralorbit.com/blog/satelital_game_engine",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T16:39:00.327Z",
-   "score": 38,
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "bc92b7a6195e",
-   "title": "The Magic of Partial Evaluation",
-   "url": "https://jimmyhmiller.com/magic-of-partial-evaluation",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T17:30:14.649Z",
-   "score": 36,
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "a27d5a8549c3",
-   "title": "IPv6 delegation, an unusually subtle failure mode",
-   "url": "https://savyasacheejha.com/posts/why-odhcpd/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T17:52:22.985Z",
-   "score": 19,
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "e683d40fba10",
-   "title": "The Silent Consensus",
-   "url": "https://openai.com/index/the-silent-consensus",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-18T10:00:00.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "9fa731b0ef6c",
-   "title": "Research acceleration: The jagged frontier",
-   "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-18T08:00:00.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "b527b6f0ddce",
-   "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-   "url": "https://openai.com/business/customer-stories/sumitomo-life",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-18T08:00:00.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "53f2a14376dd",
-   "title": "Inside the Codex sandbox",
-   "url": "https://openai.com/index/inside-the-codex-sandbox",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-18T08:00:00.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "8b6ac2940fdc",
-   "title": "Managing frontier AI risk: From training to deployment",
-   "url": "https://openai.com/index/managing-frontier-ai-risk",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-18T06:00:00.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "710cebdae697",
-   "title": "[$] LWN.net Weekly Edition for November 19, 2026",
-   "url": "https://lwn.net/Articles/1107147/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-19T01:05:03.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "79b71893e69d",
-   "title": "An updated Clairic and Clairic-flash are now open-weight, from the new Workers AI Superintelligence team",
-   "url": "https://blog.cloudflare.com/open-clairic/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-18T22:00:00.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
-  },
-  {
-   "id": "f7bfd04d6028",
-   "title": "Software factories and code reviews with Harjot Gill",
-   "url": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-18T18:08:52.000Z",
-   "firstSeenAt": "2026-11-19T02:23:14.458Z"
   }
  ]
 }
