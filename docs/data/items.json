@@ -1,6 +1,23 @@
 {
- "generatedAt": "2026-11-26T03:24:50.194Z",
+ "generatedAt": "2026-11-26T18:56:35.162Z",
  "items": [
+  {
+   "id": "136b27316001",
+   "title": "Collection of preserved UI style guides",
+   "url": "https://aresluna.org/ui-style-guides/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-26T00:40:00.000Z",
+   "hn": {
+    "id": "50649834",
+    "points": 353,
+    "comments": 72
+   },
+   "score": 30,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
   {
    "id": "c31465abe4a5",
    "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
@@ -12,11 +29,28 @@
    "publishedAt": "2026-11-25T19:11:27.000Z",
    "hn": {
     "id": "50646108",
-    "points": 1006,
-    "comments": 852
+    "points": 1897,
+    "comments": 1738
    },
-   "score": 24,
+   "score": 53,
    "firstSeenAt": "2026-11-26T03:24:50.194Z"
+  },
+  {
+   "id": "bc2737d3be64",
+   "title": "Slow Ubuntu security response times",
+   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T20:10:24.526Z",
+   "score": 95,
+   "firstSeenAt": "2026-11-26T03:24:50.194Z",
+   "hn": {
+    "id": "50647181",
+    "points": 398,
+    "comments": 239
+   }
   },
   {
    "id": "2da10ebf7215",
@@ -29,11 +63,11 @@
    "publishedAt": "2026-11-25T17:18:26.000Z",
    "hn": {
     "id": "50644817",
-    "points": 1226,
-    "comments": 518
+    "points": 1613,
+    "comments": 696
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z",
-   "score": 37
+   "score": 44
   },
   {
    "id": "3c6728c1bfd1",
@@ -47,7 +81,7 @@
    "firstSeenAt": "2026-11-25T03:59:51.208Z",
    "hn": {
     "id": "50634658",
-    "points": 353,
+    "points": 355,
     "comments": 97
    }
   },
@@ -81,8 +115,8 @@
    "firstSeenAt": "2026-11-24T20:04:56.289Z",
    "hn": {
     "id": "50637890",
-    "points": 441,
-    "comments": 144
+    "points": 461,
+    "comments": 148
    }
   },
   {
@@ -184,7 +218,7 @@
     "comments": 266
    },
    "firstSeenAt": "2026-11-21T02:01:20.382Z",
-   "score": 80
+   "score": 89
   },
   {
    "id": "bbe099f2944c",
@@ -204,72 +238,300 @@
    "firstSeenAt": "2026-11-20T17:41:39.417Z"
   },
   {
-   "id": "cd785972e812",
-   "title": "15M web servers on one VM – smoltcp, DPDK, AF_XDP",
-   "url": "https://kapteko.com/15-million-webservers/",
+   "id": "7567b48c80a8",
+   "title": "Tell HN: Happy Thanksgiving",
+   "url": "https://news.ycombinator.com/item?id=50655664",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-11-19T05:56:36.000Z",
+   "publishedAt": "2026-11-26T14:26:54.000Z",
    "hn": {
-    "id": "50556533",
-    "points": 404,
-    "comments": 44
+    "id": "50655664",
+    "points": 445,
+    "comments": 116
    },
-   "score": 60,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
   {
-   "id": "f82d195d3e1b",
-   "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
-   "url": "https://verialabs.com/ruby2shell/",
+   "id": "de9c79db32a5",
+   "title": "Nextcloud Office Desktop app",
+   "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-26T11:50:49.000Z",
+   "hn": {
+    "id": "50654289",
+    "points": 352,
+    "comments": 153
+   },
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "91ef480232c5",
+   "title": "Intel One Mono font (2023)",
+   "url": "https://github.com/intel/intel-one-mono",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-26T10:11:01.000Z",
+   "hn": {
+    "id": "50653667",
+    "points": 382,
+    "comments": 214
+   },
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "244a3e8cb4f1",
+   "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+   "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-26T03:36:58.000Z",
+   "hn": {
+    "id": "50651117",
+    "points": 431,
+    "comments": 245
+   },
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "6571f4f6b23a",
+   "title": "Tell HN: Lots of Ask HNs again",
+   "url": "https://news.ycombinator.com/item?id=50649864",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-26T00:43:34.000Z",
+   "hn": {
+    "id": "50649864",
+    "points": 372,
+    "comments": 148
+   },
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "0452d68d8827",
+   "title": "Jev is probably Qwen3.5-35B-A3B",
+   "url": "https://modaic.dev/blog/latency-doesnt-lie",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T22:57:04.000Z",
+   "hn": {
+    "id": "50648823",
+    "points": 331,
+    "comments": 93
+   },
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "dc69597abec1",
+   "title": "The New York Times warns photographers not to update Photoshop over AI features",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T21:18:02.000Z",
+   "hn": {
+    "id": "50647673",
+    "points": 589,
+    "comments": 477
+   },
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "1f0f577d6114",
+   "title": "Smart people who give a shit use tools",
+   "url": "https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-25T07:46:43.000Z",
+   "hn": {
+    "id": "50639698",
+    "points": 363,
+    "comments": 286
+   },
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "b858676a6b5c",
+   "title": "How WinHelp files work",
+   "url": "https://quin.fyi/posts/how-winhelp-files-work.html",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-11-19T05:09:11.000Z",
-   "hn": {
-    "id": "50556287",
-    "points": 402,
-    "comments": 184
-   },
+   "publishedAt": "2026-11-26T06:39:00.543Z",
+   "score": 17,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "05e5ec19ffd0",
+   "title": "Garage v2.6.0 released with web admin, v1.x EoL & other news",
+   "url": "https://garagehq.deuxfleurs.fr/blog/2026-11-webadmin-release/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-26T12:40:23.353Z",
+   "score": 18,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "5b0b0f9a0ea0",
+   "title": "Typed indexes in Zig",
+   "url": "https://lvignoli.eu/posts/2026-11-16-typed-indexes-in-zig/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T22:48:44.713Z",
    "score": 29,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
   {
-   "id": "a6c50a3fde5e",
-   "title": "We need smart people who give a shit",
-   "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
+   "id": "2aacc60e9c24",
+   "title": "Generalized Riemann Hypothesis proof in Lean 4, in 76k lines (down from 17M)",
+   "url": "https://leanprover.zulipchat.com/#narrow/channel/658556-Riemann-Hypothesis/topic/Cleaning.20up.20the.20proof/near/643702366",
    "sources": [
-    "Hacker News",
     "Lobsters"
    ],
-   "publishedAt": "2026-11-18T23:53:49.000Z",
-   "hn": {
-    "id": "50554045",
-    "points": 818,
-    "comments": 409
-   },
-   "score": 198,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+   "publishedAt": "2026-11-25T22:26:56.449Z",
+   "score": 41,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
   {
-   "id": "5d96bf31ecb8",
-   "title": "Multiple vulnerabilities in Regexp and String case conversion",
-   "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+   "id": "14584e4418e2",
+   "title": "In defense of lock poisoning in Rust",
+   "url": "https://sunshowers.io/posts/on-poisoning/",
    "sources": [
-    "Hacker News",
     "Lobsters"
    ],
-   "publishedAt": "2026-11-18T23:52:50.000Z",
-   "hn": {
-    "id": "50554038",
-    "points": 340,
-    "comments": 131
-   },
-   "score": 22,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
+   "publishedAt": "2026-11-26T11:51:23.187Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "b58bc7c8a24a",
+   "title": "Ansible Fails waiting for privilege escalation on Ubuntu 26",
+   "url": "https://www.jeffgeerling.com/blog/2026/ansible-fails-become-ubuntu2604/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-26T09:45:42.146Z",
+   "score": 10,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "260a0ffe8586",
+   "title": "Make the Plan a Value",
+   "url": "https://jackkelly.name/blog/archives/2026/11/26/make_the_plan_a_value",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-26T00:12:06.360Z",
+   "score": 21,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "67e31b55c77f",
+   "title": "I Booted From My Tape Backup From 2002",
+   "url": "https://changelog.complete.org/archives/45268-i-booted-from-my-tape-backup-from-2002",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-26T03:56:07.099Z",
+   "score": 21,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "58c480cc3dc3",
+   "title": "Browser tabs as a container runtime",
+   "url": "https://fzakaria.com/2026/11/25/browser-tabs-as-a-container-runtime",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-26T04:57:04.708Z",
+   "score": 17,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "2202b68fa4e6",
+   "title": "The beauty of CSS mixins",
+   "url": "https://patrickbrosset.com/articles/2026-11-25-the-beauty-of-css-mixins/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-26T01:02:17.726Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "aedc158a55a9",
+   "title": "SSH is a GUI framework",
+   "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-25T22:55:47.525Z",
+   "score": 11,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "de55fe526105",
+   "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+   "url": "https://huggingface.co/papers/2611.34849",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-24T19:00:00.000Z",
+   "score": 101,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "6717576b9778",
+   "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+   "url": "https://huggingface.co/papers/2611.34575",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-24T19:00:00.000Z",
+   "score": 84,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "7fc61acd4d15",
+   "title": "Mixture-of-Loops Transformer",
+   "url": "https://huggingface.co/papers/2611.34923",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-24T19:00:00.000Z",
+   "score": 57,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "e44c65cf42c4",
+   "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+   "url": "https://huggingface.co/papers/2611.34237",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-24T19:00:00.000Z",
+   "score": 54,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
+  },
+  {
+   "id": "79b8f2711699",
+   "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+   "url": "https://huggingface.co/papers/2611.34941",
+   "sources": [
+    "HF Papers"
+   ],
+   "publishedAt": "2026-11-24T19:00:00.000Z",
+   "score": 41,
+   "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
   {
    "id": "f63f4cad1468",
@@ -281,8 +543,8 @@
    "publishedAt": "2026-11-25T21:48:10.000Z",
    "hn": {
     "id": "50648050",
-    "points": 317,
-    "comments": 147
+    "points": 522,
+    "comments": 336
    },
    "firstSeenAt": "2026-11-26T03:24:50.194Z"
   },
@@ -296,8 +558,8 @@
    "publishedAt": "2026-11-25T15:08:44.000Z",
    "hn": {
     "id": "50643065",
-    "points": 470,
-    "comments": 345
+    "points": 503,
+    "comments": 377
    },
    "firstSeenAt": "2026-11-26T03:24:50.194Z"
   },
@@ -311,8 +573,8 @@
    "publishedAt": "2026-11-25T11:34:25.000Z",
    "hn": {
     "id": "50641171",
-    "points": 324,
-    "comments": 180
+    "points": 340,
+    "comments": 188
    },
    "firstSeenAt": "2026-11-26T03:24:50.194Z"
   },
@@ -326,20 +588,9 @@
    "publishedAt": "2026-11-25T04:31:48.000Z",
    "hn": {
     "id": "50638503",
-    "points": 340,
-    "comments": 77
+    "points": 352,
+    "comments": 80
    },
-   "firstSeenAt": "2026-11-26T03:24:50.194Z"
-  },
-  {
-   "id": "bc2737d3be64",
-   "title": "Slow Ubuntu security response times",
-   "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-25T20:10:24.526Z",
-   "score": 53,
    "firstSeenAt": "2026-11-26T03:24:50.194Z"
   },
   {
@@ -350,7 +601,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T22:43:05.044Z",
-   "score": 10,
+   "score": 34,
    "firstSeenAt": "2026-11-26T03:24:50.194Z"
   },
   {
@@ -374,8 +625,8 @@
    "publishedAt": "2026-11-25T15:14:32.000Z",
    "hn": {
     "id": "50643129",
-    "points": 447,
-    "comments": 111
+    "points": 487,
+    "comments": 120
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -389,8 +640,8 @@
    "publishedAt": "2026-11-25T13:33:07.000Z",
    "hn": {
     "id": "50642086",
-    "points": 452,
-    "comments": 339
+    "points": 501,
+    "comments": 369
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -404,8 +655,8 @@
    "publishedAt": "2026-11-25T03:23:07.000Z",
    "hn": {
     "id": "50638032",
-    "points": 849,
-    "comments": 132
+    "points": 878,
+    "comments": 134
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -419,8 +670,8 @@
    "publishedAt": "2026-11-25T02:34:21.000Z",
    "hn": {
     "id": "50637686",
-    "points": 454,
-    "comments": 197
+    "points": 462,
+    "comments": 216
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -434,8 +685,8 @@
    "publishedAt": "2026-11-25T01:19:26.000Z",
    "hn": {
     "id": "50637220",
-    "points": 1027,
-    "comments": 581
+    "points": 1058,
+    "comments": 604
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -449,8 +700,8 @@
    "publishedAt": "2026-11-25T00:54:49.000Z",
    "hn": {
     "id": "50637056",
-    "points": 393,
-    "comments": 77
+    "points": 401,
+    "comments": 78
    },
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
@@ -492,7 +743,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T06:20:29.600Z",
-   "score": 102,
+   "score": 112,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -503,7 +754,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T13:09:22.097Z",
-   "score": 45,
+   "score": 59,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -514,7 +765,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T05:10:37.243Z",
-   "score": 45,
+   "score": 54,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -525,7 +776,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-25T14:31:31.655Z",
-   "score": 39,
+   "score": 61,
    "firstSeenAt": "2026-11-25T19:05:53.618Z"
   },
   {
@@ -643,7 +894,7 @@
    "publishedAt": "2026-11-24T20:08:03.000Z",
    "hn": {
     "id": "50633922",
-    "points": 531,
+    "points": 537,
     "comments": 176
    },
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
@@ -731,7 +982,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-24T23:14:50.733Z",
-   "score": 73,
+   "score": 79,
    "firstSeenAt": "2026-11-25T03:59:51.208Z"
   },
   {
@@ -2726,228 +2977,6 @@
    ],
    "publishedAt": "2026-11-20T01:58:29.000Z",
    "firstSeenAt": "2026-11-20T02:06:42.335Z"
-  },
-  {
-   "id": "db0a328fdd9a",
-   "title": "How the European Commission rolled out Matrix to more than 40k staff",
-   "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-19T10:58:29.000Z",
-   "hn": {
-    "id": "50558533",
-    "points": 714,
-    "comments": 368
-   },
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "814baa6f479f",
-   "title": "Codeberg.org Not Reachable",
-   "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-18T10:02:17.000Z",
-   "hn": {
-    "id": "50544261",
-    "points": 321,
-    "comments": 315
-   },
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "218b95945dc1",
-   "title": "Design for Understandability",
-   "url": "https://jschuster.org/blog/2026/11/19/design-for-understandability/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-19T13:07:34.542Z",
-   "score": 48,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "5851e1fbe1a1",
-   "title": "PostgreSQL 19 Released",
-   "url": "https://www.postgresql.org/about/news/postgresql-19-released-3449/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-19T15:12:08.240Z",
-   "score": 86,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "5174c21f9e43",
-   "title": "PHP 8.6 Release Announcement",
-   "url": "https://www.php.net/releases/8.6/en.php",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-19T10:17:55.143Z",
-   "score": 17,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "5a7839424fb0",
-   "title": "Distributed, high-performance blob storage on SQLite",
-   "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-19T08:37:13.161Z",
-   "score": 28,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "560b97b0ba6b",
-   "title": "markdownWeb",
-   "url": "https://demo.bonbonweb.org/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T17:35:19.967Z",
-   "score": 19,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "b5bf67b60ffc",
-   "title": "sysdeck: Raycast for Linux & BSD",
-   "url": "https://xn--gckvb8fzb.com/sysdeck-raycast-for-linux-bsd/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T23:26:59.595Z",
-   "score": 13,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "a744d744e02c",
-   "title": "Stricter checks for uploaded distributions on PyPI",
-   "url": "https://blog.pypi.org/posts/2026-11-18-stricter-checks-for-uploaded-sdists/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-18T20:00:42.222Z",
-   "score": 10,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "eba1ef6c1e98",
-   "title": "Jeveration: System One Models Now Generate",
-   "url": "https://huggingface.co/papers/2611.24738",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-17T19:00:00.000Z",
-   "score": 87,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "7fc09e03d574",
-   "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
-   "url": "https://huggingface.co/papers/2611.24154",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-17T19:00:00.000Z",
-   "score": 24,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "05ddd2e6c108",
-   "title": "CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning",
-   "url": "https://huggingface.co/papers/2611.24654",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-17T19:00:00.000Z",
-   "score": 22,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "ab298121176b",
-   "title": "HINT-WAM: Hindsight-Informed Training for World Action Models",
-   "url": "https://huggingface.co/papers/2611.24789",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-17T19:00:00.000Z",
-   "score": 22,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "35abad2cd0b4",
-   "title": "WorldRuler: Interactive World Modeling under Configurable Rules",
-   "url": "https://huggingface.co/papers/2611.24869",
-   "sources": [
-    "HF Papers"
-   ],
-   "publishedAt": "2026-11-17T19:00:00.000Z",
-   "score": 18,
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "6687f7be62c3",
-   "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-   "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-19T08:00:00.000Z",
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "b898a1b2127c",
-   "title": "Introducing Gemini 4 Neon",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-11-18T21:35:43.000Z",
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "50e3ea47cbae",
-   "title": "Genie 4 is now available",
-   "url": "https://deepmind.google/blog/genie-4-is-now-available/",
-   "sources": [
-    "DeepMind"
-   ],
-   "publishedAt": "2026-11-18T18:13:42.000Z",
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "050cab0e1265",
-   "title": "[$] Added indirection allows for larger BPF programs",
-   "url": "https://lwn.net/Articles/1106537/",
-   "sources": [
-    "LWN"
-   ],
-   "publishedAt": "2026-11-19T17:32:42.000Z",
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "a67e4808fe94",
-   "title": "Internet traffic and attacks during the 2026 U.S. midterm elections",
-   "url": "https://blog.cloudflare.com/internet-traffic-2026-us-election/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-19T14:00:00.000Z",
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
-  },
-  {
-   "id": "04da227b0cee",
-   "title": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
-   "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
-   "sources": [
-    "Pragmatic Engineer"
-   ],
-   "publishedAt": "2026-11-19T17:08:59.000Z",
-   "firstSeenAt": "2026-11-19T18:09:03.932Z"
   }
  ]
 }
