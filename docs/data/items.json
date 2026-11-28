@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T18:48:51.447Z",
+ "generatedAt": "2026-11-28T03:09:32.580Z",
  "items": [
   {
    "id": "14a3cf224a96",
@@ -12,11 +12,45 @@
    "publishedAt": "2026-11-26T20:49:49.000Z",
    "hn": {
     "id": "50659640",
-    "points": 523,
-    "comments": 274
+    "points": 559,
+    "comments": 288
    },
-   "score": 35,
+   "score": 43,
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
+  },
+  {
+   "id": "f809947e587d",
+   "title": "Hard Drive pricing has gotten bad",
+   "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+   "sources": [
+    "Hacker News",
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-27T01:13:49.000Z",
+   "hn": {
+    "id": "50661646",
+    "points": 554,
+    "comments": 474
+   },
+   "firstSeenAt": "2026-11-27T18:48:51.447Z",
+   "score": 38
+  },
+  {
+   "id": "46cd86bf0efb",
+   "title": "The need for a formally verifiable mainstream programming language",
+   "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+   "sources": [
+    "Lobsters",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-26T20:06:50.248Z",
+   "score": 25,
+   "firstSeenAt": "2026-11-27T18:48:51.447Z",
+   "hn": {
+    "id": "50663089",
+    "points": 318,
+    "comments": 300
+   }
   },
   {
    "id": "19dd4641586d",
@@ -29,8 +63,8 @@
    "publishedAt": "2026-11-26T21:47:45.000Z",
    "hn": {
     "id": "50660180",
-    "points": 1007,
-    "comments": 476
+    "points": 1105,
+    "comments": 509
    },
    "firstSeenAt": "2026-11-27T03:32:36.725Z",
    "score": 15
@@ -221,38 +255,123 @@
    }
   },
   {
-   "id": "c4ca83ba5741",
-   "title": "Restricting AI agents in mobile operating systems platforms from capturing data",
-   "url": "https://signal.org/blog/protecting-your-privacy/",
+   "id": "141216104711",
+   "title": "Michael Nielsen took down his book on neural nets",
+   "url": "https://neuralnetworksanddeeplearning.com/",
    "sources": [
-    "Hacker News",
-    "Lobsters"
+    "Hacker News"
    ],
-   "publishedAt": "2026-11-20T09:42:16.000Z",
+   "publishedAt": "2026-11-27T19:31:01.000Z",
    "hn": {
-    "id": "50572348",
-    "points": 571,
-    "comments": 336
+    "id": "50670757",
+    "points": 407,
+    "comments": 267
    },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z",
-   "score": 119
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
   },
   {
-   "id": "f4c47e25e952",
-   "title": "Why there are still no non-WebKit browsers on iOS",
-   "url": "https://blog.mozilla.org/en/mozilla/internet-policy/apple-ios-browser-engine-rules/",
+   "id": "9b67ad13d338",
+   "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+   "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
    "sources": [
-    "Hacker News",
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-27T15:40:31.000Z",
+   "hn": {
+    "id": "50668145",
+    "points": 447,
+    "comments": 233
+   },
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
+  },
+  {
+   "id": "64f11cc42feb",
+   "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+   "url": "https://bouncemarket.minhanhday.com/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-27T15:01:50.000Z",
+   "hn": {
+    "id": "50667726",
+    "points": 333,
+    "comments": 115
+   },
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
+  },
+  {
+   "id": "3b8b3d993078",
+   "title": "US Air Force's cloud computing platform hacked",
+   "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-27T12:54:11.000Z",
+   "hn": {
+    "id": "50666375",
+    "points": 333,
+    "comments": 201
+   },
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
+  },
+  {
+   "id": "c292bca5f413",
+   "title": "Show HN: I wrote an entire Vim manual over 4 years",
+   "url": "http://themouseless.dev/vim/",
+   "sources": [
+    "Hacker News"
+   ],
+   "publishedAt": "2026-11-26T14:44:22.000Z",
+   "hn": {
+    "id": "50655868",
+    "points": 300,
+    "comments": 103
+   },
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
+  },
+  {
+   "id": "1690d17cf31c",
+   "title": "Objections to .php application being published on ICANN site",
+   "url": "https://pub.roddie.digital/3n3aavxi6hc2g",
+   "sources": [
     "Lobsters"
    ],
-   "publishedAt": "2026-11-20T15:03:31.000Z",
-   "hn": {
-    "id": "50575644",
-    "points": 476,
-    "comments": 266
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z",
-   "score": 89
+   "publishedAt": "2026-11-27T18:16:09.126Z",
+   "score": 34,
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
+  },
+  {
+   "id": "5ef3394cea7a",
+   "title": "Why optimistic updates are corrosive",
+   "url": "https://datastar-instant-intent.ndyg.cross.stream/corrosive/",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-27T20:01:50.431Z",
+   "score": 17,
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
+  },
+  {
+   "id": "c27b26bc31c4",
+   "title": "Build your own Paint",
+   "url": "https://www.buildyourownpaint.com/en",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-27T16:22:36.766Z",
+   "score": 16,
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
+  },
+  {
+   "id": "67445b4a47ed",
+   "title": "Pop!_OS 26.04 LTS Has Landed",
+   "url": "https://system76.com/blog/post/pop_os-26-04-lts-has-landed",
+   "sources": [
+    "Lobsters"
+   ],
+   "publishedAt": "2026-11-27T16:42:50.585Z",
+   "score": 12,
+   "firstSeenAt": "2026-11-28T03:09:32.580Z"
   },
   {
    "id": "138e1e18872d",
@@ -264,8 +383,8 @@
    "publishedAt": "2026-11-27T08:28:08.000Z",
    "hn": {
     "id": "50664325",
-    "points": 380,
-    "comments": 191
+    "points": 633,
+    "comments": 290
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
@@ -279,8 +398,8 @@
    "publishedAt": "2026-11-27T06:44:34.000Z",
    "hn": {
     "id": "50663595",
-    "points": 603,
-    "comments": 253
+    "points": 687,
+    "comments": 286
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
@@ -294,23 +413,8 @@
    "publishedAt": "2026-11-27T05:52:42.000Z",
    "hn": {
     "id": "50663261",
-    "points": 303,
-    "comments": 96
-   },
-   "firstSeenAt": "2026-11-27T18:48:51.447Z"
-  },
-  {
-   "id": "f809947e587d",
-   "title": "Hard Drive pricing has gotten bad",
-   "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-27T01:13:49.000Z",
-   "hn": {
-    "id": "50661646",
-    "points": 516,
-    "comments": 445
+    "points": 341,
+    "comments": 108
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
@@ -324,8 +428,8 @@
    "publishedAt": "2026-11-26T21:08:05.000Z",
    "hn": {
     "id": "50659841",
-    "points": 483,
-    "comments": 123
+    "points": 505,
+    "comments": 129
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
@@ -339,8 +443,8 @@
    "publishedAt": "2026-11-26T17:47:45.000Z",
    "hn": {
     "id": "50657645",
-    "points": 327,
-    "comments": 159
+    "points": 335,
+    "comments": 163
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
@@ -354,8 +458,8 @@
    "publishedAt": "2026-11-26T17:36:47.000Z",
    "hn": {
     "id": "50657530",
-    "points": 506,
-    "comments": 611
+    "points": 538,
+    "comments": 660
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
@@ -369,8 +473,8 @@
    "publishedAt": "2026-11-26T09:44:23.000Z",
    "hn": {
     "id": "50653477",
-    "points": 408,
-    "comments": 328
+    "points": 420,
+    "comments": 333
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
@@ -384,8 +488,8 @@
    "publishedAt": "2026-11-26T07:33:12.000Z",
    "hn": {
     "id": "50652527",
-    "points": 353,
-    "comments": 354
+    "points": 356,
+    "comments": 359
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
@@ -399,7 +503,7 @@
    "publishedAt": "2026-11-26T06:32:48.000Z",
    "hn": {
     "id": "50652184",
-    "points": 315,
+    "points": 323,
     "comments": 161
    },
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
@@ -427,7 +531,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-27T09:11:13.547Z",
-   "score": 33,
+   "score": 46,
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
   {
@@ -438,7 +542,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-27T13:23:08.841Z",
-   "score": 10,
+   "score": 16,
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
   {
@@ -449,7 +553,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-27T16:09:11.598Z",
-   "score": 11,
+   "score": 42,
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
   {
@@ -461,17 +565,6 @@
    ],
    "publishedAt": "2026-11-27T08:01:31.196Z",
    "score": 10,
-   "firstSeenAt": "2026-11-27T18:48:51.447Z"
-  },
-  {
-   "id": "46cd86bf0efb",
-   "title": "The need for a formally verifiable mainstream programming language",
-   "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-26T20:06:50.248Z",
-   "score": 21,
    "firstSeenAt": "2026-11-27T18:48:51.447Z"
   },
   {
@@ -495,8 +588,8 @@
    "publishedAt": "2026-11-26T17:16:41.000Z",
    "hn": {
     "id": "50657307",
-    "points": 316,
-    "comments": 191
+    "points": 321,
+    "comments": 195
    },
    "firstSeenAt": "2026-11-27T03:32:36.725Z"
   },
@@ -510,8 +603,8 @@
    "publishedAt": "2026-11-26T17:11:29.000Z",
    "hn": {
     "id": "50657265",
-    "points": 424,
-    "comments": 102
+    "points": 438,
+    "comments": 106
    },
    "firstSeenAt": "2026-11-27T03:32:36.725Z"
   },
@@ -523,7 +616,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-26T19:51:21.378Z",
-   "score": 76,
+   "score": 85,
    "firstSeenAt": "2026-11-27T03:32:36.725Z"
   },
   {
@@ -558,7 +651,7 @@
    "publishedAt": "2026-11-26T14:26:54.000Z",
    "hn": {
     "id": "50655664",
-    "points": 713,
+    "points": 720,
     "comments": 157
    },
    "firstSeenAt": "2026-11-26T18:56:35.162Z"
@@ -573,8 +666,8 @@
    "publishedAt": "2026-11-26T11:50:49.000Z",
    "hn": {
     "id": "50654289",
-    "points": 448,
-    "comments": 231
+    "points": 453,
+    "comments": 235
    },
    "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
@@ -588,8 +681,8 @@
    "publishedAt": "2026-11-26T10:11:01.000Z",
    "hn": {
     "id": "50653667",
-    "points": 571,
-    "comments": 266
+    "points": 587,
+    "comments": 271
    },
    "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
@@ -603,8 +696,8 @@
    "publishedAt": "2026-11-26T03:36:58.000Z",
    "hn": {
     "id": "50651117",
-    "points": 503,
-    "comments": 272
+    "points": 509,
+    "comments": 274
    },
    "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
@@ -676,7 +769,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-26T06:39:00.543Z",
-   "score": 19,
+   "score": 23,
    "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
   {
@@ -687,7 +780,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-26T12:40:23.353Z",
-   "score": 55,
+   "score": 61,
    "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
   {
@@ -720,7 +813,7 @@
     "Lobsters"
    ],
    "publishedAt": "2026-11-26T11:51:23.187Z",
-   "score": 30,
+   "score": 32,
    "firstSeenAt": "2026-11-26T18:56:35.162Z"
   },
   {
@@ -2485,200 +2578,6 @@
     "comments": 36
    },
    "firstSeenAt": "2026-11-21T16:43:33.834Z"
-  },
-  {
-   "id": "a0ebc9ee452b",
-   "title": "Inkling 2 Mini",
-   "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-20T20:12:19.000Z",
-   "hn": {
-    "id": "50581260",
-    "points": 1439,
-    "comments": 290
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "04e4de985797",
-   "title": "Hurried Announcement: Alessandro Masullo GRH",
-   "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-20T18:33:14.000Z",
-   "hn": {
-    "id": "50579568",
-    "points": 2442,
-    "comments": 1192
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "e1a223b73868",
-   "title": "We promoted developers into architects without informing them",
-   "url": "https://manidoraisamy.com/developer-to-architect.html",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-20T18:17:51.000Z",
-   "hn": {
-    "id": "50579331",
-    "points": 605,
-    "comments": 330
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "dc0a65e6fd6d",
-   "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-   "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-20T17:21:36.000Z",
-   "hn": {
-    "id": "50578358",
-    "points": 546,
-    "comments": 243
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "9fe3e937f57a",
-   "title": "Language Models Can Rewrite Their Own Weights",
-   "url": "https://arxiv.org/abs/2611.21885",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-20T16:29:06.000Z",
-   "hn": {
-    "id": "50577265",
-    "points": 478,
-    "comments": 141
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "0fd72439d561",
-   "title": "If you stop writing code, you also get worse at reviewing it",
-   "url": "https://cekrem.github.io/posts/if-you-stop-writing-code-you-also-get-worse-at-reviewing-it/",
-   "sources": [
-    "Hacker News"
-   ],
-   "publishedAt": "2026-11-20T12:41:38.000Z",
-   "hn": {
-    "id": "50573886",
-    "points": 377,
-    "comments": 179
-   },
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "80ebabff1fcc",
-   "title": "Internet Archive Staffers Are Unionizing",
-   "url": "https://cwa-union.org/news/releases/internet-archive-workers-launch-union-campaign-communications-workers-america",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-20T18:39:29.070Z",
-   "score": 90,
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "3a09279070bb",
-   "title": "Alice v0.6.0",
-   "url": "https://www.alicecaml.org/blog/alice-v0-6-0/",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-20T16:44:09.585Z",
-   "score": 27,
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "ec9713717641",
-   "title": "Lisp Game Jam devlog: Polydraw",
-   "url": "https://spritely.institute/news/lisp-game-jam-devlog-polydraw.html",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-20T11:18:47.299Z",
-   "score": 18,
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "f454ea635e39",
-   "title": "Rebuilding my local voice assistant pipeline",
-   "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-   "sources": [
-    "Lobsters"
-   ],
-   "publishedAt": "2026-11-19T19:50:25.512Z",
-   "score": 12,
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "3ea993db7e3c",
-   "title": "Combatting adversarial distillation",
-   "url": "https://openai.com/index/combatting-adversarial-distillation",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-20T10:00:00.000Z",
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "d15c45643214",
-   "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-   "url": "https://openai.com/business/customer-stories/hebbia",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-20T00:00:00.000Z",
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "f4784c304003",
-   "title": "Can AI help scientists identify promising drug candidates?",
-   "url": "https://openai.com/index/introducing-medchembench",
-   "sources": [
-    "OpenAI"
-   ],
-   "publishedAt": "2026-11-20T00:00:00.000Z",
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "f93ea93941f6",
-   "title": "How Cloudflare WAF protects against ruby2shell (CVE-2026-132825)",
-   "url": "https://blog.cloudflare.com/ruby2shell-waf-protection/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-20T20:24:38.000Z",
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "7066f202a884",
-   "title": "How Cloudflare WAF helps protect against phpAfterShell and other critical PHP flaws",
-   "url": "https://blog.cloudflare.com/phpaftershell-waf-protection/",
-   "sources": [
-    "Cloudflare"
-   ],
-   "publishedAt": "2026-11-20T20:00:45.000Z",
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
-  },
-  {
-   "id": "7c0fb66e7725",
-   "title": "Fragments: November 20",
-   "url": "https://martinfowler.com/fragments/2026-11-20.html",
-   "sources": [
-    "Martin Fowler"
-   ],
-   "publishedAt": "2026-11-20T18:38:00.000Z",
-   "firstSeenAt": "2026-11-21T02:01:20.382Z"
   }
  ]
 }
